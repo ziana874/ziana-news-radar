@@ -1,0 +1,122 @@
+[
+  {
+    "category": "world",
+    "name": "BBC World",
+    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "kind": "media"
+  },
+  {
+    "category": "world",
+    "name": "BBC China",
+    "url": "https://feeds.bbci.co.uk/news/world/asia/china/rss.xml",
+    "kind": "media"
+  },
+  {
+    "category": "world",
+    "name": "The Guardian World",
+    "url": "https://www.theguardian.com/world/rss",
+    "kind": "media"
+  },
+  {
+    "category": "world",
+    "name": "中国与世界 · Google 新闻索引",
+    "url": "https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD%20%E6%94%BF%E7%AD%96%20OR%20%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+    "kind": "index"
+  },
+  {
+    "category": "world",
+    "name": "国际要闻 · Google 新闻索引",
+    "url": "https://news.google.com/rss/search?q=%E5%9B%BD%E9%99%85%E6%94%BF%E6%B2%BB%20OR%20%E5%9C%B0%E7%BC%98%E5%86%B2%E7%AA%81&hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+    "kind": "index"
+  },
+  {
+    "category": "tech",
+    "name": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/feed/",
+    "kind": "media"
+  },
+  {
+    "category": "tech",
+    "name": "Ars Technica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index",
+    "kind": "media"
+  },
+  {
+    "category": "tech",
+    "name": "Hacker News 热门",
+    "url": "https://hnrss.org/frontpage?points=100",
+    "kind": "community"
+  },
+  {
+    "category": "tech",
+    "name": "arXiv AI 论文",
+    "url": "https://rss.arxiv.org/rss/cs.AI",
+    "kind": "research"
+  },
+  {
+    "category": "tech",
+    "name": "AI 行业 · Google 新闻索引",
+    "url": "https://news.google.com/rss/search?q=AI%20agent%20OR%20semiconductor%20OR%20robotics%20when%3A3d&hl=zh-CN&gl=US&ceid=US:zh-Hans",
+    "kind": "index"
+  },
+  {
+    "category": "immigration",
+    "name": "加拿大 IRCC 官方新闻",
+    "url": "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&sort=publishedDate&orderBy=desc&publishedDate%3E=2021-07-23&pick=50&format=atom&atomtitle=Immigration,%20Refugees%20and%20Citizenship%20Canada",
+    "kind": "official"
+  },
+  {
+    "category": "immigration",
+    "name": "澳洲移民官网 · Google 索引",
+    "url": "https://news.google.com/rss/search?q=site%3Aimmi.homeaffairs.gov.au%20visa%20OR%20migration%20when%3A14d&hl=en-AU&gl=AU&ceid=AU:en",
+    "kind": "index"
+  },
+  {
+    "category": "immigration",
+    "name": "新西兰移民官网 · Google 索引",
+    "url": "https://news.google.com/rss/search?q=site%3Aimmigration.govt.nz%20visa%20OR%20residence%20when%3A14d&hl=en-NZ&gl=NZ&ceid=NZ:en",
+    "kind": "index"
+  },
+  {
+    "category": "immigration",
+    "name": "香港入境事务处 · Google 索引",
+    "url": "https://news.google.com/rss/search?q=site%3Aimmd.gov.hk%20%E7%B0%BD%E8%AD%89%20OR%20%E4%BA%BA%E6%89%8D%20when%3A30d&hl=zh-HK&gl=HK&ceid=HK:zh-Hant",
+    "kind": "index"
+  },
+  {
+    "category": "immigration",
+    "name": "英国移民政策 · Google 索引",
+    "url": "https://news.google.com/rss/search?q=site%3Agov.uk%20immigration%20rules%20skilled%20worker%20when%3A14d&hl=en-GB&gl=GB&ceid=GB:en",
+    "kind": "index"
+  },
+  {
+    "category": "investing",
+    "name": "美国美联储官方公告",
+    "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+    "kind": "official"
+  },
+  {
+    "category": "investing",
+    "name": "Cointelegraph",
+    "url": "https://cointelegraph.com/rss",
+    "kind": "media"
+  },
+  {
+    "category": "investing",
+    "name": "CoinDesk",
+    "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "kind": "media"
+  },
+  {
+    "category": "investing",
+    "name": "纳指与标普 · Google 新闻索引",
+    "url": "https://news.google.com/rss/search?q=Nasdaq%20OR%20S%26P%20500%20OR%20ETF%20when%3A3d&hl=zh-CN&gl=US&ceid=US:zh-Hans",
+    "kind": "index"
+  },
+  {
+    "category": "investing",
+    "name": "Web3 监管 · Google 新闻索引",
+    "url": "https://news.google.com/rss/search?q=stablecoin%20OR%20DeFi%20OR%20bitcoin%20regulation%20when%3A7d&hl=zh-CN&gl=US&ceid=US:zh-Hans",
+    "kind": "index"
+  }
+]
