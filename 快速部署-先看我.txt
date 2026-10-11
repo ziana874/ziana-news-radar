@@ -1,0 +1,20 @@
+Ziana News Radar · 第一次使用
+
+仓库：https://github.com/ziana874/ziana-news-radar
+
+已完成：四频道网页、20个新闻源、自动采集程序、离线测试与 GitHub Actions 工作流。
+
+唯一必须的发布配置：
+1. 打开 https://github.com/ziana874/ziana-news-radar/settings/pages
+2. 在 Build and deployment 的 Source 选择 GitHub Actions
+3. 打开 https://github.com/ziana874/ziana-news-radar/actions/workflows/news.yml
+4. Run workflow → Run workflow，确认完整执行成功
+5. 部署成功后访问 https://ziana874.github.io/ziana-news-radar/
+
+每天中文摘要和 iPhone 通知：
+- GitHub Actions Secrets 中配置 GEMINI_API_KEY，才能让英文 RSS 自动转成中文摘要。
+- iPhone 安装 ntfy，订阅随机主题；仓库 Actions Secrets 配置相同的 NTFY_TOPIC，才能收到每日推送。
+- 不设置以上任何密钥时，基础新闻采集及英文/中文原文网站仍能运行。
+- GitHub 定时任务不保证绝对准点，主要是每天大约每6小时采集一次，早上约8:17推送。
+
+如果看见仓库 Actions 采集成功但网页404，说明 Pages 没有启用。修改后重新运行。
