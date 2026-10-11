@@ -1,0 +1,65 @@
+name: 新闻雷达 · 自动采集与发布
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "docs/data.json"
+  schedule:
+    # 北京/台北时间约 08:17、14:17、20:17、02:17 采集
+    - cron: '17 0 * * *'
+    - cron: '17 6 * * *'
+    - cron: '17 12 * * *'
+    - cron: '17 18 * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: news-radar-publish
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+      - name: 离线测试
+        run: python -m unittest discover -s tests -v
+      - name: 抓取、筛选并生成网站数据
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash-lite' }}
+        run: python src/update.py
+      - name: 保存最近新闻数据
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update news data"
+            git push
+          fi
+      - name: 配置 GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: 上传网页
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - name: 发布网页
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: 每日新闻推送（网页成功发布后）
+        if: ${{ github.event.schedule == '17 0 * * *' }}
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          PUBLIC_SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+          SEND_PUSH: 'true'
+        run: python src/update.py --push-only
