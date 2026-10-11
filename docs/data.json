@@ -1,0 +1,20 @@
+{
+  "generated_at": null,
+  "is_demo": false,
+  "items": [],
+  "digests": {
+    "world": [],
+    "tech": [],
+    "immigration": [],
+    "investing": []
+  },
+  "ai": {
+    "enabled": false,
+    "succeeded": false
+  },
+  "health": {
+    "ok": 0,
+    "failed": 0,
+    "sources": []
+  }
+}
