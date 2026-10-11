@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:33:23.847567Z",
+  "generated_at": "2026-10-11T15:34:09.724057Z",
   "is_demo": false,
   "items": [
     {
@@ -67,6 +67,40 @@
       "published_at": "2026-10-10T15:50:00Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "15b4b4b5fa4c87a3",
+      "category": "investing",
+      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+      "source": "美国美联储官方公告",
+      "source_kind": "official",
+      "published_at": "2026-10-09T14:00:00Z",
+      "first_seen": "2026-10-11T15:34:09.724057Z",
+      "score": 9,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "e95750d1b74189d7",
+      "category": "investing",
+      "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money launde",
+      "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+      "source": "美国美联储官方公告",
+      "source_kind": "official",
+      "published_at": "2026-10-08T20:30:00Z",
+      "first_seen": "2026-10-11T15:34:09.724057Z",
+      "score": 9,
       "ai_generated": false,
       "policy_status": null
     },
@@ -948,7 +982,7 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUJQYy1Tdkl0U1hoTnh3M2RvaVpkYVFOYWVEWHFXZjZwYzR6dElWVVFPNWo2TWhMVkdGc2dKeWd6OXlQdWVkNTBEZDRSMlpGMjZwSHQ3dGd6c004MGpjbjBCNXphNlI4RWVCNjY5aW1MczNJTXV5QW9nMDJhcENIOGVyNl9OVnMzQ2VGeVFPaGc3RjFydXMwYUJOaFhHdnJnT2JiWTBfbw?oc=5",
       "source": "AI 行业 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-11T08:10:43Z",
+      "published_at": "2026-10-11T08:35:26Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 6,
       "ai_generated": false,
@@ -1363,6 +1397,23 @@
       "policy_status": null
     },
     {
+      "id": "319b4d7a86ec68db",
+      "category": "investing",
+      "title": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus - Yahoo Finance",
+      "summary": "S&P 500, Nasdaq 100, Dow End Week Higher With Traders Eyeing Earnings Season — MSFT, NFLX, SPCX, ASTS In Focus Yahoo Finance",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOVJIRWMyVjcxeXo1b3l0RWRrcF8xd3BJTE9LR1QyT1VIZGJDbUxCTC12d1dNaU5Mcm5SQXJLZXBQN3pPN1Z6cHhTZWtFWTIyRkVHTGdlT3QzaFp3R29VYVRFeTZTUjlmcFdIU1VqMy1Ma0RfTHQ2ZnpuQm5MNzliTU9qSmdidnhPMEptNmZ3?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-09T22:53:11Z",
+      "first_seen": "2026-10-11T15:34:09.724057Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "d587fa318b28c3aa",
       "category": "tech",
       "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
@@ -1425,57 +1476,6 @@
       "source": "Cointelegraph",
       "source_kind": "media",
       "published_at": "2026-10-09T17:02:47Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "cac8d103da67e83d",
-      "category": "investing",
-      "title": "I've Owned the Vanguard S&P 500 ETF for 6 Years. Here's Why I'm Not Selling. - The Motley Fool",
-      "summary": "I've Owned the Vanguard S&P 500 ETF for 6 Years. Here's Why I'm Not Selling. The Motley Fool",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaFlPb2doR01jM0J5OHhBY3JzVFVQalNxQjlYUDlkenZ3V1lCdnhLdE5NM19STlh5RkU5cVNmRGJzTVdMMzVxLVJzcmdKS2E3bW9GbW1aeC1jdmpvdkoxcnYxUDBObXI2aGFlZzE3eDhqWXBjZ0Z2cHVfVGZiTmdTSGNualdSaWJDMWN6NnRPN1lpa0NEcTVIbA?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-09T17:00:00Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "e0ef90ed64e2ae52",
-      "category": "investing",
-      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
-      "summary": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred stock buybacks.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-10-09T15:51:53Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "f1bdc7fba7264c48",
-      "category": "investing",
-      "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
-      "summary": "Bitcoin and crypto markets eyed a recovery from Thursday’s drop despite concerns of another hardware wallet exploit.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-10-09T15:20:36Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 6,
       "ai_generated": false,
@@ -2366,18 +2366,18 @@
       "policy_status": "待核验"
     },
     {
-      "id": "3ac3fe70b3ec08c6",
+      "id": "169cfa71f72c726c",
       "category": "immigration",
-      "title": "2026年10月1日 | 出入境人次統計數字| 入境事務處 - Immigration Department",
-      "summary": "2026年10月1日 | 出入境人次統計數字| 入境事務處 Immigration Department",
+      "title": "INZ 1207 Parent Category Guide - Immigration New Zealand",
+      "summary": "INZ 1207 Parent Category Guide Immigration New Zealand",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqRHNxYW05cUlVTnMyZUJkMFpCTEUwekxFQlNPQ0hjUFZsVThIa3l3YW1YRDZVWVNVXzN5Z21hY0hMTHVSWG93dWs3U1NtNlFfaXhBTmlidDZEeDltWXZUbGgzUDdUNkVWZUJHMXJMcGkwRUQ0YXo2RDZ3?oc=5",
-      "source": "香港入境事务处 · Google 索引",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2VXTlV4Sm1relBQckdnZ3RDWDYzUWRzbHRIRV96X18xbHkyNkxIbEl2Mkg2bWptNUticzVtaHVMcXJ1U0wwVzh1bjRmVzJTMVctcGVmaE5JbnpXLWFsNGZlLTdpZm0zS3ktcVM4aVplTlZzYm5ZUUw3NWt2WTdNemhtVmZKQmV2U09SWkRUSUdUY3hLYnRwSV9nVm1qR0lBam12dTRUcw?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
       "source_kind": "index",
       "published_at": "2026-10-01T07:00:00Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "first_seen": "2026-10-11T15:34:09.724057Z",
       "score": 3,
       "ai_generated": false,
       "policy_status": "待核验"
@@ -2405,8 +2405,8 @@
     "investing": [
       "b431ea497743c593",
       "67b8328048e505c2",
-      "6c5c24a25ef8d448",
-      "7b92780efe8b246c"
+      "15b4b4b5fa4c87a3",
+      "e95750d1b74189d7"
     ]
   },
   "ai": {
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 18,
-    "failed": 2,
+    "ok": 19,
+    "failed": 1,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2440,7 +2440,7 @@
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 4
+        "items": 5
       },
       {
         "name": "香港入境事务处 · Google 索引",
@@ -2475,9 +2475,8 @@
       {
         "name": "美国美联储官方公告",
         "category": "investing",
-        "ok": false,
-        "items": 0,
-        "error": "404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_all.xml"
+        "ok": true,
+        "items": 4
       },
       {
         "name": "AI 行业 · Google 新闻索引",
