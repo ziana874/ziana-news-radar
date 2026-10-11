@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:34:09.724057Z",
+  "generated_at": "2026-10-11T15:36:17.381435Z",
   "is_demo": false,
   "items": [
     {
@@ -734,6 +734,23 @@
       "policy_status": null
     },
     {
+      "id": "83e8d9095ea27df0",
+      "category": "tech",
+      "title": "AI is automating coding. So why are software developer job postings on the rise? - CNBC",
+      "summary": "AI is automating coding. So why are software developer job postings on the rise? CNBC",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zWmpNUmZ6eHpoU0RQR1oxTTAxM3d5ZEs1MGtHb0tYeFB3NTJZeTc4Sm9fV0QzY3MxclJlZ3hDM0M5VGFESURpaDliQ3lmMnhwdjB3U3JVblJLejBhQUkwM29fTU9uM25UMnBDc0NmWTRKcEhNNVHSAXZBVV95cUxPc1pqTVJmenh6aFNEUEdaMU0wMTN3eWRLNTBrR29LWHhQdzUyWXk3OEpvX1dEM2NzMXJSZWd4QzNDOVRhRElEaWg5YkN5ZjJ4cHYwd1NyVW5SS3owYUFJMDNvX01PbjNuVDJwQ3NDZlk0SnBITTVR?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-11T13:30:01Z",
+      "first_seen": "2026-10-11T15:36:17.381435Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "adbc6606e5d115a1",
       "category": "world",
       "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy",
@@ -1295,23 +1312,6 @@
       "policy_status": null
     },
     {
-      "id": "6ed4b8b2edba866c",
-      "category": "tech",
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't - The Hacker News",
-      "summary": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't The Hacker News",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pam5kRzV0WWs0c3l2VXNkNUJLX0dNaENkc05ScXUzNlZ1cXFjOGFXeGpKWlAwSzBRV1NQLUsxV3gwcVJzZFV1VkwzU2c0WWJDdDNQRGw4dUlzLXM4dEJUUVhOTGR5bEFMeDREZ2QxMF9lM0t6RFgwYmJ5WGw?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-10T11:00:00Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "db8104c06c85d695",
       "category": "investing",
       "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
@@ -1322,6 +1322,23 @@
       "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
       "source": "CoinDesk",
       "source_kind": "media",
+      "published_at": "2026-10-10T11:00:00Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "6ed4b8b2edba866c",
+      "category": "tech",
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't - The Hacker News",
+      "summary": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't The Hacker News",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pam5kRzV0WWs0c3l2VXNkNUJLX0dNaENkc05ScXUzNlZ1cXFjOGFXeGpKWlAwSzBRV1NQLUsxV3gwcVJzZFV1VkwzU2c0WWJDdDNQRGw4dUlzLXM4dEJUUVhOTGR5bEFMeDREZ2QxMF9lM0t6RFgwYmJ5WGw?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
       "published_at": "2026-10-10T11:00:00Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 6,
@@ -1578,23 +1595,6 @@
       "source": "MIT Technology Review",
       "source_kind": "media",
       "published_at": "2026-10-09T09:00:00Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "a02ec0d12a193ce9",
-      "category": "tech",
-      "title": "My personal AI agent posted my bank details on company Slack. It's made me rethink how I use it. - Business Insider",
-      "summary": "My personal AI agent posted my bank details on company Slack. It's made me rethink how I use it. Business Insider",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTUx5enR5UDhvYXpOaEJhX0VpcEowMXBQNlpWWTdzdWRNMTlfbEpLQV9HN3AxcVZWYTk2WVZ5SDR0RVZPbWRQUjRxSXFXRmlOS2xnako3bm9qWEJ1WDJHYm1sQTcxQ2ZvYkNfSEJEMVEyWGdOSEhyTjAtekFoRzJ5Y2EtV3NncjM3c2kwamRuU2tQczVlRnlvdjhMLXZMZkxaSlE?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-09T08:43:00Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 6,
       "ai_generated": false,
@@ -2440,7 +2440,7 @@
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 5
+        "items": 4
       },
       {
         "name": "香港入境事务处 · Google 索引",
