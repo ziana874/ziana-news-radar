@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#10202a">
+  <meta name="description" content="世界与中国、AI与科技、全球移民、投资与Web3，四频道个人新闻雷达">
+  <title>Ziana · 全球新闻雷达</title>
+  <style>
+    :root{color-scheme:light;--bg:#f5f6f3;--fg:#10202a;--muted:#66757b;--card:#fff;--line:#dde3e2;--accent:#007f73;--soft:#e8f5f2;--tag:#edf2f1}
+    @media(prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#10171c;--fg:#ecf4f4;--muted:#9baaaa;--card:#19242a;--line:#34454a;--accent:#71cabc;--soft:#183a36;--tag:#26383d}}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--fg);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"PingFang SC","Microsoft Yahei",sans-serif;font-size:17px;line-height:1.55}
+    a{color:inherit}button,input{font:inherit}button{cursor:pointer}button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+    .wrap{max-width:1020px;margin:auto;padding:24px 20px 80px}
+    .top{display:flex;gap:20px;align-items:flex-start;justify-content:space-between}.eyebrow{color:var(--accent);letter-spacing:.15em;text-transform:uppercase;font-size:12px;font-weight:800;margin-bottom:7px}h1{font-size:clamp(27px,4vw,40px);line-height:1.18;letter-spacing:-.03em;margin:0 0 10px}h2{font-size:20px;margin:0}
+    .lead{margin:0;color:var(--muted);font-size:15px}.updated{font-size:13px;color:var(--muted);margin:10px 0}.live{border:1px solid var(--line);border-radius:50px;padding:6px 11px;white-space:nowrap;font-weight:650;font-size:12px}
+    .summary{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px 20px;margin-top:26px;display:flex;gap:15px;align-items:center;justify-content:space-between;flex-wrap:wrap}
+    .summary strong{font-size:15px}.summary p{font-size:13px;color:var(--muted);margin:4px 0 0}.summary .pill{font-size:12px;background:var(--tag);padding:6px 10px;border-radius:30px}
+    .channels{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin:24px 0 22px}.channel{border:1px solid var(--line);background:var(--card);border-radius:15px;text-align:left;padding:16px 12px;min-height:92px;color:var(--fg);transition:.18s}.channel[aria-pressed="true"]{background:var(--soft);border-color:var(--accent)}
+    .channel span{display:block;font-size:13px;color:var(--muted);margin-top:6px}.channel b{font-size:17px}.tools{display:flex;gap:10px;justify-content:space-between;align-items:center;margin-bottom:18px;flex-wrap:wrap}.search{width:min(100%,330px);padding:11px 14px;border:1px solid var(--line);background:var(--card);color:var(--fg);border-radius:11px}.toggles{display:flex;gap:6px}.toggles button{background:var(--card);border:1px solid var(--line);border-radius:9px;padding:9px 11px;color:var(--fg);font-size:13px}.toggles button[aria-pressed="true"]{background:var(--soft);border-color:var(--accent)}
+    .sectionhead{display:flex;justify-content:space-between;align-items:flex-end;margin:25px 0 12px;gap:10px}.sectionhead p{margin:4px 0 0;color:var(--muted);font-size:13px}
+    .story{padding:19px 20px;margin:10px 0;border-radius:15px;border:1px solid var(--line);background:var(--card)}.storytitle{display:block;font-weight:750;font-size:18px;line-height:1.42;text-decoration:none}.storytitle:hover{color:var(--accent)}.storymeta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:10px 0 11px;color:var(--muted);font-size:12px}.dot::before{content:'·';margin-right:8px}
+    .tag{background:var(--tag);padding:2px 7px;border-radius:5px;font-size:12px;color:var(--muted)}.desc{font-size:14px;line-height:1.75;white-space:pre-line;margin:0;color:var(--fg)}.why{font-size:13px;color:var(--accent);margin:9px 0 0}.cardbottom{display:flex;justify-content:space-between;align-items:center;margin-top:12px;gap:9px}.origin{font-size:12px;color:var(--muted)}.save{color:var(--muted);background:none;border:1px solid var(--line);border-radius:8px;padding:5px 10px;font-size:12px}.save.saved{color:var(--accent);border-color:var(--accent)}
+    .empty{padding:44px 22px;text-align:center;border:1px dashed var(--line);border-radius:15px;color:var(--muted)}.empty b{display:block;color:var(--fg);margin-bottom:6px}.foot{border-top:1px solid var(--line);padding-top:18px;margin-top:34px;color:var(--muted);font-size:12px;line-height:1.8}
+    .notice{padding:12px 14px;margin-top:13px;border:1px solid var(--line);color:var(--muted);border-radius:10px;font-size:13px}
+    @media(max-width:640px){body{font-size:17px}.wrap{padding:22px 14px 65px}.channels{grid-template-columns:repeat(2,1fr)}.channel{min-height:86px;padding:14px}.story{padding:17px 16px}.top{align-items:start}.live{font-size:11px}.tools{flex-direction:column;align-items:stretch}.search{max-width:none;width:100%}.toggles{justify-content:flex-end}.storytitle{font-size:18px}}
+  </style>
+</head>
+<body>
+<main class="wrap">
+  <header class="top">
+    <div><div class="eyebrow">Ziana · Intelligence Brief</div><h1>全球新闻雷达</h1><p class="lead">只保留值得看的变化。四个频道，一份中文情报。</p><div class="updated" id="updated">正在读取最新数据…</div></div>
+    <div id="live" class="live">自动更新</div>
+  </header>
+  <section class="summary" aria-label="新闻状态"><div><strong id="brief">今天有什么值得关注？</strong><p id="aiStatus">标题和概要均标注来源；AI 仅辅助整理，不代替核实</p></div><span class="pill" id="count">0 条收录</span></section>
+  <nav class="channels" aria-label="新闻类别">
+    <button class="channel" data-cat="world" aria-pressed="true"><b>🌍 世界 + 中国</b><span id="n-world">— 条</span></button>
+    <button class="channel" data-cat="tech" aria-pressed="false"><b>🤖 AI + 科技</b><span id="n-tech">— 条</span></button>
+    <button class="channel" data-cat="immigration" aria-pressed="false"><b>🛂 全球移民</b><span id="n-immigration">— 条</span></button>
+    <button class="channel" data-cat="investing" aria-pressed="false"><b>📈 投资 + Web3</b><span id="n-investing">— 条</span></button>
+  </nav>
+  <div class="tools"><input id="search" class="search" type="search" placeholder="搜索关键词、主题或来源" aria-label="搜索新闻"><div class="toggles"><button id="important" aria-pressed="true">重点优先</button><button id="latest" aria-pressed="false">最新优先</button><button id="saved" aria-pressed="false">★ 我的收藏</button></div></div>
+  <div class="sectionhead"><div><h2 id="sectionTitle">世界 + 中国</h2><p id="sectionDesc">按价值排序，中文摘要标注 AI 状态</p></div><small id="filteredCount"></small></div>
+  <section id="stories" aria-live="polite"><div class="empty"><b>读取中</b>正在加载 RSS 聚合数据。</div></section>
+  <div class="notice">核验提示：本站只根据 RSS 标题和摘要整理。特别是移民政策，以官网完整公告与生效条款为准；投资内容不是投资建议。Google 新闻索引不等于官方确认。</div>
+  <footer class="foot"><span id="sourceState">数据源状态读取中</span><br>四个频道 · GitHub Actions 定时采集 · GitHub Pages 静态发布 · 无广告、无登录、无追踪脚本。</footer>
+</main>
+<script>
+'use strict';
+const TITLES={world:'世界 + 中国',tech:'AI + 科技',immigration:'全球移民',investing:'投资 + Web3'};
+const DESCS={world:'国际重大事件、中国新闻、经济与政策',tech:'AI、大模型、机器人、芯片与科研前沿',immigration:'澳新、香港、欧洲、加拿大政策变化；优先官方',investing:'宏观市场、ETF、利率、加密资产与 Web3'};
+let state={data:null,cat:'world',order:'important',query:'',saved:false};
+let bookmarks=new Set();
+try{bookmarks=new Set(JSON.parse(localStorage.getItem('ziana-saved-v1')||'[]'));}catch(_e){}
+const $=id=>document.getElementById(id);
+function el(name,className,content){const node=document.createElement(name);if(className)node.className=className;if(content!==undefined)node.textContent=content;return node;}
+function datetimeLabel(str){if(!str)return '日期未提供';const d=new Date(str);return isNaN(d.getTime())?'日期未提供':d.toLocaleString('zh-CN',{timeZone:'Asia/Shanghai',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hour12:false});}
+function preserveBookmarks(){try{localStorage.setItem('ziana-saved-v1',JSON.stringify([...bookmarks]));}catch(_e){}}
+function itemNode(i){
+  const article=el('article','story');
+  const link=el('a','storytitle',i.title_zh||i.title||'无标题');link.href=i.url;link.target='_blank';link.rel='noopener noreferrer nofollow';article.appendChild(link);
+  const meta=el('div','storymeta');
+  meta.append(el('span','',i.source||'来源未知'),el('span','dot',datetimeLabel(i.published_at)));
+  if(i.source_kind==='official')meta.append(el('span','tag','官方来源'));
+  else if(i.source_kind==='index')meta.append(el('span','tag','新闻索引·待核验'));
+  if(i.ai_generated)meta.append(el('span','tag','AI 摘要'));
+  if(i.category==='immigration')meta.append(el('span','tag','政策状态待核验'));
+  article.appendChild(meta);
+  if(i.summary_zh||i.summary){const desc=el('p','desc',i.summary_zh||i.summary);article.appendChild(desc);}
+  if(i.why_zh)article.appendChild(el('p','why','值得关注：'+i.why_zh));
+  const bottom=el('div','cardbottom');bottom.appendChild(el('span','origin',i.ai_generated?'AI 据标题/RSS 摘要整理，需查看原文':'原始新闻标题/RSS 摘要，未经过 AI 翻译'));
+  const save=el('button','save'+(bookmarks.has(i.id)?' saved':''),bookmarks.has(i.id)?'★ 已收藏':'☆ 收藏');
+  save.type='button';save.onclick=()=>{bookmarks.has(i.id)?bookmarks.delete(i.id):bookmarks.add(i.id);preserveBookmarks();render();};bottom.appendChild(save);article.appendChild(bottom);return article;
+}
+function render(){
+  const all=(state.data&&state.data.items)||[];
+  for(const cat of Object.keys(TITLES)){$('n-'+cat).textContent=all.filter(x=>x.category===cat).length+' 条';document.querySelector('[data-cat="'+cat+'"]').setAttribute('aria-pressed',String(state.cat===cat));}
+  $('count').textContent=all.length+' 条收录';$('sectionTitle').textContent=TITLES[state.cat];$('sectionDesc').textContent=DESCS[state.cat];
+  $('important').setAttribute('aria-pressed',String(state.order==='important'));
+  $('latest').setAttribute('aria-pressed',String(state.order==='latest'));
+  $('saved').setAttribute('aria-pressed',String(state.saved));
+  const q=state.query.trim().toLowerCase();
+  const filtered=all.filter(i=>i.category===state.cat&&(!state.saved||bookmarks.has(i.id))&&(!q||[i.title_zh,i.title,i.summary_zh,i.summary,i.source].some(x=>String(x||'').toLowerCase().includes(q))));
+  filtered.sort((a,b)=>state.order==='latest'?(new Date(b.published_at||b.first_seen||0)-new Date(a.published_at||a.first_seen||0)):((b.score||0)-(a.score||0)));
+  $('filteredCount').textContent=filtered.length+' 条';$('stories').replaceChildren();
+  if(!filtered.length){const blank=el('div','empty');blank.append(el('b','',all.length?'这里暂时没有符合条件的新闻':'尚无实时新闻'),el('span','',all.length?'换个频道或清空搜索条件试试。':'需要先运行 GitHub Actions 完成首次新闻采集。'));$('stories').append(blank);}
+  else filtered.forEach(i=>$('stories').append(itemNode(i)));
+  const h=state.data?.health||{};$('sourceState').textContent='来源状态：'+(h.ok||0)+' 个成功、'+(h.failed||0)+' 个失败；来源可能受地区访问或限流影响。';
+  const ai=state.data?.ai||{}; $('aiStatus').textContent=ai.succeeded?'已生成部分 AI 中文概要；请以原文核对事实':ai.enabled?'AI 已配置，但本轮未生成中文摘要；仍可阅读原文':'未设置 AI Key；英语来源仍显示原文，中文来源正常显示';
+  if(state.data?.generated_at){$('updated').textContent='上次采集：'+new Date(state.data.generated_at).toLocaleString('zh-CN',{timeZone:'Asia/Shanghai',hour12:false})+'（北京时间）';}else{$('updated').textContent='首次新闻采集尚未完成';}
+  $('brief').textContent=all.length?'按主题过滤信息噪声，阅读原文核实重要结论':'新闻系统已就绪，等待首次数据采集';
+}
+document.querySelectorAll('[data-cat]').forEach(b=>b.addEventListener('click',()=>{state.cat=b.dataset.cat;render();window.scrollTo({top:150,behavior:'smooth'});}));
+$('search').addEventListener('input',e=>{state.query=e.target.value;render();});
+$('important').onclick=()=>{state.order='important';render();};$('latest').onclick=()=>{state.order='latest';render();};$('saved').onclick=()=>{state.saved=!state.saved;render();};
+fetch('./data.json?ts='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json();}).then(data=>{state.data=data;render();}).catch(()=>{$('updated').textContent='数据暂时无法读取';$('stories').replaceChildren(el('div','empty','读取失败：请确认已启用 GitHub Pages，且已运行采集工作流。'));$('sourceState').textContent='静态页面可用；尚未读取到可用的 data.json';});
+</script>
+</body>
+</html>
