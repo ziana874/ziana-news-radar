@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:18:44.406522Z",
+  "generated_at": "2026-10-13T00:48:04.977941Z",
   "is_demo": false,
   "items": [
     {
@@ -37,6 +37,40 @@
       "policy_status": "待核验"
     },
     {
+      "id": "74542a2df4390dcb",
+      "category": "tech",
+      "title": "Meta releases Muse Wonder AI models built to run personal and professional agents - SiliconANGLE",
+      "summary": "Meta releases Muse Wonder AI models built to run personal and professional agents SiliconANGLE",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlVkNlc4eGhYZVFmRHNsYVZjdVF2LU9rd0dqUnBPNmV2MXNDTUlpZ0xlMW14SW1kQ2R0NG83RU44blBFWE1xWnZUVEg3ZmI5Z1d1TUtXUFBfMDNKVi1DeDVXRXlWMlE4RzRDaDlMQ1pqVnF6OEQ0OFdQalpOODNYRHpMTlRxdzBJVTh6WkM3X09yTF9GQXVCOGY2cXpERDhHeDJmMkFzcWNpcjdjV0h4aW1fREpRWks5QUE?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-12T22:36:00Z",
+      "first_seen": "2026-10-13T00:48:04.977941Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "1950a6eafc69d45a",
+      "category": "tech",
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+      "source": "Ars Technica",
+      "source_kind": "media",
+      "published_at": "2026-10-12T20:59:50Z",
+      "first_seen": "2026-10-13T00:48:04.977941Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "e434befa445d91b8",
       "category": "tech",
       "title": "Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ",
@@ -57,7 +91,7 @@
       "id": "048fcb30e5f3e85f",
       "category": "tech",
       "title": "AI coding agents generate more code, but not more software",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 218 # Comments: 187",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/ Comments URL: https://news.ycombinator.com/item?id=50059523 Points: 303 # Comments: 263",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -377,6 +411,74 @@
       "policy_status": null
     },
     {
+      "id": "e7b29b3b9a97d44f",
+      "category": "tech",
+      "title": "Meta Launches Muse Wonder AI Models to Play Catch-Up With Rivals - CNET",
+      "summary": "Meta Launches Muse Wonder AI Models to Play Catch-Up With Rivals CNET",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1Y0UFdHdXdYYkstX3lYcmRKUUxESnh5cEx1Y0p3ZlgxM0ZoR3N0eEExNWZqaEZGVzYwb1VIRVM4NTdMeDdGazRlUUR6dGl4SWNLUHNIOUxoZGZERThIaDlTRi04WXZPT3Fqc3owNGNVanlWTTZvVTBmTEtQbFVNZjJyVnNSQQ?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-12T22:55:13Z",
+      "first_seen": "2026-10-13T00:48:04.977941Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "96eaca2f20b5cb84",
+      "category": "investing",
+      "title": "JEPQ Pays 11.27%. This Lesser-Known Nasdaq ETF Is Paying 13.58% Monthly - Yahoo Finance",
+      "summary": "JEPQ Pays 11.27%. This Lesser-Known Nasdaq ETF Is Paying 13.58% Monthly Yahoo Finance",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcnUtQmd2ME5NaGx6ZnF3WlVRek5DbmMyall6ellzNEpSNzRaalQxb3pUcTA1OHVBQzQ0UzlZcGRub3hOV0wwMzNhdHBHZy1TdFJZVWhzTmlaTDBQQkhWVm9FZzhCQVE5ZktxYWQ0VE42czhoQkNZRUtfc1dUMVRYcklhdERLV1k1SjlZOERYeFY?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-12T22:03:37Z",
+      "first_seen": "2026-10-13T00:48:04.977941Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "c7dfbe6c21416a1b",
+      "category": "immigration",
+      "title": "Simpler accommodation standards coming for RSE employers - Immigration New Zealand",
+      "summary": "Simpler accommodation standards coming for RSE employers Immigration New Zealand",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUVJOZzEzMEJvTDJ0ZUFLWGE3dU1mX0xEN3FINWV4eDZFLU93QVZ3RUhVWU1hakVpaWpVVl90OEIwc0N1YTF0VEQ3cXJGTjVERVUwc3Zqd3VSSkFmeURhaGdNUlNpY2RGbUdIOEtyc2EzZjc0d0o2Y3FiRzFlUmlTOUt3TTFjU2pNZ1JrTlo3Skp0YlBZZUNUcmNMMEJXQ3Fpc1lvVm1ZX0hfZGlLbGtF?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-10-12T21:41:32Z",
+      "first_seen": "2026-10-13T00:48:04.977941Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
+      "id": "9202dbf6eedd440b",
+      "category": "tech",
+      "title": "AI is a tool and using it well takes skill",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 198 # Comments: 184",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool",
+      "source": "Hacker News 热门",
+      "source_kind": "community",
+      "published_at": "2026-10-12T21:40:18Z",
+      "first_seen": "2026-10-13T00:48:04.977941Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "ec064d3e5874e7a9",
       "category": "tech",
       "title": "Our AI Agent Picked Render Over Railway and Vercel. I’d Barely Heard of It. That’s How You Get Leads in The Agent Age. - saastr.com",
@@ -389,6 +491,23 @@
       "source_kind": "index",
       "published_at": "2026-10-12T21:10:40Z",
       "first_seen": "2026-10-12T21:18:44.406522Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "d99443002463e042",
+      "category": "investing",
+      "title": "S&P 500, Nasdaq 100 End Lower On Chipmaker Weakness, While Salesforce Gains Aid Dow — META, MSFT, BMBL, CRM, SNAP In Focus - Stocktwits",
+      "summary": "S&P 500, Nasdaq 100 End Lower On Chipmaker Weakness, While Salesforce Gains Aid Dow — META, MSFT, BMBL, CRM, SNAP In Focus Stocktwits",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVR5NWRnNTBieFhCRlFpSERINFlXTGw2RWpaRHYtMVlCcTlvUXpKZU45YmRPQzYxSFZTQkpvb1l3VzdIeGQ0WThYZzdta2p0SFA5Y01vRU41dFc2aWFwSlZESDg0d2RYQkxCenBsNlRrbkdDaUt5dGhpR0ZMTFhJQ2dsWEVITlFfdzh6em5FSjYzcVNDM3dJLVZjeG9IaWFyWGw2Q05jMGpNbEZwWE9BQVBLYVhTQm1uV0E?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-12T21:03:05Z",
+      "first_seen": "2026-10-13T00:48:04.977941Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -439,6 +558,23 @@
       "source": "AI 行业 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-10-12T19:23:33Z",
+      "first_seen": "2026-10-12T21:18:44.406522Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "e094d6633e823910",
+      "category": "investing",
+      "title": "BTIG sees S&P 500 ETF stock volume hit 22-year low on quiet calendar - Investing.com",
+      "summary": "BTIG sees S&P 500 ETF stock volume hit 22-year low on quiet calendar Investing.com",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTFOaElvSDJJU1BpTkFLN0RTNzdCWHZaQ2liX2FILUhFTWMxVUpaclRIUW5mdHMteGxSRWFTNzhkUE5wbGtGbmU1LXRQRkREUmtBVXBjVkhMOHBmbGRMWUxKdG11T2J2QjJIUk9rZE9tSTdnSWtYUjVNLUJWZlFNNjQzTkhQVzRoMEthTklOX2dCdi1lNjEwT1FGN3JlYzc1RUhSR191Ykc1a0NqTzRTSHQtWjdZcnNFX0pvQmo2TXVUY2NSMDB3?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-12T19:22:07Z",
       "first_seen": "2026-10-12T21:18:44.406522Z",
       "score": 8,
       "ai_generated": false,
@@ -649,23 +785,6 @@
       "policy_status": null
     },
     {
-      "id": "e094d6633e823910",
-      "category": "investing",
-      "title": "BTIG sees S&P 500 ETF stock volume hit 22-year low on quiet calendar - Investing.com",
-      "summary": "BTIG sees S&P 500 ETF stock volume hit 22-year low on quiet calendar Investing.com",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTFOaElvSDJJU1BpTkFLN0RTNzdCWHZaQ2liX2FILUhFTWMxVUpaclRIUW5mdHMteGxSRWFTNzhkUE5wbGtGbmU1LXRQRkREUmtBVXBjVkhMOHBmbGRMWUxKdG11T2J2QjJIUk9rZE9tSTdnSWtYUjVNLUJWZlFNNjQzTkhQVzRoMEthTklOX2dCdi1lNjEwT1FGN3JlYzc1RUhSR191Ykc1a0NqTzRTSHQtWjdZcnNFX0pvQmo2TXVUY2NSMDB3?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-12T17:02:22Z",
-      "first_seen": "2026-10-12T21:18:44.406522Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "7f9781199dee27f8",
       "category": "tech",
       "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay - CNBC",
@@ -768,52 +887,18 @@
       "policy_status": null
     },
     {
-      "id": "b25f43165ecb3ed8",
-      "category": "tech",
-      "title": "How AI is Changing Semiconductor Testing - AZoM",
-      "summary": "How AI is Changing Semiconductor Testing AZoM",
+      "id": "07df0af74721ecf5",
+      "category": "world",
+      "title": "为什么诺贝尔经济学奖和中国政策，都在谈同一件事？ - 搜狐",
+      "summary": "为什么诺贝尔经济学奖和中国政策，都在谈同一件事？ 搜狐",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxN1FvaEswWnVrZDkwTkhPWkpjcmpDT1FvbEdTRVU1VnljaE9VaHR5aC1LUkhXbUwwWVoycW51Ry1VVnRLRmptNkxXNjVzRHhmTU52b09ncVNPMjM4SFE?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcjdKTV9HY1pPb0xFd2JDd3RHWWpNTDczWkd3ZkJqS2RHb0F0YnFFYm9vN3BRNHpDTGlmZHRrZ2pHUFlSSUJCbVdKX0EyYVkyME5rWncyQ25VNE9sN18zS2hBVVJEYjY4VDI1SnVmZWFsa3Z3Y0lQaUpBSk0tVG54cHo1cGxyc0RWdmoyMg?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-12T16:27:00Z",
-      "first_seen": "2026-10-12T21:18:44.406522Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "15955be8d62e0dda",
-      "category": "tech",
-      "title": "Anthropic claims its AI agent wasn't trying to 'mislead' police when it submitted a false tip in a homicide case - Yahoo Tech",
-      "summary": "Anthropic claims its AI agent wasn't trying to 'mislead' police when it submitted a false tip in a homicide case Yahoo Tech",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMTZyaVBIQzZ1M1JHa1AyUkxYQ291M3kwTDRUcS1UNFJEek1uRTlzb0h0U195OWZidkxJMVRjaU45MHI3STMtM1htSTRtcjByd1daYUdlbURRYjhHREN1LUlHYzJZRHMxMFZyUk4yekpvMDdMV0RBN2JMRXhQeFdmbDU4N3hFVmJRaDdJYTRTemZvTV8zVWtCU0UzcUUyYWtVLTZyV0VvdzZRYVlQdW9UY3hjVE9Sa3dYQXBCVXhmQUZIMVR5RjBuLUFDTTNCUW9fVHp1bjNlMHZGYWR1Ql9EUDJ1VFBCUU1MX0pRU1BtRXZRNUppUEkyWg?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-12T15:37:09Z",
-      "first_seen": "2026-10-12T21:18:44.406522Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "d81658ab9a259310",
-      "category": "tech",
-      "title": "Image-Aware AI Agent Memory: From Visual Inputs to Searchable Context - Oracle Blogs",
-      "summary": "Image-Aware AI Agent Memory: From Visual Inputs to Searchable Context Oracle Blogs",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWVPcHFuT1BVU3RJN2N4Qm5kNnBjZTVnTVVfVkdYeXY2aEl3UDFpVWxQRWtBMzVUYi1WRHFfa0l1X3ZsNG5GcG5iSTg1cS1JUWxqVm03eVZFREFKbWZTVFhOYTlkQ3IxUTB3eHlnOXNCbVVYNHJxcnl1OEtJbk5wWE5EWk5nanJMMm1GdHJYR3dXUVhQcG5IQjIycjZ3TUZ6dVFLX0ZESQ?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-12T14:38:35Z",
-      "first_seen": "2026-10-12T21:18:44.406522Z",
+      "published_at": "2026-10-12T15:44:26Z",
+      "first_seen": "2026-10-13T00:48:04.977941Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -831,23 +916,6 @@
       "source_kind": "index",
       "published_at": "2026-10-12T14:35:02Z",
       "first_seen": "2026-10-12T15:16:27.039976Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "2851dabfc194ac0b",
-      "category": "tech",
-      "title": "Cost Per Outcome: The FinOps Skill AI Agent Engineers Need - Dice",
-      "summary": "Cost Per Outcome: The FinOps Skill AI Agent Engineers Need Dice",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkZ5Sk5VejExXzZObzlxZi1MRTZDcFZmdkF0RjhLZFZ4ZmJxcElWZlpMTlVKNmRPN3A1YVFCWEdpMmU0cDlEazg3SUE4NjBodERJR0pEa1VQSjJYNkZ3R0dnQThJVkVFN2YxX1VfR3pNWV80Rmg0WDZnX3Y1YmhwOXBoejFTalJRZHJ2eTcxYk1rUWpuVjVZ?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-12T14:25:00Z",
-      "first_seen": "2026-10-12T21:18:44.406522Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1278,40 +1346,6 @@
       "policy_status": null
     },
     {
-      "id": "7b92780efe8b246c",
-      "category": "investing",
-      "title": "Pokémon Cards Just Crushed Bitcoin, Gold and the S&P 500 With 150% Returns - Yahoo Finance",
-      "summary": "Pokémon Cards Just Crushed Bitcoin, Gold and the S&P 500 With 150% Returns Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONHB5dExrRmNHZjZaUFRYbmFZN0NMSXVwbjVWTWR6WDdUSzJxRDhFTnRXeWg4YVIzd3QtVFY2eUVVTVlOYlJydGRORUpLN2FIUmZ0UGd6WUJDMEg4R3V0ZHFvcENRT0JfYld3RVpzb25VSkMwSDVZakJ1NlExd05LdTlQdG0wbGdGQUd2cURRZ01iX1J5d3Noel9vdnk?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-11T13:48:41Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "c81e9daec970fd63",
-      "category": "investing",
-      "title": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus - Stocktwits",
-      "summary": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus Stocktwits",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPUHRRWWM3dThFSXozb3MzYWJIUFUxRzhVVEJic1g1UDFjUFk0bHNFR3VLUDc0OWtrRkJpOWgtMGF0SGZSRXJ4OG5maFhUVlRHQWpvZC1LMzJ2eG1VYWdUOGxUOEFpVms5aW9RR0ZDbl9nSmw5aGxxQjFyQ2p2NktwbDVDME5yQlRvbmUwLUk3ZUN1b2ljWmNCdENJdVZQSkt3RW1CQkY4cXJwNmJXOUlNRERJanVwcHJiTDBXR3VHMGxyYVAzc0VnQXZUd2JxOWlILVRtV0tVQnZHU0o0UTVvM21ZSG0xTGlndmlhSW54OUt1RURLQm1pTUdTdERrbU9nODVtYVQ0UExfc1QzU01MMmNFR1FqNDYyTTdmdjdHZDlqRHhCZlo4?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-11T08:42:57Z",
-      "first_seen": "2026-10-11T22:05:31.174458Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "9228629adce4675f",
       "category": "world",
       "title": "三季度高频数据折射我国经济向好态势- 中国日报网 - China Daily",
@@ -1499,10 +1533,27 @@
       "policy_status": "待核验"
     },
     {
+      "id": "b8e119e7e894212e",
+      "category": "world",
+      "title": "信贷资金支农扩面增效 - 中国经济网",
+      "summary": "信贷资金支农扩面增效 中国经济网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BSGlMcjlFam40aGRFSkZxdEg2WDNUOGlfZFVKaWRnYUh3V2RBbEk0bnBoY0lkbjRRSnJuZ0diYTVPbHJOalRuakhHWTN4WnhhSEtQaGNjLXI1Ry1oejcw?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-12T22:27:00Z",
+      "first_seen": "2026-10-13T00:48:04.977941Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "c9f82ed9d46e0c59",
       "category": "world",
       "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
-      "summary": "US President Donald Trump has had a whirlwind weekend, announcing a diesel deal with Russia and an energy ceasefire between Russia and Ukraine. With the midterms coming up, it looks like Trump is turning overseas for help.",
+      "summary": "As election day looms, the president turns his eyes overseas for help with a pressing domestic problem.",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -1941,38 +1992,21 @@
       "policy_status": null
     },
     {
-      "id": "a49756c40c1d4036",
-      "category": "world",
-      "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
-      "summary": "Ukrainian president earlier rejected US call for Kyiv to stop bombing oil refineries, saying Moscow must first end attacks on energy infrastructure Donald Trump has announced an energy ceasefire between Ukraine and Russia, apparently withou",
+      "id": "984d6748b8c93efc",
+      "category": "immigration",
+      "title": "Statistics — visitor visa applications - Immigration New Zealand",
+      "summary": "Statistics — visitor visa applications Immigration New Zealand",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-11T17:21:39Z",
-      "first_seen": "2026-10-11T22:05:31.174458Z",
-      "score": 6,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTRXM2NjRGNGbU9Ra2hiMEd4YVVOcFNiZkdLM0R6MmE5VUhDZGpzWjQ4WjR1MkpUUHZmVDg5SmRFWG5YTFQxRlM3X1MySEw2SmQ1blN1OVA1cEFfY1dicTh3LURIUDNkQk5RbVUtbUZpMGFuRVMxMzVFb25FSzhHcUVxLTdLZDRaM3JTRlZnQXFlOXExTERfdlkySURXUjlFaFlMOG9kVjU5OEU?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-10-08T07:00:00Z",
+      "first_seen": "2026-10-13T00:48:04.977941Z",
+      "score": 5,
       "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "2a5d507a8652a84d",
-      "category": "world",
-      "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
-      "summary": "Oliver Blume says ‘Made in Europe’ rules to counter rapid rise of lower-price Chinese brands ‘must reward real value creation’ The boss of Volkswagen has backed EU proposals to boost its domestic industry, arguing European carmakers need to",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-11T16:53:01Z",
-      "first_seen": "2026-10-11T22:05:31.174458Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
+      "policy_status": "待核验"
     },
     {
       "id": "91cf4db847e64878",
@@ -2347,60 +2381,26 @@
       "score": 3,
       "ai_generated": false,
       "policy_status": "待核验"
-    },
-    {
-      "id": "93d3432cf986ed1b",
-      "category": "immigration",
-      "title": "Designated regional area postcodes - Immigration and citizenship Website",
-      "summary": "Designated regional area postcodes Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUWFpQkFleHg2WXBJR1hDNUlUTEpSbGxrQWFQN01YZV9MR1FwNXpLMXczSUlZcExzdG1qazN4N1ZRS3RLYlExTWpyRWo3S05lMERQNnA4X24zV19GaUwwM2ZKUkZzZkJEeHlZVjBaaFJGSE51eDZYVlE1QmZsZlB4ZTFSV1EtX2RLNDNlRlppazFxM0dNQTZSTWFKT0RLeVR4?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-07T07:00:00Z",
-      "first_seen": "2026-10-11T22:05:31.174458Z",
-      "score": 3,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
-      "id": "11d79bcca46c4cf4",
-      "category": "immigration",
-      "title": "BNZ to join Immigration New Zealand’s Funds Transfer Scheme - Immigration New Zealand",
-      "summary": "BNZ to join Immigration New Zealand’s Funds Transfer Scheme Immigration New Zealand",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS0N1R2QyVVpEY3BHMWNpX0dIYWV0cG11WFhETE5iZW1KZUZMQTFTY1IzWS1mOFpwZFkwWHNhdkxVaGJoaFNlX2ZESXhCdndtSEtJSTk3Y2J6MnNwZnY4cWJKUF9KTTJuaFROempqTFE1VW1oamRHR0l0eW9BU0pMVWhLOVp1QllfRXZSa1NSc1JOVkV3WTlHaV9fcnkyRzBmYVIzcklpcGhpa08wVWc1TUV3?oc=5",
-      "source": "新西兰移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-07T00:05:08Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 3,
-      "ai_generated": false,
-      "policy_status": "待核验"
     }
   ],
   "digests": {
     "world": [
       "067b124919943c16",
       "53fa14e4e8564741",
-      "b4a8e01b3fe40b44",
-      "e10cb8ae682162b2"
+      "07df0af74721ecf5",
+      "b4a8e01b3fe40b44"
     ],
     "tech": [
+      "74542a2df4390dcb",
+      "1950a6eafc69d45a",
       "e434befa445d91b8",
-      "048fcb30e5f3e85f",
-      "8931ece5d5d3bf60",
-      "b9be291faacbe12b"
+      "048fcb30e5f3e85f"
     ],
     "immigration": [
       "f49508a2da7f6e68",
+      "c7dfbe6c21416a1b",
       "d62331659e7b37d9",
-      "9c78154c7dda052f",
-      "2d2c02d024b4ac3c"
+      "9c78154c7dda052f"
     ],
     "investing": [
       "b431ea497743c593",
@@ -2428,7 +2428,7 @@
         "name": "新西兰移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 12
+        "items": 13
       },
       {
         "name": "澳洲移民官网 · Google 索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 20
+        "items": 16
       },
       {
         "name": "MIT Technology Review",
@@ -2518,7 +2518,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 29
+        "items": 30
       },
       {
         "name": "The Guardian World",
@@ -2530,13 +2530,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 11
+        "items": 8
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 9
+        "items": 8
       }
     ]
   }
