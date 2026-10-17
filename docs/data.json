@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:38:14.480942Z",
+  "generated_at": "2026-10-17T15:42:24.534285Z",
   "is_demo": false,
   "items": [
     {
@@ -16,6 +16,40 @@
       "published_at": "2026-10-16T15:02:27Z",
       "first_seen": "2026-10-16T16:45:46.798264Z",
       "score": 15,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
+      "id": "b431ea497743c593",
+      "category": "investing",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-10-17T13:29:00Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "f49508a2da7f6e68",
+      "category": "immigration",
+      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
+      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-10-17T12:45:36Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
       "ai_generated": false,
       "policy_status": "待核验"
     },
@@ -37,23 +71,6 @@
       "policy_status": null
     },
     {
-      "id": "b431ea497743c593",
-      "category": "investing",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-10-16T19:17:04Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "762cecbc3bff6c60",
       "category": "tech",
       "title": "IBM Research Automates QEC Decoder Chip Design Using Open AI Agent Factories at 11.5x Lower Inference Cost - Quantum Computing Report",
@@ -69,23 +86,6 @@
       "score": 12,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "f49508a2da7f6e68",
-      "category": "immigration",
-      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
-      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
-      "source": "新西兰移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-15T03:04:07Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": "待核验"
     },
     {
       "id": "d08f95e8923daf64",
@@ -1108,18 +1108,86 @@
       "policy_status": "待核验"
     },
     {
+      "id": "8094cfe51f0081ba",
+      "category": "world",
+      "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
+      "summary": "Ukrainian president warns it will embolden Russian leader and intensify war as Moscow hits country’s power plants Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable Volodymyr Zelenskyy has described Donald Trum",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-17T14:46:05Z",
+      "first_seen": "2026-10-17T15:42:24.534285Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "1065ff54b57a2bf1",
+      "category": "world",
+      "title": "当人工智能改写生产方式、地缘冲突搅动全球格局，那些长期站在政策一线的财长、央行行长，那些来自国际组织的要员与全球顶尖智库领袖，会如何研判今天的世界经济？10月19-22日，2026外滩年会见 #2026外滩年会 - 搜狐",
+      "summary": "当人工智能改写生产方式、地缘冲突搅动全球格局，那些长期站在政策一线的财长、央行行长，那些来自国际组织的要员与全球顶尖智库领袖，会如何研判今天的世界经济？10月19-22日，2026外滩年会见 #2026外滩年会 搜狐",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbk5rS05NT3NKSlgxZU1fMEZDNl9aUnhDMjlPcTdSLTk4cmN1RFBQSEFaU3VSQVNaSmN5TGZ5LUlyWEVYQzBDX0o2VlpjRmVzbHNJbEt5YldZdVVBdHR1WnVnSVJyQWh3eURScS02Q0RYUnlSVFU2cTJiS1FhejVpZUFTS0ZHOGRC?oc=5",
+      "source": "国际要闻 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-17T14:27:20Z",
+      "first_seen": "2026-10-17T15:42:24.534285Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "17f13b1ea9e49117",
+      "category": "investing",
+      "title": "[Analysis] Bitcoin Seen Unlikely to Fall to $10,000 Even if S&P 500 Corrects 20% - bloomingbit",
+      "summary": "[Analysis] Bitcoin Seen Unlikely to Fall to $10,000 Even if S&P 500 Corrects 20% bloomingbit",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CRUlhN1VSUk1SUzJIVHd1aV9NZk5fNFFwY1pOOUJhMmRvdnJQR3huUmFZYi1kdF9VM1ZZdlo4YlJCcmxodDNyRXNfejRlWjFYTGhwNQ?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-17T12:40:29Z",
+      "first_seen": "2026-10-17T15:42:24.534285Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "d2d16e582421ff4b",
       "category": "investing",
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Break Key Levels As CoreWeave, Dell Dive; Tesla, SpaceX, Meta Loom - Investor's Business Daily",
-      "summary": "Dow Jones Futures: S&P 500, Nasdaq Break Key Levels As CoreWeave, Dell Dive; Tesla, SpaceX, Meta Loom Investor's Business Daily",
+      "title": "S&P 500, Nasdaq, Leaders Break Support; What To Do Now - Investor's Business Daily",
+      "summary": "S&P 500, Nasdaq, Leaders Break Support; What To Do Now Investor's Business Daily",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUnZSNzJZS2NlWi1Hckg0djB1aGQ3bEkzVTB4ejBTQWRoQ0JTOWJBa1U4Z1EyWFZSa0ZmSDlIcmx5MFEwQmhCeFE2MEs4ZEdMSThwczNORG03QTY4MU9xR3pXWmRtNmdMc3BRZ0F4U1FudlhIdXpwVHVQUXUxMU44NHhhRVZyTmNDVk1MLXBsOHBIV2Q3VU9oTE1sa2JET0c5b3p5ZUJHeTBrQlJKaTRnS284ZGVhUUlwekJKalp5dmsyRmdzU25QRQ?oc=5",
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-17T03:03:00Z",
+      "published_at": "2026-10-17T12:25:00Z",
       "first_seen": "2026-10-17T04:31:09.601536Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "60a5039568de4689",
+      "category": "investing",
+      "title": "UBS Core S&P 500 UCITS ETF USD acc (S5UU.L) Performance History - Yahoo! Finance Canada",
+      "summary": "UBS Core S&P 500 UCITS ETF USD acc (S5UU.L) Performance History Yahoo! Finance Canada",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0My1wbkowZWhjX2RkbWpCWHlfWnhPOHZYbERwclZDR1pFd2x2cTI2U3E1VW5EdmNFMTBTRHVXRU5rUmFSMnZpZUtFU3JyY0ZXSWc4dFhGVVZiZ2J3NUF0SGxMNkw?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-17T06:37:35Z",
+      "first_seen": "2026-10-17T15:42:24.534285Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1340,40 +1408,6 @@
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-10-16T12:55:00Z",
-      "first_seen": "2026-10-16T16:45:46.798264Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "02501aba91f3fa1e",
-      "category": "investing",
-      "title": "S&P 500 Bull Market Has Reasons For Optimism, Says Baird — But Higher Rates Could Favor Quality Stocks - Yahoo Finance",
-      "summary": "S&P 500 Bull Market Has Reasons For Optimism, Says Baird — But Higher Rates Could Favor Quality Stocks Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUVlUd2YzcXJkRmxwa1N1bTZUQjdyMml1cldpWF9BSnM3amRYN1RlODRremtyTUlSd1JVdzRoeWN5a1AxdmdpMW53VkNxMzBTWDhSemJqMFd0NUJaOU81UWRKcVkxVWVZdnV2UUpRZnVuS21lRGd6c2doZTlsaGxzQUd5cGd4TE5ZSEdKc3djVzZlUjZQ?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-16T12:28:18Z",
-      "first_seen": "2026-10-16T21:19:16.040182Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "ea51bbd05a349910",
-      "category": "investing",
-      "title": "What Invesco NASDAQ 100 ETF (QQQM) Bought: NVIDIA Leads on Oct. 14 - Yahoo Finance",
-      "summary": "What Invesco NASDAQ 100 ETF (QQQM) Bought: NVIDIA Leads on Oct. 14 Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSEI2NlVWa3ZCVWl4aDA3ekxpTzBGM2hmRjZWbGplM0ZFY1NTY3EtQ3dMV2tLaEFsVlBscDltUHNHOTNRMUZMNE1yN1VRWDNsUHdYbXlOQjg1R1d1QW9ET2UxWVprVmRjV3VIZ28xV3hPN3k2bnY1ZE1YUUJyX0c1c0ZHckJrYkZrVmVEdlhLbnpoX2x0SGVN?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-16T11:05:21Z",
       "first_seen": "2026-10-16T16:45:46.798264Z",
       "score": 8,
       "ai_generated": false,
@@ -1703,23 +1737,6 @@
       "policy_status": null
     },
     {
-      "id": "b4a8e01b3fe40b44",
-      "category": "world",
-      "title": "来论｜扩消费、稳就业，今年诺贝尔经济学奖对中国宏观政策有何启示？ - ThePaper.cn",
-      "summary": "来论｜扩消费、稳就业，今年诺贝尔经济学奖对中国宏观政策有何启示？ ThePaper.cn",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1faFBZV1UxZXR1X0ZGcGhGb2NsaFJmdXNQVkI3NWRtN1lFME41eC1xQzZweVYwV0RMU29pY3VsZ1M1Wk9GOTh6U2xpaU9tV3RNR1NYRmZzRVBXUGlqWl9VZQ?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-12T13:21:00Z",
-      "first_seen": "2026-10-12T21:18:44.406522Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "def5db40523c4ebe",
       "category": "immigration",
       "title": "Subclass 785 Temporary Protection visa - Immigration and citizenship Website",
@@ -1924,6 +1941,74 @@
       "policy_status": "待核验"
     },
     {
+      "id": "1c02190041f8d454",
+      "category": "world",
+      "title": "Isabel Allende wins €1m Spanish literary prize under pseudonym",
+      "summary": "Chilean-American author awarded Premio Planeta for sequel to her 1982 debut novel, The House of the Spirits The Chilean-American author Isabel Allende has won Spain’s €1m (£843,000) Premio Planeta, one of the world’s most lucrative literary",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-17T13:01:51Z",
+      "first_seen": "2026-10-17T15:42:24.534285Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "a01117fa064bff30",
+      "category": "world",
+      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-10-17T12:11:58Z",
+      "first_seen": "2026-10-17T15:42:24.534285Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "a07b489c718f8a10",
+      "category": "world",
+      "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
+      "summary": "United Arab Emirates will reportedly resume payments to Yemeni forces as gains by Iran-backed Houthi fighters alarm Gulf state rulers Yemen civil war: what sparked latest escalation and who is involved? The United Arab Emirates has agreed t",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-17T11:57:15Z",
+      "first_seen": "2026-10-17T15:42:24.534285Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "db361e086eb97a5d",
+      "category": "world",
+      "title": "中国经济面面观丨新质生产力：顶层设计落地，产业一线如何作答？ - 新华网",
+      "summary": "中国经济面面观丨新质生产力：顶层设计落地，产业一线如何作答？ 新华网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWwyY2F6d1pSTHN0d3RnUmdiSC1SMTlqWENYUHhNN0wzMUVXZHdocmloRGxuMjJfSE1KdThvTjB0VnVVaUpLZ0xzT1dCS3VDOGpUZmNrbEowYmtGQV9aSUdTZ0ExWXczczBlQ3FGMU5sb090S19sTXRSWGtjSTdMMFBUTnJJREVT?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-17T10:58:55Z",
+      "first_seen": "2026-10-17T15:42:24.534285Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "a86fddc16d6fba5e",
       "category": "world",
       "title": "首次突破、历史新高！一组数据感受中国经济澎湃动能 - 紫牛新闻",
@@ -2089,91 +2174,6 @@
       "source_kind": "media",
       "published_at": "2026-10-16T19:09:37Z",
       "first_seen": "2026-10-16T21:19:16.040182Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "91c2dfd574f3f7de",
-      "category": "world",
-      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-16T18:11:29Z",
-      "first_seen": "2026-10-17T10:38:14.480942Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "7b3b572a0d33d28d",
-      "category": "world",
-      "title": "理性看待IMF微调中国经济增速预期 - 中国经济网",
-      "summary": "理性看待IMF微调中国经济增速预期 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BeDREYTNJTElyYzBWTGU0ekQxWThZTFlZbERwS2pxTjM5blFxTE9jSHJXeUhSRUZMdXU3ZnpBa19ZZk5hX2R0TXNydWFWNmdTbk5RSEF5ZVFMQWhScEdzMlh2V1VYcGRMeW40?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-16T17:38:06Z",
-      "first_seen": "2026-10-16T21:19:16.040182Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "aa442ee848daf1b2",
-      "category": "world",
-      "title": "India’s Cockroach Janta party leader arrested amid crackdown on protests",
-      "summary": "Abhijeet Dipke was detained before planned anti-government demonstrations in Delhi The leader of the Cockroach Janta party (CJP) youth movement, Abhijeet Dipke, was detained by police on Friday and then later formally arrested as authoritie",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-16T16:22:32Z",
-      "first_seen": "2026-10-16T16:45:46.798264Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "052ae2b76c9b8179",
-      "category": "world",
-      "title": "‘Tough to watch, impossible to ignore’: reviewers on NAZA documentary",
-      "summary": "Film interviewing military insiders about mass killing of civilians in Gaza wins widespread praise around the world Critics around the world have hailed the award-winning documentary NAZA as a “brilliant and harrowing” film that is “impossi",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/film/2026/oct/16/tough-to-watch-impossible-to-ignore-what-the-reviewers-say-about-naza-documentary",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-16T15:42:46Z",
-      "first_seen": "2026-10-16T16:45:46.798264Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "88b9d9e5be8566a2",
-      "category": "world",
-      "title": "Albanian protests turn violent: What we know",
-      "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-16T14:33:32Z",
-      "first_seen": "2026-10-16T16:45:46.798264Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2385,10 +2385,10 @@
   ],
   "digests": {
     "world": [
+      "8094cfe51f0081ba",
+      "1065ff54b57a2bf1",
       "b6bb1637df093af8",
-      "f5f1b4205845f9ab",
-      "cf3a80f46d1543da",
-      "6b3f7b62caec7c21"
+      "f5f1b4205845f9ab"
     ],
     "tech": [
       "68353397be1ed306",
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 19,
-    "failed": 1,
+    "ok": 20,
+    "failed": 0,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2446,7 +2446,7 @@
         "name": "香港入境事务处 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 8
+        "items": 9
       },
       {
         "name": "CoinDesk",
@@ -2493,9 +2493,8 @@
       {
         "name": "Hacker News 热门",
         "category": "tech",
-        "ok": false,
-        "items": 0,
-        "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage?points=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrs"
+        "ok": true,
+        "items": 16
       },
       {
         "name": "MIT Technology Review",
@@ -2519,7 +2518,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 27
+        "items": 23
       },
       {
         "name": "The Guardian World",
@@ -2531,13 +2530,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 15
+        "items": 14
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 13
+        "items": 16
       }
     ]
   }
