@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:37:41.079293Z",
+  "generated_at": "2026-10-18T10:59:54.541637Z",
   "is_demo": false,
   "items": [
     {
@@ -30,7 +30,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
       "source": "新西兰移民官网 · Google 索引",
       "source_kind": "index",
-      "published_at": "2026-10-17T20:50:51Z",
+      "published_at": "2026-10-18T04:51:08Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
@@ -186,6 +186,23 @@
       "published_at": "2026-10-13T18:00:00Z",
       "first_seen": "2026-10-13T19:21:06.073502Z",
       "score": 11,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "7d4e5646d7c036e9",
+      "category": "tech",
+      "title": "Tencent says third-party models, not Hunyuan, responsible for AI agent activity - China Daily",
+      "summary": "Tencent says third-party models, not Hunyuan, responsible for AI agent activity China Daily",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JSUdMbE5LV1p1SUpQa3N2eW1rcGFsWEhNVzNPSXFwZFp2SEVqRmVfcmNFSnl1ZGVrNFFMUDNJbFJJOXF2QXE5YzcwTk5jOElLSmdmLUozS1YwNVJpMU1GNWg1V1JBb3JrMTI0aWdxb1RrVWNGakYwUHZoRHZydw?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-18T05:22:23Z",
+      "first_seen": "2026-10-18T10:59:54.541637Z",
+      "score": 10,
       "ai_generated": false,
       "policy_status": null
     },
@@ -955,23 +972,6 @@
       "policy_status": null
     },
     {
-      "id": "74542a2df4390dcb",
-      "category": "tech",
-      "title": "Meta releases Muse Wonder AI models built to run personal and professional agents - SiliconANGLE",
-      "summary": "Meta releases Muse Wonder AI models built to run personal and professional agents SiliconANGLE",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUlVkNlc4eGhYZVFmRHNsYVZjdVF2LU9rd0dqUnBPNmV2MXNDTUlpZ0xlMW14SW1kQ2R0NG83RU44blBFWE1xWnZUVEg3ZmI5Z1d1TUtXUFBfMDNKVi1DeDVXRXlWMlE4RzRDaDlMQ1pqVnF6OEQ0OFdQalpOODNYRHpMTlRxdzBJVTh6WkM3X09yTF9GQXVCOGY2cXpERDhHeDJmMkFzcWNpcjdjV0h4aW1fREpRWks5QUE?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-12T22:36:00Z",
-      "first_seen": "2026-10-13T00:48:04.977941Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "ce70378a27da56b6",
       "category": "investing",
       "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
@@ -1057,23 +1057,6 @@
       "policy_status": null
     },
     {
-      "id": "67b8328048e505c2",
-      "category": "investing",
-      "title": "S&P 500, Dow, Nasdaq Futures Rangebound As Investors Await Nvidia Earnings, Key Inflation Reading — MRNA, SPCX, PSKY, OpenAI In Focus - Stocktwits",
-      "summary": "S&P 500, Dow, Nasdaq Futures Rangebound As Investors Await Nvidia Earnings, Key Inflation Reading — MRNA, SPCX, PSKY, OpenAI In Focus Stocktwits",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQU1RdmZoRUZMWDdieTh2U0dnbm9VYXVleGlwVkpnVjB4alVZcE1QQ1VfVGZFT05GT1RPcWNXMFpkT3NzNzF4Z3RTcW5NUGp2Vmx0bWxHTTd1TWZVZWQ1U3N0QVJhcDNBMlhvTTJNcEtrWVloWlk0eGNMeE5PZ2NHU0hoWEhlZWFrM20tbk9NZzI0LTBuZVBuZXdIUVE4NWxkbFI0cVpEcHJRQ0IxN3padTdkTEJHdDlzcjdSZGpwUWtYc0ItZ2JCY0hfX00ySkEwSjYtZ0JvWQ?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-11T09:36:31Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "80261f70753a311b",
       "category": "immigration",
       "title": "Minister Metlege Diab to make an announcement in Kitchener",
@@ -1108,18 +1091,18 @@
       "policy_status": "待核验"
     },
     {
-      "id": "19cd48a1ca44a176",
+      "id": "9c33cb9dc9176ff3",
       "category": "investing",
       "title": "S&P 500, Nasdaq, Dow and Russell 2000 For the Week Ahead - FOREX.com",
       "summary": "S&P 500, Nasdaq, Dow and Russell 2000 For the Week Ahead FOREX.com",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWS1GX3V6Q25uNnZ0MTF3c2duSUFvSWZJSmZNeG03bmxUODZKdnd3WGpCX2NwYTdKdG5TVVBRVlpTcjRxRmxKX2JpQURJRDhlTFUwMDk2ZkNCZXFwZU9oRW50XzF1UVBsWlBqd3NPTnlyVFJ0ZjRRMEVVVzRxUzVwRWFscl9DbHRnSTZMbnpGd2lTS1loa2g5NUpQQXVfaDVmTkcwNmdB0gGyAUFVX3lxTE5qU09SM09BVm1vVzJjX2xnZmVJajNPQ05xUE12RmFrdkNPSDEzaGlvV3daZmVGVzJKZ18ta2tQTDhUNm5sWEtjaFNZbFVLYVhRYm9tZ093WmZQVGtMWU5Uc2J2TXpMeGpoOG9ZLWxqTkswT2RsMWxrUi1JY0xOaTRSbnJ0b05kbWxBeTNONnlkRjNKaS1vNG5lYkZ1Mk9pZ2E0bXpIeEkxZHROWDlyNUdZQkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTTNLSjZCeUhTR0s5a0JpMmctMXFCNnpWOUY2b19Lc2xzcGNoMDBQYlktTzNTc3FCQk1TVGhQMXNheVNBM0VMZnh5c2ZaaHBJa2xIaTh0WFV1S0cxVGwwVHE2dG11R1B1cWtGYjRGTFR6V05tcWFsNGNqWjhlYzdBWU5tQ0NKNUZHLXlJSjdzTzFwbWpKbjh3MVRNeTNoXzRTLXpjMXhZbW9BOHdsWUHSAa4BQVVfeXFMT00zS0o2QnlIU0dLOWtCaTJnLTFxQjZ6VjlGNm9fS3Nsc3BjaDAwUGJZLU8zU3NxQkJNU1RoUDFzYXlTQTNFTGZ4eXNmWmhwSWtsSGk4dFhVdUtHMVRsMFRxNnRtdUdQdXFrRmI0RkxUeldObXFhbDRjalo4ZWM3QVlObUNDSjVGRy15SUo3c08xcG1qSm44dzFUTXkzaF80Uy16YzF4WW1vQTh3bFlB?oc=5",
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-18T03:51:21Z",
-      "first_seen": "2026-10-18T04:37:41.079293Z",
+      "published_at": "2026-10-18T05:14:31Z",
+      "first_seen": "2026-10-18T10:59:54.541637Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1635,23 +1618,6 @@
       "policy_status": null
     },
     {
-      "id": "e8e8ebb2656a2c4a",
-      "category": "world",
-      "title": "外交部：中国经济长期向好的基本面没有变，对中国经济的发展前景充满信心 - 京报网",
-      "summary": "外交部：中国经济长期向好的基本面没有变，对中国经济的发展前景充满信心 京报网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xWXJ4SmhoX1NyWTRNZWk1VHRnLXpmX19TRmFLZVM5cFVXTm4tQVcwb1psSW0tWkdmV3YxN05pMGhjWVo1Yy1mN3J4SDhQN0gyXzVDanBwclo2Q2hHbkE?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-13T06:21:44Z",
-      "first_seen": "2026-10-13T14:06:49.173970Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "c7dfbe6c21416a1b",
       "category": "immigration",
       "title": "Simpler accommodation standards coming for RSE employers - Immigration New Zealand",
@@ -1873,6 +1839,74 @@
       "policy_status": "待核验"
     },
     {
+      "id": "8cb740a44ced7b43",
+      "category": "investing",
+      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-10-18T10:43:12Z",
+      "first_seen": "2026-10-18T10:59:54.541637Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "3d0b6a6492c7d9b2",
+      "category": "world",
+      "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+      "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years Protests in France caused damage worth hundreds of millions of euros, according to the head of a trade body representing shop owners. About 1,500 shops",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-18T10:29:46Z",
+      "first_seen": "2026-10-18T10:59:54.541637Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "acd26a157fd1a9a4",
+      "category": "world",
+      "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
+      "summary": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible the Spectator, he has helped shape the right even as it has moved further rig",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-18T07:00:53Z",
+      "first_seen": "2026-10-18T10:59:54.541637Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "493d25cd7fbd0f77",
+      "category": "world",
+      "title": "智慧港口政策对中国碳排放的影响 - 生物通",
+      "summary": "智慧港口政策对中国碳排放的影响 生物通",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04Y1JyVVUyWFUtem0zcUQ4MzZYcXhBYTh1TWVHOU5pYkZibjFITHg2YS02NnpiMFB3YTZhUW16enpOdjU2ZHVlUmVXaGNOc0cyUk5zcTNwbXAzSUJBdzRIT1BKYnJWc2dmSjVpX0p3?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-18T04:17:31Z",
+      "first_seen": "2026-10-18T04:37:41.079293Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "30c3e2345ff735a4",
       "category": "world",
       "title": "消费信贷进一步萎缩，这是中国经济的又一个重要信号！ - 搜狐",
@@ -1890,18 +1924,18 @@
       "policy_status": null
     },
     {
-      "id": "493d25cd7fbd0f77",
+      "id": "9bb6f3011c56a336",
       "category": "world",
-      "title": "智慧港口政策对中国碳排放的影响 - 生物通",
-      "summary": "智慧港口政策对中国碳排放的影响 生物通",
+      "title": "结构向优塑造发展新优势 - 中国经济网",
+      "summary": "结构向优塑造发展新优势 中国经济网",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04Y1JyVVUyWFUtem0zcUQ4MzZYcXhBYTh1TWVHOU5pYkZibjFITHg2YS02NnpiMFB3YTZhUW16enpOdjU2ZHVlUmVXaGNOc0cyUk5zcTNwbXAzSUJBdzRIT1BKYnJWc2dmSjVpX0p3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81d3pWQlhuaWg4TWZVWVFFUnZCcFVPdGZSZkxRUFBQWHV5UUZ5NXBkcXdWZjg1RDJ1cVBxa2xURkRmSGpFLWgtZFZQR1hkZHFjUVZEdWFUVjVLVVNzT0xKZUQ4dmZKVXF5XzVJQ0FrQQ?oc=5",
       "source": "中国与世界 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-18T00:23:56Z",
-      "first_seen": "2026-10-18T04:37:41.079293Z",
+      "published_at": "2026-10-17T22:42:00Z",
+      "first_seen": "2026-10-18T10:59:54.541637Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2077,23 +2111,6 @@
       "policy_status": null
     },
     {
-      "id": "2dae3440e65eb616",
-      "category": "world",
-      "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
-      "summary": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible, the Spectator, he has helped shape the right even as it has moved further ri",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-17T06:45:23Z",
-      "first_seen": "2026-10-17T10:38:14.480942Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "15e5bd384fcd83b1",
       "category": "world",
       "title": "中国裁军大使：反对一些国家歪曲抹黑中国核政策 - 凤凰网",
@@ -2162,21 +2179,21 @@
       "policy_status": null
     },
     {
-      "id": "d7aa7222206cd8b6",
-      "category": "world",
-      "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
-      "summary": "Former minister and OECD head urges Australia not to adopt migration caps, with research showing migrants boost employment Get our breaking news email , free app or daily news podcast Australia’s mainstream political parties are being warne",
+      "id": "2e171ad64004239b",
+      "category": "immigration",
+      "title": "ImmiAccount Technical Support Form - Immigration and citizenship Website",
+      "summary": "ImmiAccount Technical Support Form Immigration and citizenship Website",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-17T01:49:17Z",
-      "first_seen": "2026-10-17T04:31:09.601536Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEtyOWJjOHFoT0dDaVpWRUNaeXh2dVMtTHJLS0Z5UVRUUlZuNTNPNElvOW9pdWFLdHY5ckZ4aDd2VDM5dkRrck1JSnc1cmJqS3JzV1ZVRTFnQW5vZ0JHeVBhMlNXbWZLUmIyVHNBMHZSNXRJXzhqZ1ZwcVNxU2lMa1N4TEphRWtiaFZoWmhpUVZQWmJpQWI5SzRHWGRXZmdrVVlsbUdQUmNTUzRpZ0NwaQ?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-10-16T07:00:00Z",
+      "first_seen": "2026-10-18T10:59:54.541637Z",
       "score": 6,
       "ai_generated": false,
-      "policy_status": null
+      "policy_status": "待核验"
     },
     {
       "id": "d96ceba971c97402",
@@ -2364,23 +2381,6 @@
       "score": 5,
       "ai_generated": false,
       "policy_status": "待核验"
-    },
-    {
-      "id": "83fe80cb6407d2b2",
-      "category": "immigration",
-      "title": "Character requirements for visas - Immigration and citizenship Website",
-      "summary": "Character requirements for visas Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUEpYTkVQWklDaDVpOU1pRzEzVkNJVTRnN3Q3SkZSd3YtbWZ0bEVZUGIyeDhKUW1ZVllMR01vNTZYR1dGTll5bkp3am1ZQjFYRHg5dU1DMktxY0lvVnZwMi16b1pCZEMtOWdtbF95WXFXQUFyT0p2ZXJxWkZnS01wQ1B4cl9OQQ?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-07T07:00:00Z",
-      "first_seen": "2026-10-12T06:02:23.250525Z",
-      "score": 5,
-      "ai_generated": false,
-      "policy_status": "待核验"
     }
   ],
   "digests": {
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 19,
-    "failed": 1,
+    "ok": 18,
+    "failed": 2,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2434,7 +2434,7 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 28
+        "items": 29
       },
       {
         "name": "英国移民政策 · Google 索引",
@@ -2446,7 +2446,7 @@
         "name": "香港入境事务处 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 10
+        "items": 9
       },
       {
         "name": "CoinDesk",
@@ -2475,8 +2475,9 @@
       {
         "name": "美国美联储官方公告",
         "category": "investing",
-        "ok": true,
-        "items": 2
+        "ok": false,
+        "items": 0,
+        "error": "404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_all.xml"
       },
       {
         "name": "AI 行业 · Google 新闻索引",
@@ -2519,25 +2520,25 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 28
+        "items": 26
       },
       {
         "name": "The Guardian World",
         "category": "world",
         "ok": true,
-        "items": 33
+        "items": 35
       },
       {
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 14
+        "items": 11
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 15
+        "items": 16
       }
     ]
   }
