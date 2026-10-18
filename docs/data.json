@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:57:38.771742Z",
+  "generated_at": "2026-10-18T20:52:29.343059Z",
   "is_demo": false,
   "items": [
     {
@@ -190,6 +190,23 @@
       "policy_status": null
     },
     {
+      "id": "3ac0f6b44f590d8d",
+      "category": "tech",
+      "title": "How to Improve an AI Agent Without Retraining the Model - Pasquale Pillitteri",
+      "summary": "How to Improve an AI Agent Without Retraining the Model Pasquale Pillitteri",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSW1iRFAwcDdvaEtBY2lyWlJNMVJiWnlhUU0wdlREWG9VelVBTWJZZzliMS14SWJjSll6TG8xaGw4WDhsa3NPQVhvSmJ2ejNhaHlCNTdUcGgyZld4VURCUzVjWjBNcksxU0RzcDFQLWFFN2x1RzRtTFBybWlfX0lZTlNtZ3c1d0puREJuSVBYNXJ5UUh6MDA4?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-18T18:02:53Z",
+      "first_seen": "2026-10-18T20:52:29.343059Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "ffd83b045c058d86",
       "category": "tech",
       "title": "Better AI Chip Stock: Taiwan Semiconductor vs. Micron - The Motley Fool",
@@ -200,7 +217,7 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2NIYzJUcUZjMlBjb2oxUnFCNW81QS1GSnpZQWw3N2ZwUHB2NVNmZVdQT1l1LTB4SHRVcEptT2kxNEJiOWpBM2tCekF5STdSd3d0OE1lWEJjcUV2emJOUUdXckdHNTQzT19RX21PUFlTVXRGU2gxc3ZEaHBqNVJ1ZzBWeXNWYTZnQUpUNV9YZWl3WTJpdWNiTw?oc=5",
       "source": "AI 行业 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-18T15:53:07Z",
+      "published_at": "2026-10-18T16:44:00Z",
       "first_seen": "2026-10-18T15:57:38.771742Z",
       "score": 10,
       "ai_generated": false,
@@ -955,23 +972,6 @@
       "policy_status": null
     },
     {
-      "id": "f72414790ef32197",
-      "category": "tech",
-      "title": "Georgia Tech's new AI supercomputer could help advance medicine, robotics and energy research - CBS News",
-      "summary": "Georgia Tech's new AI supercomputer could help advance medicine, robotics and energy research CBS News",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYnR6MTFXNzU5M3B0eXhNdzdFbFk3QnBkcWtEZTQxd3NfUkttOGJxeVdvS2VMazJIeEttVDM3aHh2VVkzY0ZvTmFoLXhEN1RKekdaemMtY1ZzRHdQbjZVaXZTUGN0Q1c5dzRacWg0X1BvaHpQR2s1TzhlUXQ2SzN4TjRJMEdNVDZZdHI5N3ZCdFg1X2NDUEwwOXFhR2lHR1BaZjdSZVc5X3RfTVE5WmJOQWZfQmNlNm9XVzM1YzRjMkthS2JXYXBoZw?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-13T17:05:11Z",
-      "first_seen": "2026-10-13T19:21:06.073502Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "ce70378a27da56b6",
       "category": "investing",
       "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
@@ -1023,23 +1023,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "43ee773b21d85ffe",
-      "category": "investing",
-      "title": "Dow Jones, S&P 500, Nasdaq 100 Outlook: Top Stock Market News This Week - State Street SPDR S&P 500 ETF T - Benzinga",
-      "summary": "Dow Jones, S&P 500, Nasdaq 100 Outlook: Top Stock Market News This Week - State Street SPDR S&P 500 ETF T Benzinga",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNFFUTVVKcDBXdHUxNFVHWlhnT0lPMzhva1F3TVFmdWE0WWljenJyd194enNnbk1ITDV3aWxvTW1MTFZqZ3d4aEhlY0JHLTFMazdEaEJFalFudWp5ZFZsLXFHeHJsS0pEbnBnRzNwblJRUkRFNGNTM21Yd2xaOVhIal9pcm1odklMVEJDWDZDQVppeVQwakNrVkdpZFVmVlRLTURUNXNrZzg3eWFFZEEzemhmRGZGSDZZaXpXalJ5RWZQUQ?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-11T18:45:06Z",
-      "first_seen": "2026-10-11T22:05:31.174458Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "80261f70753a311b",
       "category": "immigration",
       "title": "Minister Metlege Diab to make an announcement in Kitchener",
@@ -1072,6 +1055,23 @@
       "score": 9,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "baabb5cd50b406a2",
+      "category": "investing",
+      "title": "Dow Jones, Nasdaq 100, S&P 500 Outlook: Top Catalysts to Move US Stocks This Week - Benzinga",
+      "summary": "Dow Jones, Nasdaq 100, S&P 500 Outlook: Top Catalysts to Move US Stocks This Week Benzinga",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM2FSOGlyTjN2c1NmUEFJc1RiRmVXcFA3SEFPdG0wdFk5Y29jUTA5YXRBSmhGQzhyTnpvd0w0S3hUMklFWUJVaXlQUjA4TkFsdERGejYwUmtJWjFqV0RXczJCOU1IY3d5eXJFX3BVSVJTWlMxT3hqazdIZy1pbmVNR0NSUXdYZ2Q5aEFVM1VfZE50R2JHbnY5SjJSVGNRcllQUmlFWVFNQjhvaVJvRldwOEdYZ0h1VTNiZVVLZVVWTmNDWkVrbEE3YVBCNzJnY3BVWmltVQ?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-18T17:45:23Z",
+      "first_seen": "2026-10-18T20:52:29.343059Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "015676352cce50a8",
@@ -1125,6 +1125,23 @@
       "policy_status": null
     },
     {
+      "id": "0a21e3dffb800cb0",
+      "category": "investing",
+      "title": "S&P 500 Forecast: SPX falls after hot inflation and as AI debt concerns mount - FOREX.com",
+      "summary": "S&P 500 Forecast: SPX falls after hot inflation and as AI debt concerns mount FOREX.com",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd0h1R0J0QnVmM2dmZC1NNXZ6ekFnLVZ0V2pkV0hTdnFlVktqd2N2aDZ4UklUOEdxSDRyai1fa3d0RTVZbHFCRzNYR1B3eUJEdFk3eDhSakdrdVdCbl9KRFRNbDU0RHRUZ2R1OE55TFVhVG83WVkxcHFPNUNULUZPeXRZeWhrb2FOQ2FUT3NqUEw1Qmk5bjE1VGhRQkRBQXVKeGx0eVlLNkNRenVENHZyWjYxY2JpZVBGYTFoQlNmWQ?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-18T06:22:53Z",
+      "first_seen": "2026-10-18T20:52:29.343059Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "9c33cb9dc9176ff3",
       "category": "investing",
       "title": "S&P 500, Nasdaq, Dow and Russell 2000 For the Week Ahead - FOREX.com",
@@ -1137,6 +1154,40 @@
       "source_kind": "index",
       "published_at": "2026-10-18T05:14:31Z",
       "first_seen": "2026-10-18T10:59:54.541637Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "c81e9daec970fd63",
+      "category": "investing",
+      "title": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus - Stocktwits",
+      "summary": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus Stocktwits",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPUHRRWWM3dThFSXozb3MzYWJIUFUxRzhVVEJic1g1UDFjUFk0bHNFR3VLUDc0OWtrRkJpOWgtMGF0SGZSRXJ4OG5maFhUVlRHQWpvZC1LMzJ2eG1VYWdUOGxUOEFpVms5aW9RR0ZDbl9nSmw5aGxxQjFyQ2p2NktwbDVDME5yQlRvbmUwLUk3ZUN1b2ljWmNCdENJdVZQSkt3RW1CQkY4cXJwNmJXOUlNRERJanVwcHJiTDBXR3VHMGxyYVAzc0VnQXZUd2JxOWlILVRtV0tVQnZHU0o0UTVvM21ZSG0xTGlndmlhSW54OUt1RURLQm1pTUdTdERrbU9nODVtYVQ0UExfc1QzU01MMmNFR1FqNDYyTTdmdjdHZDlqRHhCZlo4?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-18T03:48:09Z",
+      "first_seen": "2026-10-18T20:52:29.343059Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "b94452ea07c2fa81",
+      "category": "investing",
+      "title": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus - Stocktwits",
+      "summary": "Nasdaq, Dow, S&P 500 Futures Edge Higher Ahead Of Key Earnings Week Even As Middle East Tensions Continue: DJT, NVDA, SLS, PANW Stocks In Focus Stocktwits",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZFc1TGx0T3E3aG5NcUZaaEh5d1p6eF85cVdQS1lib3h1dWhtQjZ4dzNMZGtaVUNMNWtGMUkxSWlMQ1JBTUtZbDFpeFNadEhsdjdadXhuaHplZUFBUExoV3BTanFKQmZTUXpGTHN3X05QRmVxZ3p1ODA2RzNodXRYS3dYd2tBb0hpYXZObVlEYWRjRVp5MlBlbGRPTmprWEdDbC1rUEJrSDhTbENsa19CYlVPcXJVSVNSTS1GNFRmYzBCS1d4V3VlNWdKUkVJZFR5YVhrYVBHX1UwMFQ0RThaTnBzakpuRXBsSkF2TFIzWFJCLUtJRmo5OU12bllQZjVI?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-18T01:59:14Z",
+      "first_seen": "2026-10-18T20:52:29.343059Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1341,57 +1392,6 @@
       "source_kind": "media",
       "published_at": "2026-10-17T02:48:36Z",
       "first_seen": "2026-10-17T04:31:09.601536Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "2d267ce903545700",
-      "category": "investing",
-      "title": "Inflation Rose to 3.7% in September. Is It Time to Sell the S&P 500? - The Motley Fool",
-      "summary": "Inflation Rose to 3.7% in September. Is It Time to Sell the S&P 500? The Motley Fool",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOFZfelpkNXRPckp1dVBSekIydExHb19vemVsMDRrVjFLLVhLX194ZUw5aVVZSVRicmZmVFBYcExGSHJ6RkxMQzRHRDVHUDAtVGpwVW16SGhSdnM1bXVuZmVCNlF3MGpaSWxuWkJVMzJKODRDQzZzWnhaUVFVVUVZS1FDVTJVWmVGOEx3clFlNEcxUUZxdmRKb0tObm5TVUV4R3ZZUXl0eE5jVXo2cjljRFd3?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-16T21:47:00Z",
-      "first_seen": "2026-10-16T21:19:16.040182Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "e19b536fcd8b8aac",
-      "category": "investing",
-      "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights - Investing News Network",
-      "summary": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights Investing News Network",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
-      "source": "Web3 监管 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-16T21:05:00Z",
-      "first_seen": "2026-10-17T10:38:14.480942Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "9a060bfc951732e5",
-      "category": "investing",
-      "title": "Dow Drops 175, Nasdaq Loses 573, S&P 500 Falls 85 - TV News Check",
-      "summary": "Dow Drops 175, Nasdaq Loses 573, S&P 500 Falls 85 TV News Check",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa2Nudm1ZVlVNbVB3TGotRVhtRDhrY0FhbHhPaFhMTEJIamRxVUpqZlBwUlgtRFJCR0xvUzFBMUxPYzNNNm1aNHNTRERWbWlQTXY4LUcyWnViYlRfWjBlUjV4bzNaOVc3U2JpSlNpR3pIcThZMWlseVA3QmZOSnZ1STQxZ3JYRWNPa2lTdUZaZnEtZw?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-16T20:56:18Z",
-      "first_seen": "2026-10-16T21:19:16.040182Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1858,15 +1858,15 @@
     {
       "id": "9951afaa5a104ff5",
       "category": "world",
-      "title": "French government in crisis talks after ‘colossal failure of the state’",
-      "summary": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings b",
+      "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,000 arrests across France",
+      "summary": "Ministers, officials and police under pressure over response to protests as government holds crisis talks amid ‘colossal failure of the state’ The French president, Emmanuel Macron, has criticised “unbridled violence” after one of the most ",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
       "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
       "source": "The Guardian World",
       "source_kind": "media",
-      "published_at": "2026-10-18T15:10:32Z",
+      "published_at": "2026-10-18T18:57:48Z",
       "first_seen": "2026-10-18T15:57:38.771742Z",
       "score": 6,
       "ai_generated": false,
@@ -1875,15 +1875,15 @@
     {
       "id": "c656ecc3f3ddd158",
       "category": "world",
-      "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
-      "summary": "Ukraine used more than 1,000 drones to target Russian oil depots, logistics facilities and datacentres Two people have been killed and at least 17 injured as Russia and Ukraine continue to trade strikes on each other’s power infrastructure,",
+      "title": "Zelenskyy thanks Trump for resumed intelligence sharing after US Starlink ‘message’",
+      "summary": "Two people killed and at least 17 injured as Russia and Ukraine continue to trade strikes on power infrastructure Volodymyr Zelenskyy on Sunday thanked the Trump administration for resuming intelligence sharing between the two countries, bu",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
       "url": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
       "source": "The Guardian World",
       "source_kind": "media",
-      "published_at": "2026-10-18T14:31:30Z",
+      "published_at": "2026-10-18T16:37:52Z",
       "first_seen": "2026-10-18T15:57:38.771742Z",
       "score": 6,
       "ai_generated": false,
@@ -1902,6 +1902,23 @@
       "source_kind": "media",
       "published_at": "2026-10-18T10:29:46Z",
       "first_seen": "2026-10-18T10:59:54.541637Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "d8c9aec304ac1db4",
+      "category": "world",
+      "title": "Jordon Steele-John says ‘I’m not on leave’ and accuses Greens leader of making ‘bad call’ regarding complaints",
+      "summary": "Greens senator for WA says complaints regarding his behaviour towards women not about ‘accountability’ but rather ‘factionalism’ Get our breaking news email , free app or daily news podcast Jordon Steele-John has accused an internal faction",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/18/greens-senator-jordon-steele-john-says-not-on-leave-blames-david-shoebridge-complaints-ntwnfb",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-18T09:51:48Z",
+      "first_seen": "2026-10-18T20:52:29.343059Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -1936,6 +1953,23 @@
       "source_kind": "index",
       "published_at": "2026-10-18T04:17:31Z",
       "first_seen": "2026-10-18T04:37:41.079293Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "5cec2d6f793ed18a",
+      "category": "world",
+      "title": "地缘冲突加速能源转型步伐|能源危机|能源政策|维也纳|奥地利|论坛 - 新浪财经",
+      "summary": "地缘冲突加速能源转型步伐|能源危机|能源政策|维也纳|奥地利|论坛 新浪财经",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY24zY2dvaVdwYjFRbUVsbEp1aXRkaERhY0tGQ3dXdDdYUjhuRUFQN1hrOUtfdDFmZllTcVUyNDB2Ym9yd0s4QndmSXRXYXJkWEcyNW0ydHg1UlhJMDZ4YU5WcVpqQVdmZUJ3SzRDUWlwQ0NEZ1B4VXVKMDQyZGRnanBjeDhZandlS0xSbWxlM0tQekJR?oc=5",
+      "source": "国际要闻 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-18T03:19:34Z",
+      "first_seen": "2026-10-18T20:52:29.343059Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2140,40 +2174,6 @@
       "source_kind": "media",
       "published_at": "2026-10-17T07:00:24Z",
       "first_seen": "2026-10-17T10:38:14.480942Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "15e5bd384fcd83b1",
-      "category": "world",
-      "title": "中国裁军大使：反对一些国家歪曲抹黑中国核政策 - 凤凰网",
-      "summary": "中国裁军大使：反对一些国家歪曲抹黑中国核政策 凤凰网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1sZmxoYVVfX09OTTM1TE1UbU0wOWFvcnZpTXJQYU1uai12MElFckVXUTlPclIxQS1ucU5DM3JBYW5IUHRwblNmYnRsdVI?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-17T06:21:22Z",
-      "first_seen": "2026-10-17T10:38:14.480942Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "2668d4b9613e20e8",
-      "category": "world",
-      "title": "中方说克罗地亚总统认为台湾是中国一部分 克方新闻稿只写支持一个中国政策 - 茉莉花新闻网",
-      "summary": "中方说克罗地亚总统认为台湾是中国一部分 克方新闻稿只写支持一个中国政策 茉莉花新闻网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5zSjZiTm1rQzJ6OEVDRlloRHdNLWJ2UUxOYlFvNzlrRzRGdXEzd3FoZTlnNDZXb01Ya3lWd3lGRTA4TmthVTdj?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-17T03:47:16Z",
-      "first_seen": "2026-10-17T04:31:09.601536Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2428,13 +2428,13 @@
         "name": "新西兰移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 11
+        "items": 10
       },
       {
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 29
+        "items": 28
       },
       {
         "name": "英国移民政策 · Google 索引",
@@ -2482,7 +2482,7 @@
         "name": "AI 行业 · Google 新闻索引",
         "category": "tech",
         "ok": true,
-        "items": 34
+        "items": 35
       },
       {
         "name": "Ars Technica",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 13
+        "items": 14
       },
       {
         "name": "MIT Technology Review",
@@ -2519,7 +2519,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 29
+        "items": 31
       },
       {
         "name": "The Guardian World",
@@ -2531,13 +2531,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 11
+        "items": 10
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 18
+        "items": 15
       }
     ]
   }
