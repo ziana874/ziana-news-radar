@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T17:18:06.666427Z",
+  "generated_at": "2026-10-22T21:43:15.648115Z",
   "is_demo": false,
   "items": [
     {
@@ -30,7 +30,7 @@
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOG5DN3FVc3hjQndZSE51VUdpandZa1hFYnQweFRYNE9kdDNoMVpiRXJYeUlBb1VCMmJWX2UxOTgzNUlLVUVYTXloUlhmaTNPRGN0UVNwNjhnZk5FTEdLTTBiemRJeEg2SzR5MVRLUDRlT0hPQnpvY21YcEYzQkRkZUdqR29TUHVleTIzTXFjdmZUMWQ1STFhOXRXNEJYSGs3a2hwdl9MSnBycXl0X1VLdEt5TGNESXoxLWU1MTdnSnh3eFp4R0ZZcjNDbnFOZDhQSVBN?oc=5",
       "source": "澳洲移民官网 · Google 索引",
       "source_kind": "index",
-      "published_at": "2026-10-22T17:00:07Z",
+      "published_at": "2026-10-22T20:53:02Z",
       "first_seen": "2026-10-16T16:45:46.798264Z",
       "score": 12,
       "ai_generated": false,
@@ -47,8 +47,25 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "source": "Cointelegraph",
       "source_kind": "media",
-      "published_at": "2026-10-22T13:22:57Z",
+      "published_at": "2026-10-22T20:09:59Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "2d3ae0288d4798e8",
+      "category": "tech",
+      "title": "MIT researchers stranded an AI agent on a desert island. What happened could change how robots are trained - Fast Company",
+      "summary": "MIT researchers stranded an AI agent on a desert island. What happened could change how robots are trained Fast Company",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUllOR3NnWkh3NWxXeUJwaUdIaGRibVJRXzdVQzhnVXpPTG5HU1BLU1RJLWVkM2p4aUo2Uzh0ZWkzTkFrVjNUQXJRbUhBRjRMOFNVQ2d1ZFRDV1o3ZTgwcTdRUjNkR25yRUhqV3VwclVfX21FMVBfc2phMTFvV2t2TzF5RzNTRTRkMU9rdkxjMHpDNDFlUER1Ulh2LWsyNnZHdVRERU1TbjViUTJBNVdPV1VnLU8yMjJuZHlDZnBvZjZQaG03UWJyeW50NVhZY0ZNZnZN?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-22T18:47:12Z",
+      "first_seen": "2026-10-22T21:43:15.648115Z",
       "score": 12,
       "ai_generated": false,
       "policy_status": null
@@ -989,23 +1006,6 @@
       "policy_status": null
     },
     {
-      "id": "fcf1ab37f88802c0",
-      "category": "tech",
-      "title": "TGVP: Infrastructure, Not Model Quality, Is the Primary Bottleneck to Enterprise AI Agent Adoption - Yahoo Finance",
-      "summary": "TGVP: Infrastructure, Not Model Quality, Is the Primary Bottleneck to Enterprise AI Agent Adoption Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQUViYmJacDFuVUJVZUxlSW5yaTRWbVFDajljaHNuQ1hoS19RSlBvdnJDMDVma0pBY2dMQ0JhaWlHZ0s1Yl9YQnRGNlg2MnA4cXZOSkpaVU1NMHp3TlB4QV9XSGhUWlRuN1lsSE1FZ1dEd3BzdE9Bbzhwa0JBX1dydVUxWFNGSG5LamlENHRRUTN4bmF5anBSMktCLXE1LUhKamxN?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-19T10:05:44Z",
-      "first_seen": "2026-10-19T13:05:40.195697Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "6a0a0d5fcd80682c",
       "category": "world",
       "title": "国际关系学院外交与国际政治学系党支部书记乔旋参加2026年全国高校教师党支部书记“双带头人”示范培训班 - 对外经济贸易大学新闻网",
@@ -1159,6 +1159,40 @@
       "policy_status": "待核验"
     },
     {
+      "id": "0faf893b9163b3a5",
+      "category": "investing",
+      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - The Detroit News",
+      "summary": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff The Detroit News",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYm5aQzdLdTM2OGhvOGQ5RVo2Q05IU18xdkc2Qk9iejU5TGQtc2hCZEJVRDVCOWdhQkVEcFdrc1dMWlJQbjVtVDhES3E3X0M5aUtKaDAtdTE3RUZ2bENJVVV0U0pFRVczZDdSTGhyeGZkV2VjYTVxNnNhRy14V0gxZGNkRDFaNThGYWhtM3ZOSHdrQ1p6TWR3NHh3ZlVQaFRzSXdKTHB0Z1lZTXY0LWkxMVlOX1J5VDBfUk51a2ltbkUwY3Y1dTA0Qkp3QkVlc0VoSG9zY3VB?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-22T20:51:00Z",
+      "first_seen": "2026-10-22T21:43:15.648115Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "1d86023885784377",
+      "category": "investing",
+      "title": "S&P 500 on track for first down day in four sessions, Nasdaq tumbles again - CNBC",
+      "summary": "S&P 500 on track for first down day in four sessions, Nasdaq tumbles again CNBC",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0FXbzROTVdQVGl0TXFkMl9xNFAwMnlMUGpxQUxsM1NqQWRNR2d4YzRJeGZyNDNNV0otRXNDc05Md2hqaWdMaWw4YmQ2cEZBZXBVeW1qLWM5Q1BwaVlkY3ZhQURSeGJtWmxOeVhUVVN4TUdsRHVsVkZVaXl4cnpGbUZHcXdZU3psTEJOS2RyUGFRN2EzUjFRSlBLdDRqQmpKc3hsaVNrYjZFa3M5NnF1aDNyQlBoZw?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-22T19:16:27Z",
+      "first_seen": "2026-10-22T21:43:15.648115Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "cad5a4eb9ef393c1",
       "category": "investing",
       "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
@@ -1212,8 +1246,8 @@
     {
       "id": "8b66d3f7faacb1b1",
       "category": "investing",
-      "title": "CSX, Nasdaq Inc. Flash Buy Signals As Nasdaq, S&P 500 Slide - Investor's Business Daily",
-      "summary": "CSX, Nasdaq Inc. Flash Buy Signals As Nasdaq, S&P 500 Slide Investor's Business Daily",
+      "title": "Nasdaq Inc., CSX Flash Buy Signals As Nasdaq, S&P 500 Slide - Investor's Business Daily",
+      "summary": "Nasdaq Inc., CSX Flash Buy Signals As Nasdaq, S&P 500 Slide Investor's Business Daily",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -1383,7 +1417,7 @@
       "id": "441ead6a8c7578ca",
       "category": "world",
       "title": "Economy set to worsen, with higher unemployment and weaker growth on the way, Jim Chalmers reveals",
-      "summary": "Treasury is revising all the numbers for the mid-year budget update as economists warn of a difficult six months ahead Get our new political email , free app or daily news podcast Jim Chalmers has revealed December’s mid-year budget update ",
+      "summary": "Treasury is revising all the numbers for the midyear budget update as economists warn of a difficult six months ahead Get our new political email , free app or daily news podcast Jim Chalmers has revealed December’s midyear budget update wi",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -1465,6 +1499,23 @@
       "policy_status": null
     },
     {
+      "id": "5d1b5004f4a053bc",
+      "category": "investing",
+      "title": "Live updates: Bitcoin falls back to $81,000, with interest rates tumbling as stocks crack",
+      "summary": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+      "source": "CoinDesk",
+      "source_kind": "media",
+      "published_at": "2026-10-22T09:54:26Z",
+      "first_seen": "2026-10-22T21:43:15.648115Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "949114de68785a41",
       "category": "investing",
       "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as traders assess Tesla, Meta earnings - Yahoo! Finance Canada",
@@ -1476,57 +1527,6 @@
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-10-22T09:45:00Z",
-      "first_seen": "2026-10-22T17:18:06.666427Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "d7b0a96be0abf3df",
-      "category": "investing",
-      "title": "Is Invesco S&P 500 Equal Weight Consumer Discretionary ETF (RSPD) a Strong ETF Right Now? - Yahoo Finance",
-      "summary": "Is Invesco S&P 500 Equal Weight Consumer Discretionary ETF (RSPD) a Strong ETF Right Now? Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVRLT0JpTEZLOEpMVVFqRlUxTng3dXVuOFdrS1lJU1VpRVhtUG9NMW1XVmFVcnd6aHhwLVR2WHZnLXVyaHhma3JDc3VnT1lKbXpkUjh5WTRiY3l5YmctcktlWFdEbGN1cnRLaTZ4NUtFSEhqMzl6bXJSbTBaQmRCY25ob2VrZEk3MlI4SEliYk5Gcm1tTnc?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-22T09:20:02Z",
-      "first_seen": "2026-10-22T17:18:06.666427Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "be64afab9b099c8b",
-      "category": "investing",
-      "title": "Should iShares Nasdaq Top 30 Stocks ETF (QTOP) Be on Your Investing Radar? - Yahoo Finance",
-      "summary": "Should iShares Nasdaq Top 30 Stocks ETF (QTOP) Be on Your Investing Radar? Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUk5VV1NXODd2YURtalVUaTM3WGdEdWlBc2lhdmN4a09hYWRLZzNzdzBOOFQxeWptWk1hVGdBRnZRNDNkZVdoSmR0Z1E2cHR1Um5iMGpCRXZobHlaQnd1SENsV1NVSXJlLU53dk01TEdvQ0MxM3EzSzFrX013YXF6c05hbDJPcjA5bk1SWEc4MzkzQWgyYUNzQw?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-22T09:20:02Z",
-      "first_seen": "2026-10-22T11:46:25.335192Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "8629c301f3ab39de",
-      "category": "investing",
-      "title": "France’s MiCA crypto regulation proposal links DeFi liability to security checks - The Cryptonomist",
-      "summary": "France’s MiCA crypto regulation proposal links DeFi liability to security checks The Cryptonomist",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1tcEtRMzltMnF2YXdraGRnMnJBT1JoRDYzVmN6eERSSVJXVGJoa3FWR2R0SVZXTDdIMDBJOHloSnRkekhOcXgzWmtRZ29nQlh1OGc0cnRNcHh6NTk2emNHUURRck9WM015NFNZMmtGbkcyLWpBdV9R?oc=5",
-      "source": "Web3 监管 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-22T09:13:43Z",
       "first_seen": "2026-10-22T17:18:06.666427Z",
       "score": 8,
       "ai_generated": false,
@@ -2179,6 +2179,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "9dd413d3327260ac",
+      "category": "world",
+      "title": "中菲外交争议持续，马尼拉批评中国驻菲使馆言论“升级且有违外交礼仪” - 美国之音",
+      "summary": "中菲外交争议持续，马尼拉批评中国驻菲使馆言论“升级且有违外交礼仪” 美国之音",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPejJBOGt1SVJ5dUJHM0NlT0VKbUg1ZEhQc2d4Q2s1OFE4VHRXQTREUi01RkpXVU9uNmg0c3h5TTdLb0QwX1NxVHZOaURpUS1FZlMwbEFySVFjaWplRlgtckpjMFhNQjJ2OTNZLXNTSmVHbjRXMzZZbjdzRWFOc0ZqWllEM1NwbHJHQXZ5Tnkxb0FpVEJiSGh6VnVSQzNRaUgxd2tFa1FsZ2dKSDlsZ252ZkREbWtPWWhoWDdEQU9qSEhQLWRWa1HSAcgBQVVfeXFMTXpZa3dQR2lIT25OVnZ0ZmZZTTlteHZ2SWhDNWFUZmpFa3AyejZnalZrTFdzWlVDM0NXTGhkS25fckptalVFNWVELW9aLXJTTGc3aGk3MVkxSWIwQ3dFMVZySFBhM2RqNGpIa2VNVUJoekVoV3BqMFJ4elV2cVlVZHgxdkpiR3pmQ3dhU0dRbnhVWmhzajRlLUFVTUhqTkRjQ0hsR0lTTks0TlFvek9XYnJ6S3dQTWQtSlBDdjFVSHFxVEp0cW5naS0?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-22T17:11:25Z",
+      "first_seen": "2026-10-22T21:43:15.648115Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "8487bcceecf1c3a8",
       "category": "world",
       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
@@ -2364,23 +2381,6 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "732ce9999569564c",
-      "category": "world",
-      "title": "菲方声称尽管奉行承认一个中国政策，但仍在探索与台湾地区深化合作，中方回应，在台湾问题上没有“灰色地带”#一财情报局 - 搜狐",
-      "summary": "菲方声称尽管奉行承认一个中国政策，但仍在探索与台湾地区深化合作，中方回应，在台湾问题上没有“灰色地带”#一财情报局 搜狐",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORUlWczNJbXRXeHpKMWhBTTdHVDNOTXlQdTZQcEJmekt0TWF6T2ZWaDZwdEVsbzNiODJfeGlCelRkNVFIbjBlS3Y0ZGNFNG5yQUY2clVqY09kZ1p5OW5SY2VGeWZPWVhPUUd2Q3FKZTFEdGJPNjdyOE9PajM5d2hqdnBYWjBncjE0?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-22T09:08:59Z",
-      "first_seen": "2026-10-22T11:46:25.335192Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
@@ -2391,10 +2391,10 @@
       "1928454a3088c1df"
     ],
     "tech": [
+      "2d3ae0288d4798e8",
       "ce5948eae0bf42a6",
       "1de8e62ff715d1f1",
-      "523fb7a33da219bd",
-      "56702cb0c64f6365"
+      "523fb7a33da219bd"
     ],
     "immigration": [
       "f1ff7900dc914f4f",
@@ -2536,7 +2536,7 @@
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 4
+        "items": 9
       }
     ]
   }
