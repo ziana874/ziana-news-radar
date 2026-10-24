@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:29:25.330643Z",
+  "generated_at": "2026-10-24T04:40:38.256048Z",
   "is_demo": false,
   "items": [
     {
@@ -30,7 +30,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
       "source": "新西兰移民官网 · Google 索引",
       "source_kind": "index",
-      "published_at": "2026-10-23T17:34:06Z",
+      "published_at": "2026-10-24T01:12:31Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
@@ -224,23 +224,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "68353397be1ed306",
-      "category": "tech",
-      "title": "Sci$\\Pi$vot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
-      "summary": "arXiv:2610.21082v1 Announce Type: new Abstract: Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluati",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2610.21082",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-10-17T04:00:00Z",
-      "first_seen": "2026-10-16T04:35:40.545421Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "143aa5efdf4b589d",
       "category": "immigration",
       "title": "Applying for a Student visa (subclass 500) or Student Guardian visa (subclass 590) while in Australia - Immigration and citizenship Website",
@@ -273,6 +256,40 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "3c1e742d23fa094f",
+      "category": "investing",
+      "title": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus - TradingView",
+      "summary": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus TradingView",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYlg0SkpBNHhBNmRXZ1BMcmFVakc4QVNXQ0ltWjZTX2NBa0toa3kyY29xY21rVElRS3BuTlFyOVRsQzd6N1FQR0pOYlloVjVTUFJJNFVlYzhYb24xenAyemttaGhBcUVEdXU4N0F1cURibFJNWEllSmtmcG9mZGpBSkpHNnpoNmRsaGhSTGhHOFgzSlRveWFlTG9pa0lranE2S3NXSzJ5YnVZMEQxSUkwUk8xdXlCSXY4S3V4SElZYWtwQ1A1OFZodVZNb181MGEyUmdnQk4wanNiQ0I0RUlkc2QzajUyM0ltdXFiRWMwUFRCVWVRMkNMZDY3Sjh4WFRqSVBhQi1HdFFUMWZa?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-23T22:35:57Z",
+      "first_seen": "2026-10-24T04:40:38.256048Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "cfb4ca4af36984c5",
+      "category": "investing",
+      "title": "S&P 500 Earnings Face Key Test as Fed, Inflation Data and Tech Giants Take Focus - Investing.com",
+      "summary": "S&P 500 Earnings Face Key Test as Fed, Inflation Data and Tech Giants Take Focus Investing.com",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMS1BeUFyWFZEVktWTFhLMGFRc2RHOGJIRWZyVUFNSWtucHREZEtOZ0RJYXJWd3pkMzMwQTlfenhvRV8zMzQxRVBEREZ2M2hhaDJRd0o1UC0wVHNEUGNnM1BINDZ1cVVycmZXTk9rU2F4S1hLU0t3cFhDemR4WW5SX1F5c2s2dHV1cU9WcGlFUURfclVPRWNrNndaRTIySlh2Z0EtUWhoMDFQYVZuS1IxSmFuZkM3SGlmWXQ4M1A1eTU?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-23T20:58:13Z",
+      "first_seen": "2026-10-24T04:40:38.256048Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "95b8501cf2b652eb",
@@ -1125,6 +1142,91 @@
       "policy_status": "待核验"
     },
     {
+      "id": "7a262dcfaa4899f6",
+      "category": "tech",
+      "title": "AI agent governance takes shape at Okta’s Oktane event - SiliconANGLE",
+      "summary": "AI agent governance takes shape at Okta’s Oktane event SiliconANGLE",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUJlSkVyRTRGLXpDWm1KVnJYWHhvQzEwcXU1LWhhYnlLQnpqUHBZMW11UU04Z3ZsNEVEYk53TmdwVTlBTTVhem9zTFhPOEdHN0EzS2FZdVpxcW84dndRRWtXT2tOQ3lCUWlMNndqdUdrSWFJbmNLeU8xOFNPYnpNRm5jZTF1ODl1TGplNjhCQ0k1N0htTV9ub3F3?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-24T03:52:00Z",
+      "first_seen": "2026-10-24T04:40:38.256048Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "4be00a5f19341573",
+      "category": "world",
+      "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+      "summary": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled Typhoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power a",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-24T02:22:32Z",
+      "first_seen": "2026-10-24T04:40:38.256048Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "7717fbc09a707a3f",
+      "category": "investing",
+      "title": "S&P500: Defensive Stocks Slide as Nasdaq Finds Narrow Chip Support - FXEmpire",
+      "summary": "S&P500: Defensive Stocks Slide as Nasdaq Finds Narrow Chip Support FXEmpire",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSW1iUGNNcEZydGdPZXp4ZkFROHVYRlhTa2FXSFQ5Tmg2OV9OMHMtZ2ZJMjFra2Nxc0xFekp6bGl5WTVrOEQ0NW5XUjc4RGMwYlVpWU1JTkNUVFdOdk9vTFdHSEpwRFM3MnlMc1hiY2RuNzhXeDNFR3NwZ0lzNlE3TFpQTGlNUV8tZjlhNDctbno1bzlRV0dmTjV1NDBQUXBFcHFxeVNyZWEyS1AtV2FYNVhPRWk3Zw?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-24T00:31:43Z",
+      "first_seen": "2026-10-24T04:40:38.256048Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "dc3686e50e575745",
+      "category": "investing",
+      "title": "Seeking to Outpace the S&P 500? Give Dividends a Shot - ETF Database",
+      "summary": "Seeking to Outpace the S&P 500? Give Dividends a Shot ETF Database",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGtqc1FmcWZPWTlVZ2d6RzMxY0J0RzBDSHF4T3RkMDllc24xRllsYWtXNFFVVXgtbFhKSWswX1hEc0RlSjFmYnAwZEZOYXlhcjdwcGVXbHRXal9EM1loMG8zRzE0OFlUcDV4QTRJbE4xU1BxQlNXQlFFRmN6ZFJPb1VDUk1CYjFfUUR2RXp2ekllV2Q0VVM3T0d1VHY1RWVBaWRDdw?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-23T22:06:09Z",
+      "first_seen": "2026-10-24T04:40:38.256048Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "211a8eb3f94908b4",
+      "category": "investing",
+      "title": "Cryptocurrency companies can keep paying interest-like rewards, say federal bank regulators - The Miami Times",
+      "summary": "Cryptocurrency companies can keep paying interest-like rewards, say federal bank regulators The Miami Times",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOOVBSRUxIVUhUTXpLMC1nb3l1cTllU2plWFFPMFBkZFJtOUVwdktjTXhiTGs3WXEyNzNFaTFmVXlZWGR3NEhLYXVXWFdPNmNkeUVDbF9ncVF5UEdfYXBzYjVoNkY1Q1F4ZHBNRnJaclhLZlFhdC1kc29wN0MyRl9QbTREeFY2OEM3a214eTF3QUNJaGlSLWZoQTk0N0dkbXU0ZmtTQUt0RjY3d3o2SHJKb0lRQjVLdFNwQXpnNmh6ajlrQ192d3dIQUJzVDlGSDN4MlVlUVduVTZsR1BtaGwwYWF2QlJlSXBnSVhxWVU0S0l0SlVLMlVKelVDUGwySVhLLUgyTGpNSmdwUDdBQkFudEN5QlLSAZQCQVVfeXFMTjlQUkVMSFVIVE16SzAtZ295dXE5ZVNqZVhRTzBQZGRSbTlFcHZLY014YkxrN1lxMjczRWkxZlV5WVhkdzRIS2F1V1hXTzZjZHlFQ2xfZ3FReVBHX2Fwc2I1aDZGNUNReGRwTUZyWnJYS2ZRYXQtZHNvcDdDMkZfUG00RHhWNjhDN2tteHkxd0FDSWhpUi1maEE5NDdHZG11NGZrU0FLdEY2N3d6NkhySm9JUUI1S3RTcEF6ZzZoemo5a0Nfdnd3SEFCc1Q5RkgzeDJVZVFXblU2bEdQbWhsMGFhdkJSZUlwZ0lYcVlVNEtJdEpVSzJVSnpVQ1BsMklYSy1IMkxqTUpncFA3QUJBbnRDeUJS?oc=5",
+      "source": "Web3 监管 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-23T20:52:00Z",
+      "first_seen": "2026-10-24T04:40:38.256048Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "1020a4e803d8da1f",
       "category": "investing",
       "title": "Dow Drops 653, Nasdaq Falls 54, S&P 500 Falls 40 - TV News Check",
@@ -1152,7 +1254,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LaU1HNTVtdS1CVVFVNnpBRWtYQVZEdmZxdTVvZDd6UWdmVHM4UW1jSGg2MVV3VGk1cFdlMmY3cFFweEQ5ZjN2SVZPRWR2aVA2UzduZkZJNVRaUnY0am9oSGlmc2FodHdKUGxWbWtmdHM3dFhEaG9ycXN2TkpTdw?oc=5",
       "source": "Web3 监管 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-23T17:26:09Z",
+      "published_at": "2026-10-23T18:01:24Z",
       "first_seen": "2026-10-23T21:29:25.330643Z",
       "score": 8,
       "ai_generated": false,
@@ -1409,91 +1511,6 @@
       "source_kind": "index",
       "published_at": "2026-10-22T23:55:24Z",
       "first_seen": "2026-10-23T04:54:38.710467Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "665d1dd9ae2889c7",
-      "category": "investing",
-      "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
-      "summary": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff Reuters",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-22T23:54:52Z",
-      "first_seen": "2026-10-23T04:54:38.710467Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "60f1620f204bfe4d",
-      "category": "investing",
-      "title": "3 Vanguard ETFs Pay Up to 3.71%, and One Is Beating the S&P 500 - Yahoo Finance",
-      "summary": "3 Vanguard ETFs Pay Up to 3.71%, and One Is Beating the S&P 500 Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZnE1REdRYmxPanA5WDZmODF5cDRnT2RESjJQdkpwUFBTQ3JrSVExbDN2bDRRVDZKQWEwOUdoc3Q0dVh1TzVDMVZFX1A3NFk5WnFtM0UxUF9aRHZzSVJBdTFWVkhad0FIMkdEcEJZWkpqVjZPQjB1WnJDd3k2T3dDLUV5VXNzbjVBWGtoLTZjZw?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-22T23:03:49Z",
-      "first_seen": "2026-10-23T04:54:38.710467Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "f99c03915ac26661",
-      "category": "investing",
-      "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
-      "summary": "According to a Circle shareholder, the US president’s “corruption” through USD1 left the company unable to compete with stablecoins, harming USDC.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-10-22T21:39:18Z",
-      "first_seen": "2026-10-23T04:54:38.710467Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "1d86023885784377",
-      "category": "investing",
-      "title": "S&P 500 on track for first down day in four sessions, Nasdaq tumbles again - CNBC",
-      "summary": "S&P 500 on track for first down day in four sessions, Nasdaq tumbles again CNBC",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0FXbzROTVdQVGl0TXFkMl9xNFAwMnlMUGpxQUxsM1NqQWRNR2d4YzRJeGZyNDNNV0otRXNDc05Md2hqaWdMaWw4YmQ2cEZBZXBVeW1qLWM5Q1BwaVlkY3ZhQURSeGJtWmxOeVhUVVN4TUdsRHVsVkZVaXl4cnpGbUZHcXdZU3psTEJOS2RyUGFRN2EzUjFRSlBLdDRqQmpKc3hsaVNrYjZFa3M5NnF1aDNyQlBoZw?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-22T19:20:01Z",
-      "first_seen": "2026-10-22T21:43:15.648115Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "cad5a4eb9ef393c1",
-      "category": "investing",
-      "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-      "summary": "According to BlocksBridge, Bitcoin’s mining difficulty is rising despite the industry’s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-10-22T16:50:51Z",
-      "first_seen": "2026-10-22T17:18:06.666427Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1941,23 +1958,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "5987fe721f681929",
-      "category": "world",
-      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-18T23:28:45Z",
-      "first_seen": "2026-10-19T04:44:44.000302Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "5e09c4af53e1a858",
       "category": "immigration",
       "title": "下載「Go 香港」安卓應用程式套件| 入境事務處 - Immigration Department",
@@ -2196,6 +2196,57 @@
       "policy_status": "待核验"
     },
     {
+      "id": "9686b15cacf41fe0",
+      "category": "world",
+      "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+      "summary": "WA politician says he considered attending Senate estimates virtually but was told it would be ‘unacceptable’ Get our new political email , free app or daily news podcast Jordon Steele-John has confirmed he will not attend parliament next w",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-24T00:52:33Z",
+      "first_seen": "2026-10-24T04:40:38.256048Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "ed7adddd60cf5c94",
+      "category": "world",
+      "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+      "summary": "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-24T00:30:02Z",
+      "first_seen": "2026-10-24T04:40:38.256048Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "ce40f133fa2ecf45",
+      "category": "world",
+      "title": "中国经济高质量发展取得新成效_国际财讯 - 证券之星",
+      "summary": "中国经济高质量发展取得新成效_国际财讯 证券之星",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lRGgxUnVDQTBZYXdUa2NjRmVUeWtjR1JIZUYtaC1aTnZKU0J4aVhqVERuNUZkeWxycUVyNXJjRVNlVDFMQTl4UUxTTDZoeFFnR2VmYUpyZEZwVkxMcUdiRXlHN3A?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-23T23:11:00Z",
+      "first_seen": "2026-10-24T04:40:38.256048Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "29b110fe8dec7818",
       "category": "world",
       "title": "US and Israel are warned against launching fresh strikes on Iran",
@@ -2330,65 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "676bfadc26ed9503",
-      "category": "world",
-      "title": "Exclusive: Leaked trove reveals extent of far-right AfD’s efforts to court Trump and Maga allies",
-      "summary": "Documents show German party’s scramble to request support after president’s 2016 election win and co-leader’s pursuit of Steve Bannon A data leak from Germany’s far-right German Alternative für Deutschland (AfD) has revealed the extent of e",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/us-news/2026/oct/23/trump-afd-maga-allies",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-23T11:07:00Z",
-      "first_seen": "2026-10-23T11:33:31.516218Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "45efebf6ab2d0678",
-      "category": "world",
-      "title": "中国经济时报特别策划丨以智启新：打通从技术到产业的AI跃迁之路 - 新浪网",
-      "summary": "中国经济时报特别策划丨以智启新：打通从技术到产业的AI跃迁之路 新浪网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd1BRTUhrSERIWEMwX1hCb2tRYWU3WEZyX3JfUzBmaEdoS1lwTGZsd21jTWk5cm8yWXhEWTFvV3pNdzViajlCZktJazhrZG9nUHhwSVJ3RDRrRF9zcXFnalFfUGF2WW81NFlPT194MXo5Rm45UXVtVU5rd2ktV2s?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-23T10:55:00Z",
-      "first_seen": "2026-10-23T11:33:31.516218Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "9e0ab68a8100cb3b",
-      "category": "world",
-      "title": "中国经济面面观丨4.6%的成绩单：宏观企稳，微观向新 - 中国证券报",
-      "summary": "中国经济面面观丨4.6%的成绩单：宏观企稳，微观向新 中国证券报",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JUE1TXzBMRFo4QWFrYlB1T21ZT0kwTjAxLTdLUDgxX3FpVGZlUlZVcWJRamRuTF9aaF9leUdkWlhURC03NHZDbl9xN21wOFJwbnprNS1HYVdzcFpaMU1WXzBBamkxbHdOTnk2dmpXRkV4eXpsWGdpWA?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-23T10:42:00Z",
-      "first_seen": "2026-10-23T11:33:31.516218Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "286892780cea69df",
       "6a0a0d5fcd80682c",
-      "27aedf231eb6a418",
-      "08de592bcd570a3e"
+      "4be00a5f19341573",
+      "27aedf231eb6a418"
     ],
     "tech": [
       "2d3ae0288d4798e8",
@@ -2405,8 +2405,8 @@
     "investing": [
       "b431ea497743c593",
       "5ae4b61fd0bf4e0f",
-      "26f48e97c598a830",
-      "0d9133e856bab456"
+      "3c1e742d23fa094f",
+      "cfb4ca4af36984c5"
     ]
   },
   "ai": {
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 20,
-    "failed": 0,
+    "ok": 19,
+    "failed": 1,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2434,7 +2434,7 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 28
+        "items": 23
       },
       {
         "name": "英国移民政策 · Google 索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 10
+        "items": 11
       },
       {
         "name": "MIT Technology Review",
@@ -2505,8 +2505,9 @@
       {
         "name": "arXiv AI 论文",
         "category": "tech",
-        "ok": true,
-        "items": 35
+        "ok": false,
+        "items": 0,
+        "error": "Feed returned no entries (invalid, empty or blocked)"
       },
       {
         "name": "BBC China",
@@ -2530,7 +2531,7 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 32
+        "items": 28
       },
       {
         "name": "国际要闻 · Google 新闻索引",
