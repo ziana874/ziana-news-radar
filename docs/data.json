@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:20:14.446997Z",
+  "generated_at": "2026-10-25T16:32:25.083785Z",
   "is_demo": false,
   "items": [
     {
@@ -256,6 +256,23 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "3a9c6837ae0387c2",
+      "category": "tech",
+      "title": "TUM Convergence Center and TUM RoboGym powered by NEURA unite research, talent and industry to accelerate the development of AI and robotics - sUAS News",
+      "summary": "TUM Convergence Center and TUM RoboGym powered by NEURA unite research, talent and industry to accelerate the development of AI and robotics sUAS News",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPd1MtXzNIYTR0QWtfeVRRRW9CUkVBX3JsTnhRNVJwdmZNeXBvNVFJdldlcVI5NFBjeGhoUmtsMHhWeUtXVml3S05XYnVjWl9ZSzIxUEx6dkVUSkRtdE83d09tSUdlWG81djBWd0I5OVdqbk1ORWNtYTY1eWpObEhRUmVKNG9aU0M1UG55ZVlUc0dtZVJSOFRDZzA1dTlTZW00U3J4TkV6SEpuR2lmNGtMSm9xT3lPNngxbHRjU2c3MXpaWkNiOWd2bmh6d3lnSS1WenI4ZThjS1dtS01LNTVoZkJNMEpIMW05aDl4cGVJU2dTUnhYZW1JWGtteUlneUF2ZWN3?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-25T10:29:27Z",
+      "first_seen": "2026-10-25T16:32:25.083785Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "3574b8c3b75956b3",
@@ -921,23 +938,6 @@
       "policy_status": null
     },
     {
-      "id": "025d070c860f7406",
-      "category": "tech",
-      "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
-      "summary": "arXiv:2610.26943v1 Announce Type: new Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coher",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2610.26943",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-10-21T04:00:00Z",
-      "first_seen": "2026-10-21T04:52:43.525158Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "efad68278fe90bde",
       "category": "investing",
       "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
@@ -1123,6 +1123,40 @@
       "score": 9,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "1ecafaded844eaea",
+      "category": "world",
+      "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
+      "summary": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? Serbia’s former president and now prime ministerial ca",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-25T16:14:37Z",
+      "first_seen": "2026-10-25T16:32:25.083785Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "a4dafb4ffd3d8ff3",
+      "category": "world",
+      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "summary": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-25T13:43:19Z",
+      "first_seen": "2026-10-25T16:32:25.083785Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "ebe1df16a2b1da7f",
@@ -1788,57 +1822,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "1923f36683466d8f",
-      "category": "world",
-      "title": "（经济观察）中国政策利率或将“换锚” 利率调控机制不断完善 - 新浪新闻_手机新浪网",
-      "summary": "（经济观察）中国政策利率或将“换锚” 利率调控机制不断完善 新浪新闻_手机新浪网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OTzBxOGppa3VZRERYcjgxQ0pFdDFSUDJZLUE0ME12ejBpMUVrTlQ0RGlxZEtBTDQ2R19tQlFiWnZWTlJQcWt4VEYydmJjLWpzaGhJSWpVbVZkUTRYN19XQWtDNXJYTkhtR0JWdlVWTVlmNGZtTXc?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-20T15:10:38Z",
-      "first_seen": "2026-10-21T11:43:22.271805Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "1fb45a5f85d21d9c",
-      "category": "world",
-      "title": "瑞银证券首席中国经济学家宋宇：政策可预期与扩大开放，有助于资本市场繁荣发展_证券要闻 - 证券之星",
-      "summary": "瑞银证券首席中国经济学家宋宇：政策可预期与扩大开放，有助于资本市场繁荣发展_证券要闻 证券之星",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fbmZEakIzOVpSRHk2VkcxZUhKRU1zRHlaVEFuUkswYjlWNldraTQzSlhPbmszOWt5THJaVHhYaHAxVThRcTRQRkpNSFhuMnJDbzZqXzVROWRRek05YWMwRg?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-20T11:59:02Z",
-      "first_seen": "2026-10-20T17:17:38.235408Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "8fd0fc682d96b66b",
-      "category": "world",
-      "title": "瑞银证券首席中国经济学家宋宇：经济增长修复，政策重心转向稳预期和稳增长_证券要闻 - 证券之星",
-      "summary": "瑞银证券首席中国经济学家宋宇：经济增长修复，政策重心转向稳预期和稳增长_证券要闻 证券之星",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NbFRBODljTWxtTVNCdGNVc0VkTnQyemktSktoZEF5TGRZU0wtbS1MZWNqS0dRUENEbHdhdERjZDFYRW85WnMxSTVpOHVHZWhDbU40ZHAzajV5V3l2NmxOWHBB?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-20T11:56:01Z",
-      "first_seen": "2026-10-20T17:17:38.235408Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "e88ba9758bae73d3",
       "category": "immigration",
       "title": "Important Employment Court decision: overseas payments for New Zealand jobs are illegal - Immigration New Zealand",
@@ -2128,18 +2111,35 @@
       "policy_status": "待核验"
     },
     {
-      "id": "c2bce29ee383bc8c",
+      "id": "b4c30b6342df55a7",
       "category": "world",
-      "title": "Demand for UK government action 10 months after British man’s death in Grenada",
-      "summary": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicide A time-critical investigation into the death of a British man whose body was found in a ransacked property on the Caribbean island of Grenada has stal",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
-      "source": "The Guardian World",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "source_kind": "media",
-      "published_at": "2026-10-25T11:00:01Z",
-      "first_seen": "2026-10-25T11:20:14.446997Z",
+      "published_at": "2026-10-25T16:21:40Z",
+      "first_seen": "2026-10-25T16:32:25.083785Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "1c19bb8b19b2a8d8",
+      "category": "world",
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-10-25T16:05:15Z",
+      "first_seen": "2026-10-25T16:32:25.083785Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2155,7 +2155,24 @@
       "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
       "source": "The Guardian World",
       "source_kind": "media",
-      "published_at": "2026-10-25T08:00:58Z",
+      "published_at": "2026-10-25T14:41:17Z",
+      "first_seen": "2026-10-25T11:20:14.446997Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "c2bce29ee383bc8c",
+      "category": "world",
+      "title": "Demand for UK government action 10 months after British man’s death in Grenada",
+      "summary": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicide A time-critical investigation into the death of a British father whose body was found in a ransacked property on the Caribbean island of Grenada has s",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-25T11:00:01Z",
       "first_seen": "2026-10-25T11:20:14.446997Z",
       "score": 6,
       "ai_generated": false,
@@ -2264,6 +2281,23 @@
       "policy_status": null
     },
     {
+      "id": "2e8ce60f353be219",
+      "category": "world",
+      "title": "中国经济展现出较强韧性！兴业证券王涵最新表态 - 新浪财经",
+      "summary": "中国经济展现出较强韧性！兴业证券王涵最新表态 新浪财经",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YVDBZOVltNUJYWllEc0NvXzJjNlpFOUdHZHNmZ3lzMEtuZlVtdVFIdnB2NDJDUWFNOUFRQ3NGbENOR1N1bkN6VnJwd185dG0wQ0hYSy1FTEdZY1JLUThFbk1sMS14WUVkcmlNRGpsQzlTMWhqR01DTg?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-25T00:10:49Z",
+      "first_seen": "2026-10-25T16:32:25.083785Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "e28542dc8465e5b2",
       "category": "world",
       "title": "中国经济展现出较强韧性！兴业证券王涵最新表态_证券时报_媒体广场_财经 - 证券之星",
@@ -2347,48 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "f8f5184354bdbaaa",
-      "category": "world",
-      "title": "信贷资源加力支农支小 - 中国经济网",
-      "summary": "信贷资源加力支农支小 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xWldWYVNDT1dsblBIVTJISThTVU1zNGp0ZExyYUhFT3pBdDZ3VElzNkJvLWVoN3ZsTXRmenpQR2tHSV9lY0YybDRxUnhVS2dWM3VTc0dLVVdDUWJFR1RMcmRRNFEtM0hmZVZJdl9mVQ?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-24T22:22:00Z",
-      "first_seen": "2026-10-25T04:45:46.265994Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "5c1b93d236b3898f",
-      "category": "world",
-      "title": "Who are the candidates in Brazil's presidential election?",
-      "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-24T22:08:47Z",
-      "first_seen": "2026-10-25T04:45:46.265994Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "286892780cea69df",
-      "9c64516a99c86a66",
-      "5dbd5e1a6d69b642",
-      "4be00a5f19341573"
+      "1ecafaded844eaea",
+      "a4dafb4ffd3d8ff3",
+      "9c64516a99c86a66"
     ],
     "tech": [
       "2d3ae0288d4798e8",
@@ -2440,7 +2440,7 @@
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 3
+        "items": 4
       },
       {
         "name": "香港入境事务处 · Google 索引",
@@ -2470,7 +2470,7 @@
         "name": "纳指与标普 · Google 新闻索引",
         "category": "investing",
         "ok": true,
-        "items": 35
+        "items": 34
       },
       {
         "name": "美国美联储官方公告",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 15
+        "items": 18
       },
       {
         "name": "MIT Technology Review",
@@ -2519,7 +2519,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 32
+        "items": 31
       },
       {
         "name": "The Guardian World",
@@ -2531,7 +2531,7 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 19
+        "items": 17
       },
       {
         "name": "国际要闻 · Google 新闻索引",
