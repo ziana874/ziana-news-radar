@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:32:24.021618Z",
+  "generated_at": "2026-10-29T22:49:55.067596Z",
   "is_demo": false,
   "items": [
     {
@@ -47,7 +47,7 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "source": "Cointelegraph",
       "source_kind": "media",
-      "published_at": "2026-10-29T13:51:06Z",
+      "published_at": "2026-10-29T19:58:57Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
@@ -207,23 +207,6 @@
       "policy_status": null
     },
     {
-      "id": "2d3ae0288d4798e8",
-      "category": "tech",
-      "title": "MIT researchers stranded an AI agent on a desert island. What happened could change how robots are trained - Fast Company",
-      "summary": "MIT researchers stranded an AI agent on a desert island. What happened could change how robots are trained Fast Company",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUllOR3NnWkh3NWxXeUJwaUdIaGRibVJRXzdVQzhnVXpPTG5HU1BLU1RJLWVkM2p4aUo2Uzh0ZWkzTkFrVjNUQXJRbUhBRjRMOFNVQ2d1ZFRDV1o3ZTgwcTdRUjNkR25yRUhqV3VwclVfX21FMVBfc2phMTFvV2t2TzF5RzNTRTRkMU9rdkxjMHpDNDFlUER1Ulh2LWsyNnZHdVRERU1TbjViUTJBNVdPV1VnLU8yMjJuZHlDZnBvZjZQaG03UWJyeW50NVhZY0ZNZnZN?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-22T21:57:57Z",
-      "first_seen": "2026-10-22T21:43:15.648115Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "068c0a87b1adcc94",
       "category": "immigration",
       "title": "Requirements for India Skilled Work Visa jobs - Immigration New Zealand",
@@ -292,6 +275,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "d5f01f9dd738c00b",
+      "category": "investing",
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "source": "美国美联储官方公告",
+      "source_kind": "official",
+      "published_at": "2026-10-29T20:30:00Z",
+      "first_seen": "2026-10-29T22:49:55.067596Z",
+      "score": 11,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "847a7abc2726921c",
       "category": "investing",
       "title": "Federal Reserve issues FOMC statement",
@@ -324,6 +324,40 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "548c4b6eb5f2f1a4",
+      "category": "investing",
+      "title": "Update: Nasdaq, S&P 500 Snap 3-Day Rise on Alphabet Sell-Off, Inflation Anxiety - Yahoo Finance",
+      "summary": "Update: Nasdaq, S&P 500 Snap 3-Day Rise on Alphabet Sell-Off, Inflation Anxiety Yahoo Finance",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjllbTYwZGZ0N0tEV0N4TTh0cG9WOXl0d196MVB0bXUtdThPZmppMzBjMjZ4NGEzWmNSUFJCbmJTcWYtektWQ0tRY0tlZFM4Zm5GYXhDX0J5ZUQzdVhYOHY4RXFkbG9tclI0a1VFTHI2S044bV9IdWZiTkxhTjc0bXQxYVBxbDF5TzBnUA?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-29T20:32:07Z",
+      "first_seen": "2026-10-29T22:49:55.067596Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "a8f3368e9111c2d6",
+      "category": "tech",
+      "title": "When an AI Agent Moves Money, Who Pays for the Mistake?: By Sergiy Fitsak - Finextra Research",
+      "summary": "When an AI Agent Moves Money, Who Pays for the Mistake?: By Sergiy Fitsak Finextra Research",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2EzRmJpa0lvVldiQ3BCX1Q3Rk1sYXBYNlRmMnNfc0JxZ2VYS25FS1JOOURFZGZsSmFhWTJSWl9EMFRRX2Y1RF9ZMnBjcFRQNmV2THhEbkg4cXRESWhlOHZIampZM1l1TU9wSkh5bkc2aUFJYXk1VDdJdzRNclQtLXV5S2VQR2lBNzJSU09tXzJoZ0MtMFV1aDJKbHQ?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-29T18:31:05Z",
+      "first_seen": "2026-10-29T22:49:55.067596Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "c7683dbd64186d0c",
@@ -1244,23 +1278,6 @@
       "policy_status": null
     },
     {
-      "id": "cfb4ca4af36984c5",
-      "category": "investing",
-      "title": "S&P 500 Earnings Face Key Test as Fed, Inflation Data and Tech Giants Take Focus - Investing.com",
-      "summary": "S&P 500 Earnings Face Key Test as Fed, Inflation Data and Tech Giants Take Focus Investing.com",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMS1BeUFyWFZEVktWTFhLMGFRc2RHOGJIRWZyVUFNSWtucHREZEtOZ0RJYXJWd3pkMzMwQTlfenhvRV8zMzQxRVBEREZ2M2hhaDJRd0o1UC0wVHNEUGNnM1BINDZ1cVVycmZXTk9rU2F4S1hLU0t3cFhDemR4WW5SX1F5c2s2dHV1cU9WcGlFUURfclVPRWNrNndaRTIySlh2Z0EtUWhoMDFQYVZuS1IxSmFuZkM3SGlmWXQ4M1A1eTU?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-23T20:58:13Z",
-      "first_seen": "2026-10-24T04:40:38.256048Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "95b8501cf2b652eb",
       "category": "tech",
       "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog - NVIDIA Developer",
@@ -1374,23 +1391,6 @@
       "source": "arXiv AI 论文",
       "source_kind": "research",
       "published_at": "2026-10-23T04:00:00Z",
-      "first_seen": "2026-10-23T04:54:38.710467Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "26f48e97c598a830",
-      "category": "investing",
-      "title": "GPIX Vs. SPYI: Which S&P 500 Income ETF Wins Into 2027 (NASDAQ:GPIX) - Seeking Alpha",
-      "summary": "GPIX Vs. SPYI: Which S&P 500 Income ETF Wins Into 2027 (NASDAQ:GPIX) Seeking Alpha",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlhZMWRPNXZpWGl2UGZvUjZCOHZlbS16Q3RZdWZJeWRCR0RjQ3h3OWRaXzAxQVlxOG9jdUh4RVo4VEVzNS1rR2hmT29mVExhVWpTNFJrdzJZam1DRThGVzA5NllXMWQ5d0FLRjZZQ09JTDVLLVVrWGJHTi1OVE8yNGxIQmI0cVctX1AtbWdrOUcxN09DWlptNW5kUklVZw?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-22T20:54:25Z",
       "first_seen": "2026-10-23T04:54:38.710467Z",
       "score": 10,
       "ai_generated": false,
@@ -2060,23 +2060,6 @@
       "policy_status": null
     },
     {
-      "id": "9c64516a99c86a66",
-      "category": "world",
-      "title": "欧盟峰会讨论配额和关税政策应对中国产能过剩 - 希望之声国际广播电台",
-      "summary": "欧盟峰会讨论配额和关税政策应对中国产能过剩 希望之声国际广播电台",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PZ3JmMkRfYUljR1daYmNmTVpxVXdELUx3a29yQXB0bjlsNkJXQUpidUJMaXlCbjd2MXZGX0JRVXc2OUlTdXJscWNsOTJOQW1s?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-24T20:33:04Z",
-      "first_seen": "2026-10-24T20:56:29.552099Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "fe3e6b3c3def05bc",
       "category": "immigration",
       "title": "一名來港就讀學生因以欺騙手段取得服務被囚| 入境事務處 - Immigration Department",
@@ -2281,10 +2264,78 @@
       "policy_status": "待核验"
     },
     {
+      "id": "15daa883417836f9",
+      "category": "world",
+      "title": "美联储持续弱化前瞻指引 - 中国经济网",
+      "summary": "美联储持续弱化前瞻指引 中国经济网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13WE5YTkVNcmFVTHZUaEFLSWYzOHhMclhYV3RNM3YwelRkNThOTXhHcmUxU2xqUkZ5Z05GcXY1ckJCTW5ic3k3a1NIdzdDQlR6VmZCbUZ3RWZBbjdIZW5Lc3dOTElQNTFFMVBxaFh4OA?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-29T22:17:00Z",
+      "first_seen": "2026-10-29T22:49:55.067596Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "121deaff89efad54",
+      "category": "world",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-10-29T20:21:54Z",
+      "first_seen": "2026-10-29T22:49:55.067596Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "f4ac41eadad879b1",
+      "category": "world",
+      "title": "JD Vance letter may offer last chance to avert fresh conflict between US and Iran",
+      "summary": "US vice-president writes to top Iranian security official in sign Washington has not abandoned diplomacy Hopes of averting a major new conflagration between Iran and the US soon after Tuesday’s midterm elections could rest on Iran’s respons",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-29T19:32:24Z",
+      "first_seen": "2026-10-29T22:49:55.067596Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "8f824d311db5c70f",
+      "category": "world",
+      "title": "Seven oil tankers carrying 288,000 tonnes of Russian diesel sail towards US",
+      "summary": "Tankers, tracked by Greenpeace, are first phase of Trump-Putin deal – but there is uncertainty over whether they will unload Seven oil tankers carrying an estimated 288,000 tonnes of Russian diesel are now sailing towards the US, though it ",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-29T19:04:17Z",
+      "first_seen": "2026-10-29T22:49:55.067596Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "18979a846cd40db0",
       "category": "world",
       "title": "Hong Kong’s leader apologises for residential fire that killed 168 people",
-      "summary": "Blaze last year was deadliest housing fire globally since 1980 and some ex-residents and victims’ families say they still need justice Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 ",
+      "summary": "Blaze was world’s deadliest residential fire since 1980, but some survivors and bereaved families say justice has yet to be served Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 peop",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -2330,57 +2381,6 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "066ab2051e99d829",
-      "category": "world",
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-29T15:47:20Z",
-      "first_seen": "2026-10-29T12:55:03.305745Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "d11cc8721d9d411a",
-      "category": "world",
-      "title": "Nvidia CEO reportedly targeted by Chinese spy",
-      "summary": "Jensen Huang reported to have had close relationship with tech company executive suspected of passing intel to China US intelligence agencies believe the Nvidia chief executive, Jensen Huang, has been targeted by a Chinese spy who had done ",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-29T15:23:48Z",
-      "first_seen": "2026-10-29T18:32:24.021618Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "e5c5ce358b570835",
-      "category": "world",
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-29T14:58:28Z",
-      "first_seen": "2026-10-29T18:32:24.021618Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
@@ -2391,7 +2391,7 @@
       "b7aa651dcab83c46"
     ],
     "tech": [
-      "2d3ae0288d4798e8",
+      "a8f3368e9111c2d6",
       "c7683dbd64186d0c",
       "f6270ed15a86c66a",
       "44cc053cf15b5729"
@@ -2476,7 +2476,7 @@
         "name": "美国美联储官方公告",
         "category": "investing",
         "ok": true,
-        "items": 1
+        "items": 2
       },
       {
         "name": "AI 行业 · Google 新闻索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 13
+        "items": 12
       },
       {
         "name": "MIT Technology Review",
@@ -2518,7 +2518,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 27
+        "items": 28
       },
       {
         "name": "The Guardian World",
@@ -2530,7 +2530,7 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 22
+        "items": 27
       },
       {
         "name": "国际要闻 · Google 新闻索引",
