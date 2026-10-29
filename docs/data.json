@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:55:03.305745Z",
+  "generated_at": "2026-10-29T18:32:24.021618Z",
   "is_demo": false,
   "items": [
     {
@@ -37,6 +37,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "b431ea497743c593",
+      "category": "investing",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-10-29T13:51:06Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "f49508a2da7f6e68",
       "category": "immigration",
       "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
@@ -66,23 +83,6 @@
       "source_kind": "media",
       "published_at": "2026-10-29T07:32:20Z",
       "first_seen": "2026-10-29T12:55:03.305745Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "b431ea497743c593",
-      "category": "investing",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-10-29T06:00:00Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
       "policy_status": null
@@ -324,6 +324,57 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "c7683dbd64186d0c",
+      "category": "tech",
+      "title": "Engineering researcher seeks to prevent AI agents from going rogue - University of Florida",
+      "summary": "Engineering researcher seeks to prevent AI agents from going rogue University of Florida",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZZnpiT1U1R0JDVjU4MEZjbU5pV2hPWWQwUHluSkJMZHducGlUWlNUcDlPVUZEd2RWby1lNU9JUjhNVUxiaWxSWDdJdGNmdFZLbmNsaURxVjB0Uk1HaHVnQ1doQ0pLNVBjX3lFZkpfTQ?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-29T13:47:00Z",
+      "first_seen": "2026-10-29T18:32:24.021618Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "0d3bcc9068ce33c5",
+      "category": "investing",
+      "title": "US Stock Market Today: S&P 500, Nasdaq And Dow Jones Open Lower After Corporate Earnings Miss Expectations - NDTV Profit",
+      "summary": "US Stock Market Today: S&P 500, Nasdaq And Dow Jones Open Lower After Corporate Earnings Miss Expectations NDTV Profit",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVS1OcjRldTVMVmd0cDVZWUZSRkVaNnkyX0xzS1Q2ZkZwRTg3SThrSENMVDhwLUZjWS1DS1ZhX0xTRFd0cmo1MFFwZjlveE95Ti1KRFFZamhva001QTlpemk5VF9hV3p2MlpTcUZ4U0xtODR0Z19UQ1JQajR6YUVXeU5UemgwM1FPSU11ZHAyckdZbDBpaE04SEh2eHJsNk9hMk01LWZTTEdIZnlwTWF4aWZQVUxTdC1HZV9qWnZkMWpHcmczVThqemtxLUtMdFRxdGxwWVlNRE9rREF4TFFRaUZ30gHqAUFVX3lxTFB3U2I4bVhMc0lCYUlfRUh5WWM4ckxSZ1FlZlF6ZVVQdktyUG9NNk9jM2lncGtMUzB3R3lRWkp1VmtJZTFtYW1tT2VZbFJ2SkJ6TmRiOXNJdHdwWTR6Y3N4M082VnpNem9xS1N1NjE0LTZOTkkxTmt5TktoMGtLVG1KLXltaGNEVlROMGxiTFNQOVoxRXh5c3ZhdWN3QU5YbmRHcXVpcnRhMC1KSDJvRTNUSlVCemxjYnZLTGpXOUNabEhsRHQ3NkMxNG9JNkxJTUtHS044b0QxN1hkMFh0N1pzb0p6RTJWWVVsQQ?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-29T13:35:44Z",
+      "first_seen": "2026-10-29T18:32:24.021618Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "913affb66f9ea8bf",
+      "category": "investing",
+      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+      "summary": "USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-10-29T13:30:00Z",
+      "first_seen": "2026-10-29T18:32:24.021618Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "f6270ed15a86c66a",
@@ -1329,23 +1380,6 @@
       "policy_status": null
     },
     {
-      "id": "858aaa79266573e2",
-      "category": "tech",
-      "title": "Governance-State Corruption in Long-Term Memory for LLM Agents: A Cross-Model Stress Test",
-      "summary": "arXiv:2610.30698v1 Announce Type: new Abstract: An LLM agent can retrieve a memory correctly yet use it incorrectly after its validity state changes. We study governance-state corruption: faults that alter which retained records enter model",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2610.30698",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-10-23T04:00:00Z",
-      "first_seen": "2026-10-23T04:54:38.710467Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "26f48e97c598a830",
       "category": "investing",
       "title": "GPIX Vs. SPYI: Which S&P 500 Income ETF Wins Into 2027 (NASDAQ:GPIX) - Seeking Alpha",
@@ -1358,23 +1392,6 @@
       "source_kind": "index",
       "published_at": "2026-10-22T20:54:25Z",
       "first_seen": "2026-10-23T04:54:38.710467Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "0d9133e856bab456",
-      "category": "investing",
-      "title": "CryptoQuant CEO calls rising Bitcoin hashrate ‘indirect bullish signal’ from institutions",
-      "summary": "Public miners backed by major TradFi players are coming back online, boosting Bitcoin’s hashrate, a positive sign for BTC’s fundamentals, according to CryptoQuant’s Ki Young Ju.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-10-22T13:42:34Z",
-      "first_seen": "2026-10-22T17:18:06.666427Z",
       "score": 10,
       "ai_generated": false,
       "policy_status": null
@@ -1499,6 +1516,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "1abb5773cb656031",
+      "category": "immigration",
+      "title": "Evidence of current employment or self-employment - Immigration and citizenship - Immigration and citizenship Website",
+      "summary": "Evidence of current employment or self-employment - Immigration and citizenship Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82U2ZRVkZkcHpSNWFCcE1IbEthbFQ1V2h3WlV1RmJpZXNkcm5LMjRhcHN3NFcwejBOREtSSVg3dnNJbEE1NkFUMjZYRUVHRVVsblBqRHpkYWhld3FfZEZZcXR5SXp2ZDhmWm03S3UtX1ZSbG9GOWQwb3Rn?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-10-29T16:06:28Z",
+      "first_seen": "2026-10-26T12:54:24.888143Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "8c766d0c6f370110",
       "category": "world",
       "title": "Israel election results live: president warns against ‘tarnishing an entire community’ in defence of Palestinian vote",
@@ -1511,23 +1545,6 @@
       "source_kind": "media",
       "published_at": "2026-10-29T12:49:25Z",
       "first_seen": "2026-10-29T05:51:42.600348Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "aa7fc12334e6e114",
-      "category": "investing",
-      "title": "S&P 500 snaps 6-Fed-Day losing streak with 0.27% gain - Opening Bell Daily",
-      "summary": "S&P 500 snaps 6-Fed-Day losing streak with 0.27% gain Opening Bell Daily",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPakFSdzFSVEkySml5aVRZRm1wcEtWSzdTR2dvSEhVcWVsVDMyNHBUTFFvRFVMUFFmM1NfNE5LNExBWWFLTnktbGJnVHpwSmZMdXlpWndmUjBCUl90UFJIZW9vTjNsRTRXMkhKeXJwa3ByaGFVeUlaQ1dHWGotTU5HcktyMDV4WkhOa0pEYg?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-29T11:46:34Z",
-      "first_seen": "2026-10-29T12:55:03.305745Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1562,23 +1579,6 @@
       "source_kind": "index",
       "published_at": "2026-10-29T07:06:36Z",
       "first_seen": "2026-10-29T12:55:03.305745Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
-      "id": "1abb5773cb656031",
-      "category": "immigration",
-      "title": "Evidence of current employment or self-employment - Immigration and citizenship - Immigration and citizenship Website",
-      "summary": "Evidence of current employment or self-employment - Immigration and citizenship Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82U2ZRVkZkcHpSNWFCcE1IbEthbFQ1V2h3WlV1RmJpZXNkcm5LMjRhcHN3NFcwejBOREtSSVg3dnNJbEE1NkFUMjZYRUVHRVVsblBqRHpkYWhld3FfZEZZcXR5SXp2ZDhmWm03S3UtX1ZSbG9GOWQwb3Rn?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-29T04:12:58Z",
-      "first_seen": "2026-10-26T12:54:24.888143Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": "待核验"
@@ -2077,23 +2077,6 @@
       "policy_status": null
     },
     {
-      "id": "5dbd5e1a6d69b642",
-      "category": "world",
-      "title": "Hundreds of thousands march across France in protests over schools and policing",
-      "summary": "Government estimates at least 400,000 people took part, but trade unions say the number is double that Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for mo",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-24T17:54:41Z",
-      "first_seen": "2026-10-24T20:56:29.552099Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "fe3e6b3c3def05bc",
       "category": "immigration",
       "title": "一名來港就讀學生因以欺騙手段取得服務被囚| 入境事務處 - Immigration Department",
@@ -2298,18 +2281,52 @@
       "policy_status": "待核验"
     },
     {
-      "id": "ed6620184fede0f7",
+      "id": "18979a846cd40db0",
       "category": "world",
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "summary": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
+      "title": "Hong Kong’s leader apologises for residential fire that killed 168 people",
+      "summary": "Blaze last year was deadliest housing fire globally since 1980 and some ex-residents and victims’ families say they still need justice Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 ",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "url": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
+      "source": "The Guardian World",
       "source_kind": "media",
-      "published_at": "2026-10-29T12:49:17Z",
-      "first_seen": "2026-10-29T12:55:03.305745Z",
+      "published_at": "2026-10-29T18:14:21Z",
+      "first_seen": "2026-10-29T18:32:24.021618Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "527a2ee68b4980de",
+      "category": "world",
+      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
+      "summary": "The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France Thank you, Brazil, for demonstrating how the far right can be trounced while p",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-29T17:46:38Z",
+      "first_seen": "2026-10-29T18:32:24.021618Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "38d67bbae04b51f5",
+      "category": "world",
+      "title": "Israeli leader Netanyahu accused of using ‘ugly’ smear tactics to cling to power",
+      "summary": "Prime minister claims Arab Israeli parties used foreign backing to steal elections, in which his coalition lost its majority Benjamin Netanyahu has been accused of using smear tactics to cling to power, after he claimed that Arab Israeli pa",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-29T17:26:06Z",
+      "first_seen": "2026-10-29T18:32:24.021618Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2318,66 +2335,49 @@
       "id": "066ab2051e99d829",
       "category": "world",
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "summary": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
       "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "source_kind": "media",
-      "published_at": "2026-10-29T11:22:18Z",
+      "published_at": "2026-10-29T15:47:20Z",
       "first_seen": "2026-10-29T12:55:03.305745Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
     {
-      "id": "e8167c8e5629fcfa",
+      "id": "d11cc8721d9d411a",
       "category": "world",
-      "title": "巴基斯坦对台湾地区航司关闭领空，坚持“一个中国政策” - 网易新闻客户端",
-      "summary": "巴基斯坦对台湾地区航司关闭领空，坚持“一个中国政策” 网易新闻客户端",
+      "title": "Nvidia CEO reportedly targeted by Chinese spy",
+      "summary": "Jensen Huang reported to have had close relationship with tech company executive suspected of passing intel to China US intelligence agencies believe the Nvidia chief executive, Jensen Huang, has been targeted by a Chinese spy who had done ",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FTzIyWGpHSnBJdzFUQUYxQ05vZVFNMFZ5QjZRc3djRDNWR2JKMVZwUUctTzAzdUdVNkhjVDhmNE1ha2h0U1lFR0hLMjRUSTJXcWxRTExhblhOZENO?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-29T09:45:00Z",
-      "first_seen": "2026-10-29T12:55:03.305745Z",
+      "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-29T15:23:48Z",
+      "first_seen": "2026-10-29T18:32:24.021618Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
     {
-      "id": "42b1238bb4d5a40d",
+      "id": "e5c5ce358b570835",
       "category": "world",
-      "title": "轮胎 | 欧盟对于中国轮胎“双反”政策最新进展简析 - 搜狐网",
-      "summary": "轮胎 | 欧盟对于中国轮胎“双反”政策最新进展简析 搜狐网",
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLXpWTlBQcTE4ZEFQaFdWcUdHM2kwd3duRkJuZDdMODJEWkdmdVIxVnVrZ09rNmVlcGhVX2hYOW5WeERtVy0xWUZDZURuZXVHQjBBVnBhY3NGVm9ScnFjVl9yamNfSDVxZ0UzN1BtUjBONTU1TmtuRlJES3pGQS1uOVpON2s5dmRzVEhMZw?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-29T09:16:21Z",
-      "first_seen": "2026-10-29T12:55:03.305745Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "4429b62108edaad2",
-      "category": "world",
-      "title": "How could Israel break election deadlock? Here are four scenarios",
-      "summary": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "source_kind": "media",
-      "published_at": "2026-10-29T09:06:48Z",
-      "first_seen": "2026-10-29T12:55:03.305745Z",
+      "published_at": "2026-10-29T14:58:28Z",
+      "first_seen": "2026-10-29T18:32:24.021618Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2392,9 +2392,9 @@
     ],
     "tech": [
       "2d3ae0288d4798e8",
+      "c7683dbd64186d0c",
       "f6270ed15a86c66a",
-      "44cc053cf15b5729",
-      "6da684344dc19af1"
+      "44cc053cf15b5729"
     ],
     "immigration": [
       "f1ff7900dc914f4f",
@@ -2403,8 +2403,8 @@
       "961a4af25c66024f"
     ],
     "investing": [
-      "41af4bfbabe5e533",
       "b431ea497743c593",
+      "41af4bfbabe5e533",
       "76d2612abbece883",
       "82653652c5cf6696"
     ]
@@ -2434,7 +2434,7 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 23
+        "items": 22
       },
       {
         "name": "英国移民政策 · Google 索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 16
+        "items": 13
       },
       {
         "name": "MIT Technology Review",
@@ -2518,7 +2518,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 26
+        "items": 27
       },
       {
         "name": "The Guardian World",
@@ -2530,13 +2530,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 27
+        "items": 22
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 5
+        "items": 2
       }
     ]
   }
