@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:53:11.808433Z",
+  "generated_at": "2026-10-30T12:48:31.686554Z",
   "is_demo": false,
   "items": [
     {
@@ -37,23 +37,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "f49508a2da7f6e68",
-      "category": "immigration",
-      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
-      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
-      "source": "新西兰移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-29T22:40:17Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
       "id": "b431ea497743c593",
       "category": "investing",
       "title": "Here’s what happened in crypto today",
@@ -64,11 +47,28 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "source": "Cointelegraph",
       "source_kind": "media",
-      "published_at": "2026-10-29T19:58:57Z",
+      "published_at": "2026-10-30T06:00:00Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
       "policy_status": null
+    },
+    {
+      "id": "f49508a2da7f6e68",
+      "category": "immigration",
+      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
+      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-10-30T04:41:39Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": "待核验"
     },
     {
       "id": "41af4bfbabe5e533",
@@ -309,6 +309,74 @@
       "policy_status": "待核验"
     },
     {
+      "id": "0bfee00d572dd88b",
+      "category": "tech",
+      "title": "Latest News In AI Chips - AI Demand Spurs Semiconductor Market Transformation 2027 Predictions - Yahoo Finance Singapore",
+      "summary": "Latest News In AI Chips - AI Demand Spurs Semiconductor Market Transformation 2027 Predictions Yahoo Finance Singapore",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QUzBIS21YTW1PRzhuTGNxdWprTl9HcEpsOGlZemZGOTBnVlFSeDdSRU1IcFRSTi15NWRtZnpZMWVmLW04ckoyVk9zMkR4eUlFb21CR1RxYnI5dFZuX2NaRlB5R3RkR2VSQVloNUcwYWU3eGhBOFBrbFg0T1k?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-30T11:37:39Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "e16c4853d0f5fdf4",
+      "category": "tech",
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2610.37739",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-10-30T04:00:00Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "69d615679989ada1",
+      "category": "tech",
+      "title": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
+      "summary": "arXiv:2610.37875v1 Announce Type: new Abstract: Accurate AI assistance can improve immediate judgments while reducing opportunities to practise the operations needed for independent performance. Verification Learning Theory (VLT) formalises",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2610.37875",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-10-30T04:00:00Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "bd67dc9fa419a51c",
+      "category": "tech",
+      "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+      "summary": "arXiv:2610.37905v1 Announce Type: new Abstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with language model agents requires discovering un",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2610.37905",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-10-30T04:00:00Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "57441725cfed9aa2",
       "category": "tech",
       "title": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid - The Motley Fool",
@@ -414,7 +482,7 @@
       "id": "913affb66f9ea8bf",
       "category": "investing",
       "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-      "summary": "USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?",
+      "summary": "USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Utexo’s bridged version of USD₮ compete with stablecoins on ETH and TRON?",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -1312,23 +1380,6 @@
       "policy_status": null
     },
     {
-      "id": "c59bfaff4db0cbde",
-      "category": "tech",
-      "title": "NVDA vs. LRCX: Which AI Semiconductor Stock Is the Better Buy? - Zacks Investment Research",
-      "summary": "NVDA vs. LRCX: Which AI Semiconductor Stock Is the Better Buy? Zacks Investment Research",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaERrczF0X3VVbXBRMGFxYnlTemt4RzhRVWYyYXY5bHlGWVVpc1B1ZzlzNkp1RmJpem9VQS1CT05GRXZNQmVhU1NiVFZ2SkxRMzVsTDFjRDhoSFhvVnI0UlFoMjBqNWlnYUpyT09xdjJwc1NkeU1uUGVJaHhzQkliamZvaUVObjFLS1ZwWHItRHdtZExGS3BLT0tlNTJxbjh3QkE?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-23T12:33:34Z",
-      "first_seen": "2026-10-23T17:15:38.393350Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "3ce767b7f29cfab5",
       "category": "immigration",
       "title": "English language requirements for India Iconic Work Visa and India Skilled Work Visa - Immigration New Zealand",
@@ -1448,52 +1499,69 @@
       "policy_status": "待核验"
     },
     {
-      "id": "8770df859fc61480",
-      "category": "immigration",
-      "title": "Immigration and citizenship Website - Immigration and citizenship Website",
-      "summary": "Immigration and citizenship Website Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMmZ3T3J1bGRhcVp2ZG9zWl9aTkRUSDMxSEx2Uk1Nakl3ZFJDODJpZERkRGxEcVIzSkJ2NmtHbmM2VDN0Z3ZIaGpUbklLbjY0U2I4OFdJd1FjWFVDY0dkWTFHN3lia0xYRFFTZFczNWE1YTZIRDhwaUdqZzN0UkVFWFRFYngxdnhDYUxtWHUwSm9RMHZ2aFlMZzZNc3ZySXl6Q0YwdG1UUTBpZ0NfakY4YUNB?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-30T05:36:13Z",
-      "first_seen": "2026-10-30T05:53:11.808433Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
-      "id": "5c0a88efc3d05559",
+      "id": "8c253bc994a7e85e",
       "category": "tech",
-      "title": "Emro to Build AI Procurement Automation Agent for GS Caltex - THE ELEC, Korea Electronics Industry Media",
-      "summary": "Emro to Build AI Procurement Automation Agent for GS Caltex THE ELEC, Korea Electronics Industry Media",
+      "title": "AWS Posts Fastest Growth in Five Years on AI Agent Demand - BankInfoSecurity",
+      "summary": "AWS Posts Fastest Growth in Five Years on AI Agent Demand BankInfoSecurity",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tdXhEbS04RU9FeEhQZzRiSEJUODMyOU9mbnJ0WnpTNWg1MFdBOVZHVzJWZVpaMmpWSW9tT3FNZUMwREVhejhBbVozbXpPRHJGTWJyLUs5OVpQMlQ2OXVnMEtpcUhlRmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa21uVTZRQVExRWV1MC1UcVQwX05lUzNlSkdtVkVjaHd2cUpSQURNdUtFa0NVZ2FkN21McmZ5MDB6UDBKUmxObUFSc0JnX1RBdG01bFM5bU9KdC05c0RNd2RLdTZXbjdzNDVfM2hSSmdMU2FPUkJZRWx4SmI2WFFzdFk0NEdwc0g0VFR5SmtGMFA2QW1fazFhVWJ6azNVMkU?oc=5",
       "source": "AI 行业 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-30T04:25:29Z",
-      "first_seen": "2026-10-30T05:53:11.808433Z",
+      "published_at": "2026-10-30T12:36:42Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
     },
     {
-      "id": "468fae0f24b36a99",
-      "category": "tech",
-      "title": "Sandisk sees 60–90GB of NAND per CPU in AI agent workloads - digitimes",
-      "summary": "Sandisk sees 60–90GB of NAND per CPU in AI agent workloads digitimes",
+      "id": "1abb5773cb656031",
+      "category": "immigration",
+      "title": "Evidence of current employment or self-employment - Immigration and citizenship - Immigration and citizenship Website",
+      "summary": "Evidence of current employment or self-employment - Immigration and citizenship Immigration and citizenship Website",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONVVadzc2ektmWDB3d29oTTBNYWZHeGItVVQ3bE9Bd3BTZ2dsdmdVd2RQWlZ4SXNDczFWTnRSNEpVUFpwazZjU2Z2eVFfNTlpUm5GVzcwZ3pzdkNLRWxyN0Z4OFMydVNGUHgyTmtmNXFKSFpkY05TT0pseG9xWmJ6WUZxQW1IbGNZ?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82U2ZRVkZkcHpSNWFCcE1IbEthbFQ1V2h3WlV1RmJpZXNkcm5LMjRhcHN3NFcwejBOREtSSVg3dnNJbEE1NkFUMjZYRUVHRVVsblBqRHpkYWhld3FfZEZZcXR5SXp2ZDhmWm03S3UtX1ZSbG9GOWQwb3Rn?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
       "source_kind": "index",
-      "published_at": "2026-10-30T03:49:44Z",
-      "first_seen": "2026-10-30T05:53:11.808433Z",
+      "published_at": "2026-10-30T07:16:23Z",
+      "first_seen": "2026-10-26T12:54:24.888143Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
+      "id": "927a912507dce713",
+      "category": "immigration",
+      "title": "- Immigration and citizenship Website",
+      "summary": "Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObTEwYkRjS1k3TjJ1TFM4WE5LdWhNTnpFZ05qS0tUNGstM0pqd2IzWXVrcHV0Q1hJQ3dpVkdJZWxjYXZ1R2Z6QkNQUm5Mam44Nm5haG1scGVtRFRVVnc2cWh4akllVzU5ekxkcUY3NkM4MENnODZvb293QWVTX0o5amt3?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-10-30T06:48:34Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
+      "id": "98c40d1f5ce3c9f6",
+      "category": "world",
+      "title": "Battle lines redrawn in Spain’s snap election after latest train disaster",
+      "summary": "Next month’s poll no longer the contest it was, as Pedro Sánchez finds himself forced to defend government’s safety record One of the most dependable cliches of contemporary Spanish politics is that it never pays to bet against Pedro Sánche",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-30T06:00:47Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1510,40 +1578,6 @@
       "source": "The Guardian World",
       "source_kind": "media",
       "published_at": "2026-10-30T03:30:42Z",
-      "first_seen": "2026-10-30T05:53:11.808433Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "3dec6b4cf9436771",
-      "category": "tech",
-      "title": "Meet Claude Duet, the latest AI agent intended to lighten your workload - Mashable",
-      "summary": "Meet Claude Duet, the latest AI agent intended to lighten your workload Mashable",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsa3ZVM2JtaGdBajhfZEFDWVJaVHlvbkxYcGR5ODFBdjlEeFNON3FfcG0tYzR0aHIyazRjanhUTWRyX1phZ3JLQTNVTmZTMXlBajQ5SmxUZUFVZms5eGxRbVJrZ04xZDYw?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-30T03:07:03Z",
-      "first_seen": "2026-10-30T05:53:11.808433Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "e8488b0c5e08649c",
-      "category": "tech",
-      "title": "What is Meta Muse? What businesses need to know about the new AI agent - KRDO",
-      "summary": "What is Meta Muse? What businesses need to know about the new AI agent KRDO",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObHhSYU5CcjVWYXVGT19ETlJvSU9uVXlCQWFlMkprYWxsVVk5a3dteWh3OXJjWUw2YUtKLWU4eHJjS0JCaER0dldEZWdHb19hU1g0dnozOWJMRWlRWHdsellaTXVxaUwwTVhkS1psa3MyeXFHYmhEMkswN3o3UmtJNmx2LTQyT0tIeldqZjBYT0tpdVRTX281RjZZZ2dJbFBzWG8yMmZpUlhJVF9mb2c?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-30T02:32:40Z",
       "first_seen": "2026-10-30T05:53:11.808433Z",
       "score": 8,
       "ai_generated": false,
@@ -1584,21 +1618,38 @@
       "policy_status": "待核验"
     },
     {
-      "id": "1abb5773cb656031",
-      "category": "immigration",
-      "title": "Evidence of current employment or self-employment - Immigration and citizenship - Immigration and citizenship Website",
-      "summary": "Evidence of current employment or self-employment - Immigration and citizenship Immigration and citizenship Website",
+      "id": "52cbfe556150f2b0",
+      "category": "world",
+      "title": "Venezuela opposition leader María Machado calls for elections upon return",
+      "summary": "Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be \"irreversible, organised, pacific\".",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82U2ZRVkZkcHpSNWFCcE1IbEthbFQ1V2h3WlV1RmJpZXNkcm5LMjRhcHN3NFcwejBOREtSSVg3dnNJbEE1NkFUMjZYRUVHRVVsblBqRHpkYWhld3FfZEZZcXR5SXp2ZDhmWm03S3UtX1ZSbG9GOWQwb3Rn?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-29T16:06:28Z",
-      "first_seen": "2026-10-26T12:54:24.888143Z",
+      "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-10-29T21:05:03Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
       "score": 8,
       "ai_generated": false,
-      "policy_status": "待核验"
+      "policy_status": null
+    },
+    {
+      "id": "92738c8f59ee8514",
+      "category": "world",
+      "title": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
+      "summary": "The latest train crash will pile pressure on the government of Pedro Sánchez, one month before the general election.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9rq8204l0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-10-29T14:08:23Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "8c766d0c6f370110",
@@ -2298,86 +2349,35 @@
       "policy_status": "待核验"
     },
     {
-      "id": "1b2161d396cad67d",
+      "id": "729e1d4cac74d9fc",
       "category": "world",
-      "title": "Crypto giant Binance hit by hack suspected to be largest in history",
-      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
+      "summary": "IISS study questions over-reliance on American support and ‘over-dependence on expensive, high-end systems’ Gulf states are going to have to reconfigure their trillion-dollar defences given the damage inflicted on their economies and the qu",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-30T05:15:16Z",
-      "first_seen": "2026-10-30T05:53:11.808433Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "72e17d919e562e6b",
-      "category": "world",
-      "title": "德国总统：不想和中国脱钩，点赞中国经济创新力 - 中华网",
-      "summary": "德国总统：不想和中国脱钩，点赞中国经济创新力 中华网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yM2JpM2ljdlF3bV9XZi1ydGZKNjM5Tll2TDhUdURtTnVYcG15NVpRbTlOdVdoTWM4N25kTHp4VE13aDNIcFZYRXI3VV93NjRXaElReHJlY1JYM1QwY3hpY29pNHR1S0w1WTNIQ0gycU4?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-30T05:07:58Z",
-      "first_seen": "2026-10-30T05:53:11.808433Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "31bb82931ece4a7e",
-      "category": "world",
-      "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-      "summary": "Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF Members of the Sudanese diaspora and international human rights monitors have denounced the candidature of an Emirati diplomat ",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+      "url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
       "source": "The Guardian World",
       "source_kind": "media",
-      "published_at": "2026-10-30T05:00:45Z",
-      "first_seen": "2026-10-30T05:53:11.808433Z",
+      "published_at": "2026-10-30T12:06:56Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
     {
-      "id": "0829c9c7330c380a",
+      "id": "1fb755362de0540f",
       "category": "world",
-      "title": "王毅同冰岛外长会谈：中方赞赏冰岛始终奉行一个中国政策，冰岛外长:中国的成功对世界有重大意义，高度重视冰中关系，愿同中方加强协作 - 搜狐网",
-      "summary": "王毅同冰岛外长会谈：中方赞赏冰岛始终奉行一个中国政策，冰岛外长:中国的成功对世界有重大意义，高度重视冰中关系，愿同中方加强协作 搜狐网",
+      "title": "中国央行：续实施适度宽松的货币政策，保持流动性充裕 - 华尔街见闻",
+      "summary": "中国央行：续实施适度宽松的货币政策，保持流动性充裕 华尔街见闻",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMGMtZDFyX2lrMEhiNVN5Z1dFUm94TXpwcE9YdmlQWjN6V2NrbVJmMmVIYkE0T1g0ek5wMndqRVVTcGFYLUdDNC1vbm9YS0RhelZWcXR4VHBBUV91SmZGdVYyb2NnMll6bkhjM1MzeEtKXzhSdWdiU3FqVjVldWlSTnlYWUhDNjdR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTbmdnaEU3cEFmSEZ6MnZOVjc1Vm1JRkktbjZpbnlpNG96Z2d2S3dYQ1NGU2J1TWlTX2pudEMxTmJqX1Y4TUdFWnl2QUpvOGJaTklv?oc=5",
       "source": "中国与世界 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-30T04:49:16Z",
-      "first_seen": "2026-10-30T05:53:11.808433Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "89c2f180cb4ef1bb",
-      "category": "world",
-      "title": "午评：沪指半日跌0.3% 白酒板块走强 - 中国经济网",
-      "summary": "午评：沪指半日跌0.3% 白酒板块走强 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tNjl2SzQwa0ZVN1dNenpFZldiQ2lrVS1TYmViZEhucW9MMkU0TlJrYmxaSkdNXzVvY1g1NnVTenpTMlhsd2R2b1JTLWpyNW9HUDVKeEp0d0Q5Yi00SFB5MXNrNlMtUEVYcjFzZ1FReXR5Zw?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-30T03:39:00Z",
-      "first_seen": "2026-10-30T05:53:11.808433Z",
+      "published_at": "2026-10-30T11:10:59Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2387,14 +2387,14 @@
     "world": [
       "7b5aa57409392cce",
       "1ecafaded844eaea",
-      "dec4345aa50904c6",
-      "382c88a84bc3b646"
+      "98c40d1f5ce3c9f6",
+      "dec4345aa50904c6"
     ],
     "tech": [
-      "57441725cfed9aa2",
-      "a8f3368e9111c2d6",
-      "c7683dbd64186d0c",
-      "f6270ed15a86c66a"
+      "0bfee00d572dd88b",
+      "e16c4853d0f5fdf4",
+      "69d615679989ada1",
+      "bd67dc9fa419a51c"
     ],
     "immigration": [
       "f1ff7900dc914f4f",
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 19,
-    "failed": 1,
+    "ok": 20,
+    "failed": 0,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2434,13 +2434,13 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 23
+        "items": 24
       },
       {
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 4
+        "items": 3
       },
       {
         "name": "香港入境事务处 · Google 索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 10
+        "items": 19
       },
       {
         "name": "MIT Technology Review",
@@ -2505,9 +2505,8 @@
       {
         "name": "arXiv AI 论文",
         "category": "tech",
-        "ok": false,
-        "items": 0,
-        "error": "Feed returned no entries (invalid, empty or blocked)"
+        "ok": true,
+        "items": 35
       },
       {
         "name": "BBC China",
@@ -2519,7 +2518,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 27
+        "items": 35
       },
       {
         "name": "The Guardian World",
@@ -2531,13 +2530,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 16
+        "items": 15
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 2
+        "items": 1
       }
     ]
   }
