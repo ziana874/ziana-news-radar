@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:48:31.686554Z",
+  "generated_at": "2026-10-30T18:04:35.733855Z",
   "is_demo": false,
   "items": [
     {
@@ -47,7 +47,7 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "source": "Cointelegraph",
       "source_kind": "media",
-      "published_at": "2026-10-30T06:00:00Z",
+      "published_at": "2026-10-30T14:07:42Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
@@ -64,7 +64,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
       "source": "新西兰移民官网 · Google 索引",
       "source_kind": "index",
-      "published_at": "2026-10-30T04:41:39Z",
+      "published_at": "2026-10-30T12:15:55Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
@@ -307,6 +307,57 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "7d6f74b4a8747665",
+      "category": "investing",
+      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+      "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-10-30T17:09:31Z",
+      "first_seen": "2026-10-30T18:04:35.733855Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "934b42609ab2e17d",
+      "category": "tech",
+      "title": "HappyRobot: AI Agent Use Scales With CMA CGM - Supply Chain Digital Magazine",
+      "summary": "HappyRobot: AI Agent Use Scales With CMA CGM Supply Chain Digital Magazine",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2MwWGI3M2J5eXVQSzZ0UGVGTnZrTDdHdDdMX25xLThDWkNHMlYwaXhLTWlLLXJjb0pHdVZ5OG5CSTczZHJnM2k4bkowbHNyLV9idW5hR0xBX1BKUTRjcnlvZVlCcGZsYlg5MWFUM1BlLUljUml1XzVsMV9pNDBrZk1zQUh0aFFHN1k4?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-30T14:19:52Z",
+      "first_seen": "2026-10-30T18:04:35.733855Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "469eae8e3c455429",
+      "category": "tech",
+      "title": "SecurityHQ Research Reveals AI Agent Accountability Gap Across Enterprise Security Operations - Cybersecurity Insiders",
+      "summary": "SecurityHQ Research Reveals AI Agent Accountability Gap Across Enterprise Security Operations Cybersecurity Insiders",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaDFCejdVWlVkNzJ3SWhaQ2FnVU1jTXZCMVN6M2NUNzNrbmJIcl9YcUVkZ1hlVnZkTWIyazdvanh5X0RoZl9hZHBvclFsQkJwRHV0ZG1FcmlDWmp6QV9jTUlURTlYZjJ2YVh0alh0bXJGdUlISE92c2NwcGxKcVFDTS13dFl1bEQxc2Nra2VtT19VTnZSSDlJYnJwRXZKSGlZbHVIeFF6eklqSHFXV0w3YXhDa09zczlFZjlnRk5IcnZvZk1kYldDSlNSQUowZw?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-30T13:10:13Z",
+      "first_seen": "2026-10-30T18:04:35.733855Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "0bfee00d572dd88b",
@@ -1346,40 +1397,6 @@
       "policy_status": null
     },
     {
-      "id": "3c1e742d23fa094f",
-      "category": "investing",
-      "title": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus - TradingView",
-      "summary": "S&P 500, Dow Drop As Elevated Oil Prices Stoke Inflation Fears Ahead Of Fed Meeting Next Week — AAPL, AXP, CART, UBER In Focus TradingView",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYlg0SkpBNHhBNmRXZ1BMcmFVakc4QVNXQ0ltWjZTX2NBa0toa3kyY29xY21rVElRS3BuTlFyOVRsQzd6N1FQR0pOYlloVjVTUFJJNFVlYzhYb24xenAyemttaGhBcUVEdXU4N0F1cURibFJNWEllSmtmcG9mZGpBSkpHNnpoNmRsaGhSTGhHOFgzSlRveWFlTG9pa0lranE2S3NXSzJ5YnVZMEQxSUkwUk8xdXlCSXY4S3V4SElZYWtwQ1A1OFZodVZNb181MGEyUmdnQk4wanNiQ0I0RUlkc2QzajUyM0ltdXFiRWMwUFRCVWVRMkNMZDY3Sjh4WFRqSVBhQi1HdFFUMWZa?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-23T22:35:57Z",
-      "first_seen": "2026-10-24T04:40:38.256048Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "95b8501cf2b652eb",
-      "category": "tech",
-      "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog - NVIDIA Developer",
-      "summary": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation | NVIDIA Technical Blog NVIDIA Developer",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2xvNHk5ejQzcXU5NzBBdm1kSU0tOHJIa3NVeFdlWmJ2ektrdFlpbW1VOUhFWGRIcTdwS0xTRlJsa0lWYkRjMkM0eUpMYkdCUDlaRUJNalZ5OGRKbFhfOHRhNjhIQmY3bEVHUXlQbFJ6cFNxUC1GWlBSUjlpYUpPbVMtNnNXMmlCNk9XTzFnZXJoT3d1VnA0ZHR0WVgydEtPMHc4TjZB?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-23T15:10:13Z",
-      "first_seen": "2026-10-23T17:15:38.393350Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "3ce767b7f29cfab5",
       "category": "immigration",
       "title": "English language requirements for India Iconic Work Visa and India Skilled Work Visa - Immigration New Zealand",
@@ -1499,18 +1516,18 @@
       "policy_status": "待核验"
     },
     {
-      "id": "8c253bc994a7e85e",
-      "category": "tech",
-      "title": "AWS Posts Fastest Growth in Five Years on AI Agent Demand - BankInfoSecurity",
-      "summary": "AWS Posts Fastest Growth in Five Years on AI Agent Demand BankInfoSecurity",
+      "id": "9656678bad8edf09",
+      "category": "world",
+      "title": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
+      "summary": "Scraping copyrighted material from internet could ‘potentially’ amount to acquisition of property by government, Anne Twomey says Get our daily political email , free app or daily news podcast Altering copyright law to allow AI companies to",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa21uVTZRQVExRWV1MC1UcVQwX05lUzNlSkdtVkVjaHd2cUpSQURNdUtFa0NVZ2FkN21McmZ5MDB6UDBKUmxObUFSc0JnX1RBdG01bFM5bU9KdC05c0RNd2RLdTZXbjdzNDVfM2hSSmdMU2FPUkJZRWx4SmI2WFFzdFk0NEdwc0g0VFR5SmtGMFA2QW1fazFhVWJ6azNVMkU?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-30T12:36:42Z",
-      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "url": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-30T14:00:18Z",
+      "first_seen": "2026-10-30T18:04:35.733855Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -2145,23 +2162,6 @@
       "policy_status": null
     },
     {
-      "id": "a4dafb4ffd3d8ff3",
-      "category": "world",
-      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-      "summary": "VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs Audi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-25T13:43:19Z",
-      "first_seen": "2026-10-25T16:32:25.083785Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "fe3e6b3c3def05bc",
       "category": "immigration",
       "title": "一名來港就讀學生因以欺騙手段取得服務被囚| 入境事務處 - Immigration Department",
@@ -2349,35 +2349,35 @@
       "policy_status": "待核验"
     },
     {
-      "id": "729e1d4cac74d9fc",
+      "id": "573bf8e0fac75044",
       "category": "world",
-      "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
-      "summary": "IISS study questions over-reliance on American support and ‘over-dependence on expensive, high-end systems’ Gulf states are going to have to reconfigure their trillion-dollar defences given the damage inflicted on their economies and the qu",
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+      "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/oct/30/gulf-states-rethink-trillion-dollar-defence-us-iran-war-iiss-report",
-      "source": "The Guardian World",
+      "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "source_kind": "media",
-      "published_at": "2026-10-30T12:06:56Z",
-      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "published_at": "2026-10-30T17:00:32Z",
+      "first_seen": "2026-10-30T18:04:35.733855Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
     {
-      "id": "1fb755362de0540f",
+      "id": "121deaff89efad54",
       "category": "world",
-      "title": "中国央行：续实施适度宽松的货币政策，保持流动性充裕 - 华尔街见闻",
-      "summary": "中国央行：续实施适度宽松的货币政策，保持流动性充裕 华尔街见闻",
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTbmdnaEU3cEFmSEZ6MnZOVjc1Vm1JRkktbjZpbnlpNG96Z2d2S3dYQ1NGU2J1TWlTX2pudEMxTmJqX1Y4TUdFWnl2QUpvOGJaTklv?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-30T11:10:59Z",
-      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-10-30T15:09:29Z",
+      "first_seen": "2026-10-30T18:04:35.733855Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2387,14 +2387,14 @@
     "world": [
       "7b5aa57409392cce",
       "1ecafaded844eaea",
-      "98c40d1f5ce3c9f6",
-      "dec4345aa50904c6"
+      "9656678bad8edf09",
+      "98c40d1f5ce3c9f6"
     ],
     "tech": [
+      "934b42609ab2e17d",
+      "469eae8e3c455429",
       "0bfee00d572dd88b",
-      "e16c4853d0f5fdf4",
-      "69d615679989ada1",
-      "bd67dc9fa419a51c"
+      "e16c4853d0f5fdf4"
     ],
     "immigration": [
       "f1ff7900dc914f4f",
@@ -2434,13 +2434,13 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 24
+        "items": 25
       },
       {
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 3
+        "items": 2
       },
       {
         "name": "香港入境事务处 · Google 索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 19
+        "items": 9
       },
       {
         "name": "MIT Technology Review",
@@ -2530,13 +2530,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 15
+        "items": 16
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 1
+        "items": 7
       }
     ]
   }
