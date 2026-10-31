@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T17:16:21.344493Z",
+  "generated_at": "2026-10-31T21:41:57.378418Z",
   "is_demo": false,
   "items": [
     {
@@ -37,6 +37,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "f49508a2da7f6e68",
+      "category": "immigration",
+      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
+      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-10-31T16:09:10Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "b431ea497743c593",
       "category": "investing",
       "title": "Here’s what happened in crypto today",
@@ -69,23 +86,6 @@
       "score": 12,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "f49508a2da7f6e68",
-      "category": "immigration",
-      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
-      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
-      "source": "新西兰移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-31T00:27:40Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": "待核验"
     },
     {
       "id": "41af4bfbabe5e533",
@@ -324,6 +324,23 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "5b0ac3b976a1c0a5",
+      "category": "tech",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "summary": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/ Comments URL: https://news.ycombinator.com/item?id=50316531 Points: 220 # Comments: 117",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+      "source": "Hacker News 热门",
+      "source_kind": "community",
+      "published_at": "2026-10-31T14:29:03Z",
+      "first_seen": "2026-10-31T21:41:57.378418Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "e16c4853d0f5fdf4",
@@ -1363,23 +1380,6 @@
       "policy_status": null
     },
     {
-      "id": "3574b8c3b75956b3",
-      "category": "tech",
-      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone - The Decoder",
-      "summary": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone The Decoder",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNjI2ck9BdmpPVFZVby1WajQyQ0d5ZW5mTlBpRWcxRUJ3NjZTdFNHU2lOSVNPRU5iSGdrc05WdGpBTmtheDNHVlQ3R2MyVFY2ZnFrQXpGX0RZYWk1dDRDU2ZGUEFvSEduS1c0M3ppM01Ob3p2eTZrbWNQdkxSRVFtY1JUVjd0YWNhcWFTaFJCUV9XUGxyMHEtVURIWThrenlyY1VMR3hNY3Z0WTdBcWhzM2hHTDFzbHIy?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-25T09:18:25Z",
-      "first_seen": "2026-10-25T11:20:14.446997Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "3ce767b7f29cfab5",
       "category": "immigration",
       "title": "English language requirements for India Iconic Work Visa and India Skilled Work Visa - Immigration New Zealand",
@@ -1497,6 +1497,23 @@
       "score": 9,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "30775ef9b85fe4f5",
+      "category": "world",
+      "title": "四方安全对话外长联合声明 未点名剑指中国经济政策 - RFI",
+      "summary": "四方安全对话外长联合声明 未点名剑指中国经济政策 RFI",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPVVB2X1N5MlIwdHZjMWZ2X1RsOUd2VEN3YW9TdWxtdDlScDZvNjFiYmNCcmVRY0o1UXRFd0FoX2xNZWFKeEYtdnZPdEd2UElFQ1NnLU4yZlNuVlNGa3NDMXBMaW85M29NQ2dXcnlwTjdoQVNWTXZ5eks2Y0xqcWs2c2tPNHAxY1dYQzZZSUpKQXJhVmJKYjdLSndHaG1tMUozcFRLb3JBSVFNaVUzV1RuMXFZRzltT0RBMUpHOUFqYjNVaGF3TVRKdTg4a1BqY2xvLUNuZ2Fmd0hldEVJbmdUY0tleFYybWN0MVhWWlpaQkVWc0pGVll5bHQ1NjVpZjVkWFR3bHRVUUliQ0NMY3dPQnVpRUs4Rk9hOFNYV2ZSV0lFQzA5QlhPakhGSnUzS2JaSWw3eHREaVdReHdONUdHZjlLTG5SQ2lOeU53V2lLWkJQN0lmWmI1S016OHNqRW95cmVnR2dPRGlaTE5fWGhWaXg1VkQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-31T20:04:29Z",
+      "first_seen": "2026-10-31T21:41:57.378418Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "d4e3b74ac62e7a03",
@@ -2266,15 +2283,15 @@
     {
       "id": "be4683e2306f16ef",
       "category": "world",
-      "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
-      "summary": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in fines Protesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place i",
+      "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
+      "summary": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in fines Full report: Police clash with masked rioters after largely peaceful protests across France Protesters ",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
       "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
       "source": "The Guardian World",
       "source_kind": "media",
-      "published_at": "2026-10-31T16:51:27Z",
+      "published_at": "2026-10-31T18:31:38Z",
       "first_seen": "2026-10-31T12:20:03.761979Z",
       "score": 6,
       "ai_generated": false,
@@ -2364,37 +2381,20 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "6b316fba184f0fad",
-      "category": "world",
-      "title": "蓝海、绿能齐发力多领域见证中国经济活力_国内要闻 - 中国甘肃网",
-      "summary": "蓝海、绿能齐发力多领域见证中国经济活力_国内要闻 中国甘肃网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ak9FNGVlNWtsMnctakhfdkRaVXhrOW9qZ0w4Sk03SURWWjBjWGE2Y1daZE5tcFhPelJuR3JheHhxc0VJRkx5N0Q1QkNDeE1tOWxoT3U1WkNyUnU5UDdCV3o4S011ekpUUUE?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-31T08:17:00Z",
-      "first_seen": "2026-10-31T12:20:03.761979Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "7b5aa57409392cce",
+      "30775ef9b85fe4f5",
       "d4e3b74ac62e7a03",
-      "bcf3cf4451c91e4b",
-      "9656678bad8edf09"
+      "bcf3cf4451c91e4b"
     ],
     "tech": [
       "a94da1d24c90f544",
+      "5b0ac3b976a1c0a5",
       "e16c4853d0f5fdf4",
-      "69d615679989ada1",
-      "bd67dc9fa419a51c"
+      "69d615679989ada1"
     ],
     "immigration": [
       "f1ff7900dc914f4f",
@@ -2440,7 +2440,7 @@
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 2
+        "items": 5
       },
       {
         "name": "香港入境事务处 · Google 索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 19
+        "items": 12
       },
       {
         "name": "MIT Technology Review",
@@ -2518,7 +2518,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 31
+        "items": 28
       },
       {
         "name": "The Guardian World",
@@ -2530,13 +2530,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 21
+        "items": 18
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 7
+        "items": 4
       }
     ]
   }
