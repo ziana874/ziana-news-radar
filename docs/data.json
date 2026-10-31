@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T12:20:03.761979Z",
+  "generated_at": "2026-10-31T17:16:21.344493Z",
   "is_demo": false,
   "items": [
     {
@@ -37,6 +37,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "b431ea497743c593",
+      "category": "investing",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-10-31T15:09:55Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "a94da1d24c90f544",
       "category": "tech",
       "title": "Negotiate an AI Agent Model Swap Clause Before Your Vendor Switches the LLM - Startup Fortune",
@@ -69,23 +86,6 @@
       "score": 12,
       "ai_generated": false,
       "policy_status": "待核验"
-    },
-    {
-      "id": "b431ea497743c593",
-      "category": "investing",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-10-30T14:07:42Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": null
     },
     {
       "id": "41af4bfbabe5e533",
@@ -2077,40 +2077,6 @@
       "policy_status": null
     },
     {
-      "id": "a81e41633257a7cf",
-      "category": "world",
-      "title": "Israel and the US are both going to the polls - the consequences will be global",
-      "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-26T16:30:34Z",
-      "first_seen": "2026-10-26T18:43:12.893329Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "509393c2b06b6d21",
-      "category": "world",
-      "title": "‘Democracy always’: Lula vows no return to dictatorship in Brazil after election win",
-      "summary": "Leaders and governments worldwide congratulate Lula on dramatic comeback seen as an important signal to rest of Latin America Lula supporters celebrate election victory – in pictures Luiz Inácio Lula da Silva , the Brazilian president, has ",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-26T15:51:18Z",
-      "first_seen": "2026-10-26T18:43:12.893329Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "f8a9d59c65d9725f",
       "category": "immigration",
       "title": "Subclass 102 Adoption visa - Immigration and citizenship Website",
@@ -2300,16 +2266,67 @@
     {
       "id": "be4683e2306f16ef",
       "category": "world",
-      "title": "France and Germany braced for unrest with hundreds of demonstrations planned – Europe live",
-      "summary": "French interior minister, Laurent Nuñez, warned earlier this week of a ‘very high risk of public disorder’ In Paris, two separate marches planned by unions and gilets jaunes through the city centre have been banned. Instead, police have aut",
+      "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
+      "summary": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in fines Protesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place i",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
       "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
       "source": "The Guardian World",
       "source_kind": "media",
-      "published_at": "2026-10-31T11:51:00Z",
+      "published_at": "2026-10-31T16:51:27Z",
       "first_seen": "2026-10-31T12:20:03.761979Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "3d21f51d375fddcd",
+      "category": "world",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-10-31T15:16:20Z",
+      "first_seen": "2026-10-31T17:16:21.344493Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "93f7b4ba334ed2fa",
+      "category": "world",
+      "title": "Ethiopian PM puts ministers through military training",
+      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-10-31T14:28:15Z",
+      "first_seen": "2026-10-31T17:16:21.344493Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "5fe80a66705f8a6f",
+      "category": "world",
+      "title": "多领域见证中国经济活力 数据彰显韧性与潜力 - 中华网",
+      "summary": "多领域见证中国经济活力 数据彰显韧性与潜力 中华网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zNlEzdmNDTEtmb2RxMmZFVWo3MHVsUkN0aEFxb2hvZFdCMktFMnlZRzczRGVIOGVYNDNQR29Jc1h5MHVOMlBpOUZrejU4cUttbERwUVo4dkRpQW5JRHBxWko2eHlDczZncmpycUpma0U?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-31T13:21:02Z",
+      "first_seen": "2026-10-31T17:16:21.344493Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2317,7 +2334,7 @@
     {
       "id": "5c635865d006baaa",
       "category": "world",
-      "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
       "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
       "title_zh": "",
       "summary_zh": "",
@@ -2360,23 +2377,6 @@
       "source": "中国与世界 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-10-31T08:17:00Z",
-      "first_seen": "2026-10-31T12:20:03.761979Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "f238753f0e8c34b9",
-      "category": "world",
-      "title": "中国央行切换政策利率 首次公布隔夜逆回购利率为1.25% - 联合早报",
-      "summary": "中国央行切换政策利率 首次公布隔夜逆回购利率为1.25% 联合早报",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZaFhpNVdQZVpHWGtXRk1YOU5YUkFLLWpMTDM3RXloZEdJNW1fSkw1WHMxV05GT1hKX2hoNnByNmdVbHZlVzBISENSVW9vdm1wU3NLeWdMMG9mTGhUUWozY1RGLS1oRGppV2c?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-31T07:21:44Z",
       "first_seen": "2026-10-31T12:20:03.761979Z",
       "score": 6,
       "ai_generated": false,
@@ -2434,7 +2434,7 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 25
+        "items": 24
       },
       {
         "name": "英国移民政策 · Google 索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 18
+        "items": 19
       },
       {
         "name": "MIT Technology Review",
@@ -2518,25 +2518,25 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 35
+        "items": 31
       },
       {
         "name": "The Guardian World",
         "category": "world",
         "ok": true,
-        "items": 31
+        "items": 30
       },
       {
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 19
+        "items": 21
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 4
+        "items": 7
       }
     ]
   }
