@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:27:14.190769Z",
+  "generated_at": "2026-10-31T05:46:29.144902Z",
   "is_demo": false,
   "items": [
     {
@@ -37,18 +37,18 @@
       "policy_status": "待核验"
     },
     {
-      "id": "b431ea497743c593",
-      "category": "investing",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "id": "a94da1d24c90f544",
+      "category": "tech",
+      "title": "Negotiate an AI Agent Model Swap Clause Before Your Vendor Switches the LLM - Startup Fortune",
+      "summary": "Negotiate an AI Agent Model Swap Clause Before Your Vendor Switches the LLM Startup Fortune",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-10-30T14:07:42Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPal9mY01Qd3BCSEVOWTBnNnp0c1lLTVFCZk1XcktjYllCdG8yNElRQWFHV3Fic29CWGRjQkEwdHAtRWJldjlfd0xUS3U3RVJkQTBlZV9Gbkh3WUZmOHRmZ0ZWRnNIUVBwMGxZdzFpbko4aEZuNS1NZkxoOWRjNGRsLTltTXNJdXN3dnd4ZDZ2bTYyLU1IZkJMV0dnVGNxdnBOXzlyRnZ3?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-31T05:02:43Z",
+      "first_seen": "2026-10-31T05:46:29.144902Z",
       "score": 12,
       "ai_generated": false,
       "policy_status": null
@@ -64,11 +64,28 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
       "source": "新西兰移民官网 · Google 索引",
       "source_kind": "index",
-      "published_at": "2026-10-30T12:15:55Z",
+      "published_at": "2026-10-31T00:27:40Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "b431ea497743c593",
+      "category": "investing",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-10-30T14:07:42Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "41af4bfbabe5e533",
@@ -309,6 +326,57 @@
       "policy_status": "待核验"
     },
     {
+      "id": "e16c4853d0f5fdf4",
+      "category": "tech",
+      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2610.37739",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-10-31T04:00:00Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "69d615679989ada1",
+      "category": "tech",
+      "title": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
+      "summary": "arXiv:2610.37875v1 Announce Type: new Abstract: Accurate AI assistance can improve immediate judgments while reducing opportunities to practise the operations needed for independent performance. Verification Learning Theory (VLT) formalises",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2610.37875",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-10-31T04:00:00Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "bd67dc9fa419a51c",
+      "category": "tech",
+      "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+      "summary": "arXiv:2610.37905v1 Announce Type: new Abstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with language model agents requires discovering un",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2610.37905",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-10-31T04:00:00Z",
+      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "887704c86120d91a",
       "category": "tech",
       "title": "AI semiconductor industry trends: from chips to systems - SiliconANGLE",
@@ -377,69 +445,18 @@
       "policy_status": null
     },
     {
-      "id": "0bfee00d572dd88b",
+      "id": "5320a19ebccf497e",
       "category": "tech",
-      "title": "Latest News In AI Chips - AI Demand Spurs Semiconductor Market Transformation 2027 Predictions - Yahoo Finance Singapore",
-      "summary": "Latest News In AI Chips - AI Demand Spurs Semiconductor Market Transformation 2027 Predictions Yahoo Finance Singapore",
+      "title": "Latest News In AI Chips - AI Demand Spurs Semiconductor Market Transformation 2027 Predictions - Yahoo Finance",
+      "summary": "Latest News In AI Chips - AI Demand Spurs Semiconductor Market Transformation 2027 Predictions Yahoo Finance",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QUzBIS21YTW1PRzhuTGNxdWprTl9HcEpsOGlZemZGOTBnVlFSeDdSRU1IcFRSTi15NWRtZnpZMWVmLW04ckoyVk9zMkR4eUlFb21CR1RxYnI5dFZuX2NaRlB5R3RkR2VSQVloNUcwYWU3eGhBOFBrbFg0T1k?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRENjNzlQcjFUM2gzcktWekgxMTdaQU1XdWNjekpXVXRHTmpJYWJTWHpyanV1emdzVWRjYmRwLUxndlhxUmJLaWZWSEZEUkhKM3h5RjlJdUZNU3BLY0RZRS01cnE4U3Zna0JUdk56X2dVZHNxSHhuOWtfbjVGeTZMeHc4Z21Ba2tMMmNJWHdUekk?oc=5",
       "source": "AI 行业 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-10-30T11:37:39Z",
-      "first_seen": "2026-10-30T12:48:31.686554Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "e16c4853d0f5fdf4",
-      "category": "tech",
-      "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
-      "summary": "arXiv:2610.37739v1 Announce Type: new Abstract: Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2610.37739",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-10-30T04:00:00Z",
-      "first_seen": "2026-10-30T12:48:31.686554Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "69d615679989ada1",
-      "category": "tech",
-      "title": "Verification Learning Theory: A Process Model of Checking and Retention in AI-Assisted Judgment",
-      "summary": "arXiv:2610.37875v1 Announce Type: new Abstract: Accurate AI assistance can improve immediate judgments while reducing opportunities to practise the operations needed for independent performance. Verification Learning Theory (VLT) formalises",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2610.37875",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-10-30T04:00:00Z",
-      "first_seen": "2026-10-30T12:48:31.686554Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "bd67dc9fa419a51c",
-      "category": "tech",
-      "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
-      "summary": "arXiv:2610.37905v1 Announce Type: new Abstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with language model agents requires discovering un",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2610.37905",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-10-30T04:00:00Z",
-      "first_seen": "2026-10-30T12:48:31.686554Z",
+      "first_seen": "2026-10-31T05:46:29.144902Z",
       "score": 10,
       "ai_generated": false,
       "policy_status": null
@@ -1312,23 +1329,6 @@
       "policy_status": null
     },
     {
-      "id": "1ecafaded844eaea",
-      "category": "world",
-      "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
-      "summary": "Student List movement projected to have 141 seats in the new parliament, well clear of the 126 required for majority Serbian leader Aleksandar Vučić concedes defeat in fiercely contested parliamentary election The latest turnout projection ",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-25T23:40:57Z",
-      "first_seen": "2026-10-25T16:32:25.083785Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "8804dded30b1d7f0",
       "category": "tech",
       "title": "AI agent builds itself a robot body, does exactly what experts warned - YouTube",
@@ -1375,23 +1375,6 @@
       "source_kind": "index",
       "published_at": "2026-10-25T09:18:25Z",
       "first_seen": "2026-10-25T11:20:14.446997Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "8ef46e4113776801",
-      "category": "tech",
-      "title": "AI agents are starting to do the work of research economists on Wall Street - Startup Fortune",
-      "summary": "AI agents are starting to do the work of research economists on Wall Street Startup Fortune",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlQ4ZEt6ZU5ydzBMMWp3VGREb0tRdzQ5UXpjMENNZUFWbXFBbU9RdllaQWNORGFwdkwwQllrcEtrRENQam41TGNfSExZTGdpSUFKREFjNW40bkJEODhrTVl4ZXlUaUo5UksyUXFiMm9aUXBfOEtfbm91aDFCSFBWdjlEY05RRTZWdHhLbjAyZHp1MkJkZS1JMlRCeV90RURBTHM3MWtn?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-24T22:24:38Z",
-      "first_seen": "2026-10-25T04:45:46.265994Z",
       "score": 10,
       "ai_generated": false,
       "policy_status": null
@@ -2128,23 +2111,6 @@
       "policy_status": null
     },
     {
-      "id": "7addca04b1702f0f",
-      "category": "world",
-      "title": "更加积极的财政政策发力提效——中国经济三季报亮点解析- 中国日报网 - China Daily",
-      "summary": "更加积极的财政政策发力提效——中国经济三季报亮点解析- 中国日报网 China Daily",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHFFcl9URzFvcWhKcE5Mc0I5ZGVMLXpKWFVsaTREdEU2LUhMTkxhUi1MUk9TWEw4TEd0dGRUNG1rY2lBdTkza1dZcWd5Q3g5WHRGOFE1NklCaUlha1RiT1NNc2EzMjRDNk1XM3FaVWJOcTNGYUtZaGpTbTJKMTJDbjJ6bw?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-26T02:26:53Z",
-      "first_seen": "2026-10-27T05:09:49.546519Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "fe3e6b3c3def05bc",
       "category": "immigration",
       "title": "一名來港就讀學生因以欺騙手段取得服務被囚| 入境事務處 - Immigration Department",
@@ -2332,52 +2298,86 @@
       "policy_status": "待核验"
     },
     {
-      "id": "77e8331448e47476",
+      "id": "5f0e1fb044fca60c",
       "category": "world",
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "title": "Riot police deployed to Poland’s constitutional court after judge suspended",
+      "summary": "President Karol Nawrocki seen struggling to gain entry to court building in Warsaw amid long-running row over the court’s legitimacy Riot police were locked in a tense standoff with protesters outside Poland’s constitutional court on Friday",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended",
+      "source": "The Guardian World",
       "source_kind": "media",
-      "published_at": "2026-10-30T22:11:52Z",
-      "first_seen": "2026-10-30T22:27:14.190769Z",
+      "published_at": "2026-10-31T04:27:25Z",
+      "first_seen": "2026-10-31T05:46:29.144902Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
     {
-      "id": "9513d1329393fffd",
+      "id": "8a95a20d9d991785",
       "category": "world",
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-      "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "title": "鲁东红：前三季度物价温和修复，中国经济通缩论可休矣 - 搜狐网",
+      "summary": "鲁东红：前三季度物价温和修复，中国经济通缩论可休矣 搜狐网",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-30T20:55:18Z",
-      "first_seen": "2026-10-30T22:27:14.190769Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHg3WFk1eEQ3RU0zR3NJSThhOVQ1Y0J3XzQwUV9RREw5OW5kOXZYTlRkcE9YaW9mdTNkU19FY2doZVVJTlczeGhzT2M2V0t0OGloS3BKVlhkSHd5T0FkMm9aS1IzaGlhYmpMYUstRkx5M1YzSERLdDBUTmxUcjlMWGM3dmdkQ1RU?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-31T04:05:00Z",
+      "first_seen": "2026-10-31T05:46:29.144902Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
     {
-      "id": "2983ac9f31aee10c",
+      "id": "51621e23f193d9be",
       "category": "world",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "source_kind": "media",
-      "published_at": "2026-10-30T20:52:01Z",
-      "first_seen": "2026-10-30T22:27:14.190769Z",
+      "published_at": "2026-10-31T02:39:25Z",
+      "first_seen": "2026-10-31T05:46:29.144902Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "31e1f5f004aa131b",
+      "category": "world",
+      "title": "央行切换主要政策利率，从1.4%换成1.25% - 新浪财经",
+      "summary": "央行切换主要政策利率，从1.4%换成1.25% 新浪财经",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDWTJScktGdmlvQ213YWxibWZyTTMtcnNqVm9zTVI0eWZIVURFUW4zY3BUQjNQRGw5eGw4R2hWZklKQ2l0eWhxMkxhTmRmbGNOZzcwVHczTS14bUc1NHU2MW1VQnp4ZV9Rc3c1a2drSzlnMk1IZHc?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-31T02:33:33Z",
+      "first_seen": "2026-10-31T05:46:29.144902Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "e7a7471155c46ba2",
+      "category": "world",
+      "title": "Albanese looks for reset on world stage as ‘spot fires burn’ domestically and likely interest rate hike looms",
+      "summary": "The prime minister will speak with King Charles and others at the Commonwealth heads of government meeting in Antigua and Barbuda Get our daily political email , free app or daily news podcast As “summit season” begins, reaffirming ties wit",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/31/albanese-reset-world-stage-economic-spot-fires-rba-interest-rate-decision",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-10-31T02:24:10Z",
+      "first_seen": "2026-10-31T05:46:29.144902Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2386,15 +2386,15 @@
   "digests": {
     "world": [
       "7b5aa57409392cce",
-      "1ecafaded844eaea",
       "9656678bad8edf09",
-      "98c40d1f5ce3c9f6"
+      "98c40d1f5ce3c9f6",
+      "dec4345aa50904c6"
     ],
     "tech": [
-      "887704c86120d91a",
-      "934b42609ab2e17d",
-      "469eae8e3c455429",
-      "0bfee00d572dd88b"
+      "a94da1d24c90f544",
+      "e16c4853d0f5fdf4",
+      "69d615679989ada1",
+      "bd67dc9fa419a51c"
     ],
     "immigration": [
       "f1ff7900dc914f4f",
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 20,
-    "failed": 0,
+    "ok": 19,
+    "failed": 1,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2440,7 +2440,7 @@
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 5
+        "items": 2
       },
       {
         "name": "香港入境事务处 · Google 索引",
@@ -2493,8 +2493,9 @@
       {
         "name": "Hacker News 热门",
         "category": "tech",
-        "ok": true,
-        "items": 14
+        "ok": false,
+        "items": 0,
+        "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage?points=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrs"
       },
       {
         "name": "MIT Technology Review",
@@ -2518,7 +2519,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 35
+        "items": 34
       },
       {
         "name": "The Guardian World",
@@ -2536,7 +2537,7 @@
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 8
+        "items": 5
       }
     ]
   }
