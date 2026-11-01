@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T21:41:57.378418Z",
+  "generated_at": "2026-11-01T06:10:41.706447Z",
   "is_demo": false,
   "items": [
     {
@@ -1125,23 +1125,6 @@
       "policy_status": null
     },
     {
-      "id": "7b5aa57409392cce",
-      "category": "world",
-      "title": "‘It’s the smell of freedom’: Belgrade cleans up after Student List triumph",
-      "summary": "Binbag-wielding volunteers clear encampment used by thugs to intimidate opponents of deposed government Student List cleaned up at Serbia’s parliamentary elections. So it was only fitting that the morning after a night of raucous celebratio",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/oct/27/belgrade-cleans-up-after-student-list-triumph-serbia",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-27T06:00:04Z",
-      "first_seen": "2026-10-27T12:05:37.412923Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "306061a7bc4d6bdb",
       "category": "tech",
       "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
@@ -1754,6 +1737,40 @@
       "policy_status": null
     },
     {
+      "id": "f8a9d59c65d9725f",
+      "category": "immigration",
+      "title": "Subclass 102 Adoption visa - Immigration and citizenship Website",
+      "summary": "Subclass 102 Adoption visa Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZm01SGJQNnh5MUVQT1RLZmN6LWJ2cWo2S21pbVpUaHJrdEFRM3EtdGQ1VUxDXzVSTVBCb2JFWnJHeDNvMWFnZ2dUYWZDRzhDem5JanBKTHYxWVRoazFmQ2pNTTgwNXJKTGtncHRjdXgwdlpxdmtGdW1zcGRwZTA3MzJVT2E?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-10-29T07:00:00Z",
+      "first_seen": "2026-10-28T18:23:11.764051Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
+      "id": "98cacbfd046e0bf3",
+      "category": "immigration",
+      "title": "Subclass 101 Child visa - Immigration and citizenship Website",
+      "summary": "Subclass 101 Child visa Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1hhUnoyYXV5ZU5kVXBDd3IzMEUtZnplVTdvb0V4UjVPY2VmaDdueFJWMmFZLVRKV2ZXcHFyWXZLbUo2dk96cmhISDZiRGc1NTZUQWI1STd1ZUs4bUEtSGJHV1R0YzBlazNPcG9hLWVGRGJiaEZxa1RSYWFsT0pVVA?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-10-29T07:00:00Z",
+      "first_seen": "2026-10-21T17:20:39.319352Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "2faff1d5c9e06a07",
       "category": "world",
       "title": "8000亿元新型政策性金融工具投放完成- 中国日报网 - China Daily",
@@ -2077,40 +2094,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "6da5f6d4bae1fbf7",
-      "category": "world",
-      "title": "菲律宾外交部重申一中政策 否认与台合作护海缆 - 早晨报",
-      "summary": "菲律宾外交部重申一中政策 否认与台合作护海缆 早晨报",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5SnpYeHRreGk5QW5lejNPT05PUHlkemtZLVJ5cVpoME1YWUhjbldKdzhWaGlSRmw4Q0J2RnF5aXBYTnpXcG1nRmZXWC1FQzhzWl9hX20xWE5NYkhTRnBUYlpoTmhMUVc2?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-26T23:35:00Z",
-      "first_seen": "2026-10-27T12:05:37.412923Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "f8a9d59c65d9725f",
-      "category": "immigration",
-      "title": "Subclass 102 Adoption visa - Immigration and citizenship Website",
-      "summary": "Subclass 102 Adoption visa Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZm01SGJQNnh5MUVQT1RLZmN6LWJ2cWo2S21pbVpUaHJrdEFRM3EtdGQ1VUxDXzVSTVBCb2JFWnJHeDNvMWFnZ2dUYWZDRzhDem5JanBKTHYxWVRoazFmQ2pNTTgwNXJKTGtncHRjdXgwdlpxdmtGdW1zcGRwZTA3MzJVT2E?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-26T07:00:00Z",
-      "first_seen": "2026-10-28T18:23:11.764051Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
       "id": "fe3e6b3c3def05bc",
       "category": "immigration",
       "title": "一名來港就讀學生因以欺騙手段取得服務被囚| 入境事務處 - Immigration Department",
@@ -2170,23 +2153,6 @@
       "summary_zh": "",
       "why_zh": "",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZUVyaFN4Rzd0X2xVVmVMaEF5TGZRTXVYcmpla2xTZzZSRllkQUREY1RJX29KLTBFcTlPd3lsM3RkcUd5LXVWZzJZVmt2aFNBejFnclN6X3BneUpkVnhubU53SzhTRzh2VE9lNk5ib3ZCTlFEdWhvT3E0ek9CZ3VDOUI3TWVNaTdCQS1ULTB4QWdFWVZhQnh5SkZnN0NZRGszYS1ScA?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-19T07:00:00Z",
-      "first_seen": "2026-10-21T17:20:39.319352Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
-      "id": "98cacbfd046e0bf3",
-      "category": "immigration",
-      "title": "Subclass 101 Child visa - Immigration and citizenship Website",
-      "summary": "Subclass 101 Child visa Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1hhUnoyYXV5ZU5kVXBDd3IzMEUtZnplVTdvb0V4UjVPY2VmaDdueFJWMmFZLVRKV2ZXcHFyWXZLbUo2dk96cmhISDZiRGc1NTZUQWI1STd1ZUs4bUEtSGJHV1R0YzBlazNPcG9hLWVGRGJiaEZxa1RSYWFsT0pVVA?oc=5",
       "source": "澳洲移民官网 · Google 索引",
       "source_kind": "index",
       "published_at": "2026-10-19T07:00:00Z",
@@ -2281,6 +2247,125 @@
       "policy_status": "待核验"
     },
     {
+      "id": "171d8b4ef1db6f8c",
+      "category": "world",
+      "title": "来华“扫货”，入境游又添新“接口”——中国经济三季报亮点解析 - 光明网",
+      "summary": "来华“扫货”，入境游又添新“接口”——中国经济三季报亮点解析 光明网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAybzhFMkxsQ0ctbzM1alNSQ1ppTDBlSUF5M0JDc0V4NlpQMndSTFlMZl9CRmhqYThldVZsemh4SUozQV9jbGMwTmdZM3FhUHJoYVVtZk9nWkFjZG5nOVRSb2t6bjBZZw?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-01T06:01:50Z",
+      "first_seen": "2026-11-01T06:10:41.706447Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "49fc6e1403de9494",
+      "category": "world",
+      "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+      "summary": "Cryptocurrency exchange says withdrawals expected to resume on Sunday as FBI blames North Korean state-sponsored group TraderTraitor Cryptocurrency exchange Binance says it has replaced 90% of the ⁠amount stolen after a record $6.3bn hack o",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-01T02:41:34Z",
+      "first_seen": "2026-11-01T06:10:41.706447Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "53ab39bc25152173",
+      "category": "world",
+      "title": "中国经济网视频丨上海闵行区：让医疗和养老在协商中融合 - 手机网易网",
+      "summary": "中国经济网视频丨上海闵行区：让医疗和养老在协商中融合 手机网易网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PSlBFTWFUVHRwdV8xX2xOaHgtS09VMjVBa0NLamlfMWR2cUdMb1dfWVZ5b1l5YUxWX1V1ZDNPRGNNcnlsRGl3WC1abGhtUVRBdXAxb0JySDNZa0xfV092M093?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-01T02:09:03Z",
+      "first_seen": "2026-11-01T06:10:41.706447Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "498cd1fde81363ad",
+      "category": "world",
+      "title": "今天，中国经济时报32岁了 - 搜狐网",
+      "summary": "今天，中国经济时报32岁了 搜狐网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHpHQTNvUU5FS3VVWUZ5UTBxb2EzVGI1ZVdoN1o2QjI0ZEtmV2hwMWd2ZlhqbTBPdzRUUThkaWJwcmJRYjFEN0Z0MzVYcHFMM01DcVVZRXhMd0Qwb1E4NU0xWWhwM2RHMmFCeXNFQlVMUWluajhaUk5hY3RwWmJCV0dqcjJCR0Ux?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-01T00:18:00Z",
+      "first_seen": "2026-11-01T06:10:41.706447Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "8fa2de3423129063",
+      "category": "world",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-01T00:12:07Z",
+      "first_seen": "2026-11-01T06:10:41.706447Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "85e338d52f99d94d",
+      "category": "world",
+      "title": "读懂银发新需求 - 中国经济网",
+      "summary": "读懂银发新需求 中国经济网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SNGVlbkk2b1NwbGdCV1VyQUFfMElqdFk0QW1LdXpxb2ZlaUpMSEI0YnZvM3kyclBweFB2TFRFSmx4OGR2aXFreUVoOHBxOExxeGRKSlJOYjduazRWaDJWOHh0YzE5ejVlLWptSnBJYw?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-31T22:05:00Z",
+      "first_seen": "2026-11-01T06:10:41.706447Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "55574c4a4ef1fe3d",
+      "category": "world",
+      "title": "【文体市场面面观】“电影+体育”不是简单做加法 - 中国经济网",
+      "summary": "【文体市场面面观】“电影+体育”不是简单做加法 中国经济网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EQTQ1Y1p1UDZwb1lJWHh0ZFZVVE1ZbzBFNlQwTUdiRks1TlNWeVdmQ25kdFZsRXlvRzl6b21ZQVhVQ1ZJWXc1UXNpN29JVy1KcGVtUDcwU2NxM0dUcTlIZXpwV01TaTdVaThlRVNsVQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-10-31T21:58:00Z",
+      "first_seen": "2026-11-01T06:10:41.706447Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "be4683e2306f16ef",
       "category": "world",
       "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
@@ -2296,99 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "3d21f51d375fddcd",
-      "category": "world",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-31T15:16:20Z",
-      "first_seen": "2026-10-31T17:16:21.344493Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "93f7b4ba334ed2fa",
-      "category": "world",
-      "title": "Ethiopian PM puts ministers through military training",
-      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-31T14:28:15Z",
-      "first_seen": "2026-10-31T17:16:21.344493Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "5fe80a66705f8a6f",
-      "category": "world",
-      "title": "多领域见证中国经济活力 数据彰显韧性与潜力 - 中华网",
-      "summary": "多领域见证中国经济活力 数据彰显韧性与潜力 中华网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zNlEzdmNDTEtmb2RxMmZFVWo3MHVsUkN0aEFxb2hvZFdCMktFMnlZRzczRGVIOGVYNDNQR29Jc1h5MHVOMlBpOUZrejU4cUttbERwUVo4dkRpQW5JRHBxWko2eHlDczZncmpycUpma0U?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-31T13:21:02Z",
-      "first_seen": "2026-10-31T17:16:21.344493Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "5c635865d006baaa",
-      "category": "world",
-      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-31T09:16:14Z",
-      "first_seen": "2026-10-31T12:20:03.761979Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "26d2d1a9e02c4d69",
-      "category": "world",
-      "title": "蓝海、绿能齐发力 多领域见证中国经济活力 - 中安在线",
-      "summary": "蓝海、绿能齐发力 多领域见证中国经济活力 中安在线",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ITi00bUx4c3VGU0FtQ1VvaXY3a09tc3RPak9YUGl3M3A3VzN5eGxSaVltRjBaNG4ya05FcHIzdW5welFrcHVMUWVEVHNqUWxhd1NwUWFseUNHOFp4MWxVY3JVWTNPVTVBdGNSMg?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-31T09:01:00Z",
-      "first_seen": "2026-10-31T12:20:03.761979Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
-      "7b5aa57409392cce",
       "30775ef9b85fe4f5",
       "d4e3b74ac62e7a03",
-      "bcf3cf4451c91e4b"
+      "bcf3cf4451c91e4b",
+      "9656678bad8edf09"
     ],
     "tech": [
       "a94da1d24c90f544",
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 20,
-    "failed": 0,
+    "ok": 18,
+    "failed": 2,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2434,7 +2434,7 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 24
+        "items": 25
       },
       {
         "name": "英国移民政策 · Google 索引",
@@ -2493,8 +2493,9 @@
       {
         "name": "Hacker News 热门",
         "category": "tech",
-        "ok": true,
-        "items": 12
+        "ok": false,
+        "items": 0,
+        "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage?points=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrs"
       },
       {
         "name": "MIT Technology Review",
@@ -2505,8 +2506,9 @@
       {
         "name": "arXiv AI 论文",
         "category": "tech",
-        "ok": true,
-        "items": 35
+        "ok": false,
+        "items": 0,
+        "error": "Feed returned no entries (invalid, empty or blocked)"
       },
       {
         "name": "BBC China",
@@ -2530,13 +2532,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 18
+        "items": 14
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 4
+        "items": 5
       }
     ]
   }
