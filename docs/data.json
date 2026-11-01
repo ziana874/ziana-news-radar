@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T17:57:47.298972Z",
+  "generated_at": "2026-11-01T22:09:22.511488Z",
   "is_demo": false,
   "items": [
     {
@@ -2060,23 +2060,6 @@
       "policy_status": null
     },
     {
-      "id": "bcc76393f0bd6f35",
-      "category": "world",
-      "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
-      "summary": "Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Israel election: what we know so far Rise of Palestinian parties in Knesset will redraw Israel’s ",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-27T20:56:23Z",
-      "first_seen": "2026-10-27T22:22:19.537660Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "8ba060501eaf609b",
       "category": "immigration",
       "title": "Employer Nomination Scheme (subclass 186) visa - Immigration and citizenship Website",
@@ -2230,6 +2213,40 @@
       "policy_status": "待核验"
     },
     {
+      "id": "d09e41a41cee1ac3",
+      "category": "world",
+      "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
+      "summary": "Exclusive : Move to scrap legal requirement to set aside water for environment is ‘extreme even for the NT CLP government’, green group says Get our breaking news email , free app or daily news podcast The Northern Territory government has ",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-01T20:02:57Z",
+      "first_seen": "2026-11-01T17:57:47.298972Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "744b3c145f8ccb86",
+      "category": "world",
+      "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
+      "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” University of Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 p",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-01T19:36:46Z",
+      "first_seen": "2026-11-01T17:57:47.298972Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "53a9518b1d447af7",
       "category": "world",
       "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
@@ -2264,23 +2281,6 @@
       "policy_status": null
     },
     {
-      "id": "744b3c145f8ccb86",
-      "category": "world",
-      "title": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
-      "summary": "Dr Marta Shahbazi was travelling to a conference to receive award for scientific excellence in developmental biology An “inspiring” University of Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 p",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-01T15:00:14Z",
-      "first_seen": "2026-11-01T17:57:47.298972Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "9935bf6d649876a4",
       "category": "world",
       "title": "Former NSW Liberal leads overhaul of One Nation candidate selection process",
@@ -2292,23 +2292,6 @@
       "source": "The Guardian World",
       "source_kind": "media",
       "published_at": "2026-11-01T14:00:15Z",
-      "first_seen": "2026-11-01T17:57:47.298972Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "d09e41a41cee1ac3",
-      "category": "world",
-      "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
-      "summary": "Exclusive : Move to scrap legal requirement to set aside water for environment is ‘extreme even for the NT CLP government’, green group says Get our breaking news email , free app or daily news podcast The Northern Territory government has ",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-01T14:00:13Z",
       "first_seen": "2026-11-01T17:57:47.298972Z",
       "score": 6,
       "ai_generated": false,
@@ -2381,6 +2364,23 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
+    },
+    {
+      "id": "b8555b5f67ea1562",
+      "category": "world",
+      "title": "中国经济面面观丨从展台到产业链：进博“全勤生”深耕中国 链接全球创新 - 新华网",
+      "summary": "中国经济面面观丨从展台到产业链：进博“全勤生”深耕中国 链接全球创新 新华网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tOVBfS28wd3NSQ2MtTkIwTkJvM1BDcy1MZ0hjbkd2YTRZR3pidGVwX2tMZnppWEpTTmdXb3Fxd05Kajd5eVk5NC1FZy0zMnlOMnpMMWtqczFhYi04dDk1amJud2pSUy1ZYXFrTi1jVnN3dDNEeElRSDlOM3lDbjQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-01T10:18:42Z",
+      "first_seen": "2026-11-01T22:09:22.511488Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
     }
   ],
   "digests": {
@@ -2440,7 +2440,7 @@
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 5
+        "items": 2
       },
       {
         "name": "香港入境事务处 · Google 索引",
@@ -2464,7 +2464,7 @@
         "name": "Web3 监管 · Google 新闻索引",
         "category": "investing",
         "ok": true,
-        "items": 35
+        "items": 34
       },
       {
         "name": "纳指与标普 · Google 新闻索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 13
+        "items": 19
       },
       {
         "name": "MIT Technology Review",
@@ -2519,7 +2519,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 26
+        "items": 30
       },
       {
         "name": "The Guardian World",
@@ -2531,13 +2531,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 15
+        "items": 12
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 4
+        "items": 3
       }
     ]
   }
