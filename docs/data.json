@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:10:41.706447Z",
+  "generated_at": "2026-11-01T13:15:29.933297Z",
   "is_demo": false,
   "items": [
     {
@@ -37,6 +37,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "325bf9aefa6f6354",
+      "category": "world",
+      "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+      "summary": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities Donald Trump ’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-01T12:00:12Z",
+      "first_seen": "2026-11-01T13:15:29.933297Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "f49508a2da7f6e68",
       "category": "immigration",
       "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
@@ -47,7 +64,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
       "source": "新西兰移民官网 · Google 索引",
       "source_kind": "index",
-      "published_at": "2026-10-31T16:09:10Z",
+      "published_at": "2026-11-01T08:22:34Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
@@ -324,6 +341,40 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "efa7b303ac1efe07",
+      "category": "tech",
+      "title": "Snaptrude says its new AI agent builds LoD 400 BIM models in minutes - MarketScale",
+      "summary": "Snaptrude says its new AI agent builds LoD 400 BIM models in minutes MarketScale",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc2ZHU1NqZFV1MjBwRlV3VERZcVozdUJlTXA1ZGNrYWZ5NlRaNFJvUU43cURqaElzakVRSzFva0Z3LW4xbjJLMDdfRHBhdWFnRjdwY1N3bGZIekg3MmoyY0ljUDk2dS13UzF2N2VnSTRDczBWa0ZDbWt6dGpkQ3BGN2twTXUzWWxIX2JMOUZzOVpGeUZCR0xDVG1HcFVHM0JMYlFsYm42NzBsSy1CNkxhQzRTcm0wa1lSV1VNM2JBcW9lalUxZE5kVlVGZVZlNEdIYlE?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-01T11:19:00Z",
+      "first_seen": "2026-11-01T13:15:29.933297Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "d6cd1c99fe1da8c7",
+      "category": "tech",
+      "title": "Deep Dive: How Stripe’s Link gives AI agents money they can spend: By Sam Boboev - Finextra Research",
+      "summary": "Deep Dive: How Stripe’s Link gives AI agents money they can spend: By Sam Boboev Finextra Research",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdHBvN1lPaFVSWVNJbndmbVZNT3VfOWFFbTRBZHVRTXhsZHAzWUVFVDdXQnB2S2o4LW1abzVWbkhSY3U4am5YbUVlV0IwakRoQzBJNGhWckhfWWhQOFhhQ0VGaGhBN2V1aUhyUC1vQUxGdmxNdFowZ3c0SjdIZUxFZnVrNG9ldEhBSTVYSVhyOTltWWpIZzQtWHI4aFRpUmdPTFBSOU1rbmVJZw?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-01T11:02:06Z",
+      "first_seen": "2026-11-01T13:15:29.933297Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "5b0ac3b976a1c0a5",
@@ -1329,40 +1380,6 @@
       "policy_status": null
     },
     {
-      "id": "8804dded30b1d7f0",
-      "category": "tech",
-      "title": "AI agent builds itself a robot body, does exactly what experts warned - YouTube",
-      "summary": "AI agent builds itself a robot body, does exactly what experts warned YouTube",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA5MUNaNFJJTkNvYV9Bc05ad21pemsxQXdTX19FMi1EUC1uYlN0cm1SOGRhLUhtcGVFYXNlV093eHd3ZkduUk45UTl3?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-25T17:35:39Z",
-      "first_seen": "2026-10-25T20:56:53.438435Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "3a9c6837ae0387c2",
-      "category": "tech",
-      "title": "TUM Convergence Center and TUM RoboGym powered by NEURA unite research, talent and industry to accelerate the development of AI and robotics - sUAS News",
-      "summary": "TUM Convergence Center and TUM RoboGym powered by NEURA unite research, talent and industry to accelerate the development of AI and robotics sUAS News",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPd1MtXzNIYTR0QWtfeVRRRW9CUkVBX3JsTnhRNVJwdmZNeXBvNVFJdldlcVI5NFBjeGhoUmtsMHhWeUtXVml3S05XYnVjWl9ZSzIxUEx6dkVUSkRtdE83d09tSUdlWG81djBWd0I5OVdqbk1ORWNtYTY1eWpObEhRUmVKNG9aU0M1UG55ZVlUc0dtZVJSOFRDZzA1dTlTZW00U3J4TkV6SEpuR2lmNGtMSm9xT3lPNngxbHRjU2c3MXpaWkNiOWd2bmh6d3lnSS1WenI4ZThjS1dtS01LNTVoZkJNMEpIMW05aDl4cGVJU2dTUnhYZW1JWGtteUlneUF2ZWN3?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-25T10:29:27Z",
-      "first_seen": "2026-10-25T16:32:25.083785Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "3ce767b7f29cfab5",
       "category": "immigration",
       "title": "English language requirements for India Iconic Work Visa and India Skilled Work Visa - Immigration New Zealand",
@@ -1482,6 +1499,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "1abb5773cb656031",
+      "category": "immigration",
+      "title": "Evidence of current employment or self-employment - Immigration and citizenship - Immigration and citizenship Website",
+      "summary": "Evidence of current employment or self-employment - Immigration and citizenship Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82U2ZRVkZkcHpSNWFCcE1IbEthbFQ1V2h3WlV1RmJpZXNkcm5LMjRhcHN3NFcwejBOREtSSVg3dnNJbEE1NkFUMjZYRUVHRVVsblBqRHpkYWhld3FfZEZZcXR5SXp2ZDhmWm03S3UtX1ZSbG9GOWQwb3Rn?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-01T10:55:44Z",
+      "first_seen": "2026-10-26T12:54:24.888143Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "30775ef9b85fe4f5",
       "category": "world",
       "title": "四方安全对话外长联合声明 未点名剑指中国经济政策 - RFI",
@@ -1567,18 +1601,18 @@
       "policy_status": null
     },
     {
-      "id": "1abb5773cb656031",
+      "id": "871a185210a6dbb6",
       "category": "immigration",
-      "title": "Evidence of current employment or self-employment - Immigration and citizenship - Immigration and citizenship Website",
-      "summary": "Evidence of current employment or self-employment - Immigration and citizenship Immigration and citizenship Website",
+      "title": "Subclass 407 Training visa - Immigration and citizenship Website",
+      "summary": "Subclass 407 Training visa Immigration and citizenship Website",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82U2ZRVkZkcHpSNWFCcE1IbEthbFQ1V2h3WlV1RmJpZXNkcm5LMjRhcHN3NFcwejBOREtSSVg3dnNJbEE1NkFUMjZYRUVHRVVsblBqRHpkYWhld3FfZEZZcXR5SXp2ZDhmWm03S3UtX1ZSbG9GOWQwb3Rn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTlROWR6U2xrRFcxZVJzWTRGNkZrVU1jNTlUc2NBb1Q2QmFkZ1FTWkJHZ0U4OFFHTmFJUmN2T0Q5aXprTEIwU2ZqQ1Q5blRneDBKQ2ZscC1UajNzTThLZXlUVk1MT3FpUktLZjNpYTZDdUZEUkVUaHVnR0VSZ0VydTNNd0U?oc=5",
       "source": "澳洲移民官网 · Google 索引",
       "source_kind": "index",
-      "published_at": "2026-10-30T07:16:23Z",
-      "first_seen": "2026-10-26T12:54:24.888143Z",
+      "published_at": "2026-10-30T07:00:00Z",
+      "first_seen": "2026-11-01T13:15:29.933297Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": "待核验"
@@ -2060,23 +2094,6 @@
       "policy_status": null
     },
     {
-      "id": "53b3e7949193bb88",
-      "category": "world",
-      "title": "Why it could take time for a new Israeli government to form",
-      "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-27T08:37:30Z",
-      "first_seen": "2026-10-27T12:05:37.412923Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "8ba060501eaf609b",
       "category": "immigration",
       "title": "Employer Nomination Scheme (subclass 186) visa - Immigration and citizenship Website",
@@ -2230,21 +2247,89 @@
       "policy_status": "待核验"
     },
     {
-      "id": "1d055c6a7c825403",
-      "category": "immigration",
-      "title": "Temporary Graduate visa (subclass 485) Post-Higher Education Work stream - Immigration and citizenship Website",
-      "summary": "Temporary Graduate visa (subclass 485) Post-Higher Education Work stream Immigration and citizenship Website",
+      "id": "4d3a2bbf2f74955d",
+      "category": "world",
+      "title": "中国经济大讲堂丨“六张网”上的中国：新型电网四大能力筑牢能源转型底座 - 新浪财经",
+      "summary": "中国经济大讲堂丨“六张网”上的中国：新型电网四大能力筑牢能源转型底座 新浪财经",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWXUydVpQYVZraWRXYUtfcEIyazBxWjBnd1VnQUtzdmktX2Y4WnRnZWM5bmJidUZFWmo4SVFGTmppb3NmRVpsM3Z4RnFVcm0zYkFkR1JsVGdHQkJTaTVhTDZNbndGeVM3elVYcnR4YThzQUJJbjNWQlh5LUtISHd6NXVUeFJHTmtqYUZkdExEaW9qbVEyU2lJa0JCWU9jbU5MOGg2VzN1MkU3aEhxSWdmTDAxcnhSQQ?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsTFVCaUVfVWxjVU5EbWxGNWRIdzZlSnhidWYwTmkzbFhjTWJwMkFUZXYxdnI2MDF2VS1yQ1B2UDFWeF9Balk4Tm1vV0JvaHowT183WFNlUXpfMjRjTHRQS3lsc3pVb21YSkdabG9La3lVSVozN2c?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-12T07:00:00Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 8,
+      "published_at": "2026-11-01T12:11:18Z",
+      "first_seen": "2026-11-01T13:15:29.933297Z",
+      "score": 6,
       "ai_generated": false,
-      "policy_status": "待核验"
+      "policy_status": null
+    },
+    {
+      "id": "49fc6e1403de9494",
+      "category": "world",
+      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
+      "summary": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recove",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-01T11:54:23Z",
+      "first_seen": "2026-11-01T06:10:41.706447Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "b8555b5f67ea1562",
+      "category": "world",
+      "title": "中国经济面面观丨从展台到产业链：进博“全勤生”深耕中国 链接全球创新 - 新华网",
+      "summary": "中国经济面面观丨从展台到产业链：进博“全勤生”深耕中国 链接全球创新 新华网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tOVBfS28wd3NSQ2MtTkIwTkJvM1BDcy1MZ0hjbkd2YTRZR3pidGVwX2tMZnppWEpTTmdXb3Fxd05Kajd5eVk5NC1FZy0zMnlOMnpMMWtqczFhYi04dDk1amJud2pSUy1ZYXFrTi1jVnN3dDNEeElRSDlOM3lDbjQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-01T10:18:42Z",
+      "first_seen": "2026-11-01T13:15:29.933297Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "8fa2de3423129063",
+      "category": "world",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-01T07:00:55Z",
+      "first_seen": "2026-11-01T06:10:41.706447Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "35cecf2e130bddab",
+      "category": "world",
+      "title": "Indian forces tighten security in Delhi ahead of big opposition protest",
+      "summary": "Opposition says hundreds of thousands of people expected to participate in march demanding election chief resign over voter list changes Indian security personnel carrying batons and shields and accompanied by riot control vehicles surround",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-01T06:20:58Z",
+      "first_seen": "2026-11-01T13:15:29.933297Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "171d8b4ef1db6f8c",
@@ -2264,120 +2349,35 @@
       "policy_status": null
     },
     {
-      "id": "49fc6e1403de9494",
+      "id": "3f375301cbe83106",
       "category": "world",
-      "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-      "summary": "Cryptocurrency exchange says withdrawals expected to resume on Sunday as FBI blames North Korean state-sponsored group TraderTraitor Cryptocurrency exchange Binance says it has replaced 90% of the ⁠amount stolen after a record $6.3bn hack o",
+      "title": "专家学者共探中国公共政策研究理论与实践 - 湖北新闻网",
+      "summary": "专家学者共探中国公共政策研究理论与实践 湖北新闻网",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-01T02:41:34Z",
-      "first_seen": "2026-11-01T06:10:41.706447Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "53ab39bc25152173",
-      "category": "world",
-      "title": "中国经济网视频丨上海闵行区：让医疗和养老在协商中融合 - 手机网易网",
-      "summary": "中国经济网视频丨上海闵行区：让医疗和养老在协商中融合 手机网易网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PSlBFTWFUVHRwdV8xX2xOaHgtS09VMjVBa0NLamlfMWR2cUdMb1dfWVZ5b1l5YUxWX1V1ZDNPRGNNcnlsRGl3WC1abGhtUVRBdXAxb0JySDNZa0xfV092M093?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBVUtsdWtfUmNoczJsal9ueGpRLTVTM01rNVVqOVJvOXFyZW52Qk9hUDJHRDYtU00zT2ZUY3hJMlppYmYtTlNFOU80alRpeDNqU0w1Tk00UWQ0cVNpQXJEd2JLQTA3dkoy?oc=5",
       "source": "中国与世界 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-11-01T02:09:03Z",
-      "first_seen": "2026-11-01T06:10:41.706447Z",
+      "published_at": "2026-11-01T04:59:00Z",
+      "first_seen": "2026-11-01T13:15:29.933297Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
     {
-      "id": "498cd1fde81363ad",
+      "id": "07c6f1caa51275c6",
       "category": "world",
-      "title": "今天，中国经济时报32岁了 - 搜狐网",
-      "summary": "今天，中国经济时报32岁了 搜狐网",
+      "title": "德总统在华发声：世界历史上前所未有 盛赞中国经济成就 - 中华军事",
+      "summary": "德总统在华发声：世界历史上前所未有 盛赞中国经济成就 中华军事",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHpHQTNvUU5FS3VVWUZ5UTBxb2EzVGI1ZVdoN1o2QjI0ZEtmV2hwMWd2ZlhqbTBPdzRUUThkaWJwcmJRYjFEN0Z0MzVYcHFMM01DcVVZRXhMd0Qwb1E4NU0xWWhwM2RHMmFCeXNFQlVMUWluajhaUk5hY3RwWmJCV0dqcjJCR0Ux?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnTmx4eDYwTGM4Sy1nWnRMcUt6ZEhRLU9lSERHZXBlTTNkQklZMF9TdXhoNG0wZHBRNE13SEluRF9PN1ZvTTBkTFZSalJ6MGM1X2E2eFFtSTBrLUhRVEpyREpKY2wyWTZnOTBvOThSV2s?oc=5",
       "source": "中国与世界 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-11-01T00:18:00Z",
-      "first_seen": "2026-11-01T06:10:41.706447Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "8fa2de3423129063",
-      "category": "world",
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-01T00:12:07Z",
-      "first_seen": "2026-11-01T06:10:41.706447Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "85e338d52f99d94d",
-      "category": "world",
-      "title": "读懂银发新需求 - 中国经济网",
-      "summary": "读懂银发新需求 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SNGVlbkk2b1NwbGdCV1VyQUFfMElqdFk0QW1LdXpxb2ZlaUpMSEI0YnZvM3kyclBweFB2TFRFSmx4OGR2aXFreUVoOHBxOExxeGRKSlJOYjduazRWaDJWOHh0YzE5ejVlLWptSnBJYw?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-31T22:05:00Z",
-      "first_seen": "2026-11-01T06:10:41.706447Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "55574c4a4ef1fe3d",
-      "category": "world",
-      "title": "【文体市场面面观】“电影+体育”不是简单做加法 - 中国经济网",
-      "summary": "【文体市场面面观】“电影+体育”不是简单做加法 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EQTQ1Y1p1UDZwb1lJWHh0ZFZVVE1ZbzBFNlQwTUdiRks1TlNWeVdmQ25kdFZsRXlvRzl6b21ZQVhVQ1ZJWXc1UXNpN29JVy1KcGVtUDcwU2NxM0dUcTlIZXpwV01TaTdVaThlRVNsVQ?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-31T21:58:00Z",
-      "first_seen": "2026-11-01T06:10:41.706447Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "be4683e2306f16ef",
-      "category": "world",
-      "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
-      "summary": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in fines Full report: Police clash with masked rioters after largely peaceful protests across France Protesters ",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-31T18:31:38Z",
-      "first_seen": "2026-10-31T12:20:03.761979Z",
+      "published_at": "2026-11-01T02:48:45Z",
+      "first_seen": "2026-11-01T13:15:29.933297Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2385,16 +2385,16 @@
   ],
   "digests": {
     "world": [
+      "325bf9aefa6f6354",
       "30775ef9b85fe4f5",
       "d4e3b74ac62e7a03",
-      "bcf3cf4451c91e4b",
-      "9656678bad8edf09"
+      "bcf3cf4451c91e4b"
     ],
     "tech": [
       "a94da1d24c90f544",
-      "5b0ac3b976a1c0a5",
-      "e16c4853d0f5fdf4",
-      "69d615679989ada1"
+      "efa7b303ac1efe07",
+      "d6cd1c99fe1da8c7",
+      "5b0ac3b976a1c0a5"
     ],
     "immigration": [
       "f1ff7900dc914f4f",
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 18,
-    "failed": 2,
+    "ok": 19,
+    "failed": 1,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2434,13 +2434,13 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 25
+        "items": 27
       },
       {
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 5
+        "items": 2
       },
       {
         "name": "香港入境事务处 · Google 索引",
@@ -2493,9 +2493,8 @@
       {
         "name": "Hacker News 热门",
         "category": "tech",
-        "ok": false,
-        "items": 0,
-        "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage?points=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrs"
+        "ok": true,
+        "items": 19
       },
       {
         "name": "MIT Technology Review",
@@ -2520,7 +2519,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 28
+        "items": 25
       },
       {
         "name": "The Guardian World",
@@ -2532,13 +2531,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 14
+        "items": 13
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 5
+        "items": 4
       }
     ]
   }
