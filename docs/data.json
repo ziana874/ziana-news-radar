@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:42:02.154115Z",
+  "generated_at": "2026-11-02T21:46:22.423298Z",
   "is_demo": false,
   "items": [
     {
@@ -1482,6 +1482,57 @@
       "policy_status": "待核验"
     },
     {
+      "id": "6135e0ca7665d05a",
+      "category": "investing",
+      "title": "Nasdaq, S&P 500 fall behind ahead of U.S. midterms, key earnings results - Seeking Alpha",
+      "summary": "Nasdaq, S&P 500 fall behind ahead of U.S. midterms, key earnings results Seeking Alpha",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeVpIRkZJWkgwUk11RFVNbzJyTmdpbEpGdVdkRXRtUHM2THFXTE5VX1ZfR3NEQzNrdHV4dWxQZ0pkZV9NV0dLLTlUNHVtUmRuMGFacVJ4V2V1U0FzZGEyUmY3dm5QY0xDd3BDZi1MaW5rWXVSSVZhb2txQy13d01QakliOG52dkJ4SUgzZXAwMFhMMTZieVEwdVJnV0M1UlRDUHNDZVNYUXI?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-02T21:09:07Z",
+      "first_seen": "2026-11-02T21:46:22.423298Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "961347ee66d5ab3b",
+      "category": "world",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-02T19:33:10Z",
+      "first_seen": "2026-11-02T21:46:22.423298Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "1af9b03caed681ab",
+      "category": "world",
+      "title": "French pupils resume school blockades as country braces for more protests",
+      "summary": "Minister warns weeks without lessons are putting exams at risk as unions plan nationwide strike on Thursday Dozens of high schools across France were blockaded again on Monday as the government braced for another tense week of protests over",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-02T18:17:33Z",
+      "first_seen": "2026-11-02T21:46:22.423298Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "c52d30d97a76fa69",
       "category": "investing",
       "title": "The Nasdaq-100 ETF Fee War: Why There's Room for 4 - ETF Database",
@@ -1527,23 +1578,6 @@
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-11-02T14:15:14Z",
-      "first_seen": "2026-11-02T15:42:02.154115Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "cd935c1671a07c5f",
-      "category": "investing",
-      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-      "summary": "Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-11-02T13:48:28Z",
       "first_seen": "2026-11-02T15:42:02.154115Z",
       "score": 8,
       "ai_generated": false,
@@ -2009,23 +2043,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "e17af4c0d470e46e",
-      "category": "world",
-      "title": "Israel's election deadlock is a sign of the country's deep divisions",
-      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-28T20:53:02Z",
-      "first_seen": "2026-10-28T22:40:42.018091Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "d9bff30b2f958433",
       "category": "immigration",
       "title": "Income Tax treatment of immigration skills charge and certificate of sponsorship fees - GOV.UK",
@@ -2041,40 +2058,6 @@
       "score": 8,
       "ai_generated": false,
       "policy_status": "待核验"
-    },
-    {
-      "id": "64494e6a888c011a",
-      "category": "world",
-      "title": "Israel election results live: Netanyahu bloc loses majority as most ballots counted",
-      "summary": "Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom in Israel Analysis: Rise of Palestinian parties will re",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-28T20:03:20Z",
-      "first_seen": "2026-10-28T05:46:12.974434Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "55106dd4cfc809ac",
-      "category": "world",
-      "title": "Tory Brexit was ‘harder’ than promised in EU referendum, says Andy Burnham",
-      "summary": "Prime minister warns cabinet not to express opinions about future relationship with Brussels before review of options Andy Burnham has warned ministers not to express their opinions about how the government should approach Brexit, as he arg",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/politics/2026/oct/28/tory-brexit-harder-promised-referendum-andy-burnham",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-28T16:45:25Z",
-      "first_seen": "2026-10-28T18:23:11.764051Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
     },
     {
       "id": "8ba060501eaf609b",
@@ -2213,6 +2196,108 @@
       "policy_status": "待核验"
     },
     {
+      "id": "155bce04f5f9be9c",
+      "category": "world",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-02T19:12:59Z",
+      "first_seen": "2026-11-02T21:46:22.423298Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "9021f5cfb428211c",
+      "category": "world",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-02T18:34:24Z",
+      "first_seen": "2026-11-02T21:46:22.423298Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "980e6d03c6de258a",
+      "category": "world",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-02T17:33:19Z",
+      "first_seen": "2026-11-02T21:46:22.423298Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "5434a1d738210b2d",
+      "category": "world",
+      "title": "Dutch police offer record €2m reward in hunt for drug lord",
+      "summary": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-02T17:29:49Z",
+      "first_seen": "2026-11-02T21:46:22.423298Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "fe2bd460e083f6be",
+      "category": "world",
+      "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+      "summary": "Brent crude drops by more than 6% to $105.55 a barrel, the lowest level in more than two weeks The oil price has fallen to its lowest level in more two weeks amid new hopes of a breakthrough to end the Iran war. Brent crude, the internation",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-02T17:14:23Z",
+      "first_seen": "2026-11-02T21:46:22.423298Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "227587f0c51595e8",
+      "category": "world",
+      "title": "“英国政府对华政策摸着石头过河”——国会报告 - BBC",
+      "summary": "“英国政府对华政策摸着石头过河”——国会报告 BBC",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uRE5KZlVKbFlWelJNWXBSODF1UFd3c3dTaHB4U3kyWUg2MWFza1Z1NEVhdEg2NkltM28yaF9tU2I4N3NkTHNfSGtiU2FmdmJ4dGV6U2NZT3Eyb0lTZ2pyNGgzaTg0SU3SAWxBVV95cUxOMjVwVl9VV0VlZDdjUldxZDFkRDh3RUk2ejhNLWNXN2N2alBtMFd6Q1RIa0tKZTljSlg3b1NWY3pfY0ppTmFkTFB3ODRPdEc5NWptc0pKYVg3ZHdTQVRnVk5KM0FpMUJpMnlGRTM?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-02T15:44:50Z",
+      "first_seen": "2026-11-02T21:46:22.423298Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "c645d27b1ecf5a7a",
       "category": "world",
       "title": "中国加码两项货币政策工具救市 分析：托底稳预期但难复制强劲反弹 - 联合早报",
@@ -2296,99 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "4e9b301075c39a58",
-      "category": "world",
-      "title": "中国语言文学学院开展创新创业政策体系及主题教育宣讲活动 - 西南民族大学",
-      "summary": "中国语言文学学院开展创新创业政策体系及主题教育宣讲活动 西南民族大学",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nR1dhWHRMUDZEX3ZUdnBZR1o2RjhrRTVXb0FQSnRiZlhUOXBxUDFaVzhsSVZWVk1wMUVFVE5vVDNORTZpV0tkNlBvSWV4eUtZaHpQeU5XMF8?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-02T11:40:39Z",
-      "first_seen": "2026-11-02T15:42:02.154115Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "3cddf518efc21288",
-      "category": "world",
-      "title": "Hackers send fake nuclear threat alert to Ukraine emergency app",
-      "summary": "Residents in Kyiv also warned of chemical attack and street-to-street fighting in false message sent by unknown party Europe live – latest updates Unknown hackers have targeted Ukraine’s nationwide emergency alert mobile app, sending reside",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/02/hackers-fake-nuclear-chemical-threat-alert-kyiv-ukraine-emergency-app",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-02T11:11:28Z",
-      "first_seen": "2026-11-02T15:42:02.154115Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "23c14c98d8568a5d",
-      "category": "world",
-      "title": "主要政策利率切换启动 中国央行开展5410亿元隔夜逆回购操作 - 中国新闻网",
-      "summary": "主要政策利率切换启动 中国央行开展5410亿元隔夜逆回购操作 中国新闻网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Qa0p1cDBqaEhTdG5Yb0tfekNHR2JBTDZ2VVViRHlBZTYxRDUwd2NFclpSb3hLenVtMklkdkhEYU1tSC1yUFhtRVpBMG9VR1FaNzNfakNVTFVuNXlualJpcnRLbVUwWGpB?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-02T09:46:53Z",
-      "first_seen": "2026-11-02T15:42:02.154115Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "4ac847ad97bbe90b",
-      "category": "world",
-      "title": "What are Americans voting for in this election?",
-      "summary": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-02T09:22:55Z",
-      "first_seen": "2026-11-02T15:42:02.154115Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "144149f79ef14398",
-      "category": "world",
-      "title": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
-      "summary": "Jasper Jones writer sent multiple messages about his sexual desire for young boys, Western Australian district court hears Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast The award",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-02T08:01:34Z",
-      "first_seen": "2026-11-02T15:42:02.154115Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "e8945d7d0316390e",
       "325bf9aefa6f6354",
-      "5916ec6e788cd4e2",
-      "349c9bdc69f0409b"
+      "961347ee66d5ab3b",
+      "1af9b03caed681ab"
     ],
     "tech": [
       "a94da1d24c90f544",
@@ -2428,7 +2428,7 @@
         "name": "新西兰移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 10
+        "items": 9
       },
       {
         "name": "澳洲移民官网 · Google 索引",
@@ -2440,7 +2440,7 @@
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 6
+        "items": 5
       },
       {
         "name": "香港入境事务处 · Google 索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 20
+        "items": 15
       },
       {
         "name": "MIT Technology Review",
@@ -2518,7 +2518,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 30
+        "items": 35
       },
       {
         "name": "The Guardian World",
@@ -2530,13 +2530,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 11
+        "items": 9
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 4
+        "items": 6
       }
     ]
   }
