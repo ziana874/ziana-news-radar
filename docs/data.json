@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T22:09:22.511488Z",
+  "generated_at": "2026-11-02T06:11:12.065504Z",
   "is_demo": false,
   "items": [
     {
@@ -37,6 +37,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "f49508a2da7f6e68",
+      "category": "immigration",
+      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
+      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-02T04:09:29Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "b431ea497743c593",
       "category": "investing",
       "title": "Here’s what happened in crypto today",
@@ -69,23 +86,6 @@
       "score": 12,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "f49508a2da7f6e68",
-      "category": "immigration",
-      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
-      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
-      "source": "新西兰移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-01T08:22:34Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": "待核验"
     },
     {
       "id": "a94da1d24c90f544",
@@ -341,6 +341,74 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "b4909df6d7e7c628",
+      "category": "tech",
+      "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+      "summary": "arXiv:2610.40890v1 Announce Type: new Abstract: Large language models (LLMs) can generate detailed guidance, functional code, and persuasive text at scale. As one of the most widely used consumer language model products as of 2026, ChatGPT ",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2610.40890",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-11-02T05:00:00Z",
+      "first_seen": "2026-11-02T06:11:12.065504Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "86cb3711eb5758f2",
+      "category": "tech",
+      "title": "P-ContextBench: From Personal Fact Recall to Personalized Agent Behavior",
+      "summary": "arXiv:2610.40959v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for personal tasks, yet evaluating their safe use of personal context remains difficult because such contexts are private, fragmented, dynami",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2610.40959",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-11-02T05:00:00Z",
+      "first_seen": "2026-11-02T06:11:12.065504Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "3ede2750f496a704",
+      "category": "tech",
+      "title": "Consensus Within, Competition Between: Decentralized LLM Teams for Perimeter Defense",
+      "summary": "arXiv:2610.41044v1 Announce Type: new Abstract: The use of large language models (LLMs) to coordinate multi-agent teams raises a fundamental architectural question: whether task allocation should be centralized in a single LLM controller or",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2610.41044",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-11-02T05:00:00Z",
+      "first_seen": "2026-11-02T06:11:12.065504Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "f8f0bbe7e95e213e",
+      "category": "tech",
+      "title": "Counterfactual Pairwise Augmentation Improves Small Pointwise LLM Judges",
+      "summary": "arXiv:2610.41149v1 Announce Type: new Abstract: Agentic systems increasingly gate individual steps with a pointwise judge that scores a response against a criterion. Small language models are attractive for this role because they can be ser",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2610.41149",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-11-02T05:00:00Z",
+      "first_seen": "2026-11-02T06:11:12.065504Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "f2132c149fede174",
@@ -1261,74 +1329,6 @@
       "policy_status": null
     },
     {
-      "id": "83e0efbd29f6eeac",
-      "category": "tech",
-      "title": "Do AI-for-Science Agents Preserve Model Safety?",
-      "summary": "arXiv:2610.32045v1 Announce Type: new Abstract: AI-for-Science agents are increasingly being used for formulating scientific hypotheses, running autonomous experiments, and interpreting evidence. These agents are constructed by integrating ",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2610.32045",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-10-27T04:00:00Z",
-      "first_seen": "2026-10-26T04:51:12.070293Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "93b77c498e545a12",
-      "category": "tech",
-      "title": "Rogue AI agent engages 'Skynet mode' to search the internet for exposed LLMs to hijack and run malware attacks - Yahoo Tech",
-      "summary": "Rogue AI agent engages 'Skynet mode' to search the internet for exposed LLMs to hijack and run malware attacks Yahoo Tech",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORW4xSWNkOTYzTGJNN0tkaVh1OTV0VWZIb19QN3ZXTEVUbWRtY3pQSWItTWgtakpTSDJhUV9ldGhnRW9ZcUEyaWJuUmFva2JjaGRHem9ueHJiMjBRamVmU0ZhaWp6RTZNcFdYczAzLWhXVG10SVJGZElqNklULXlyTnMzSWhnelpPWkJXM0VIbUNEQWpM?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-26T18:05:00Z",
-      "first_seen": "2026-10-26T22:44:49.928705Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "ce5ce5fc43fb0958",
-      "category": "tech",
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 229 # Comments: 93",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "source": "Hacker News 热门",
-      "source_kind": "community",
-      "published_at": "2026-10-26T16:35:44Z",
-      "first_seen": "2026-10-26T22:44:49.928705Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "17b9a04f1071a4d1",
-      "category": "tech",
-      "title": "Scaling Agentic AI with Confidence: Introducing Smart Model Router and Agent Sandbox - Oracle Blogs",
-      "summary": "Scaling Agentic AI with Confidence: Introducing Smart Model Router and Agent Sandbox Oracle Blogs",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSLVh6cGhmTVVGTlQ5T0hIbGdqRWtOV3QzYWRqWmM3LXFIWDN0LTNWU3p1VUo1R01TbDhBT0dKeU5ZenFaSW5WMmI1QVpIaWNPUmdaMFRyWGFfdnBkcmRwaHpMRFJaelVZcVhHYV9tSDVtQm1qdzQ0ZXN2eG5SZw?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-26T15:44:42Z",
-      "first_seen": "2026-10-26T18:43:12.893329Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "3b8ebfd972b7eeaa",
       "category": "investing",
       "title": "US Stock Market Today: S&P 500 Futures Edge Higher On Fed Inflation Crossroads - Yahoo Finance",
@@ -1497,6 +1497,40 @@
       "score": 9,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "b716deb6a6b59788",
+      "category": "world",
+      "title": "Minns warns expected RBA rate rise will see ‘shops close that don’t reopen’ as pressure mounts on PM",
+      "summary": "Frustration grows over the economy with one Labor MP saying voter anger is already high ahead of Reserve Bank of Australia decision Get our daily political email , free app or daily news podcast The NSW premier, Chris Minns, has warned an e",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-02T05:48:12Z",
+      "first_seen": "2026-11-02T06:11:12.065504Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "01a626da1f15c492",
+      "category": "world",
+      "title": "“理财产品要变相保本了”是误读政策 - 中国经济网",
+      "summary": "“理财产品要变相保本了”是误读政策 中国经济网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vdEUyeFk4TE1TYnFFV1hUVnNQb2ZkbGtURUQ1Y2c5QVBvRDZMMHhsQ0xzcDlUTTIyWExmb0hDMkV5bTdRWnNnY0ZEdkxoeXVweVhaZVJIai1MMGlqZlhmLUJjX2twNENaaFA2Y1hYWQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-01T23:33:00Z",
+      "first_seen": "2026-11-02T06:11:12.065504Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "1abb5773cb656031",
@@ -2009,57 +2043,6 @@
       "policy_status": null
     },
     {
-      "id": "debf96a3cce0e5e9",
-      "category": "world",
-      "title": "From a seed in China to the ‘backdrop for countless love stories’: a ginkgo’s 167-year journey to Victorian tree of the year",
-      "summary": "National trust of Victoria award celebrates much-loved arboreal icons while calling for protection of green spaces Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast For m",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/28/backdrop-for-countless-local-love-stories-geelong-gingko-named-victorian-tree-of-the-year",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-28T05:32:13Z",
-      "first_seen": "2026-10-28T05:46:12.974434Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "93600541ed20a6bf",
-      "category": "world",
-      "title": "Gulf states working on multipart peace deal to avert renewal of US-Iran war",
-      "summary": "Talks are aimed at reopening strait of Hormuz and lifting sanctions on Iran, and for Houthis to withdraw in Yemen A multipronged peace deal to reopen the strait of Hormuz within four days of sanctions being lifted and for the Houthis to wit",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/oct/28/gulf-states-multipart-peace-deal-avert-renewal-us-iran-war",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-10-28T05:00:55Z",
-      "first_seen": "2026-10-28T05:46:12.974434Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "a48fe3dca1b41362",
-      "category": "world",
-      "title": "货币政策框架转型稳步推进 - 中国经济网",
-      "summary": "货币政策框架转型稳步推进 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01TnJOaTV0ZV9oNW9pOE5fdENWVkxJYS1CVnRQdDlzUU1GYzM3TmhhQTB2SXRIWDFmOEhXcGF6ZHpnWUxHTlFzU3F3enBqUVdxbkZOOGNXWDFZUUUwNXhVbWdWRy1fQWpPa0NpVVBYYw?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-27T22:31:00Z",
-      "first_seen": "2026-10-28T05:46:12.974434Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "8ba060501eaf609b",
       "category": "immigration",
       "title": "Employer Nomination Scheme (subclass 186) visa - Immigration and citizenship Website",
@@ -2213,6 +2196,91 @@
       "policy_status": "待核验"
     },
     {
+      "id": "42753846d9efadbd",
+      "category": "world",
+      "title": "分析：中国经济究竟是在蓬勃发展，还是陷入停滞？ - 加美财经",
+      "summary": "分析：中国经济究竟是在蓬勃发展，还是陷入停滞？ 加美财经",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jak85UnRUUzFncVRsYUljTnRfdzZxVjJDX1RfMjA5OGUyaFlET3JkNWJyTlV6d0xpNHo2SjZSLTlIcXhXZ3MyZEh1U2lDZnVqdWNKekJnZTlNdw?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-02T01:50:50Z",
+      "first_seen": "2026-11-02T06:11:12.065504Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "8703da3a69890e68",
+      "category": "world",
+      "title": "鲁东红：前三季度物价温和修复，中国经济通缩论可休矣 - 搜狐网",
+      "summary": "鲁东红：前三季度物价温和修复，中国经济通缩论可休矣 搜狐网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSEFXclZNdklwdzU0bk9ndjN1aklCSEg2eEtLcURWWkxpYnFHaEd2RDJ4NkFITEpmQ2Vub1BVY0xZR0lvZDF3MGZ5YndfaVA5YXZ4RDZiUy1BTUt2b1FjYS1LQy02NTlJQUpzYno5LXh5UUZ5NmpoWHZmRU5Ec01QeXdKOWdVazlm?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-02T01:23:47Z",
+      "first_seen": "2026-11-02T06:11:12.065504Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "5916ec6e788cd4e2",
+      "category": "world",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-02T01:18:27Z",
+      "first_seen": "2026-11-02T06:11:12.065504Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "7e361d2f7fc64dff",
+      "category": "world",
+      "title": "基于BERTopic的中国医疗器械政策主题建模与内容分析 - 生物通",
+      "summary": "基于BERTopic的中国医疗器械政策主题建模与内容分析 生物通",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JRk1uazA2NWVITjNYR1I0VjFBcmcwSkpYSjBHWU5keXhkVHBsVW40V2Z2RUJQUHRZanBjekNaZE1pUDR5TGFzN0VpdGl0VGNobXJLWENpdXJ3VE9SZkt2RTdKLTdoVEozZU9qQ0dB?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-01T23:57:40Z",
+      "first_seen": "2026-11-02T06:11:12.065504Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "cd2cf115fc3b81ae",
+      "category": "world",
+      "title": "银行净息差回升验证行业韧性 - 中国经济网",
+      "summary": "银行净息差回升验证行业韧性 中国经济网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yNXNESmM1RERkb0pMc3lqU2FMTm9jelF3MGprNkdleWNUWWNCRmNnSUE0Z3g4ZndwZE93UXk2SjVrNnFMeGg1cldQMjFtLTZObE9hMFhUVmN6VGRHYjZvU3BDd0xQNGN5UWR4RHJiaw?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-01T22:13:00Z",
+      "first_seen": "2026-11-02T06:11:12.065504Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "d09e41a41cee1ac3",
       "category": "world",
       "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
@@ -2313,88 +2381,20 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "5db3d001b2d8a6da",
-      "category": "world",
-      "title": "政策利率“换锚”落地 货币政策框架进一步完善 - 新浪新闻_手机新浪网",
-      "summary": "政策利率“换锚”落地 货币政策框架进一步完善 新浪新闻_手机新浪网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5NUFtMzdrZWh2Y29SaHF5MzFxSk1SN0tCdEw0Q1RudXFuZHNaRi14WjB5WDhpb3Q3Sk5wdmJYNENZTVJhNW5tMldYR21KR1MxV3c1d3lnVkR2UUlocWx5Y3ZDZlVSTUc5MERCaS1zcGlCRW1Jdmc?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-01T12:24:57Z",
-      "first_seen": "2026-11-01T17:57:47.298972Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "4d3a2bbf2f74955d",
-      "category": "world",
-      "title": "中国经济大讲堂丨“六张网”上的中国：新型电网四大能力筑牢能源转型底座 - 新浪财经",
-      "summary": "中国经济大讲堂丨“六张网”上的中国：新型电网四大能力筑牢能源转型底座 新浪财经",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsTFVCaUVfVWxjVU5EbWxGNWRIdzZlSnhidWYwTmkzbFhjTWJwMkFUZXYxdnI2MDF2VS1yQ1B2UDFWeF9Balk4Tm1vV0JvaHowT183WFNlUXpfMjRjTHRQS3lsc3pVb21YSkdabG9La3lVSVozN2c?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-01T12:11:18Z",
-      "first_seen": "2026-11-01T13:15:29.933297Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "49fc6e1403de9494",
-      "category": "world",
-      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-      "summary": "Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recove",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-01T11:54:23Z",
-      "first_seen": "2026-11-01T06:10:41.706447Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "b8555b5f67ea1562",
-      "category": "world",
-      "title": "中国经济面面观丨从展台到产业链：进博“全勤生”深耕中国 链接全球创新 - 新华网",
-      "summary": "中国经济面面观丨从展台到产业链：进博“全勤生”深耕中国 链接全球创新 新华网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tOVBfS28wd3NSQ2MtTkIwTkJvM1BDcy1MZ0hjbkd2YTRZR3pidGVwX2tMZnppWEpTTmdXb3Fxd05Kajd5eVk5NC1FZy0zMnlOMnpMMWtqczFhYi04dDk1amJud2pSUy1ZYXFrTi1jVnN3dDNEeElRSDlOM3lDbjQ?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-01T10:18:42Z",
-      "first_seen": "2026-11-01T22:09:22.511488Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "325bf9aefa6f6354",
-      "30775ef9b85fe4f5",
-      "d4e3b74ac62e7a03",
-      "bcf3cf4451c91e4b"
+      "b716deb6a6b59788",
+      "01a626da1f15c492",
+      "30775ef9b85fe4f5"
     ],
     "tech": [
       "a94da1d24c90f544",
-      "f2132c149fede174",
-      "efa7b303ac1efe07",
-      "d6cd1c99fe1da8c7"
+      "b4909df6d7e7c628",
+      "86cb3711eb5758f2",
+      "3ede2750f496a704"
     ],
     "immigration": [
       "f1ff7900dc914f4f",
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 19,
-    "failed": 1,
+    "ok": 20,
+    "failed": 0,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2434,13 +2434,13 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 27
+        "items": 26
       },
       {
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 2
+        "items": 4
       },
       {
         "name": "香港入境事务处 · Google 索引",
@@ -2464,7 +2464,7 @@
         "name": "Web3 监管 · Google 新闻索引",
         "category": "investing",
         "ok": true,
-        "items": 34
+        "items": 35
       },
       {
         "name": "纳指与标普 · Google 新闻索引",
@@ -2505,15 +2505,14 @@
       {
         "name": "arXiv AI 论文",
         "category": "tech",
-        "ok": false,
-        "items": 0,
-        "error": "Feed returned no entries (invalid, empty or blocked)"
+        "ok": true,
+        "items": 35
       },
       {
         "name": "BBC China",
         "category": "world",
         "ok": true,
-        "items": 7
+        "items": 5
       },
       {
         "name": "BBC World",
@@ -2531,13 +2530,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 12
+        "items": 10
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 3
+        "items": 2
       }
     ]
   }
