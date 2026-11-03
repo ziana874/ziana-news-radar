@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T19:35:11.862655Z",
+  "generated_at": "2026-11-03T23:29:27.010507Z",
   "is_demo": false,
   "items": [
     {
@@ -71,6 +71,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "b431ea497743c593",
+      "category": "investing",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-11-03T22:39:18Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "f49508a2da7f6e68",
       "category": "immigration",
       "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
@@ -86,23 +103,6 @@
       "score": 12,
       "ai_generated": false,
       "policy_status": "待核验"
-    },
-    {
-      "id": "b431ea497743c593",
-      "category": "investing",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-11-03T13:50:51Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": null
     },
     {
       "id": "0e022216c2cb50c8",
@@ -426,6 +426,23 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "4bb72863630eaecc",
+      "category": "tech",
+      "title": "Shopify: Personal AI agent traffic starting to surge - Constellation Research",
+      "summary": "Shopify: Personal AI agent traffic starting to surge Constellation Research",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN19JWHdSQkFaeWhRR1NBQWdmZ3BuZ21yNzZjeFBaejVocWpaR3JhZ2pTTE5hcFRzczF3bVZjQm5PcFpKSzJoZ2h2cFdVY2o3WVVHTmZFVFdqRzNJR0IzLWJpMGFqdkt0U0R3SFFKLWF4cWpib1pzWlBmQXY2TDBQa0dnOERuZnhzVi01RUVDcmNfR0pQOGV0Sg?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-03T19:21:14Z",
+      "first_seen": "2026-11-03T23:29:27.010507Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "d0c5c994b22644ea",
@@ -1125,23 +1142,6 @@
       "policy_status": null
     },
     {
-      "id": "3726e27561f459a5",
-      "category": "tech",
-      "title": "Passports and Visas: A practical identity model for AI agent security - SC Media",
-      "summary": "Passports and Visas: A practical identity model for AI agent security SC Media",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWRQNUtZTkN4S0hoZ0Vfajc2OTBjVFdIdTBNdkVhdVY3MTMzU3p1ejdmUlplMi1UN3hjN1FGeVlIMWpDdmYyWlJsdVRoenFpUkk1ZkU2elRnTnNVU2tzdjU5TjNzeUJLQjlxcjc5VGItNkNyMVE1UzA0V3QweEk3Yl9nVXkwRmNWRXBvLV9WZklBTFF4bDc3VXAwUHN3NGoyaERLNWt5SQ?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-28T17:29:22Z",
-      "first_seen": "2026-10-28T18:23:11.764051Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "e510a81cb98d865c",
       "category": "investing",
       "title": "S&P 500, Nasdaq set for higher open as SK Hynix lifts chips; Fed in focus - marketscreener.com",
@@ -1448,6 +1448,74 @@
       "policy_status": "待核验"
     },
     {
+      "id": "7adbcb97bfcac23f",
+      "category": "world",
+      "title": "贷款贴息政策激活低总价住房市场 - 中国经济网",
+      "summary": "贷款贴息政策激活低总价住房市场 中国经济网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBac3FYSUwtZWNmZGZvY2J3Q3pLQ2VYS1VRMkNJcHdvaGs4T05HMXBDSjlEU1NfSnN3ZXMxS1BvRld4eHhfOUFxeTMyRVVkeFh1RXlLR29ZODQ1RTh3dVFoZ3JZNU1jSGNaOGMydnlkVQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-03T22:23:00Z",
+      "first_seen": "2026-11-03T23:29:27.010507Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "be1cd6fdebd12e4c",
+      "category": "investing",
+      "title": "Nasdaq, S&P 500 end higher as chip, AI shares bounce - TradingView",
+      "summary": "Nasdaq, S&P 500 end higher as chip, AI shares bounce TradingView",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTkFBWEFSWVB2WlBZcEVGZVczb21hRE5JYkZLWTl1c3hPZWdIRXRTalVnN2l0U3BfaUd0cEhkcVlOOFY5NUlsRDZGbGFLWWJ4cEtCS3hfc2RzdjNTNWlfUWFrUVFrY2hsbWJmbHZXRDVQWWQxTGFmdzRDMjl3NUgtaVVWNjRjdGJsb3lEWTVGQUJBTklHSVBIaEdFbGpFdGFnc2pNVWJuRkFPeVJaZmcweW0zMmR5V09jR3JDQQ?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-03T21:23:52Z",
+      "first_seen": "2026-11-03T23:29:27.010507Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "edc19ee936295384",
+      "category": "investing",
+      "title": "S&P 500, Nasdaq end higher as markets weigh on U.S. midterms - Seeking Alpha",
+      "summary": "S&P 500, Nasdaq end higher as markets weigh on U.S. midterms Seeking Alpha",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWTNnOUZmak01NFptRlZ1WDlXT1g1VEFBbXp5WVNVVnNBS25nX01pdGJYRGdHSW5zcGh6YnRZY0JqOW80SFhCWDl4TTRKdmN6Uk5feHVtdWU2bkNvc21CS25Cc3g3ME5HdlhMUWRQTHFuWGhGb3JaLUZ5aC1WQUtVbkUybzJVeHhuYV8wcjY2bE5RM0lPUTRyNzFB?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-03T21:09:12Z",
+      "first_seen": "2026-11-03T23:29:27.010507Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "46190c1387e3d20e",
+      "category": "investing",
+      "title": "S&P 500 Could Win No Matter Who Wins the Midterms: 5 ETFs to Watch Under JPMorgan's 4 Scenarios - TradingView",
+      "summary": "S&P 500 Could Win No Matter Who Wins the Midterms: 5 ETFs to Watch Under JPMorgan's 4 Scenarios TradingView",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPelYzNWpCRWh0bW91RjVaWW5IbFNQQXhsVGR0WUpEaDIzZDdITTV5bFhVSG9OZ1JqQ0wxNmdHeG9oUkRvZi1mZ0pZUXdhTTRjcWZJc1ZiMWpuZGlHdkxNWVk5VzkxY3BmbFZTa0p3M2RPQVlvMXpnQmJLeTNJbFdQXzdYTHpmUVdpX1BOc2U5Q094Rkp5VnNnMjI3dGNsR0Q0RlB1YXkwaW1tWUxNVC1kZjRSdUxITUxJQUMxV1liMnpIbU9PazdWQkltUjVRanl2LVJGSXlRSnlBMkFWM2Vvdy1aUkIxNkNr?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-03T19:14:56Z",
+      "first_seen": "2026-11-03T23:29:27.010507Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "fee1448caaecb3df",
       "category": "investing",
       "title": "It’s Not Tech: Energy Leads the S&P 500 - ETF Database",
@@ -1499,40 +1567,6 @@
       "policy_status": null
     },
     {
-      "id": "054580e092342319",
-      "category": "investing",
-      "title": "S&P 500, Nasdaq edge higher ahead of midterm results; Apple falls - The Detroit News",
-      "summary": "S&P 500, Nasdaq edge higher ahead of midterm results; Apple falls The Detroit News",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRmVvZFl4MFVQNkJidkZiSkxJUkdNM0JzaElJUUNSTkF3WU4zcnl2dGtFTUtydUgxTGdjZllBNzRzWS1fSF9GYThteXdRVVk3eTZIc0tNc0lCLTd6NTRYcnFzZHVoaWN5eURKZDN4amNraVdZaFNxNnp3NVlRSUhJUGZYakZ6bERYRExfR3ppNnh3N1RWc1g2MGd6ZkJnWUZFemp0ak9DbTlVVjRvV0NPeWpzV1ZPY2FRMDhMVERuRWtueDZzWlItUw?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-03T15:47:00Z",
-      "first_seen": "2026-11-03T19:35:11.862655Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "16900ef5ca6a1ea6",
-      "category": "investing",
-      "title": "US Midterm Elections: Dow Falls Nearly 200 Points, S&P 500 And Nasdaq Edge Higher As Polls Begin - Yahoo Finance",
-      "summary": "US Midterm Elections: Dow Falls Nearly 200 Points, S&P 500 And Nasdaq Edge Higher As Polls Begin Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmUyZnZGSXpQYnNXWWZFcHVrS2xrT0VPUGVjeElUalByc2pjcUx6TFRCT2Z2MkZ2VHhvaldUMnlIQ05wVF9GY2JYSmRpX1lKN2cwNEVBeC05NzJKMUxCWjViUVRqSTNBZGtLbG5hc2pFczlXSkJzNDZCeDNVbEVBMExYVWdTM1dQdUR3WVdaT0lzWk05T3Fyc1Zybw?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-03T14:52:00Z",
-      "first_seen": "2026-11-03T19:35:11.862655Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "9fa876a0c1e3cda1",
       "category": "world",
       "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
@@ -1545,23 +1579,6 @@
       "source_kind": "media",
       "published_at": "2026-11-03T14:00:46Z",
       "first_seen": "2026-11-03T19:35:11.862655Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "03c39e9de34717f5",
-      "category": "investing",
-      "title": "DeFi Industry Split Over Regulation of Crypto Vaults - bloomingbit",
-      "summary": "DeFi Industry Split Over Regulation of Crypto Vaults bloomingbit",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sYmhIb2RfUC1xeU9Hc1ZlSWtXUGdxdW9UeThyaTVMMHJTWS05NnpTYnFjNTZDb1EwNGJZdEZnZEo0dnFvYjFIUmxlYkJpVUYzVXplMA?oc=5",
-      "source": "Web3 监管 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-03T13:41:02Z",
-      "first_seen": "2026-11-03T14:06:09.220200Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1992,23 +2009,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "52cbfe556150f2b0",
-      "category": "world",
-      "title": "Venezuela opposition leader María Machado calls for elections upon return",
-      "summary": "Machado, who was in exile for nearly a year, said the transition in Venezuela's government would be \"irreversible, organised, pacific\".",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/ck054d5mnzreo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-10-29T21:05:03Z",
-      "first_seen": "2026-10-30T12:48:31.686554Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "f8a9d59c65d9725f",
       "category": "immigration",
       "title": "Subclass 102 Adoption visa - Immigration and citizenship Website",
@@ -2145,6 +2145,40 @@
       "policy_status": "待核验"
     },
     {
+      "id": "d758a459ebc4c2d1",
+      "category": "world",
+      "title": "Choice Shonky awards 2026: From ticket sellers and Virgin flight credits to a 25-hour laundry cycle",
+      "summary": "Australia’s worst products and services for the year have been named by consumer advocacy group Choice Get our breaking news email , free app or daily news podcast Concert tickets that surge to $1,650, an airline pocketing $75m of unused fl",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/04/choice-2026-shonky-awards-virgin-ticketmaster-hisense-sony",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-03T22:48:24Z",
+      "first_seen": "2026-11-03T23:29:27.010507Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "356afbc924ed6ff9",
+      "category": "world",
+      "title": "Spanish transport minister resigns after deadly train crash",
+      "summary": "Óscar Puente also announces his withdrawal from upcoming election following disaster that killed 69 people Spain’s transport minister handed in his resignation on Tuesday after the train crash that killed 69 people last week, one of the wor",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-03T21:46:02Z",
+      "first_seen": "2026-11-03T23:29:27.010507Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "861c5ba5b8f73cfb",
       "category": "world",
       "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
@@ -2208,6 +2242,23 @@
       "source_kind": "index",
       "published_at": "2026-11-03T14:25:00Z",
       "first_seen": "2026-11-03T19:35:11.862655Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "7bb46c29c4f47e03",
+      "category": "world",
+      "title": "中国经济景气指数跌下荣枯线 衰退真相难掩 - 大紀元",
+      "summary": "中国经济景气指数跌下荣枯线 衰退真相难掩 大紀元",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuc3dEWUxNMEpJeG5meURUVEg4OW5sVXZwWUo1NDczZ0FweU9KQi1MRHFhUG5lbEpVSEZwYURiSFJPWlBUVElQOW9sVWI5MmotMGdyU2xJcGpwRElXMFUxSQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-03T14:23:00Z",
+      "first_seen": "2026-11-03T23:29:27.010507Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2330,65 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "e5d34e203df3999a",
-      "category": "world",
-      "title": "‘I am deeply sorry’: Craig Silvey pens 9,000-word apology for child exploitation material offences",
-      "summary": "The children’s author claims he experienced trauma in childhood as he begins seven-month sentence for possessing depraved material Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast T",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/03/i-am-deeply-sorry-craig-silvey-pens-9000-word-apology-for-child-exploitation-material-offences-ntwnfb",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-03T10:47:41Z",
-      "first_seen": "2026-11-03T14:06:09.220200Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "a1dcb0b26e63f71b",
-      "category": "world",
-      "title": "每经热评｜中国经济的新动能不在“产业清单”，而在它涌流的源泉和土壤 - 凤凰网",
-      "summary": "每经热评｜中国经济的新动能不在“产业清单”，而在它涌流的源泉和土壤 凤凰网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zbnNHNzc3RnlpZDluZXkyQVFudUxWcTkxWEE2V3FCOTRZbEw1TXlwY1hTNUhmcFdVOVY3ZjJUQlhfaE1kNDNzRg?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-03T09:39:57Z",
-      "first_seen": "2026-11-03T14:06:09.220200Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "e2028e11a7e3f53d",
-      "category": "world",
-      "title": "Tenerife striker De Miguel dies after on-field collision",
-      "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-03T09:09:18Z",
-      "first_seen": "2026-11-03T14:06:09.220200Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "e8945d7d0316390e",
       "325bf9aefa6f6354",
-      "9fa876a0c1e3cda1",
-      "961347ee66d5ab3b"
+      "7adbcb97bfcac23f",
+      "9fa876a0c1e3cda1"
     ],
     "tech": [
       "0e022216c2cb50c8",
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 19,
-    "failed": 1,
+    "ok": 20,
+    "failed": 0,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2464,7 +2464,7 @@
         "name": "Web3 监管 · Google 新闻索引",
         "category": "investing",
         "ok": true,
-        "items": 34
+        "items": 35
       },
       {
         "name": "纳指与标普 · Google 新闻索引",
@@ -2493,9 +2493,8 @@
       {
         "name": "Hacker News 热门",
         "category": "tech",
-        "ok": false,
-        "items": 0,
-        "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage?points=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrs"
+        "ok": true,
+        "items": 16
       },
       {
         "name": "MIT Technology Review",
@@ -2513,13 +2512,13 @@
         "name": "BBC China",
         "category": "world",
         "ok": true,
-        "items": 3
+        "items": 2
       },
       {
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 31
+        "items": 32
       },
       {
         "name": "The Guardian World",
@@ -2531,13 +2530,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 22
+        "items": 19
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 7
+        "items": 6
       }
     ]
   }
