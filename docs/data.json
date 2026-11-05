@@ -1,7 +1,24 @@
 {
-  "generated_at": "2026-11-05T20:04:20.350070Z",
+  "generated_at": "2026-11-05T23:41:18.674385Z",
   "is_demo": false,
   "items": [
+    {
+      "id": "3daf3211af3fc83b",
+      "category": "immigration",
+      "title": "Building a stronger Canada through a well-managed, predictable immigration system",
+      "summary": "An immigration system that is well-managed, efficient and focused on our economic needs is key to building Canada strong. Every year, Canada tables an immigration levels plan outlining the targets for temporary and permanent resident admiss",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/building-a-stronger-canada-through-a-well-managed-predictable-immigration-system.html",
+      "source": "加拿大 IRCC 官方新闻",
+      "source_kind": "official",
+      "published_at": "2026-11-05T21:30:00Z",
+      "first_seen": "2026-11-05T23:41:18.674385Z",
+      "score": 17,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
     {
       "id": "f1ff7900dc914f4f",
       "category": "immigration",
@@ -98,7 +115,7 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "source": "Cointelegraph",
       "source_kind": "media",
-      "published_at": "2026-11-05T13:46:01Z",
+      "published_at": "2026-11-05T23:03:41Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
@@ -389,23 +406,6 @@
       "source_kind": "official",
       "published_at": "2026-11-05T16:00:00Z",
       "first_seen": "2026-11-05T20:04:20.350070Z",
-      "score": 11,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "d5f01f9dd738c00b",
-      "category": "investing",
-      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-      "summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-      "source": "美国美联储官方公告",
-      "source_kind": "official",
-      "published_at": "2026-10-29T20:30:00Z",
-      "first_seen": "2026-10-29T22:49:55.067596Z",
       "score": 11,
       "ai_generated": false,
       "policy_status": null
@@ -1040,40 +1040,6 @@
       "policy_status": null
     },
     {
-      "id": "8f9024ebbe02c983",
-      "category": "investing",
-      "title": "Nasdaq, S&P 500 Snap 3-Day Rise on Alphabet Sell-Off, Inflation Anxiety - www.marketscreener.com",
-      "summary": "Nasdaq, S&P 500 Snap 3-Day Rise on Alphabet Sell-Off, Inflation Anxiety www.marketscreener.com",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOFIyS1FidWJWb0o2dTlTMWZnOGFtY3NyS3BCU0xCZWdKa0RiTW94dnhEVzRjcGdid0RsX0RYYTNYTUtfTFhadkxaaUlXVjF5VHBpTEV2SHFRSXUwSUJDbm54cDhxUF9QOVlDYXJGQUhVZFl5NUc2RUlYQllaMk9aam0tSENxNWFHY3RNNThPV0pab0lNVXRPb1FRMVVqcXlPSFl5SHdwQnUtRVVKMjN4NkdzeXBTbVdMWnlMVThaZw?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-29T20:57:42Z",
-      "first_seen": "2026-10-30T05:53:11.808433Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "548c4b6eb5f2f1a4",
-      "category": "investing",
-      "title": "Update: Nasdaq, S&P 500 Snap 3-Day Rise on Alphabet Sell-Off, Inflation Anxiety - Yahoo Finance",
-      "summary": "Update: Nasdaq, S&P 500 Snap 3-Day Rise on Alphabet Sell-Off, Inflation Anxiety Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUjllbTYwZGZ0N0tEV0N4TTh0cG9WOXl0d196MVB0bXUtdThPZmppMzBjMjZ4NGEzWmNSUFJCbmJTcWYtektWQ0tRY0tlZFM4Zm5GYXhDX0J5ZUQzdVhYOHY4RXFkbG9tclI0a1VFTHI2S044bV9IdWZiTkxhTjc0bXQxYVBxbDF5TzBnUA?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-29T20:32:07Z",
-      "first_seen": "2026-10-29T22:49:55.067596Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "3ce767b7f29cfab5",
       "category": "immigration",
       "title": "English language requirements for India Iconic Work Visa and India Skilled Work Visa - Immigration New Zealand",
@@ -1210,6 +1176,57 @@
       "policy_status": "待核验"
     },
     {
+      "id": "fe7649ba001bf7cc",
+      "category": "investing",
+      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+      "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-11-05T22:18:42Z",
+      "first_seen": "2026-11-05T23:41:18.674385Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "0cd4362ae77f086e",
+      "category": "investing",
+      "title": "Nasdaq ends -5.5%, S&P 500 sees worst day since April 2025 (SP500:) - Seeking Alpha",
+      "summary": "Nasdaq ends -5.5%, S&P 500 sees worst day since April 2025 (SP500:) Seeking Alpha",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWE5hZURsbkJvN2szWkd0LVl1ZEQxRjJ2QVBnSUdoNm0xRlA0bXlYZ1RmaFo4OEtPc2ItczlrNjIxbUJzVEV2VHJRZ3NJcjQ2WXFwRENpaUFISEpRdHhYSEI4X1Y0SEVfQjFjamluRzZhazIyYVVDVWxGVVpwMzJ5T0g3Z1pfbjdRMGlFSTZYM21wQmdZdi1V?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-05T21:05:54Z",
+      "first_seen": "2026-11-05T23:41:18.674385Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "aeb2cf91ace15429",
+      "category": "world",
+      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-05T19:08:48Z",
+      "first_seen": "2026-11-05T23:41:18.674385Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "c9b1722810a1421a",
       "category": "investing",
       "title": "Scaramucci blames Trump’s memecoin for Bitcoin and crypto regulation failures, citing $4.8B losses. - Pluang",
@@ -1225,6 +1242,23 @@
       "score": 8,
       "ai_generated": false,
       "policy_status": null
+    },
+    {
+      "id": "1abb5773cb656031",
+      "category": "immigration",
+      "title": "Evidence of current employment or self-employment - Immigration and citizenship - Immigration and citizenship Website",
+      "summary": "Evidence of current employment or self-employment - Immigration and citizenship Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82U2ZRVkZkcHpSNWFCcE1IbEthbFQ1V2h3WlV1RmJpZXNkcm5LMjRhcHN3NFcwejBOREtSSVg3dnNJbEE1NkFUMjZYRUVHRVVsblBqRHpkYWhld3FfZEZZcXR5SXp2ZDhmWm03S3UtX1ZSbG9GOWQwb3Rn?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-05T18:49:36Z",
+      "first_seen": "2026-10-26T12:54:24.888143Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
     },
     {
       "id": "da29a8d3eae2a27d",
@@ -1261,18 +1295,18 @@
       "policy_status": null
     },
     {
-      "id": "2815d0d52e0ef351",
+      "id": "6e083a029a6a35f7",
       "category": "investing",
-      "title": "S&P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs - Yahoo Finance",
-      "summary": "S&P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs Yahoo Finance",
+      "title": "S&P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs - Decrypt",
+      "summary": "S&P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs Decrypt",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNGl3a3FuX0tzbHFEc2wyUEhfV2ppSGJVZFFORExoSlBBWFVCN2NadkIySVIwV3VIUnNBSFRLQm1KbTJWTkF3U2x5elZDS0g1M2JkaXdtZ1JlbFczMGhoNkM0WHEwbGdYQ2JzSzFoTjV5YV9UX3puVHlPdUZFNmRvMEFPRlFyY3VoRGd4UXlqQVBGSGd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaXQ4R3hQYWJZeVY4YjRWUXRHZE11QmZoeHBVRVVhMzRfUWJTOFNUYTdIUzZSeXhlMHV6ZnZLWS1FWGZpM1FoSTRaMThibHZnS0lyYXduenhxYUtIOTlMakVHbHRWa1B6dFFwQ3diYXFZREVqSDdBYjMxOTVQc2k4b3pZRjJXUVJVek1pYzFfcXg?oc=5",
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-11-05T18:05:21Z",
-      "first_seen": "2026-11-05T20:04:20.350070Z",
+      "first_seen": "2026-11-05T23:41:18.674385Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1310,23 +1344,6 @@
       "score": 8,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "1abb5773cb656031",
-      "category": "immigration",
-      "title": "Evidence of current employment or self-employment - Immigration and citizenship - Immigration and citizenship Website",
-      "summary": "Evidence of current employment or self-employment - Immigration and citizenship Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82U2ZRVkZkcHpSNWFCcE1IbEthbFQ1V2h3WlV1RmJpZXNkcm5LMjRhcHN3NFcwejBOREtSSVg3dnNJbEE1NkFUMjZYRUVHRVVsblBqRHpkYWhld3FfZEZZcXR5SXp2ZDhmWm03S3UtX1ZSbG9GOWQwb3Rn?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-05T15:49:50Z",
-      "first_seen": "2026-10-26T12:54:24.888143Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
     },
     {
       "id": "5ba36ee779aa543f",
@@ -1890,6 +1907,23 @@
       "policy_status": null
     },
     {
+      "id": "1e3e1b5cf8c4f0b4",
+      "category": "immigration",
+      "title": "Cancelling a visa - Immigration and citizenship Website",
+      "summary": "Cancelling a visa Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55V28xZXluZVVJMktjYjNuNThpY3d3d0EwOVFhV1lHNjZrQ2Q4VWxZOHZYcDdLR0o2SFZjWFJWMk5RbGJQSFF6REl6VkJtUU1TYlo3LWZhZWdsRng0MXJiOHFRcVl5UQ?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-03T08:00:00Z",
+      "first_seen": "2026-11-05T23:41:18.674385Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "d40bc50edda9c101",
       "category": "world",
       "title": "花旗研报：经济政策转向对中国资产可持续重估不可或缺_公司新闻_财经 - 证券之星",
@@ -2128,23 +2162,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "30775ef9b85fe4f5",
-      "category": "world",
-      "title": "四方安全对话外长联合声明 未点名剑指中国经济政策 - RFI",
-      "summary": "四方安全对话外长联合声明 未点名剑指中国经济政策 RFI",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPVVB2X1N5MlIwdHZjMWZ2X1RsOUd2VEN3YW9TdWxtdDlScDZvNjFiYmNCcmVRY0o1UXRFd0FoX2xNZWFKeEYtdnZPdEd2UElFQ1NnLU4yZlNuVlNGa3NDMXBMaW85M29NQ2dXcnlwTjdoQVNWTXZ5eks2Y0xqcWs2c2tPNHAxY1dYQzZZSUpKQXJhVmJKYjdLSndHaG1tMUozcFRLb3JBSVFNaVUzV1RuMXFZRzltT0RBMUpHOUFqYjNVaGF3TVRKdTg4a1BqY2xvLUNuZ2Fmd0hldEVJbmdUY0tleFYybWN0MVhWWlpaQkVWc0pGVll5bHQ1NjVpZjVkWFR3bHRVUUliQ0NMY3dPQnVpRUs4Rk9hOFNYV2ZSV0lFQzA5QlhPakhGSnUzS2JaSWw3eHREaVdReHdONUdHZjlLTG5SQ2lOeU53V2lLWkJQN0lmWmI1S016OHNqRW95cmVnR2dPRGlaTE5fWGhWaXg1VkQ?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-31T20:04:29Z",
-      "first_seen": "2026-10-31T21:41:57.378418Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "c194492f577dfc2b",
       "category": "immigration",
       "title": "2026年10月30日 | 出入境人次統計數字| 入境事務處 - Immigration Department",
@@ -2213,38 +2230,72 @@
       "policy_status": "待核验"
     },
     {
-      "id": "98cacbfd046e0bf3",
-      "category": "immigration",
-      "title": "Subclass 101 Child visa - Immigration and citizenship Website",
-      "summary": "Subclass 101 Child visa Immigration and citizenship Website",
+      "id": "927ac1fd8263b22f",
+      "category": "world",
+      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+      "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX1hhUnoyYXV5ZU5kVXBDd3IzMEUtZnplVTdvb0V4UjVPY2VmaDdueFJWMmFZLVRKV2ZXcHFyWXZLbUo2dk96cmhISDZiRGc1NTZUQWI1STd1ZUs4bUEtSGJHV1R0YzBlazNPcG9hLWVGRGJiaEZxa1RSYWFsT0pVVA?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-29T07:00:00Z",
-      "first_seen": "2026-10-21T17:20:39.319352Z",
-      "score": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-05T23:16:53Z",
+      "first_seen": "2026-11-05T23:41:18.674385Z",
+      "score": 6,
       "ai_generated": false,
-      "policy_status": "待核验"
+      "policy_status": null
     },
     {
-      "id": "4797aee77eec51c3",
-      "category": "immigration",
-      "title": "Up to 98-hour weeks, paid for 40: Christchurch motel owner sentenced for exploiting migrant workers - Immigration New Zealand",
-      "summary": "Up to 98-hour weeks, paid for 40: Christchurch motel owner sentenced for exploiting migrant workers Immigration New Zealand",
+      "id": "83ac1a11f7edd4c1",
+      "category": "world",
+      "title": "理响中国·聚焦2026中国经济丨赋能产业、惠及民生 一图读懂我国服务业扩能提质新成效 - 搜狐网",
+      "summary": "理响中国·聚焦2026中国经济丨赋能产业、惠及民生 一图读懂我国服务业扩能提质新成效 搜狐网",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdEpYcUR4NTEtZVI2bUZVZHYwS3VaU3RjZTNQV2RuWXdPNHdCX2RwSVpTMVlPazVhd2tQaGkxeV9tY0oxQW1vVDBMUEU5UHl4dUx3bFBXSk1aNEtkWllxMUo4Tkw3UnZER0lwYlRWMjJKUHlVdzRhYmtQUlN0S0RHMEZ3dVBVR3JwdjZlQ1Yxa0k5Z3N6TkpfMEY1YzdVQmpuQjdLR252TVVCMjV0ZWNHZzVJWTY3OEFqMFlr?oc=5",
-      "source": "新西兰移民官网 · Google 索引",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmJpa096RlJxX3I4anp2YUxFYlZvRDZZYzM0YVNXbHNzLWFhb1BrR1hQREhxbFIwMWhXSDR0YzY0SUlLb0RYeWlNcmNpZmhPdDFhY0x2WVk5cjNMZFd2UnZEeHJ3OEN1eHR0bUlydThHV2ZnVVhvZG05dGplV3VLX0hXMEUzdzJY?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-28T21:22:02Z",
-      "first_seen": "2026-10-29T05:51:42.600348Z",
-      "score": 8,
+      "published_at": "2026-11-05T23:07:11Z",
+      "first_seen": "2026-11-05T23:41:18.674385Z",
+      "score": 6,
       "ai_generated": false,
-      "policy_status": "待核验"
+      "policy_status": null
+    },
+    {
+      "id": "2eeb38efaf044fa6",
+      "category": "investing",
+      "title": "Intel’s Plunge Today Makes It October’s Worst S&P 500 Stock. Accenture Is the Biggest Winner. - Barron's",
+      "summary": "Intel’s Plunge Today Makes It October’s Worst S&P 500 Stock. Accenture Is the Biggest Winner. Barron's",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaldpVGFpbkplUnhmS2xFSlNiNkNWc3hVeXJPNGprVDJQVVQ0c2doU1d6SHhoTUs4RmEzY1BlTkliNmtrWDFOYnF6ZmNJTGROV19DaTNrOWdqSXRRSXJzSVZMa0RZakd0OGoyUVE4N29ubExsTDVRUFI1T3VaR0F2Sk5qVE0xSXFlX2Y0YzYtQ3dXUQ?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-05T23:03:09Z",
+      "first_seen": "2026-11-05T23:41:18.674385Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "24ad532b27dd863d",
+      "category": "world",
+      "title": "浙江——强化服务助企业安心创新 - 中国经济网",
+      "summary": "浙江——强化服务助企业安心创新 中国经济网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IU0xhTEhGUWZ6YklsVGdCUUlJb0doa2toWlF3aW92UHpkYXJWdnpJR1NIVmVHNEdsUEZ1M1l1MVp2amJDTENJdmppaEpmRGE3aFkza3RtTjBEbUtvU1JoaWp0UzJYWm5XN090bURLYw?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-05T22:43:00Z",
+      "first_seen": "2026-11-05T23:41:18.674385Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "a6f166852ee6df40",
@@ -2267,7 +2318,7 @@
       "id": "155e203a7518751b",
       "category": "world",
       "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
-      "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Hoax bomb threats have caused at least 25 flights across Europe to be disrupted, with some forced to make emergency landings, as questions mo",
+      "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Why have more than 30 European flights been hit by bomb threats this week? Hoax bomb threats have caused at least 25 flights across Europe to",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -2330,65 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "a85489020ca6edfc",
-      "category": "world",
-      "title": "Beware ‘sun, sea and surgery’ cosmetic tourism packages, experts advise",
-      "summary": "British College of Aesthetic Medicine launches checklist as part of ‘vet it before you get it’ campaign Cosmetic tourism is often sold as a package of sun, sea and surgery, but experts have said travelling overseas for procedures can end in",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/society/2026/nov/05/beware-cosmetic-surgery-tourism-packages-experts-advise",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-05T17:17:00Z",
-      "first_seen": "2026-11-05T20:04:20.350070Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "a09ac2cdda652bed",
-      "category": "world",
-      "title": "EU presses UK to guarantee discounted university tuition fees for European students",
-      "summary": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say UK politics live – latest updates The EU is seeking a firmer pledge from the British government to guarantee European students d",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-05T16:58:54Z",
-      "first_seen": "2026-11-05T20:04:20.350070Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "0f55495431159363",
-      "category": "world",
-      "title": "One Nation asks donors at $3,000-a-head Sydney fundraiser to accept ‘non-disclosure agreement’",
-      "summary": "Transparency experts raise concerns about plans to use NDA to gag attendees at event featuring Pauline Hanson in lead-up to NSW election Get our breaking news email , free app or daily news podcast One Nation is attempting to gag donors fro",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-05T14:00:26Z",
-      "first_seen": "2026-11-05T14:34:45.098200Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "e8945d7d0316390e",
       "325bf9aefa6f6354",
-      "97a61a9c26a187c3",
-      "9e0176657cd228bd"
+      "aeb2cf91ace15429",
+      "97a61a9c26a187c3"
     ],
     "tech": [
       "473a023bdb2dfa44",
@@ -2397,16 +2397,16 @@
       "f7dd9f2ca48c56e5"
     ],
     "immigration": [
+      "3daf3211af3fc83b",
       "f1ff7900dc914f4f",
       "83654403d6a679d5",
-      "4fe17dd8de716c64",
-      "f49508a2da7f6e68"
+      "4fe17dd8de716c64"
     ],
     "investing": [
       "b431ea497743c593",
       "0224349908e0b1c1",
-      "d5f01f9dd738c00b",
-      "7007868be25ec247"
+      "7007868be25ec247",
+      "0a3752b24feb4d7d"
     ]
   },
   "ai": {
@@ -2422,7 +2422,7 @@
         "name": "加拿大 IRCC 官方新闻",
         "category": "immigration",
         "ok": true,
-        "items": 12
+        "items": 13
       },
       {
         "name": "新西兰移民官网 · Google 索引",
@@ -2434,7 +2434,7 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 20
+        "items": 21
       },
       {
         "name": "英国移民政策 · Google 索引",
@@ -2476,7 +2476,7 @@
         "name": "美国美联储官方公告",
         "category": "investing",
         "ok": true,
-        "items": 2
+        "items": 1
       },
       {
         "name": "AI 行业 · Google 新闻索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 16
+        "items": 19
       },
       {
         "name": "MIT Technology Review",
@@ -2536,7 +2536,7 @@
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 4
+        "items": 3
       }
     ]
   }
