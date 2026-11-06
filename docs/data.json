@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:30:17.988793Z",
+  "generated_at": "2026-11-06T23:14:51.559747Z",
   "is_demo": false,
   "items": [
     {
@@ -132,7 +132,7 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "source": "Cointelegraph",
       "source_kind": "media",
-      "published_at": "2026-11-06T13:33:00Z",
+      "published_at": "2026-11-06T22:00:15Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
@@ -411,6 +411,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "9b61e0497e5544a2",
+      "category": "immigration",
+      "title": "Minister Metlege Diab to make an announcement on attracting and retaining skilled talent in rural and remote communities",
+      "summary": "Minister Metlege Diab to make an announcement on attracting and retaining skilled talent in rural and remote communities",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/minister-metlege-diab-to-make-an-announcement-on-attracting-and-retaining-skilled-talent-in-rural-and-remote-communities.html",
+      "source": "加拿大 IRCC 官方新闻",
+      "source_kind": "official",
+      "published_at": "2026-11-06T20:32:00Z",
+      "first_seen": "2026-11-06T23:14:51.559747Z",
+      "score": 11,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "0224349908e0b1c1",
       "category": "investing",
       "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
@@ -443,6 +460,23 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "5072f0d6af005438",
+      "category": "tech",
+      "title": "AI is dramatically accelerating AI research",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 126 # Comments: 81",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "source": "Hacker News 热门",
+      "source_kind": "community",
+      "published_at": "2026-11-06T20:27:23Z",
+      "first_seen": "2026-11-06T23:14:51.559747Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "c69cd3e8a1a3b4ea",
@@ -1057,23 +1091,6 @@
       "policy_status": null
     },
     {
-      "id": "cf7aeb293fc0d005",
-      "category": "tech",
-      "title": "Meta & China’s Fourier: A Humanoid Robot for Muse AI Agent - AI Magazine",
-      "summary": "Meta & China’s Fourier: A Humanoid Robot for Muse AI Agent AI Magazine",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWWFrUm41VGlrbHRQSFU2WUFFS2hMVGNFUEFlTlgwbnVCUlM0WXFkRzR5NzJMM0JoUlBTSkdFSjhKUHdfeHlzb0dOZHBYdGx6MDhtWVhUNlBNOG1jcldTX05GM2JoZVJlSHJCUm1VZ2xtakF2ZmxoSS1RQWRvQTNNTmdRWDVscWNGZUE?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-03T12:44:37Z",
-      "first_seen": "2026-11-03T14:06:09.220200Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "f11591d70e32e3cc",
       "category": "investing",
       "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
@@ -1242,6 +1259,23 @@
       "score": 9,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "c3048295aa0209ea",
+      "category": "investing",
+      "title": "Samsung’s 82-Million-Device Bet Shows Stablecoin Wars Moving Beyond Crypto - PYMNTS.com",
+      "summary": "Samsung’s 82-Million-Device Bet Shows Stablecoin Wars Moving Beyond Crypto PYMNTS.com",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVJORDhHTjJjRmNmRGp6NUc3TTZaNkI4UGo3ZlU0ZVJXbC1zM1hHa3o4Vk50Zm1HSTgwVW1aWHhVemVlbFpvQlhQM0tMeEFIZm5iUnVoeWw2YVN2dFBfdEZ5MHpVdVk4QmNQLTFrTUtuVDV4dnNoMHF4ZllJV05VVXE1cmtySVZwdjlYc3JrQTFCbFdGcVgyel9BSll1bjZxQ0ItYVRjSWNFN0NxREFzb1g1WQ?oc=5",
+      "source": "Web3 监管 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-06T21:49:31Z",
+      "first_seen": "2026-11-06T23:14:51.559747Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "c086cf2b971caa77",
@@ -1647,23 +1681,6 @@
       "source_kind": "index",
       "published_at": "2026-11-05T22:03:00Z",
       "first_seen": "2026-11-06T06:51:23.197854Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "0cd4362ae77f086e",
-      "category": "investing",
-      "title": "Nasdaq ends -5.5%, S&P 500 sees worst day since April 2025 (SP500:) - Seeking Alpha",
-      "summary": "Nasdaq ends -5.5%, S&P 500 sees worst day since April 2025 (SP500:) Seeking Alpha",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWE5hZURsbkJvN2szWkd0LVl1ZEQxRjJ2QVBnSUdoNm0xRlA0bXlYZ1RmaFo4OEtPc2ItczlrNjIxbUJzVEV2VHJRZ3NJcjQ2WXFwRENpaUFISEpRdHhYSEI4X1Y0SEVfQjFjamluRzZhazIyYVVDVWxGVVpwMzJ5T0g3Z1pfbjdRMGlFSTZYM21wQmdZdi1V?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-05T21:05:54Z",
-      "first_seen": "2026-11-05T23:41:18.674385Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -2247,21 +2264,21 @@
       "policy_status": "待核验"
     },
     {
-      "id": "32a47bc5f8c1ec75",
-      "category": "immigration",
-      "title": "Parent Category estimated selection dates now available - Immigration New Zealand",
-      "summary": "Parent Category estimated selection dates now available Immigration New Zealand",
+      "id": "8fc8e90c6b3150dc",
+      "category": "world",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzZna1NqQzY1eW9UbEIzRzlCN09UWmROc0xoQWlxa3ZHMjlDWDQtZXdXTkJDakctMU9WWUdRZWwzMm1HY1NTYjBKUVp3dWJSVFZZcUh1dVF3djBxRjdfeHNGZEVXRUd5QUNUZUdFdVF1SUNUVDRIOXU3WnlNSkVoVTkwZDQ4WU10T1FoUFdPcFUtRFRkZTRXZ1kyb0JsMjdBYTdwVDJSa1pZLTRqZlE?oc=5",
-      "source": "新西兰移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-10-29T22:20:19Z",
-      "first_seen": "2026-10-30T05:53:11.808433Z",
-      "score": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-06T21:06:25Z",
+      "first_seen": "2026-11-06T19:30:17.988793Z",
+      "score": 6,
       "ai_generated": false,
-      "policy_status": "待核验"
+      "policy_status": null
     },
     {
       "id": "85f5fe53c751ec29",
@@ -2281,23 +2298,6 @@
       "policy_status": null
     },
     {
-      "id": "8fc8e90c6b3150dc",
-      "category": "world",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-06T17:03:02Z",
-      "first_seen": "2026-11-06T19:30:17.988793Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "fe773657f48e94a2",
       "category": "world",
       "title": "Four midterms takeaways for 2028 White House race",
@@ -2310,6 +2310,23 @@
       "source_kind": "media",
       "published_at": "2026-11-06T16:12:22Z",
       "first_seen": "2026-11-06T19:30:17.988793Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "9374aa32b8d47c25",
+      "category": "world",
+      "title": "不明白节｜许成钢：中国经济为什么走到了这一步 - 不明白播客",
+      "summary": "不明白节｜许成钢：中国经济为什么走到了这一步 不明白播客",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zRE5EZjRwblVNbHJQbG40a3NlV2M1RC1pVFpkdXJaUWxxX18zU2ZUcHRjb2xnbWpKU0hKUmx1ckQ2bXRQaWVlQWZtaEZFRW5NYU5n?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-06T14:08:42Z",
+      "first_seen": "2026-11-06T23:14:51.559747Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2364,23 +2381,6 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "db0859f914fbe262",
-      "category": "world",
-      "title": "What to know about the presidential wiretapping scandal rocking Indonesia",
-      "summary": "The scandal involves senior members of President Prabowo Subianto's government, and hint at growing tensions among its elites.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg55155mrro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-06T10:10:38Z",
-      "first_seen": "2026-11-06T14:11:54.407920Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
@@ -2415,14 +2415,14 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 19,
-    "failed": 1,
+    "ok": 20,
+    "failed": 0,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
         "category": "immigration",
         "ok": true,
-        "items": 14
+        "items": 15
       },
       {
         "name": "新西兰移民官网 · Google 索引",
@@ -2464,7 +2464,7 @@
         "name": "Web3 监管 · Google 新闻索引",
         "category": "investing",
         "ok": true,
-        "items": 34
+        "items": 35
       },
       {
         "name": "纳指与标普 · Google 新闻索引",
@@ -2493,9 +2493,8 @@
       {
         "name": "Hacker News 热门",
         "category": "tech",
-        "ok": false,
-        "items": 0,
-        "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage?points=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrs"
+        "ok": true,
+        "items": 12
       },
       {
         "name": "MIT Technology Review",
@@ -2519,7 +2518,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 25
+        "items": 26
       },
       {
         "name": "The Guardian World",
@@ -2531,7 +2530,7 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 14
+        "items": 15
       },
       {
         "name": "国际要闻 · Google 新闻索引",
