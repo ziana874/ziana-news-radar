@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:11:54.407920Z",
+  "generated_at": "2026-11-06T19:30:17.988793Z",
   "is_demo": false,
   "items": [
     {
@@ -149,7 +149,7 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
       "source": "新西兰移民官网 · Google 索引",
       "source_kind": "index",
-      "published_at": "2026-11-06T11:20:15Z",
+      "published_at": "2026-11-06T12:53:53Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
@@ -445,6 +445,40 @@
       "policy_status": "待核验"
     },
     {
+      "id": "c69cd3e8a1a3b4ea",
+      "category": "investing",
+      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+      "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-11-06T17:49:33Z",
+      "first_seen": "2026-11-06T19:30:17.988793Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "4d3e832e809076fe",
+      "category": "investing",
+      "title": "Chip Stocks Cheaper Than S&P 500 as AI Premium Vanishes - Invesco PHLX Semiconductor ETF (NASDAQ:SOXQ) - Benzinga",
+      "summary": "Chip Stocks Cheaper Than S&P 500 as AI Premium Vanishes - Invesco PHLX Semiconductor ETF (NASDAQ:SOXQ) Benzinga",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUktJeUkyY1QtX0dHQTlTWXY0QVI3cWMxMGt1XzFSTGpFV1lSUU45cF84RkdOb0tBdDhHNUMtam01Z0p4S2JfdVZGcU9hRGt4eE9LU084Z3huejNIZU5fMnNMck11eW40OS1lU2kzMFQ4dm0wWFN5MG5BSUxQanRXQ1RMX3hxMGZrWEEwT29TT2dvX2R6dkV0YW1KS3FUalpkSU1OMk5CZzR0QkFoY0owd3drTjlmSUJEREJr?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-06T17:25:01Z",
+      "first_seen": "2026-11-06T19:30:17.988793Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "4b7461d9b3fbb8d3",
       "category": "investing",
       "title": "Global Markets Tumble On Tech Stocks Rout, Nasdaq, S&P 500 Fall - MarketForces Africa",
@@ -474,6 +508,23 @@
       "source_kind": "media",
       "published_at": "2026-11-06T08:19:18Z",
       "first_seen": "2026-11-06T14:11:54.407920Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "e84861761eb0a8e8",
+      "category": "tech",
+      "title": "AI boom turns chip packaging into the next battleground for semiconductors - Reuters",
+      "summary": "AI boom turns chip packaging into the next battleground for semiconductors Reuters",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVTRsRWo5SjhUM1lPV19Xc1ZKUjNWWEx1eTFkZEZLYmpjVG1FNFltZDRRdVBwZ3RBVnk0NlQtbDZmaWdmaFhSY0NFT3Rpa2YzZVRzNl8zSHNzcVdhR3RZdEpFeVNkMW93SDFrbTY5SE9NM3NneHpZOFYxN1FGOVU1ekxjSF9aZ2FyZnRXLU5aY2pFT0gtYTVwMEhfUmU2a2lOaURTeURqcDQ0M185ekd4ZWJwVHdiVWEwanduVElR?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-06T05:52:00Z",
+      "first_seen": "2026-11-06T19:30:17.988793Z",
       "score": 10,
       "ai_generated": false,
       "policy_status": null
@@ -1040,23 +1091,6 @@
       "policy_status": null
     },
     {
-      "id": "efdb3e6f089ae4b2",
-      "category": "tech",
-      "title": "Skill++: Towards Lifelong Agents via Routing-Aware Skill Refinement",
-      "summary": "arXiv:2611.00544v1 Announce Type: new Abstract: Large language model (LLM) agents extend their capabilities with skills, each with a name, a description, and a body. Under progressive disclosure, an LLM router selects skills by name and des",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2611.00544",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-11-03T05:00:00Z",
-      "first_seen": "2026-11-03T14:06:09.220200Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "f4bfa16dd40925c4",
       "category": "immigration",
       "title": "Skilled Work Regional (Provisional) visa (subclass 491) - Immigration and citizenship Website",
@@ -1072,23 +1106,6 @@
       "score": 10,
       "ai_generated": false,
       "policy_status": "待核验"
-    },
-    {
-      "id": "7d6f74b4a8747665",
-      "category": "investing",
-      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-      "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-10-30T17:09:31Z",
-      "first_seen": "2026-10-30T18:04:35.733855Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
     },
     {
       "id": "3ce767b7f29cfab5",
@@ -1227,6 +1244,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "c086cf2b971caa77",
+      "category": "investing",
+      "title": "Stock futures explained: how Dow, S&P 500 and Nasdaq-100 contracts work - qz.com",
+      "summary": "Stock futures explained: how Dow, S&P 500 and Nasdaq-100 contracts work qz.com",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNeEpLemJMTEtNbGF4eG5IWlVsY2pOdDBrbE1TNVNzWUVHMndvbFFfa2gzaVR4dDlMUnVOYUxtelhsbnVsLVl3UlV1V1R3d3VpSTRqdlFIUFFDYmF3VTNlblJqQ3VYdw?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-06T15:44:56Z",
+      "first_seen": "2026-11-06T19:30:17.988793Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "6587c8b1c6999850",
       "category": "investing",
       "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
@@ -1254,8 +1288,25 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEF1OHNmeU1RSHZ1U2xtNC13RXZ5dHZNR3FYN0JMcHpDOHRsODJBUnhWMlRTMGUxdjl0Z2U1dlpOMW4wdnFVRVp2ZHp0U010bTZYbDlTLVVjNHV2akRGZThCM3RLYkFOOFNWVVJmeDU2WC0wVTUxYkRocVVPZzJmWTFuMC04YjRTX244TnpCOUVpMkFNVGpQQkZGVE1CYy1vRnNhbk9n?oc=5",
       "source": "Web3 监管 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-11-06T13:35:40Z",
+      "published_at": "2026-11-06T13:56:22Z",
       "first_seen": "2026-11-06T14:11:54.407920Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "a44f55c20f926156",
+      "category": "investing",
+      "title": "Stock Market Today: Nasdaq, S&P 500 Soar in Early Trading as Chip Stocks Rebound from Huge Sell-Off - Yahoo Finance",
+      "summary": "Stock Market Today: Nasdaq, S&P 500 Soar in Early Trading as Chip Stocks Rebound from Huge Sell-Off Yahoo Finance",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWVJ5VEMyVWdzbFdtVzRRUVZwZGVOMklwdnRQT3JrRmVUUWxwLVZFdmp4MGhobE8tSl9Ha1l3bzgxejY3aU02aFRvTFVETWVTOWdQSmpoXzhmNjJjeEhqckt1cVJ4ZVI4bDdKMjE0cEZ0SGRxV3pmTUtHVnZvdjItUkFyLW8tMVpVUHRWeEp6MW1XS25FVzM0?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-06T13:21:43Z",
+      "first_seen": "2026-11-06T19:30:17.988793Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1278,6 +1329,23 @@
       "policy_status": null
     },
     {
+      "id": "1abb5773cb656031",
+      "category": "immigration",
+      "title": "Evidence of current employment or self-employment - Immigration and citizenship - Immigration and citizenship Website",
+      "summary": "Evidence of current employment or self-employment - Immigration and citizenship Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82U2ZRVkZkcHpSNWFCcE1IbEthbFQ1V2h3WlV1RmJpZXNkcm5LMjRhcHN3NFcwejBOREtSSVg3dnNJbEE1NkFUMjZYRUVHRVVsblBqRHpkYWhld3FfZEZZcXR5SXp2ZDhmWm03S3UtX1ZSbG9GOWQwb3Rn?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-06T12:15:37Z",
+      "first_seen": "2026-10-26T12:54:24.888143Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "97f82c1db360c767",
       "category": "investing",
       "title": "SPDR S&P MidCap 400 ETF (MDY) Adds Glaukos and United Therapeutics on Wednesday - Yahoo Finance",
@@ -1295,18 +1363,18 @@
       "policy_status": null
     },
     {
-      "id": "7015f7594d620aba",
+      "id": "213966f8705c01a6",
       "category": "investing",
-      "title": "What State Street SPDR Portfolio S&P 500 ETF (SPYM) Bought: Oracle Leads on Wednesday - Yahoo Finance Australia",
-      "summary": "What State Street SPDR Portfolio S&P 500 ETF (SPYM) Bought: Oracle Leads on Wednesday Yahoo Finance Australia",
+      "title": "What State Street SPDR Portfolio S&P 500 ETF (SPYM) Bought: Oracle Leads on Wednesday - Yahoo Finance",
+      "summary": "What State Street SPDR Portfolio S&P 500 ETF (SPYM) Bought: Oracle Leads on Wednesday Yahoo Finance",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQWVoeFVQRkZzc3RmZmM4UXBYYkMydDg2dE1FMG51Y09lQ2JYTTlKZTFqaWZURHhVNWJiZjhEWHRVRTBjRlNsMmtKZEVnSzR5X1F6ZmV5TVI0TXNnTXhBbmw2MmFBbXNFWmdQS1E0ZjVkN3piVUx3SE43dmx1ZUljS0hyX18?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRW4wTjM2LVNvZEhJYnZUZTlaeG5rMGU4M2dWN2dPV09ESExJU3B0bFFsWkZidGJNb3RPQTNmbWFHcFNsTUhHTGxVeHVZd0hUWUxmVWJoTlNrVURGR2Q1bFBqcFNnRlRsZWoyS2tBcmF1OGpkTTZ1eUpOODdxS0RHOEtyTGVPaXQxeFlBYXF3OVRLLXRTUmlzc0Nn?oc=5",
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-11-06T11:04:26Z",
-      "first_seen": "2026-11-06T14:11:54.407920Z",
+      "first_seen": "2026-11-06T19:30:17.988793Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1613,74 +1681,6 @@
       "source_kind": "media",
       "published_at": "2026-11-05T19:08:48Z",
       "first_seen": "2026-11-05T23:41:18.674385Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "c9b1722810a1421a",
-      "category": "investing",
-      "title": "Scaramucci blames Trump’s memecoin for Bitcoin and crypto regulation failures, citing $4.8B losses. - Pluang",
-      "summary": "Scaramucci blames Trump’s memecoin for Bitcoin and crypto regulation failures, citing $4.8B losses. Pluang",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUU5YdVhCUjdNYk5IbXAxMjUzS1JWRzRYbGowaTJDV1B2MjBqcFhZWVB6NmdHUGgzZGtPc3dKb2RBZVdTZW9LcDZVMTFTeFZEVno1WmVLc3MyOHVmSmlDRFBvNGUyZXMwV0dPLVdMMjZxeEU3RUxlUTg1MTZjczJtanlVNlhNWTV1TDA2SzJlakJUWi1wXzI1Zk1RTWJYeFF3cUQwZ3VR?oc=5",
-      "source": "Web3 监管 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-05T19:04:54Z",
-      "first_seen": "2026-11-05T20:04:20.350070Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "1abb5773cb656031",
-      "category": "immigration",
-      "title": "Evidence of current employment or self-employment - Immigration and citizenship - Immigration and citizenship Website",
-      "summary": "Evidence of current employment or self-employment - Immigration and citizenship Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82U2ZRVkZkcHpSNWFCcE1IbEthbFQ1V2h3WlV1RmJpZXNkcm5LMjRhcHN3NFcwejBOREtSSVg3dnNJbEE1NkFUMjZYRUVHRVVsblBqRHpkYWhld3FfZEZZcXR5SXp2ZDhmWm03S3UtX1ZSbG9GOWQwb3Rn?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-05T18:49:36Z",
-      "first_seen": "2026-10-26T12:54:24.888143Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
-      "id": "da29a8d3eae2a27d",
-      "category": "investing",
-      "title": "Bitcoin, crypto stocks caught in AI trade meltdown, but Wintermute trader sees 'glass half full'",
-      "summary": "",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
-      "source": "CoinDesk",
-      "source_kind": "media",
-      "published_at": "2026-11-05T18:48:40Z",
-      "first_seen": "2026-11-05T20:04:20.350070Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "c30a659efe38cd36",
-      "category": "investing",
-      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-      "summary": "US regulators reportedly contacted banks following last week’s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-11-05T18:32:45Z",
-      "first_seen": "2026-11-05T20:04:20.350070Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -2264,6 +2264,57 @@
       "policy_status": "待核验"
     },
     {
+      "id": "85f5fe53c751ec29",
+      "category": "world",
+      "title": "Nigerian court rules opposition candidate cannot stand in elections",
+      "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-06T17:35:55Z",
+      "first_seen": "2026-11-06T19:30:17.988793Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "8fc8e90c6b3150dc",
+      "category": "world",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-06T17:03:02Z",
+      "first_seen": "2026-11-06T19:30:17.988793Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "fe773657f48e94a2",
+      "category": "world",
+      "title": "Four midterms takeaways for 2028 White House race",
+      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-06T16:12:22Z",
+      "first_seen": "2026-11-06T19:30:17.988793Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "72ce0af5d0cf8624",
       "category": "world",
       "title": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – Europe live",
@@ -2330,57 +2381,6 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "0bf1682f43fe9b9f",
-      "category": "world",
-      "title": "Denmark’s top court to rule on ‘parallel societies’ after ‘non-western’ people evicted",
-      "summary": "Government claims removal of former residents of housing complex in Helsingør is unrelated to their ethnicity Denmark’s supreme court is expected to rule on whether the state’s classification of residents with “non-western” backgrounds is c",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-06T10:00:49Z",
-      "first_seen": "2026-11-06T14:11:54.407920Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "2ad915a40bb86aa7",
-      "category": "world",
-      "title": "理响中国·聚焦2026中国经济丨赋能产业、惠及民生 一图读懂我国服务业扩能提质新成效 - 中国经济网",
-      "summary": "理响中国·聚焦2026中国经济丨赋能产业、惠及民生 一图读懂我国服务业扩能提质新成效 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6TzdJM1lNTXRVM0VpS2NWVk04RnUtZG52Q2VKazJjR1A0anpqZ0FZS1hRZjdnRUZhUU1tLVN1ekpIUlFvWHFmS1JuRG12bUNZXzJIT3dPaU9HREVYNWtzcmNFcjdNZGRvcTB0N2tHOA?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-06T08:39:00Z",
-      "first_seen": "2026-11-06T14:11:54.407920Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "f3372422aec89177",
-      "category": "world",
-      "title": "Death a ‘distinct possibility’ in collision running and face-slapping competitions, inquiry hears",
-      "summary": "Impacts in emerging contact sports are akin to coward punches and cannot be made safer with regulation, neurologist says Get our breaking news email , free app or daily news podcast Collision running and face-slapping competitions have simi",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-06T08:23:10Z",
-      "first_seen": "2026-11-06T14:11:54.407920Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
@@ -2405,8 +2405,8 @@
     "investing": [
       "b431ea497743c593",
       "0224349908e0b1c1",
-      "4b7461d9b3fbb8d3",
-      "d6d475796ee0b67f"
+      "c69cd3e8a1a3b4ea",
+      "4d3e832e809076fe"
     ]
   },
   "ai": {
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 20,
-    "failed": 0,
+    "ok": 19,
+    "failed": 1,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2434,7 +2434,7 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 22
+        "items": 23
       },
       {
         "name": "英国移民政策 · Google 索引",
@@ -2464,7 +2464,7 @@
         "name": "Web3 监管 · Google 新闻索引",
         "category": "investing",
         "ok": true,
-        "items": 35
+        "items": 34
       },
       {
         "name": "纳指与标普 · Google 新闻索引",
@@ -2493,8 +2493,9 @@
       {
         "name": "Hacker News 热门",
         "category": "tech",
-        "ok": true,
-        "items": 20
+        "ok": false,
+        "items": 0,
+        "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage?points=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrs"
       },
       {
         "name": "MIT Technology Review",
@@ -2518,7 +2519,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 27
+        "items": 25
       },
       {
         "name": "The Guardian World",
@@ -2530,13 +2531,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 15
+        "items": 14
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 3
+        "items": 4
       }
     ]
   }
