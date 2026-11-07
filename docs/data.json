@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T23:14:51.559747Z",
+  "generated_at": "2026-11-07T06:02:03.159783Z",
   "is_demo": false,
   "items": [
     {
@@ -49,23 +49,6 @@
       "source_kind": "research",
       "published_at": "2026-11-05T05:00:00Z",
       "first_seen": "2026-11-05T06:51:21.595371Z",
-      "score": 14,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "e8945d7d0316390e",
-      "category": "world",
-      "title": "Most Israelis think settlements policy should change to avoid more sanctions, poll finds",
-      "summary": "Survey finds UK government’s decision to impose trade ban was not a decisive factor in how Israelis voted in election The UK government’s decision to impose a ban on trade in goods from illegal settlements was not decisive in how Israelis v",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/02/uk-trade-ban-west-bank-settlements-israel-election-poll",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-02T06:00:33Z",
-      "first_seen": "2026-11-02T15:42:02.154115Z",
       "score": 14,
       "ai_generated": false,
       "policy_status": null
@@ -122,6 +105,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "f49508a2da7f6e68",
+      "category": "immigration",
+      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
+      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-06T23:50:36Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "b431ea497743c593",
       "category": "investing",
       "title": "Here’s what happened in crypto today",
@@ -137,23 +137,6 @@
       "score": 12,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "f49508a2da7f6e68",
-      "category": "immigration",
-      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
-      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
-      "source": "新西兰移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-06T12:53:53Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": "待核验"
     },
     {
       "id": "86248c9576c0b64f",
@@ -287,23 +270,6 @@
       "source_kind": "research",
       "published_at": "2026-11-03T05:00:00Z",
       "first_seen": "2026-11-03T14:06:09.220200Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "a94da1d24c90f544",
-      "category": "tech",
-      "title": "Negotiate an AI Agent Model Swap Clause Before Your Vendor Switches the LLM - Startup Fortune",
-      "summary": "Negotiate an AI Agent Model Swap Clause Before Your Vendor Switches the LLM Startup Fortune",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPal9mY01Qd3BCSEVOWTBnNnp0c1lLTVFCZk1XcktjYllCdG8yNElRQWFHV3Fic29CWGRjQkEwdHAtRWJldjlfd0xUS3U3RVJkQTBlZV9Gbkh3WUZmOHRmZ0ZWRnNIUVBwMGxZdzFpbko4aEZuNS1NZkxoOWRjNGRsLTltTXNJdXN3dnd4ZDZ2bTYyLU1IZkJMV0dnVGNxdnBOXzlyRnZ3?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-10-31T05:02:43Z",
-      "first_seen": "2026-10-31T05:46:29.144902Z",
       "score": 12,
       "ai_generated": false,
       "policy_status": null
@@ -465,7 +431,7 @@
       "id": "5072f0d6af005438",
       "category": "tech",
       "title": "AI is dramatically accelerating AI research",
-      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 126 # Comments: 81",
+      "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 253 # Comments: 204",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -1261,6 +1227,40 @@
       "policy_status": "待核验"
     },
     {
+      "id": "3d1b5fcb50f52dc4",
+      "category": "tech",
+      "title": "Microsoft AI CEO Mustafa Suleyman reacts to Delaware’s AI agent proposal, says it is ‘deeply concerning to …’ - The Times of India",
+      "summary": "Microsoft AI CEO Mustafa Suleyman reacts to Delaware’s AI agent proposal, says it is ‘deeply concerning to …’ The Times of India",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPcmd5NTBBTUlSYVl5TGlhNnFQZWdNQVVTZ3VsOHI2QWZmWHlMeW9ydWNRNDBVb1o2TGRoX1psVVFUZ256dkRPeVdvM2FHUkN0OVdGc2ZQcVN1OEt3dzdHRkt4NWlmeXVpTHBpM2dtTFM5bUpxZm1LdllWU2pEVUlacElESzZQYW9JTllGc3ZfWkJ0WGFva29jSE14Y1VoRjR1bl94U1l4enhUMzZ2SFVYVVhBa3hBRVdraWtmeGdXZUxndFhiZnVBQzB2UUpvSmlKeWNtSlJ1YUtnZnNQenY0V2lLRmZqdmtfOVZHRUhVNTZORFlSWTNBd3pVVFBpX1ZUbGR3cEFkcXY5WEpQWWZNdHp5MFFRdw?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-07T05:32:00Z",
+      "first_seen": "2026-11-07T06:02:03.159783Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "f3c4bd17ddcc7d6c",
+      "category": "world",
+      "title": "历史新高！翻番增长！一组数据感受中国经济强劲脉动- 中国日报网 - China Daily",
+      "summary": "历史新高！翻番增长！一组数据感受中国经济强劲脉动- 中国日报网 China Daily",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xZ2pOUTZDUDA4UkRtVk1icXZOOHV1N1VTWThpY3VCMmpWaGJXWlNKeDNralJwVlU3QzlYLXZUUUZXY2xVczJtWkxjSk9nN0NiY0NUdjhEUXVEa0E3Rl9MOFhjMkJpblJ2VlRhNUhlZVZjZ1JEcXJzV1BOZElLNVE?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-07T02:43:07Z",
+      "first_seen": "2026-11-07T06:02:03.159783Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "c3048295aa0209ea",
       "category": "investing",
       "title": "Samsung’s 82-Million-Device Bet Shows Stablecoin Wars Moving Beyond Crypto - PYMNTS.com",
@@ -1271,8 +1271,25 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVJORDhHTjJjRmNmRGp6NUc3TTZaNkI4UGo3ZlU0ZVJXbC1zM1hHa3o4Vk50Zm1HSTgwVW1aWHhVemVlbFpvQlhQM0tMeEFIZm5iUnVoeWw2YVN2dFBfdEZ5MHpVdVk4QmNQLTFrTUtuVDV4dnNoMHF4ZllJV05VVXE1cmtySVZwdjlYc3JrQTFCbFdGcVgyel9BSll1bjZxQ0ItYVRjSWNFN0NxREFzb1g1WQ?oc=5",
       "source": "Web3 监管 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-11-06T21:49:31Z",
+      "published_at": "2026-11-06T21:55:19Z",
       "first_seen": "2026-11-06T23:14:51.559747Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "ff6a27434f70730f",
+      "category": "investing",
+      "title": "A Democratic Congress: implications for Bitcoin and crypto regulation - www.tmgm.com",
+      "summary": "A Democratic Congress: implications for Bitcoin and crypto regulation www.tmgm.com",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdVJLX1MtNWdqeUN1c0ZoLXpZRFlKNEVweXpzSzMtME1ueXd5NjhVc3dRbkVsZ1lIaDBmS3Y4RmtickQ5US1YVWhCV0JVVm9GZ1Y2QXQ3RWFlQUlZdXpNRlFscXhBV2dKZWhtRTBzS1UyZG82dlJYcVhqTGhSVVdyam44YTZuNlVGRWotSERJUGozRWhjOVVqcmc0TVA0MTVCbGRSRndHN3hRT21Sclh6ajRKMmoxY2k5a1hlSkZwVExTVGRZNlBHY1l2TU01aFU?oc=5",
+      "source": "Web3 监管 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-06T15:48:27Z",
+      "first_seen": "2026-11-07T06:02:03.159783Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1669,23 +1686,6 @@
       "policy_status": null
     },
     {
-      "id": "baa1389f2d0f016c",
-      "category": "investing",
-      "title": "One Financial ETF Yields 15.70% and Lost Money. The Two Yielding Under 2% Kept Pace With the S&P 500 - 24/7 Wall St.",
-      "summary": "One Financial ETF Yields 15.70% and Lost Money. The Two Yielding Under 2% Kept Pace With the S&P 500 24/7 Wall St.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ0RZUXFLcHhhb2QzWHVCSERYalZ0Zml0Q0t4TzY3RkhLaGpGT2d5WGN2aFZnSkJFX2JxbXNRcFZScndzU3E5WHpSSXFRNnlrNTZYOWo0b3p6eGpOVm1tQ1puMFhQOXR1QzRLV05fNGtQdnJXZjAycTItbVplNlM5d2VTcHJkQkhBRDA4MkhPV00ySTdTaU5hdld5LUNWd2IwQmFUSGR5Sk44Y08zdHpCWDVrOXRUUnVSV3YwT0k2cEJmbjhiTVM3T1Iyay1peHJtWFIyZnA2OHJWTWlE?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-05T22:03:00Z",
-      "first_seen": "2026-11-06T06:51:23.197854Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "aeb2cf91ace15429",
       "category": "world",
       "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
@@ -1888,6 +1888,23 @@
       "score": 8,
       "ai_generated": false,
       "policy_status": null
+    },
+    {
+      "id": "c0c909a350031dbb",
+      "category": "immigration",
+      "title": "Working holiday for Australians - Immigration and citizenship Website",
+      "summary": "Working holiday for Australians Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN1BZckdEekQxX1FZZG9lZG5rZllSWlV6N283RGE0a29iTHRpTlAyWl9DaFBaeHF0UVI3N3VlRTVDRnBUR0NzSHdFZGJFXy1zcXkwN1R1SkNCcnh3MVlacEozdVBGbW9Gd3lFeUViTFo3OWxITVNSWGVjQUlUNExoc3BqMl9vYXpKdGUxaWxBWXk?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-04T08:00:00Z",
+      "first_seen": "2026-11-07T06:02:03.159783Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
     },
     {
       "id": "08a116631c119a11",
@@ -2162,40 +2179,6 @@
       "policy_status": null
     },
     {
-      "id": "b716deb6a6b59788",
-      "category": "world",
-      "title": "Minns warns expected RBA rate rise will see ‘shops close that don’t reopen’ as pressure mounts on PM",
-      "summary": "Frustration grows over the economy with one Labor MP saying voter anger is already high ahead of Reserve Bank of Australia decision Get our daily political email , free app or daily news podcast The NSW premier, Chris Minns, has warned an e",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/minns-warns-rba-rate-rise-job-losses-economy",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-02T05:48:12Z",
-      "first_seen": "2026-11-02T06:11:12.065504Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "01a626da1f15c492",
-      "category": "world",
-      "title": "“理财产品要变相保本了”是误读政策 - 中国经济网",
-      "summary": "“理财产品要变相保本了”是误读政策 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vdEUyeFk4TE1TYnFFV1hUVnNQb2ZkbGtURUQ1Y2c5QVBvRDZMMHhsQ0xzcDlUTTIyWExmb0hDMkV5bTdRWnNnY0ZEdkxoeXVweVhaZVJIai1MMGlqZlhmLUJjX2twNENaaFA2Y1hYWQ?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-01T23:33:00Z",
-      "first_seen": "2026-11-02T06:11:12.065504Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "264401acac3346aa",
       "category": "immigration",
       "title": "Protection visas are for asylum seekers - Immigration and citizenship Website",
@@ -2247,21 +2230,55 @@
       "policy_status": "待核验"
     },
     {
-      "id": "871a185210a6dbb6",
-      "category": "immigration",
-      "title": "Subclass 407 Training visa - Immigration and citizenship Website",
-      "summary": "Subclass 407 Training visa Immigration and citizenship Website",
+      "id": "0c408e8a959396e8",
+      "category": "world",
+      "title": "历史新高！翻番增长！一组数据感受中国经济强劲脉动 - 中安在线",
+      "summary": "历史新高！翻番增长！一组数据感受中国经济强劲脉动 中安在线",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTlROWR6U2xrRFcxZVJzWTRGNkZrVU1jNTlUc2NBb1Q2QmFkZ1FTWkJHZ0U4OFFHTmFJUmN2T0Q5aXprTEIwU2ZqQ1Q5blRneDBKQ2ZscC1UajNzTThLZXlUVk1MT3FpUktLZjNpYTZDdUZEUkVUaHVnR0VSZ0VydTNNd0U?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKUF9YdEVzN2R6eDJtN3lrQnEySjV0UWpoTDhwZGJVSW82b2tmNWJXbkhGQVJxSWt2SnpIUWNEa2JuZHJ4RzlLS2FUVFRUUTJkcFo5cTlySlhvX1BYUThwME5fUnFrYVlJRTBLeQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-30T07:00:00Z",
-      "first_seen": "2026-11-01T13:15:29.933297Z",
-      "score": 8,
+      "published_at": "2026-11-07T02:05:00Z",
+      "first_seen": "2026-11-07T06:02:03.159783Z",
+      "score": 6,
       "ai_generated": false,
-      "policy_status": "待核验"
+      "policy_status": null
+    },
+    {
+      "id": "9133fdb8996141b2",
+      "category": "world",
+      "title": "历史新高！翻番增长！一组数据感受中国经济强劲脉动- 经济 - 中工网",
+      "summary": "历史新高！翻番增长！一组数据感受中国经济强劲脉动- 经济 中工网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkU2RzdEsyVXRIM0kxdUxJX194VGpVWEgwWlRPX08xUEsxWkh2bWYxb21OU3Y0SWhWTHp4M1U0NVNXVU40Z3NyU2xrMDVzaHFDUkJRa2UtNGVjbFZ3Zkh3?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-07T01:27:00Z",
+      "first_seen": "2026-11-07T06:02:03.159783Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "3e7c87c95d672468",
+      "category": "world",
+      "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+      "summary": "Zero Limits supplements is co-owned by rightwing podcaster and fitness coach Chris Katelaris, also known as ‘Big Chocky’ Get our breaking news email , free app or daily news podcast Ben Roberts-Smith has collaborated with a gym supplements ",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-07T00:58:11Z",
+      "first_seen": "2026-11-07T06:02:03.159783Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "8fc8e90c6b3150dc",
@@ -2276,6 +2293,23 @@
       "source_kind": "media",
       "published_at": "2026-11-06T21:06:25Z",
       "first_seen": "2026-11-06T19:30:17.988793Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "d7e97391cd2bcd26",
+      "category": "world",
+      "title": "中国极地科学与政策制定中的专家参与：基于内部咨询信息系统的知识协同生产 - 生物通",
+      "summary": "中国极地科学与政策制定中的专家参与：基于内部咨询信息系统的知识协同生产 生物通",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jd0VxWWJ0NnFfSW1JQ1RTUk5pQmJSZy03c285NHpFUDJsY282R2h6Wm9zUkxYazBJMktCZXVEVFdVM0JFUmNRRF9xTFVVeVZXSjJyMExYeFdibHlRUzJITTFrOXM5VzNneHF3TlJn?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-06T19:21:38Z",
+      "first_seen": "2026-11-07T06:02:03.159783Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2347,45 +2381,11 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "ed7aa7825e662c24",
-      "category": "world",
-      "title": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
-      "summary": "Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraud Flávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his de",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-06T13:03:38Z",
-      "first_seen": "2026-11-06T14:11:54.407920Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "79cfcadb5415c2b0",
-      "category": "world",
-      "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-      "summary": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nels",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-06T12:48:37Z",
-      "first_seen": "2026-11-06T14:11:54.407920Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
-      "e8945d7d0316390e",
+      "f3c4bd17ddcc7d6c",
       "0dc558cfa25f78b6",
       "b739dcae1dc706cf",
       "aeb2cf91ace15429"
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 20,
-    "failed": 0,
+    "ok": 19,
+    "failed": 1,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2434,7 +2434,7 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 23
+        "items": 26
       },
       {
         "name": "英国移民政策 · Google 索引",
@@ -2464,7 +2464,7 @@
         "name": "Web3 监管 · Google 新闻索引",
         "category": "investing",
         "ok": true,
-        "items": 35
+        "items": 34
       },
       {
         "name": "纳指与标普 · Google 新闻索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 12
+        "items": 13
       },
       {
         "name": "MIT Technology Review",
@@ -2505,8 +2505,9 @@
       {
         "name": "arXiv AI 论文",
         "category": "tech",
-        "ok": true,
-        "items": 35
+        "ok": false,
+        "items": 0,
+        "error": "Feed returned no entries (invalid, empty or blocked)"
       },
       {
         "name": "BBC China",
@@ -2518,7 +2519,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 26
+        "items": 27
       },
       {
         "name": "The Guardian World",
@@ -2530,13 +2531,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 15
+        "items": 16
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 4
+        "items": 5
       }
     ]
   }
