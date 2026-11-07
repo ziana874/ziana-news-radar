@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:46:38.229640Z",
+  "generated_at": "2026-11-07T21:58:07.833914Z",
   "is_demo": false,
   "items": [
     {
@@ -785,6 +785,40 @@
       "policy_status": "待核验"
     },
     {
+      "id": "51d430a7549594ed",
+      "category": "immigration",
+      "title": "Working Holiday visa (subclass 417) Second Working Holiday visa - Immigration and citizenship Website",
+      "summary": "Working Holiday visa (subclass 417) Second Working Holiday visa Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORTJoVkJ0YWhoM0xweVRXNmZDUDRudGQxWHNMYXNtQ3AtQXFYcEJucVd6Z0JHYzJkNjl3cEd4QzFnR0RGSnU0YUlHUE1wZ3FfcnhZSlVhTHVIOVM2NVZybkhHY3ZJQzVZcFg3akpIZ0tueXNJeTRDYXE3dkZscnUtcFozU0RCX0dCRnlBWHJTaFZjcjVJZ3ZIbWVjSGVGQXhoN0hPZTBXREJ0Yms0S3BwOC1ad2kzcFR6QzJWSzBrSkQ3eDFJay1BWUNHeU0?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-05T08:00:00Z",
+      "first_seen": "2026-11-07T21:58:07.833914Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
+      "id": "a9edbee1a68c86bc",
+      "category": "immigration",
+      "title": "Business Innovation and Investment (Permanent) (subclass 888) visa Investor stream - Immigration and citizenship Website",
+      "summary": "Business Innovation and Investment (Permanent) (subclass 888) visa Investor stream Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRGlib3R6VDZEdlU2ZzRra1FCNFlkZ29PZ2h1dUdyU0hFeFg0a0N5d093cnRFel9PQWptM3B0ZXdlTTlQOWJ1MXkyU0FFaVBUWGV6aGl3VjJlT0FqRERyaTM0Ukd5MC1NcmgyZnFUdnNfc3pCY0ZHQmRCcFBYNnNrbEhlX3U2NjRacndydkVOQ0ltWTY4eG5Qa2dlWnk4RXlONnhENWJlWXcwelFNZ25YblRweXpPOG5lSEx3SA?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-05T08:00:00Z",
+      "first_seen": "2026-11-07T21:58:07.833914Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "984fefd547b11cfe",
       "category": "tech",
       "title": "Samsung's Patient Research Support Bears Fruit in AI Semiconductor Startup - 조선일보",
@@ -1278,6 +1312,40 @@
       "policy_status": "待核验"
     },
     {
+      "id": "c58085b689f6dfcf",
+      "category": "world",
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new gover",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-07T19:49:39Z",
+      "first_seen": "2026-11-07T21:58:07.833914Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "716cefd0361eaa9a",
+      "category": "investing",
+      "title": "S&P 500 Faces Double Top Risk as Rate Hike Bets Build and AI Fears Spread - Benzinga",
+      "summary": "S&P 500 Faces Double Top Risk as Rate Hike Bets Build and AI Fears Spread Benzinga",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaDVHRTR0SmRPZV9Dclpfa19fS1VuVkJjZC1nWEhVZlU3T0Q5UXAtbkFRZXNBQ3lsRmFoNmVYcFRQdEpOZFlrMmFGSHl2QnpoLTRxTzRiTEUwUjRoZWN5dWs4ZmpZTFQ4Xy1feEdMVW5YYkhKZEFTOEgtTnZRVWxpbTVZLTdPR3R4MTBQTjBfSnd2cnIzcTJwWDNOUGVKdXNaUG1jb2V3MUdmWk5hZU1Id2tJam5ReU9LNjdfQnlsbDhQNWRnaWtYeQ?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-07T17:46:09Z",
+      "first_seen": "2026-11-07T21:58:07.833914Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "6366dfd99f4fb8fe",
       "category": "investing",
       "title": "Stock market this week: S&P 500 ETF falls 2.7% - Opening Bell Daily",
@@ -1703,23 +1771,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "481badec1ff87eb9",
-      "category": "investing",
-      "title": "$SPDR S&P 500 ETF (SPY.US)$ looking at the movement today, this is my take. We will touch 744/748 , than a retracement to touch the Monthly Trend at 720.00 - Moomoo",
-      "summary": "$SPDR S&P 500 ETF (SPY.US)$ looking at the movement today, this is my take. We will touch 744/748 , than a retracement to touch the Monthly Trend at 720.00 Moomoo",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjFjeEhpdEJOMWJtbVQxVzVPUnZIeUlpblRDdUJVVXJWU1NkTnlDakFSX3hyZjZCWWdRSlJHU0dxM3YwWTNIQ1ZheFQxeTBsMDJXbU5CZUdxVEY2TTVPdGE2WVJUdTA0VWlGdzg0akR5SU1reFUtWVhQNlpWWHdaWHNjaF94V01zaUJUUTlHaGZqSEE1MVRZ?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-06T02:06:57Z",
-      "first_seen": "2026-11-06T06:51:23.197854Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "aeb2cf91ace15429",
       "category": "world",
       "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
@@ -1839,18 +1890,18 @@
       "policy_status": "待核验"
     },
     {
-      "id": "1eb5eba640173a79",
+      "id": "35514b765fc2439c",
       "category": "immigration",
-      "title": "Subclass 884 Contributory Aged Parent (Temporary) visa - Immigration and citizenship Website",
-      "summary": "Subclass 884 Contributory Aged Parent (Temporary) visa Immigration and citizenship Website",
+      "title": "(Subclass 445) Dependent Child visa - Immigration and citizenship Website",
+      "summary": "(Subclass 445) Dependent Child visa Immigration and citizenship Website",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTVFeGtvcmlWSU5VYUtfVFAyVmRVUnJMUHdRTkdQS3p0WldBXy03TzYxc0ctVkZRN1pwdi1ZUlFOckhSN04yTlVZdWZDajNDVUtfRmoxelhFdHplWXRQcVZnSzRTajM4Yld3TENSM2EwNUNkaFFuN0xwV2RvWXFLQ3FaekpsR3NfVFNsNEM5UU1wM21qMmpqUl9NSG9LNldJSWZ0cTdRaw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeDJtaUJQS0ZCMW9vU0VwWmpVYWlFVmRmSkh0aVdtMHlTVFBRV0lrNkdPc3JZdmhFM1p0T2pJRHRTNU11MFIxa1JuMGc4ZVJ1bWpHcjBnN2ZpczlfXzBTdlg0dGJuZlItdm1BSEFRRnFCT1dNNlItR3JYMGJOOXBMV01YdTJkU0FjUEU0bE53?oc=5",
       "source": "澳洲移民官网 · Google 索引",
       "source_kind": "index",
       "published_at": "2026-11-05T08:00:00Z",
-      "first_seen": "2026-11-07T17:46:38.229640Z",
+      "first_seen": "2026-11-07T21:58:07.833914Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": "待核验"
@@ -1868,23 +1919,6 @@
       "source_kind": "index",
       "published_at": "2026-11-05T08:00:00Z",
       "first_seen": "2026-11-07T12:55:00.760291Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
-      "id": "7961449b22dd2f9a",
-      "category": "immigration",
-      "title": "Subclass 020 Bridging visa B (BVB) - Immigration and citizenship Website",
-      "summary": "Subclass 020 Bridging visa B (BVB) Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDNjMHB0MlFTNXgxbHFlUGRqaXNxelRjMzhNV0xCaXNfUEJzazJIR2hjcTR2Rkkwc2U3Tlo1bnJtbE85QVYwY2FYUWtzQjdtUXpQU2tTZnJkTHJzTXNOOGRSZW9EU2JlcnZ5YTQwR3ZvSmxJckE2bmlIb0hPNVpZOTFDd3BFM1Q4b09DbVpR?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-05T08:00:00Z",
-      "first_seen": "2026-11-07T17:46:38.229640Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": "待核验"
@@ -2060,23 +2094,6 @@
       "policy_status": null
     },
     {
-      "id": "c0c909a350031dbb",
-      "category": "immigration",
-      "title": "Working holiday for Australians - Immigration and citizenship Website",
-      "summary": "Working holiday for Australians Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN1BZckdEekQxX1FZZG9lZG5rZllSWlV6N283RGE0a29iTHRpTlAyWl9DaFBaeHF0UVI3N3VlRTVDRnBUR0NzSHdFZGJFXy1zcXkwN1R1SkNCcnh3MVlacEozdVBGbW9Gd3lFeUViTFo3OWxITVNSWGVjQUlUNExoc3BqMl9vYXpKdGUxaWxBWXk?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-04T08:00:00Z",
-      "first_seen": "2026-11-07T06:02:03.159783Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
       "id": "08a116631c119a11",
       "category": "world",
       "title": "经济合作与发展组织中国经济政策研究室主任马吉特·莫尔纳发表主旨演讲 - 中国日报网",
@@ -2213,19 +2230,53 @@
       "policy_status": null
     },
     {
-      "id": "1af9b03caed681ab",
+      "id": "85f5a1252208f85f",
       "category": "world",
-      "title": "French pupils resume school blockades as country braces for more protests",
-      "summary": "Minister warns weeks without lessons are putting exams at risk as unions plan nationwide strike on Thursday Dozens of high schools across France were blockaded again on Monday as the government braced for another tense week of protests over",
+      "title": "A Big Build royal commission helped Ben Carroll become premier. Will it be his downfall?",
+      "summary": "Two weeks of public hearings will begin on Monday morning, right in the middle of the state election campaign Get our daily political email , free app or daily news podcast The commitment that made Ben Carroll premier may ultimately cost hi",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
       "source": "The Guardian World",
       "source_kind": "media",
-      "published_at": "2026-11-02T18:17:33Z",
-      "first_seen": "2026-11-02T21:46:22.423298Z",
-      "score": 8,
+      "published_at": "2026-11-07T19:00:19Z",
+      "first_seen": "2026-11-07T21:58:07.833914Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "a190c1df03276bcd",
+      "category": "world",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-07T18:14:38Z",
+      "first_seen": "2026-11-07T21:58:07.833914Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "3270e73858a79621",
+      "category": "world",
+      "title": "御浪而行：穿越潮汐的航运力量丨中国经济论坛 - 第一财经",
+      "summary": "御浪而行：穿越潮汐的航运力量丨中国经济论坛 第一财经",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4xb3pwUXU4d1FvWkVzUTUtTS1iVFZWVUpxYmRXc19VN2wzQmNuaWlSMFhmQ3Rod3JFcnBSSGlIT0JackNhWXk3RjRjd1RPWklycVJSdA?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-07T15:00:42Z",
+      "first_seen": "2026-11-07T21:58:07.833914Z",
+      "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
@@ -2330,65 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "4e8e849f9a578759",
-      "category": "world",
-      "title": "朝鲜与中国宣布相互支持彼此政策——《韩国先驱报》 - UA.NEWS",
-      "summary": "朝鲜与中国宣布相互支持彼此政策——《韩国先驱报》 UA.NEWS",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTGExS3Z2MjNSUjFTY1RDSVpGUEJnNWNOWExGeFdOanVkbUV3Ymx1UGJZeHd0bzdxVmNoTEdNR1lLSmRhN0pjRGNNaFN2Y0c3Y3haSlVsbUtaSUN4SUZWdnNIbDBiRllKVVB5ZUtXRjctXy1FWk9NVTJFeGJJT0RvZTB6SWhRVDNJZURFZ1RTU0g0OXBlMk91N1NrbnRnaTFs?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-07T03:34:00Z",
-      "first_seen": "2026-11-07T12:55:00.760291Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "d7e97391cd2bcd26",
-      "category": "world",
-      "title": "中国极地科学与政策制定中的专家参与：基于内部咨询信息系统的知识协同生产 - 生物通",
-      "summary": "中国极地科学与政策制定中的专家参与：基于内部咨询信息系统的知识协同生产 生物通",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jd0VxWWJ0NnFfSW1JQ1RTUk5pQmJSZy03c285NHpFUDJsY282R2h6Wm9zUkxYazBJMktCZXVEVFdVM0JFUmNRRF9xTFVVeVZXSjJyMExYeFdibHlRUzJITTFrOXM5VzNneHF3TlJn?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-07T02:55:53Z",
-      "first_seen": "2026-11-07T06:02:03.159783Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "9133fdb8996141b2",
-      "category": "world",
-      "title": "历史新高！翻番增长！一组数据感受中国经济强劲脉动- 经济 - 中工网",
-      "summary": "历史新高！翻番增长！一组数据感受中国经济强劲脉动- 经济 中工网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkU2RzdEsyVXRIM0kxdUxJX194VGpVWEgwWlRPX08xUEsxWkh2bWYxb21OU3Y0SWhWTHp4M1U0NVNXVU40Z3NyU2xrMDVzaHFDUkJRa2UtNGVjbFZ3Zkh3?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-07T01:27:00Z",
-      "first_seen": "2026-11-07T06:02:03.159783Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "e5980b093e3f1e00",
+      "c58085b689f6dfcf",
       "6627ae0c02183fa7",
-      "f3c4bd17ddcc7d6c",
-      "0dc558cfa25f78b6"
+      "f3c4bd17ddcc7d6c"
     ],
     "tech": [
       "473a023bdb2dfa44",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 13
+        "items": 15
       },
       {
         "name": "MIT Technology Review",
@@ -2519,7 +2519,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 21
+        "items": 24
       },
       {
         "name": "The Guardian World",
@@ -2531,13 +2531,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 19
+        "items": 21
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 5
+        "items": 4
       }
     ]
   }
