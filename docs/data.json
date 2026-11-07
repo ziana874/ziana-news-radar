@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:55:00.760291Z",
+  "generated_at": "2026-11-07T17:46:38.229640Z",
   "is_demo": false,
   "items": [
     {
@@ -105,6 +105,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "b431ea497743c593",
+      "category": "investing",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-11-07T14:22:00Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "f49508a2da7f6e68",
       "category": "immigration",
       "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
@@ -120,23 +137,6 @@
       "score": 12,
       "ai_generated": false,
       "policy_status": "待核验"
-    },
-    {
-      "id": "b431ea497743c593",
-      "category": "investing",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-11-06T22:00:15Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": null
     },
     {
       "id": "86248c9576c0b64f",
@@ -428,6 +428,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "e5980b093e3f1e00",
+      "category": "world",
+      "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
+      "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed ",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-07T13:48:18Z",
+      "first_seen": "2026-11-07T17:46:38.229640Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "b86f70176f50c080",
       "category": "tech",
       "title": "ARTEX AI Agent Escapes Research Sandbox and Accesses WorkOS Customer Records - CyberSecurityNews",
@@ -447,8 +464,8 @@
     {
       "id": "6c0f19cef97f626d",
       "category": "investing",
-      "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading - CryptoSlate",
-      "summary": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading CryptoSlate",
+      "title": "Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading - CryptoSlate",
+      "summary": "Moscow Exchange sets December 1 to launch Bitcoin and Ethereum trading CryptoSlate",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -1261,6 +1278,57 @@
       "policy_status": "待核验"
     },
     {
+      "id": "6366dfd99f4fb8fe",
+      "category": "investing",
+      "title": "Stock market this week: S&P 500 ETF falls 2.7% - Opening Bell Daily",
+      "summary": "Stock market this week: S&P 500 ETF falls 2.7% Opening Bell Daily",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zMU1hZ0J4aHJtZFR0My1jajZ5SE5tOVh0S0p0V0hOYmg4a2VXQ3lEcTVhdm5mRlRIcWY4ZGRXekxSdE5pcjhTSWdjUnlVVGo2MkNQSm05OXNBTmc2ZzFRLUc5QTlNVGtDUXpRSVJTVzhubVg4NWU0UzFSRm8?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-07T17:02:42Z",
+      "first_seen": "2026-11-07T17:46:38.229640Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "6627ae0c02183fa7",
+      "category": "world",
+      "title": "No clear winner after tight New Zealand general election",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-07T15:56:28Z",
+      "first_seen": "2026-11-07T17:46:38.229640Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "78c0e2bd7e1dc702",
+      "category": "investing",
+      "title": "Inflation Fears Return as Corporate America Counts the Cost - Bloomberg.com",
+      "summary": "Inflation Fears Return as Corporate America Counts the Cost Bloomberg.com",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNkZJY0ZLLTJiR0VRajV2YkVMNTZFUm9acEZWOVdRQ2hfM2NPVUxsRjJOMFV6TjZxeFcxSEFuWXpBYkc4RDZjbnVkemQ5VFNsSlZPX2s4N0lhZTZpU0NKV1BkU1ZRTGpkV3NQem42X2JNV011WkxYVTV6ZW5WSXQwVVRYWmw0X25SdGN1aHJ5dm93RzFFalM0MFZFWFg3MkU5VzkwX29kTG1JdkdPdldF?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-07T14:00:00Z",
+      "first_seen": "2026-11-07T17:46:38.229640Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "f3c4bd17ddcc7d6c",
       "category": "world",
       "title": "历史新高！翻番增长！一组数据感受中国经济强劲脉动- 中国日报网 - China Daily",
@@ -1652,40 +1720,6 @@
       "policy_status": null
     },
     {
-      "id": "0870d2d3408eaf3e",
-      "category": "investing",
-      "title": "Blue Wave Batters Nasdaq, Kospi and Bitcoin as AI Regulation Fears Spark Selloff - bloomingbit",
-      "summary": "Blue Wave Batters Nasdaq, Kospi and Bitcoin as AI Regulation Fears Spark Selloff bloomingbit",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yVlpDdHZRbHNSMzhoNkhxcmxkQVFXeUhURlpRT2lydlR1alNRNk5yS3V6dVFuN3VVaUIzQ2FaeU5oLWpma0VXUS1EVUFjanAtTWlIZw?oc=5",
-      "source": "Web3 监管 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-06T01:15:36Z",
-      "first_seen": "2026-11-06T06:51:23.197854Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "87debd1d37b06987",
-      "category": "investing",
-      "title": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory — NVDA, AAPL, UBER, SOXX In Focus - Yahoo Finance",
-      "summary": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory — NVDA, AAPL, UBER, SOXX In Focus Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPakszZDlYY0Z5ZXBoRUFISEVHWDQ1dFlyck05bUNJSzkyY3BGejk2QWZKZGdpeTJRVW9ZdVlxS01GZmpzUHhRTVZVN3k3RzY3R3FBekdITGxxOE41Nm5VRWN6RlhrdTI3Q3RsNmlzTk9na2QxZG5nTWQ2aDN4OWNtbFEzYUJJWng1TmVsUkg4OTJoejQ?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-06T01:00:00Z",
-      "first_seen": "2026-11-06T06:51:23.197854Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "aeb2cf91ace15429",
       "category": "world",
       "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
@@ -1737,6 +1771,40 @@
       "policy_status": "待核验"
     },
     {
+      "id": "def5db40523c4ebe",
+      "category": "immigration",
+      "title": "Subclass 785 Temporary Protection visa - Immigration and citizenship Website",
+      "summary": "Subclass 785 Temporary Protection visa Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWlR2QVZZS1lveHM4dUQwdkEyZmJCSVJwd3R0aFFQSFhGejBOdU5xbF9kbmdQZi04RW96eGFQbm9RRUtxaTRvX3ZZSzZWUGRRRk9INnpOamkyb293cjgtQTc4bVFmYnNTck1YS21mX2lkUk11Ylc1ZDdQWDhSMW1kMU5vQkdFWmdiZzZ1UmlUMnpmQm55?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-05T08:00:00Z",
+      "first_seen": "2026-11-07T17:46:38.229640Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
+      "id": "0203490b28dae923",
+      "category": "immigration",
+      "title": "Subclass 461 New Zealand Citizen Family Relationship visa - Immigration and citizenship Website",
+      "summary": "Subclass 461 New Zealand Citizen Family Relationship visa Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa29iSllqd1ItRTBEMWZVN2xFNWQ0MjJWZTA0bk5jaTZGUmUyYmFDRmJiT0stUFdjUUIzV1hjaVR4RzNJdnVadVBXZ3o1NUhGYjlmNEJXaVZWT0JncjJuRmcwdzlLakpKS1NVNTdReUlLY29JaG1hcmVkT3lvMFItdXpLX2dsZW4wR2g4d3VPeU44Vk9UWFh3M0hwNXRsVlIyQWV2blhraW5KZ2J6eFdiTWxJekJLNmtGVENB?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-05T08:00:00Z",
+      "first_seen": "2026-11-07T17:46:38.229640Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "961d9a7bbd615ea8",
       "category": "immigration",
       "title": "(Subclass 835) Remaining Relative visa - Immigration and citizenship Website",
@@ -1771,6 +1839,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "1eb5eba640173a79",
+      "category": "immigration",
+      "title": "Subclass 884 Contributory Aged Parent (Temporary) visa - Immigration and citizenship Website",
+      "summary": "Subclass 884 Contributory Aged Parent (Temporary) visa Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTVFeGtvcmlWSU5VYUtfVFAyVmRVUnJMUHdRTkdQS3p0WldBXy03TzYxc0ctVkZRN1pwdi1ZUlFOckhSN04yTlVZdWZDajNDVUtfRmoxelhFdHplWXRQcVZnSzRTajM4Yld3TENSM2EwNUNkaFFuN0xwV2RvWXFLQ3FaekpsR3NfVFNsNEM5UU1wM21qMmpqUl9NSG9LNldJSWZ0cTdRaw?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-05T08:00:00Z",
+      "first_seen": "2026-11-07T17:46:38.229640Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "d831add6a815c2dd",
       "category": "immigration",
       "title": "(Subclass 771) Transit visa - Immigration and citizenship Website",
@@ -1783,6 +1868,23 @@
       "source_kind": "index",
       "published_at": "2026-11-05T08:00:00Z",
       "first_seen": "2026-11-07T12:55:00.760291Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
+      "id": "7961449b22dd2f9a",
+      "category": "immigration",
+      "title": "Subclass 020 Bridging visa B (BVB) - Immigration and citizenship Website",
+      "summary": "Subclass 020 Bridging visa B (BVB) Immigration and citizenship Website",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMDNjMHB0MlFTNXgxbHFlUGRqaXNxelRjMzhNV0xCaXNfUEJzazJIR2hjcTR2Rkkwc2U3Tlo1bnJtbE85QVYwY2FYUWtzQjdtUXpQU2tTZnJkTHJzTXNOOGRSZW9EU2JlcnZ5YTQwR3ZvSmxJckE2bmlIb0hPNVpZOTFDd3BFM1Q4b09DbVpR?oc=5",
+      "source": "澳洲移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-05T08:00:00Z",
+      "first_seen": "2026-11-07T17:46:38.229640Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": "待核验"
@@ -2060,23 +2162,6 @@
       "policy_status": null
     },
     {
-      "id": "1e3e1b5cf8c4f0b4",
-      "category": "immigration",
-      "title": "Cancelling a visa - Immigration and citizenship Website",
-      "summary": "Cancelling a visa Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55V28xZXluZVVJMktjYjNuNThpY3d3d0EwOVFhV1lHNjZrQ2Q4VWxZOHZYcDdLR0o2SFZjWFJWMk5RbGJQSFF6REl6VkJtUU1TYlo3LWZhZWdsRng0MXJiOHFRcVl5UQ?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-03T08:00:00Z",
-      "first_seen": "2026-11-05T23:41:18.674385Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
       "id": "d40bc50edda9c101",
       "category": "world",
       "title": "花旗研报：经济政策转向对中国资产可持续重估不可或缺_公司新闻_财经 - 证券之星",
@@ -2128,23 +2213,6 @@
       "policy_status": null
     },
     {
-      "id": "c38424e1a167adf1",
-      "category": "immigration",
-      "title": "Changes to the Green List from 8 March 2027 - Immigration New Zealand",
-      "summary": "Changes to the Green List from 8 March 2027 Immigration New Zealand",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjc2WXJqV0YwQWhKWl9SdGJrd05iLUticWhhd0preDA1ZmktVDA5aHp6SWFFTHJzaHFiN0RDekpZdks0T1hEVkdSTjRlM2NYT0twbURjTnFIR2VKcjNpTXZ0MjJYcjZ1VFBZR3M2TDRtVnJKODBRc1dfMjl6NllsTWtqRG82RXJtWTA1dDVqcGZKbElVVjdreEs0TQ?oc=5",
-      "source": "新西兰移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-03T01:42:16Z",
-      "first_seen": "2026-11-03T06:51:43.397364Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
       "id": "1af9b03caed681ab",
       "category": "world",
       "title": "French pupils resume school blockades as country braces for more protests",
@@ -2162,68 +2230,17 @@
       "policy_status": null
     },
     {
-      "id": "5916ec6e788cd4e2",
-      "category": "world",
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "summary": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-02T14:35:01Z",
-      "first_seen": "2026-11-02T06:11:12.065504Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "8634363765ba91c0",
-      "category": "immigration",
-      "title": "Visa processing times - Immigration and citizenship Website",
-      "summary": "Visa processing times Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaXhaWlNmQVk4YWpBRmZFYWpZck1TWjhwaTZZc21vcFhRRUx5S2M0eFFZSndtanhKaDNKWjJ4VlZjZklNaVhDQzM4UW51blY0ZW9oTU95SWg2MWhKdnBQQ09DMF93Mi14dHhseVAxTmZqMDZ5M1A2Qk1la2Y0dTU0UUVscU94UXBJcnpZ?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-02T08:00:00Z",
-      "first_seen": "2026-11-04T14:26:47.148284Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
-      "id": "83fe80cb6407d2b2",
-      "category": "immigration",
-      "title": "Character requirements for visas - Immigration and citizenship Website",
-      "summary": "Character requirements for visas Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUEpYTkVQWklDaDVpOU1pRzEzVkNJVTRnN3Q3SkZSd3YtbWZ0bEVZUGIyeDhKUW1ZVllMR01vNTZYR1dGTll5bkp3am1ZQjFYRHg5dU1DMktxY0lvVnZwMi16b1pCZEMtOWdtbF95WXFXQUFyT0p2ZXJxWkZnS01wQ1B4cl9OQQ?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-02T08:00:00Z",
-      "first_seen": "2026-11-04T14:26:47.148284Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
       "id": "bf47260ffe838248",
       "category": "world",
-      "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
-      "summary": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellwether seat, what are lo",
+      "title": "New Zealand election coalition talks will likely take weeks – as it happened",
+      "summary": "This blog is closed, you can read our report on the New Zealand election here Another update here with 8% of the vote counted . National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ First 9.6%, Opportunity 5.7% and Te Pāti Māori ",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
       "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
       "source": "The Guardian World",
       "source_kind": "media",
-      "published_at": "2026-11-07T12:30:26Z",
+      "published_at": "2026-11-07T13:12:22Z",
       "first_seen": "2026-11-07T12:55:00.760291Z",
       "score": 6,
       "ai_generated": false,
@@ -2242,6 +2259,40 @@
       "source_kind": "media",
       "published_at": "2026-11-07T12:23:28Z",
       "first_seen": "2026-11-06T19:30:17.988793Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "d84d406b46f0b9c9",
+      "category": "world",
+      "title": "南方财经全媒体集团黄欣然：如何做好经济宣传报道——以《中国经济名场面：解码中国经济新引擎》为例 - 21财经",
+      "summary": "南方财经全媒体集团黄欣然：如何做好经济宣传报道——以《中国经济名场面：解码中国经济新引擎》为例 21财经",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmN4WU1HM1FKMXdBWDNxaGVtZHhHYlhkY2k4UmtwYkg0YXVESndQX0FhdGJVWEV4ajZ1Zmx4dEM1ekMtVVlOWmU5NVJrRWx5SVVEQTdKNlYtX29YMUxlc0x4OF9LVllGdXN1dWJqTXlzMzBNVHcwYl9Oemw4VlViVUF6WHdYU2hpdW1SNDBiTQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-07T10:08:00Z",
+      "first_seen": "2026-11-07T17:46:38.229640Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "fd59f558f85a6e09",
+      "category": "world",
+      "title": "中国将内需疲软列为主要挑战，政策制定者着手筹备2027年增长措施 提供者 Investing.com - 英为财情 Investing.com",
+      "summary": "中国将内需疲软列为主要挑战，政策制定者着手筹备2027年增长措施 提供者 Investing.com 英为财情 Investing.com",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PNVpuZGEtakpGWERxcjg2MGJqN2NQSU5NOFhVU01FaHFyc0M0QzNDb3FNRDBDQjFMazhPczYzSmhMbWhwamZXS3NjVFpMZzYydUVJZE5DNjNFczdlT3VFV2QxTTJ2QWNBZEE?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-07T09:54:00Z",
+      "first_seen": "2026-11-07T17:46:38.229640Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2330,65 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "3e7c87c95d672468",
-      "category": "world",
-      "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
-      "summary": "Zero Limits supplements is co-owned by rightwing podcaster and fitness coach Chris Katelaris, also known as ‘Big Chocky’ Get our breaking news email , free app or daily news podcast Ben Roberts-Smith has collaborated with a gym supplements ",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-07T00:58:11Z",
-      "first_seen": "2026-11-07T06:02:03.159783Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "8fc8e90c6b3150dc",
-      "category": "world",
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-06T21:06:25Z",
-      "first_seen": "2026-11-06T19:30:17.988793Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "85f5fe53c751ec29",
-      "category": "world",
-      "title": "Nigerian court rules opposition candidate cannot stand in elections",
-      "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-06T17:35:55Z",
-      "first_seen": "2026-11-06T19:30:17.988793Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
+      "e5980b093e3f1e00",
+      "6627ae0c02183fa7",
       "f3c4bd17ddcc7d6c",
-      "0dc558cfa25f78b6",
-      "b739dcae1dc706cf",
-      "aeb2cf91ace15429"
+      "0dc558cfa25f78b6"
     ],
     "tech": [
       "473a023bdb2dfa44",
@@ -2434,7 +2434,7 @@
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 24
+        "items": 23
       },
       {
         "name": "英国移民政策 · Google 索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 16
+        "items": 13
       },
       {
         "name": "MIT Technology Review",
@@ -2519,7 +2519,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 23
+        "items": 21
       },
       {
         "name": "The Guardian World",
@@ -2537,7 +2537,7 @@
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 6
+        "items": 5
       }
     ]
   }
