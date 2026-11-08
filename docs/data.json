@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:17:08.232476Z",
+  "generated_at": "2026-11-08T17:58:00.525445Z",
   "is_demo": false,
   "items": [
     {
@@ -105,23 +105,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "f49508a2da7f6e68",
-      "category": "immigration",
-      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
-      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
-      "source": "新西兰移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-08T04:47:03Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
       "id": "b431ea497743c593",
       "category": "investing",
       "title": "Here’s what happened in crypto today",
@@ -132,11 +115,28 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "source": "Cointelegraph",
       "source_kind": "media",
-      "published_at": "2026-11-07T14:22:00Z",
+      "published_at": "2026-11-08T13:33:00Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
       "policy_status": null
+    },
+    {
+      "id": "f49508a2da7f6e68",
+      "category": "immigration",
+      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
+      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-08T12:53:47Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": "待核验"
     },
     {
       "id": "86248c9576c0b64f",
@@ -1312,6 +1312,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "c58085b689f6dfcf",
+      "category": "world",
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, the prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new g",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-08T14:26:14Z",
+      "first_seen": "2026-11-07T21:58:07.833914Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "79974b11a651fac3",
       "category": "investing",
       "title": "3 Dividend ETFs That Could Generate Thousands of Dollars in Passive Income - The Globe and Mail",
@@ -1392,23 +1409,6 @@
       "source_kind": "index",
       "published_at": "2026-11-07T21:14:23Z",
       "first_seen": "2026-11-08T13:17:08.232476Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "c58085b689f6dfcf",
-      "category": "world",
-      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-      "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new gover",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-07T19:49:39Z",
-      "first_seen": "2026-11-07T21:58:07.833914Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -2196,19 +2196,53 @@
       "policy_status": null
     },
     {
-      "id": "961347ee66d5ab3b",
+      "id": "8c0798cef7304430",
       "category": "world",
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+      "summary": "Exclusive: Head of IFPI says allowing AI companies access to online content would be a ‘huge mistake’ and damage Australia’s reputation Get our breaking news email , free app or daily news podcast Australia weakening copyright protections f",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-08T14:00:43Z",
+      "first_seen": "2026-11-08T17:58:00.525445Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "221e80597e10ac16",
+      "category": "world",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "source_kind": "media",
-      "published_at": "2026-11-03T13:28:30Z",
-      "first_seen": "2026-11-02T21:46:22.423298Z",
-      "score": 8,
+      "published_at": "2026-11-08T13:37:50Z",
+      "first_seen": "2026-11-08T17:58:00.525445Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "2b1f492b95210c92",
+      "category": "world",
+      "title": "文旅体商加速融合释放消费潜力——中国经济三季报亮点解析 - 中国新闻网",
+      "summary": "文旅体商加速融合释放消费潜力——中国经济三季报亮点解析 中国新闻网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KQWhyeGRwMlNVUUUxWkJpN1QxcW10c3dUWVE2N0VHbVp0YTAzM2wyUzhlaS1LOUQzYkhnMlFxeUN1bS1ESmF6dlpWbG9WOS00NHBjckJZcnk3dlNjVk5sa1l2Uk1mVzRQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-08T12:48:59Z",
+      "first_seen": "2026-11-08T17:58:00.525445Z",
+      "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
@@ -2347,48 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "6e31703fcb817cd9",
-      "category": "world",
-      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-07T21:36:16Z",
-      "first_seen": "2026-11-08T13:17:08.232476Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "85f5a1252208f85f",
-      "category": "world",
-      "title": "A Big Build royal commission helped Ben Carroll become premier. Will it be his downfall?",
-      "summary": "Two weeks of public hearings will begin on Monday morning, right in the middle of the state election campaign Get our daily political email , free app or daily news podcast The commitment that made Ben Carroll premier may ultimately cost hi",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-07T19:00:19Z",
-      "first_seen": "2026-11-07T21:58:07.833914Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "e5980b093e3f1e00",
+      "c58085b689f6dfcf",
       "ff8026b3a6174c33",
-      "1e52c2a2bc72492d",
-      "6f06cf85fa1170a4"
+      "1e52c2a2bc72492d"
     ],
     "tech": [
       "473a023bdb2dfa44",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 13
+        "items": 14
       },
       {
         "name": "MIT Technology Review",
@@ -2519,13 +2519,13 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 25
+        "items": 26
       },
       {
         "name": "The Guardian World",
         "category": "world",
         "ok": true,
-        "items": 32
+        "items": 31
       },
       {
         "name": "中国与世界 · Google 新闻索引",
