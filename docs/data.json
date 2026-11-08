@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:58:00.525445Z",
+  "generated_at": "2026-11-08T22:14:14.950969Z",
   "is_demo": false,
   "items": [
     {
@@ -426,6 +426,23 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "34eddf52ef0d97ed",
+      "category": "investing",
+      "title": "Morning Wrap: ASX 200 to rise, S&P 500 and Nasdaq rebound from AI rout, hot US October payrolls revive Fed hike bets - Market Index",
+      "summary": "Morning Wrap: ASX 200 to rise, S&P 500 and Nasdaq rebound from AI rout, hot US October payrolls revive Fed hike bets Market Index",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeFhSU3dYUkZHdlgtNGpDMFZEaTU3Ull0Y0ZpVHpxS1ViU3RNdjBqQzhyaGFSX2duakRjaDhlNm1KcDhJaHZQZ0Zfb3F2WEdkSDhtRHJCZEprRTJqUWQ2LVdMUzIyOGlPaHNuRDdzVlhvN2NTSDgtbzJtSG5ReG5EOS1sQlJZM2VQcGQ5WUliaGJCZUxRUDhJLS1zTHp6eFdnX0FGZWdRalViRWN5?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-08T21:28:55Z",
+      "first_seen": "2026-11-08T22:14:14.950969Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "e5980b093e3f1e00",
@@ -1312,6 +1329,40 @@
       "policy_status": "待核验"
     },
     {
+      "id": "034439631d400f56",
+      "category": "investing",
+      "title": "S&P 500 Slide Exposes Large Stock Moves Hidden Beneath The Index - Exchange Rates UK",
+      "summary": "S&P 500 Slide Exposes Large Stock Moves Hidden Beneath The Index Exchange Rates UK",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGFkRnZDNEhhandyeURJU2R2T0owNVBVVzZfTTZHQWwyYUFCVzhuSDdrQmJCeXhtck9lbzVtSHAtQ3RkMWJqd2paeVJRNF9WSHB3OVZwTVhsb3A3WjNEMVpQZHpSVko1SHM0U2kwOFdHblpURjhnbzBYTzF3WTFpT21hcjk0S2hxLWg0ZFh3RnRZOXJNN2VoSTU3R1RPRjJTRTVUWm5vSGpxcWRyQ19TUU5sNzVSZHlHMVRELVBMMzdyTzE4bUNJ?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-08T19:30:00Z",
+      "first_seen": "2026-11-08T22:14:14.950969Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "3a25330c861066f7",
+      "category": "investing",
+      "title": "Buy The Rex Drone ETF To Invest In Drone Dominance (NASDAQ:DRNZ) - Seeking Alpha",
+      "summary": "Buy The Rex Drone ETF To Invest In Drone Dominance (NASDAQ:DRNZ) Seeking Alpha",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONkY2VTdMd2lwN21rWEUxLWtiSHA0S202V01CSGtBdjZqY0Q3dXQxUTBKaW1ZWElEc0t2QTdTSW9Qcmw2aUQ3cnNVMG82aW5JUzZpSl9fODZ4T0xkT2lFY2FCUmZWbHA1VEppdUFvWUsxS05xXzNoVUQ0d294OGxoNHpLZ083RFR0WmU2WjBMQ0ZrT1d6OGc?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-08T19:05:00Z",
+      "first_seen": "2026-11-08T22:14:14.950969Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "c58085b689f6dfcf",
       "category": "world",
       "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
@@ -1737,57 +1788,6 @@
       "policy_status": null
     },
     {
-      "id": "1ae92d0972d2d9a8",
-      "category": "investing",
-      "title": "Is Invesco S&P MidCap 400 Pure Value ETF (RFV) a Strong ETF Right Now? - Yahoo Finance",
-      "summary": "Is Invesco S&P MidCap 400 Pure Value ETF (RFV) a Strong ETF Right Now? Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVozeXBURGpxb2RaRlphVXlEbWlKTmRrcU1jdHlUeWdsT3lJYzVMQ1E4YTR0ZTFxaGNZaTJ3NW45WjZFaXF3cXlCZmUxMlZnaVExY0xYZWx6WWJfbkkybGZTYmkxY2FKa1NqZkZFR0ZXbjFlZkltZU1iSkxtY1ItVXRnOWw2a1lPcHB0ekljZnBOdC05?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-06T10:20:02Z",
-      "first_seen": "2026-11-06T14:11:54.407920Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "17b704653434fac3",
-      "category": "investing",
-      "title": "What a Democratic Congress means for Bitcoin and crypto regulation - FXStreet",
-      "summary": "What a Democratic Congress means for Bitcoin and crypto regulation FXStreet",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN1ZaRmdQMU4tbGtwbW5lVHNrdDFJa3IyV0dxbHBnNWZnT2tSZUFyendGMHN3SkNZQWpJc3Q0SGNfSGpySGg4bnQtbTlTT0J2blF4UC14WklxNmxQeDdwUDJDSXN3MW5FNWlISnRPR25ldWtvOG82eTdRMTZ5MUc1RUpvUjl2WGR3NTBsREktZEJaR1cxZmRPRkI1UXV3YmI0dXJma1ZTNE9IVjdyYjJjLWlpOXZLZWtwWnZCVWxrQ0tfWU0?oc=5",
-      "source": "Web3 监管 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-06T10:11:54Z",
-      "first_seen": "2026-11-06T14:11:54.407920Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "967650dd1f5b8cd2",
-      "category": "investing",
-      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-      "summary": "",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-      "source": "CoinDesk",
-      "source_kind": "media",
-      "published_at": "2026-11-06T09:53:27Z",
-      "first_seen": "2026-11-06T14:11:54.407920Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "b739dcae1dc706cf",
       "category": "world",
       "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
@@ -2196,10 +2196,44 @@
       "policy_status": null
     },
     {
+      "id": "2d584e416be5d768",
+      "category": "world",
+      "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+      "summary": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promises One of Andy Burnham’s cabinet ministers has said she wants to avoid “circular arguments” about whether the UK should rejoi",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-08T18:20:06Z",
+      "first_seen": "2026-11-08T22:14:14.950969Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "6472930ee2a7f865",
+      "category": "world",
+      "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+      "summary": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Be",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-08T17:53:59Z",
+      "first_seen": "2026-11-08T22:14:14.950969Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "8c0798cef7304430",
       "category": "world",
       "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
-      "summary": "Exclusive: Head of IFPI says allowing AI companies access to online content would be a ‘huge mistake’ and damage Australia’s reputation Get our breaking news email , free app or daily news podcast Australia weakening copyright protections f",
+      "summary": "Exclusive: Head of IFPI says allowing AI companies access to online content would be a ‘huge mistake’ and damage Australia’s reputation Get our breaking news email , free app or daily news podcast Australia weakening copyright protections t",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -2347,40 +2381,6 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "ba4cb1fff0f9d25d",
-      "category": "world",
-      "title": "红肉消费更趋精细化 - 中国经济网",
-      "summary": "红肉消费更趋精细化 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54aTJQZEdDMUE1MHA3dHAxZ2xCcXZHNjdUNTZkdWpiYjdVVFFWOGVWaHZZTk5QaTRWeUJfdC0tbVVxLUJMSEVCOFBnelpvdkpJTVByRnVabjlNRVpibWRoVE01NUF6OER3bkRoOFg5WQ?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-07T22:10:00Z",
-      "first_seen": "2026-11-08T06:06:05.921910Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "43c6099916cca6b8",
-      "category": "world",
-      "title": "“月租”酒店划算吗 - 中国经济网",
-      "summary": "“月租”酒店划算吗 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwbkdGd25FZExJZEhLUWVVRDRzQS0ydEVlenZfWW9DSDJNRnZrNmZEdDNULU9MTXVtS3FqQTFieHM5ZTVWVkVnVUoyUFBuVDEtSElZcm9ldzNDUkFmSy1NZXl3ZklfdHRsdWJEY0xPVQ?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-07T22:02:00Z",
-      "first_seen": "2026-11-08T06:06:05.921910Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
@@ -2405,8 +2405,8 @@
     "investing": [
       "b431ea497743c593",
       "0224349908e0b1c1",
-      "6c0f19cef97f626d",
-      "c69cd3e8a1a3b4ea"
+      "34eddf52ef0d97ed",
+      "6c0f19cef97f626d"
     ]
   },
   "ai": {
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 14
+        "items": 13
       },
       {
         "name": "MIT Technology Review",
@@ -2519,7 +2519,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 26
+        "items": 28
       },
       {
         "name": "The Guardian World",
@@ -2531,13 +2531,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 14
+        "items": 15
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 3
+        "items": 2
       }
     ]
   }
