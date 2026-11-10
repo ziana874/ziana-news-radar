@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:29:10.131475Z",
+  "generated_at": "2026-11-10T01:37:13.145893Z",
   "is_demo": false,
   "items": [
     {
@@ -88,6 +88,23 @@
       "policy_status": null
     },
     {
+      "id": "31c36159372311f2",
+      "category": "immigration",
+      "title": "Minister Metlege Diab to highlight Budget 2026 investments in culture",
+      "summary": "The Honourable Lena Metlege Diab, Minister of Immigration, Refugees and Citizenship, will make an announcement to highlight federal budget investments in culture.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/minister-metlege-diab-to-highlight-budget-2026-investments-in-culture.html",
+      "source": "加拿大 IRCC 官方新闻",
+      "source_kind": "official",
+      "published_at": "2026-11-09T23:19:25Z",
+      "first_seen": "2026-11-10T01:37:13.145893Z",
+      "score": 13,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "970f4ced2fb7d05a",
       "category": "immigration",
       "title": "Overview of the Rural Community Immigration Program",
@@ -156,6 +173,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "f49508a2da7f6e68",
+      "category": "immigration",
+      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
+      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-09T22:33:16Z",
+      "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
       "id": "b431ea497743c593",
       "category": "investing",
       "title": "Here’s what happened in crypto today",
@@ -171,23 +205,6 @@
       "score": 12,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "f49508a2da7f6e68",
-      "category": "immigration",
-      "title": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand - Immigration New Zealand",
-      "summary": "Apply early and be ready: Tips for a smooth student visa application - Immigration New Zealand Immigration New Zealand",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYWVMWjlnUjlTZWJQa0FUbkF6SFpza3h1M2Z0bUI3bXo5cklITi1VQ0VPRHJ5SWZCUXozdlBJQjFFMFVFaUNYQ0JreTR1SUNCelhtdDF0THhRWlAxMUV1U24tSlcxMzdvVjYyN3ZqUHg2NHhYRzZFV29TT1VrQUVOT0VjbllsZGF1Qk9QRUNIU0Y3VDR6OXAteHR3Y1JTdzI5QlJVdm1nTXF1bTgwWlVRb1pIZ1gybE9CSkdBTXQyVldzZVpKVU5xcC14cFVSUQ?oc=5",
-      "source": "新西兰移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-09T09:50:12Z",
-      "first_seen": "2026-10-11T15:33:23.847567Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": "待核验"
     },
     {
       "id": "d4a581c168bf7a49",
@@ -1499,6 +1516,40 @@
       "policy_status": "待核验"
     },
     {
+      "id": "c32ad64abc81d903",
+      "category": "world",
+      "title": "The superpower battle over energy – and what it means for your bills",
+      "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-10T00:08:28Z",
+      "first_seen": "2026-11-10T01:37:13.145893Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "b14c48e85d44898e",
+      "category": "investing",
+      "title": "Bitcoin slips near 75,000 dollars as U.S. regulatory fears and ETF outflows weigh - Chosunbiz",
+      "summary": "Bitcoin slips near 75,000 dollars as U.S. regulatory fears and ETF outflows weigh Chosunbiz",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDVtTjBKZzcxN1BWRG1DSElGT0wwRVk2YUFKT1FwQVNfZFJ5OF92dW14WVpTN2E0QjZVUWhfbU9zdkRRTXpWOVp1aFlsOEpmWU1UZy16VEFhZmhUTnYzWW9nUDh0Q2FIdGJobDlUTTJSUmNXemlWdXdMY3Q5THVUTtIBlAFBVV95cUxPZF9JTVlwaXRaSktGbENvX09NNmFuNVZSNEhJYnRtNjN4V2pud2E4T0hnZE5ZUE42VVZ0bllkOUxIUG4yRzJMR3MyOHdGSG5xb3RDZTB5UWZkdHVnamtMLVMxaW9Sb0lxZUlSMURQeWdYcDZQX1A4MXo2a2ZEazIxYzV4TnRHdmZhd045U0NLS1dLeHhY?oc=5",
+      "source": "Web3 监管 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-09T23:35:00Z",
+      "first_seen": "2026-11-10T01:37:13.145893Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "8e88f4bdadc02a68",
       "category": "investing",
       "title": "Watch S&P 500 Erases Midterm Losses, Bitcoin Bounce - Bloomberg.com",
@@ -1697,23 +1748,6 @@
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-11-09T13:09:35Z",
-      "first_seen": "2026-11-09T16:09:28.794189Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "5429d8337cda3eb3",
-      "category": "investing",
-      "title": "Bitcoin bulls can't rely on ETF flows",
-      "summary": "",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
-      "source": "CoinDesk",
-      "source_kind": "media",
-      "published_at": "2026-11-09T12:30:00Z",
       "first_seen": "2026-11-09T16:09:28.794189Z",
       "score": 8,
       "ai_generated": false,
@@ -1992,23 +2026,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "def5db40523c4ebe",
-      "category": "immigration",
-      "title": "Subclass 785 Temporary Protection visa - Immigration and citizenship Website",
-      "summary": "Subclass 785 Temporary Protection visa Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWlR2QVZZS1lveHM4dUQwdkEyZmJCSVJwd3R0aFFQSFhGejBOdU5xbF9kbmdQZi04RW96eGFQbm9RRUtxaTRvX3ZZSzZWUGRRRk9INnpOamkyb293cjgtQTc4bVFmYnNTck1YS21mX2lkUk11Ylc1ZDdQWDhSMW1kMU5vQkdFWmdiZzZ1UmlUMnpmQm55?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-05T08:00:00Z",
-      "first_seen": "2026-11-07T17:46:38.229640Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
       "id": "9e0176657cd228bd",
       "category": "world",
       "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
@@ -2060,6 +2077,23 @@
       "policy_status": null
     },
     {
+      "id": "6c22ff3622d0e17f",
+      "category": "world",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-10T00:09:49Z",
+      "first_seen": "2026-11-10T01:37:13.145893Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "688595448966a42b",
       "category": "world",
       "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
@@ -2070,8 +2104,42 @@
       "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "source_kind": "media",
-      "published_at": "2026-11-09T22:17:23Z",
+      "published_at": "2026-11-09T23:28:53Z",
       "first_seen": "2026-11-09T22:29:10.131475Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "8f89264e206eb6c2",
+      "category": "world",
+      "title": "人工智能+交通运输场景加速落地 - 中国经济网",
+      "summary": "人工智能+交通运输场景加速落地 中国经济网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MZlVDU1R4emRUWWx6RHpGNUNnRTkxaThXeXE2bTJ2RkhIbjIwd1U0Y3BITGd5Um9SOFprZUplamFNQ29CRng4ekFHRm5tN2pHbks2TVRyamxFZ0NKaWw0ZG1rUXNOTGdQWFpxZ1k3dw?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-09T22:39:00Z",
+      "first_seen": "2026-11-10T01:37:13.145893Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "2c660d6e35b567bc",
+      "category": "world",
+      "title": "农药产业破局重在联合创新 - 中国经济网",
+      "summary": "农药产业破局重在联合创新 中国经济网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UdXdxSm1ZUTFwWGI2cktwZXd0aTBUWkhlbWdGMnpfQ0FhaXBVMFZ6ZnF5SFZOcnQ5RWpzdHlTTDUyV2pLQ2VNMXNydjgxanVSaDNSbDZFZTdqSXRaZEhLdlFvNnpyZUI4MUVkVkFLbw?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-09T22:32:00Z",
+      "first_seen": "2026-11-10T01:37:13.145893Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2089,6 +2157,23 @@
       "source_kind": "index",
       "published_at": "2026-11-09T22:01:58Z",
       "first_seen": "2026-11-09T22:29:10.131475Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "30423c19df05535d",
+      "category": "world",
+      "title": "德语媒体：美国对华政策将更趋强硬？ - DW.com",
+      "summary": "德语媒体：美国对华政策将更趋强硬？ DW.com",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQkdMczFHcUNLWnlJWHljSlNVSHM4VGVxR3lKX1MySGVBRk9YaGtvbmxSSHNabHdyTF9LNkh3N3M3TzhNb3pmbjJvcExwMzZoWDZBZGdiWFJtVUFHN2QzeW1QV0ZCd0wwREJfS1g2Qld5VHhYOXZnQXp5ZWYwUlpxSkJvNXdCbWkxU2t4c1NEcldPQlJxZ3U5S1g1eHRVLVdMOWx0cF9OaE45MzREMlo3ODZwdFlOeU5NU1pMNmpYX2xwdUdvYzhaU0RPRE0xUnk3R0tzR2RuZUstLXRCUTRHT2ctNnpJdXNrWWRRaUVEZV9yOFVXVTBucURnY0vSAfwBQVVfeXFMTktzdGZJdnZRQWw5bTRDaGhReUlScWY3ekRUTXFhYWEzX3NtVHRVdkstRk5NV1ZhWGNxeXhxMTJTaERnT2N2VUQ0aFZPQ2h4ZmNHa0ZkZ2toLUlQX20zN0FlQWdNNWh1TEdCSFB3LXFmZlFKN21GUFg4QXVnS3g4VXI3LTFLVm5mTFBmbWpJZm9tVjJ0SkxTb084R1NRZDlLUEZ6cE81ZHRDRnh5TEJnUTN5alNpR00wWkdwMTR6V2pvd3ZLUzREQmV3cnR5UW50clNVNGxvc1JReG41UTg4aG95OHRrSkFpSzdyMWlaR0huYTU1UXN2Qk5IeUdu?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-09T19:26:51Z",
+      "first_seen": "2026-11-10T01:37:13.145893Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2296,99 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "ab3094cf4cfd0e9e",
-      "category": "world",
-      "title": "速览丨今日《中国经济时报》【2026年11月09日】 - 搜狐网",
-      "summary": "速览丨今日《中国经济时报》【2026年11月09日】 搜狐网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3o5eFQyZmgyVWg4MDNlaUFob1d3aXJHOXE0NXBQWmlEWTIyMjQ2V1k1V01HWXhOYkdzQS1Qc3JXbUQ4UGxYc190blVIVzVDN0pCSWVDbXZvQS1jM2IwQ29XTExaM0lrQktOQkc1OHYzdy1XaGZ4ZUQ1MUdGb2hLZ1dSSWtTcllZ?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-09T01:13:37Z",
-      "first_seen": "2026-11-09T16:09:28.794189Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "c31b02ba46a35604",
-      "category": "world",
-      "title": "零关税政策推动中国从非洲进口牛油果增长 82% - 全球果蔬网",
-      "summary": "零关税政策推动中国从非洲进口牛油果增长 82% 全球果蔬网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNWhwSGsydzI1ZnkybnNqV2FUbDlNcGxuZjl2Nkc3RG0xU3dPNGY5SUpySmtoemtfSk9Bc1cwT0pPWlIyUk1YbWtKSWJmSzFPNVItY2h6cXVuUE42eURwSWRvdUpjT2RkWUpRbFRaRGVEbUhpSmR5eVRpdnZhTU5PUXFVNGVDWVRrMFJqS3IxdzJ2X2FOX0ZEeGpqTGZIZzhjSXNqbzJiUWlLUFBFUTMwLUdDRVpzdHFuZ25ScjU0OUt3aXFtMmo5THF5MW14dw?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-09T00:13:00Z",
-      "first_seen": "2026-11-09T16:09:28.794189Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "88e8b8a44138d240",
-      "category": "world",
-      "title": "中国经济大讲堂：具身智能的中国路径 - 经济频道",
-      "summary": "中国经济大讲堂：具身智能的中国路径 经济频道",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QTTh4b2tJeWl1Y0JMbno0NDdlMGtiVUEweHNQdWxySmJRUVhzRFhsdUx5VF84YzVQa1NRUE8weE9GT0I4eW40cVBLNDBNTzNSVERZdlJTbUlqcGhVTTRoaW9Oa29QYzJkWjJxb3Z2ajhZQ0tJYWZMVnF2aw?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-08T21:19:00Z",
-      "first_seen": "2026-11-09T06:37:45.100828Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "2d584e416be5d768",
-      "category": "world",
-      "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
-      "summary": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promises One of Andy Burnham’s cabinet ministers has said she wants to avoid “circular arguments” about whether the UK should rejoi",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-08T18:20:06Z",
-      "first_seen": "2026-11-08T22:14:14.950969Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "6472930ee2a7f865",
-      "category": "world",
-      "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
-      "summary": "Former military chief says prime minister brought Israel to historic crisis and it is approaching ‘point of no return’ Israel’s former military chief Gadi Eisenkot started the tough task of forming a government on Sunday, reaching out to Be",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-08T17:53:59Z",
-      "first_seen": "2026-11-08T22:14:14.950969Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "e5980b093e3f1e00",
+      "c32ad64abc81d903",
       "fca3622683b24180",
-      "55278ba3a575e8b4",
-      "c58085b689f6dfcf"
+      "55278ba3a575e8b4"
     ],
     "tech": [
       "473a023bdb2dfa44",
@@ -2400,7 +2400,7 @@
       "3daf3211af3fc83b",
       "f8b85cb2d96f7e90",
       "f1ff7900dc914f4f",
-      "970f4ced2fb7d05a"
+      "31c36159372311f2"
     ],
     "investing": [
       "ddab31fc2571380c",
@@ -2415,14 +2415,14 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 19,
-    "failed": 1,
+    "ok": 20,
+    "failed": 0,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
         "category": "immigration",
         "ok": true,
-        "items": 17
+        "items": 18
       },
       {
         "name": "新西兰移民官网 · Google 索引",
@@ -2493,9 +2493,8 @@
       {
         "name": "Hacker News 热门",
         "category": "tech",
-        "ok": false,
-        "items": 0,
-        "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage?points=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrs"
+        "ok": true,
+        "items": 16
       },
       {
         "name": "MIT Technology Review",
@@ -2513,13 +2512,13 @@
         "name": "BBC China",
         "category": "world",
         "ok": true,
-        "items": 3
+        "items": 5
       },
       {
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 26
+        "items": 29
       },
       {
         "name": "The Guardian World",
@@ -2531,7 +2530,7 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 16
+        "items": 13
       },
       {
         "name": "国际要闻 · Google 新闻索引",
