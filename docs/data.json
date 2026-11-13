@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:29:52.922042Z",
+  "generated_at": "2026-11-13T19:50:40.425532Z",
   "is_demo": false,
   "items": [
     {
@@ -581,6 +581,23 @@
       "policy_status": "待核验"
     },
     {
+      "id": "75520ce395f2e934",
+      "category": "tech",
+      "title": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots - Fortune",
+      "summary": "Exclusive: OpenAI disbands its stand-alone robotics team as its general models start running robots Fortune",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUpabzdVdVRFd0RUN0pnVTJuQUtkYThSdzlhc3FHSmxmTnZETWNyajZGcGEtVHFvYmxMTGJMa0VHaGxEMVh5bmY1MXlVTDlWTHVBWlotdkJ0ZmRSdk9GRzh0ZTNrZElwYzlLWmp0ZkZqRFZKOEI5RkdDdkVHYzVUWFpOU2NqTnJGTmF3R0dTQTRGaDFXZl9jQ2s5bEd4dHJFZFRyQ3hrcw?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-13T17:05:00Z",
+      "first_seen": "2026-11-13T19:50:40.425532Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "5b39f36c301bc45b",
       "category": "tech",
       "title": "Buy 3 AI Semiconductor Equipment Stocks to Tap Huge Market Opportunity - Zacks Investment Research",
@@ -591,7 +608,7 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaHNxbVpuWmdUNjhVNnlKNmR1WjZSdnJCbHI2ZjNTUTRNaUpwaXMySHZDcWRncjJPdGtwU3FKRjhIc0MxRm5EdkhHM0x4R3hsUkxVWWhZQ0pwMGI5M3I4SEcwWHV0bWkwcG9nTVU1SllGNHVOZFlvcTlGQkE3MmY1elc5MlVOd0xDZ3pQS1BlTFVSSng5dXlUTUxiVERJZ0pvb0dsTk94S2wyVTdRc3Vfag?oc=5",
       "source": "AI 行业 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-11-13T13:41:15Z",
+      "published_at": "2026-11-13T13:42:18Z",
       "first_seen": "2026-11-13T14:29:52.922042Z",
       "score": 10,
       "ai_generated": false,
@@ -868,6 +885,23 @@
       "score": 10,
       "ai_generated": false,
       "policy_status": null
+    },
+    {
+      "id": "f0c713c69827c720",
+      "category": "immigration",
+      "title": "Parent Resident Visa - Immigration New Zealand",
+      "summary": "Parent Resident Visa Immigration New Zealand",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5lWk5MS0QwQlVlajYzNjYxUHpIZ1ljMS1HaVNSMHdvVFFJYjdnTXFUX1pGXzNucWdDdGtFLURaUnRqTG1sb2dQT1FoWWhMR3VYNnhQTk5NSmY4VHB3X2Qza0ZoT0lLUTd5Umpr?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-11T08:45:00Z",
+      "first_seen": "2026-11-13T19:50:40.425532Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": "待核验"
     },
     {
       "id": "c93fc8b00a507d24",
@@ -1431,23 +1465,6 @@
       "policy_status": null
     },
     {
-      "id": "22b04f899acd1bee",
-      "category": "tech",
-      "title": "AMD vs. Intel: Which Is the Better AI Chip Stock to Own for the Next 3 Years Following the Semiconductor Crash? - The Motley Fool",
-      "summary": "AMD vs. Intel: Which Is the Better AI Chip Stock to Own for the Next 3 Years Following the Semiconductor Crash? The Motley Fool",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEZWbDhoNkR1NXJYUUhWa1FaMHg2VVB6ampDSlE2MEdJVEwxWVN0VXVVM09YYzg2MGl0Q0U4eGRUTzhOUlRrcWw5SFU0Z0lNbldQV29xb1ZBdGZOTXNQWFZqa3N4NDU2cTJlTEJPbEFBeGpYc1RkeEdvVE15dWdVVzk4R0lDSlhYX0Y0dmNIQVdSbG9JV0Zr?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-09T05:00:00Z",
-      "first_seen": "2026-11-09T06:37:45.100828Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "9e0763388459435f",
       "category": "investing",
       "title": "Midterm Election Upset Fears Weigh on Crypto: Bitcoin Falls Below $74,000, Ethereum Plunges 5% - BigGo Finance",
@@ -1511,40 +1528,6 @@
       "source_kind": "index",
       "published_at": "2026-11-07T04:40:00Z",
       "first_seen": "2026-11-07T12:55:00.760291Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "c69cd3e8a1a3b4ea",
-      "category": "investing",
-      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-      "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-11-06T17:49:33Z",
-      "first_seen": "2026-11-06T19:30:17.988793Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "4d3e832e809076fe",
-      "category": "investing",
-      "title": "Chip Stocks Cheaper Than S&P 500 as AI Premium Vanishes - Invesco PHLX Semiconductor ETF (NASDAQ:SOXQ) - Benzinga",
-      "summary": "Chip Stocks Cheaper Than S&P 500 as AI Premium Vanishes - Invesco PHLX Semiconductor ETF (NASDAQ:SOXQ) Benzinga",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUktJeUkyY1QtX0dHQTlTWXY0QVI3cWMxMGt1XzFSTGpFV1lSUU45cF84RkdOb0tBdDhHNUMtam01Z0p4S2JfdVZGcU9hRGt4eE9LU084Z3huejNIZU5fMnNMck11eW40OS1lU2kzMFQ4dm0wWFN5MG5BSUxQanRXQ1RMX3hxMGZrWEEwT29TT2dvX2R6dkV0YW1KS3FUalpkSU1OMk5CZzR0QkFoY0owd3drTjlmSUJEREJr?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-06T17:25:01Z",
-      "first_seen": "2026-11-06T19:30:17.988793Z",
       "score": 10,
       "ai_generated": false,
       "policy_status": null
@@ -1703,21 +1686,38 @@
       "policy_status": "待核验"
     },
     {
-      "id": "c08f59439c23a07b",
-      "category": "immigration",
-      "title": "Peter Fragiskatos highlights Government of Canada’s investments from Budget 2026: Masters of our destiny",
-      "summary": "In a world reshaped by geopolitical competition, protectionism and rapidly evolving technologies, Canada stands apart. Our abundant natural resources, clean and reliable energy, world-class talent, strong public finances, and access to glob",
+      "id": "7c61aa9d61b3e0da",
+      "category": "investing",
+      "title": "Kevin O'Leary Says He's 'Long Canada' After His 'Contrarian' ETF Bet Outperformed S&P 500, Despite Trump-Carney Tensions: 'You Wish You Had Made That Trade' - Yahoo Finance",
+      "summary": "Kevin O'Leary Says He's 'Long Canada' After His 'Contrarian' ETF Bet Outperformed S&P 500, Despite Trump-Carney Tensions: 'You Wish You Had Made That Trade' Yahoo Finance",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/peter-fragiskatos-highlights-government-of-canadas-investments-from-budget-2026-masters-of-our-destiny0.html",
-      "source": "加拿大 IRCC 官方新闻",
-      "source_kind": "official",
-      "published_at": "2026-11-12T13:43:34Z",
-      "first_seen": "2026-11-12T15:06:16.498420Z",
-      "score": 9,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0d1UTAtc0VFaUVEMFByTktfMXhaeFhHZTRnYml0Vjk1MVpITFJvb3pBZ1dRNE02bnRfd0MyUFRpMjFZZldZRl9Tc0UxZWZ3XzNjdC02TmplZ2hwU19FbHlzRDVmRUptcm16QzcyRWlYdVloMm1CTHVkemYwQ0VaYjUzbnoyay1SY0xCaVc5OV92LWJ2YVE?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-13T16:30:06Z",
+      "first_seen": "2026-11-13T19:50:40.425532Z",
+      "score": 8,
       "ai_generated": false,
-      "policy_status": "待核验"
+      "policy_status": null
+    },
+    {
+      "id": "dabb9c42293eb206",
+      "category": "world",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-13T15:40:08Z",
+      "first_seen": "2026-11-13T19:50:40.425532Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "c22c9f451b1ae85d",
@@ -1788,18 +1788,18 @@
       "policy_status": null
     },
     {
-      "id": "33853d09928b9de3",
+      "id": "5535afb0ad4ca3f6",
       "category": "investing",
-      "title": "S&P 500 Futures Gain With Focus on U.S. PPI Data and Fed Speak - Barchart.com",
-      "summary": "S&P 500 Futures Gain With Focus on U.S. PPI Data and Fed Speak Barchart.com",
+      "title": "S&P 500 Futures Gain With Focus on U.S. PPI Data and Fed Speak - Yahoo Finance",
+      "summary": "S&P 500 Futures Gain With Focus on U.S. PPI Data and Fed Speak Yahoo Finance",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEVXLXBPSnVHVUdQNGF6VUhFNXdoaDZLek9SdHhROFdmVG1kUEhINS0taWV5ajVRVEU1RGJ3Qk5RME1hZGd3R01uTUc5Y0FEYTNudDlsZFhSdjlaU0JmMkI0WTlPY0J4OElFaHBMTk9icFFMWHpEVjhfUm5tbEJrNVRTVGNwSUJENG5tV3lxdGFRV3F4dGtyM2E2Znhjb21KZGE5TG1NcjM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWpMVmM3N1pVSzZUd0VkOFU5R0NtNHhxZTljQ0xmZDM2SkJvbFlERlZfZmxFUG5WZmZmbFRNNWlGZVRuQzdVODdoOVhLa1B4cVVlN0hnaVVFWHpNbnhkUGZzenNCcEFtVktHanlpVERLdUVHR0dpd2NDbHRwZVJ4RjR6VXI4LUh3VlplSGpmZFZ1RDQ?oc=5",
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-11-13T11:26:39Z",
-      "first_seen": "2026-11-13T14:29:52.922042Z",
+      "first_seen": "2026-11-13T19:50:40.425532Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1839,10 +1839,27 @@
       "policy_status": null
     },
     {
+      "id": "bc6050998a90859f",
+      "category": "investing",
+      "title": "SPDR S&P 500 ETF (SPY) Buys $335.9 Million More Apple on Nov. 11 - Yahoo Finance",
+      "summary": "SPDR S&P 500 ETF (SPY) Buys $335.9 Million More Apple on Nov. 11 Yahoo Finance",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSTdqOHBWMGhiMjFBWGcxZU5WZnFuQ1hOMEJzWklPZHVUYXhKemZuWWNlRkdSYmMtYzRtTF9DZ2FWNFpwYm5qb2FxRHpVenlvdzk2VkhzMVkwTWdFUkNWUVVXbU1LWUg0TDNLV3RYYVRDV0xhNGJpSWVkN3pjZm5qQXhwMjRFaGNUYmFV?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-13T11:03:04Z",
+      "first_seen": "2026-11-13T19:50:40.425532Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "de06bec5ec8071c8",
       "category": "world",
       "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
-      "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be brea",
+      "summary": "US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing p",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -2094,6 +2111,57 @@
       "policy_status": null
     },
     {
+      "id": "97c81ae6fd259b02",
+      "category": "world",
+      "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
+      "summary": "Signing of agreement to smooth movement of food, plants and animals next week will not recoup huge sums firms were forced to spend The removal of border checks and paperwork on plant imports will “dissolve” £60m of annual costs for the hort",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-13T16:00:19Z",
+      "first_seen": "2026-11-13T19:50:40.425532Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "80ea855e4de70678",
+      "category": "world",
+      "title": "Banned books from Ireland’s room of ‘evil literature’ finally see the light of day",
+      "summary": "Censored books spanning 1926-96 contained themes ‘likely to corrupt or deprave’, or references to contraception or violence For almost a century, an Irish government building in the heart of Dublin has hosted a secret sanctum: the banned bo",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/13/ireland-banned-books-room-censorship",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-13T14:25:24Z",
+      "first_seen": "2026-11-13T19:50:40.425532Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "0cbaab1000e5ab33",
+      "category": "world",
+      "title": "中国经济样本观察·企业样本篇丨走进六必居，解码590岁老酱园的“产品革命” - 新华网",
+      "summary": "中国经济样本观察·企业样本篇丨走进六必居，解码590岁老酱园的“产品革命” 新华网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSHhxaTljd3NYRHlQcklkcWpHX3c1TGU2Q1JVQnVZb0xFcFpIR2dudEhCajZXYkZlOXd5UEU3cDhuOTZuRGhqSEhrdUlZMWQwUldMUGtURllybWhCQThvRjEwdXVETVpNTG44Z2pfNWJYdUJFUGlqSVlIZWE5TDRGcHdB?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-13T14:22:42Z",
+      "first_seen": "2026-11-13T19:50:40.425532Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "bdd0e45929053361",
       "category": "world",
       "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
@@ -2123,6 +2191,23 @@
       "source_kind": "media",
       "published_at": "2026-11-13T11:43:27Z",
       "first_seen": "2026-11-13T14:29:52.922042Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "766dd7e674efa83a",
+      "category": "world",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-13T11:38:54Z",
+      "first_seen": "2026-11-13T19:50:40.425532Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2162,23 +2247,6 @@
       "policy_status": null
     },
     {
-      "id": "c66d6c86a8c2afbb",
-      "category": "world",
-      "title": "中国经济样本观察·企业样本篇丨走进六必居：解码590岁老酱园的“产品革命” - 新华网",
-      "summary": "中国经济样本观察·企业样本篇丨走进六必居：解码590岁老酱园的“产品革命” 新华网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3cHNXb0dOMTRTWU1aUUJEOEpUMURzYnhBX29YdnhITmZ2eVowajlJQWY2YWNNZmhhNlV6UGJTY1B2a3JzazFSZ2FYSTVfR0NPRzdacDNrbVJxcFpmUHRHWkpDZzBrZjFad3NRczZJeWxYSG5XbFdhWHFaTHltc0U?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-13T08:19:46Z",
-      "first_seen": "2026-11-13T14:29:52.922042Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "597c232c42be7352",
       "category": "world",
       "title": "林园：不必整天看衰中国股市，中国经济没问题 - ThePaper.cn",
@@ -2198,8 +2266,8 @@
     {
       "id": "64c91219a7e5763f",
       "category": "world",
-      "title": "（图表）2026年10月高频数据折射中国经济稳中向好态势 - Sohu",
-      "summary": "（图表）2026年10月高频数据折射中国经济稳中向好态势 Sohu",
+      "title": "（图表）2026年10月高频数据折射中国经济稳中向好态势 - 手机搜狐网",
+      "summary": "（图表）2026年10月高频数据折射中国经济稳中向好态势 手机搜狐网",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -2264,6 +2332,23 @@
       "policy_status": null
     },
     {
+      "id": "44ea7e28414627c6",
+      "category": "world",
+      "title": "“中国经济圆桌会”共话“三农”发展新图景 - 人民网",
+      "summary": "“中国经济圆桌会”共话“三农”发展新图景 人民网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwNm4zYW52eWJTWmtmQmV0SXVhWDRsRC11bFZYOGV5bGFad2dYcHUzZTVPU0cxQl94SWt3amtzQ01xRkNnQVNDOVUwajQ0TjdNc1ZHM0lzOF9xcndqdlMwNnYwTmJ1eXctWVhxTG5oMkxDQQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-13T03:18:00Z",
+      "first_seen": "2026-11-13T19:50:40.425532Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "85ad3b045e67efca",
       "category": "world",
       "title": "多项先行指标持续改善 “多点开花”助推中国经济“稳+进” - 中国青年网",
@@ -2296,99 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "ebab1660b1170611",
-      "category": "world",
-      "title": "2026特殊食品大会在南宁开幕 - 中国经济网",
-      "summary": "2026特殊食品大会在南宁开幕 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pd3hSUjlZM0wzR1FVbHIxUWVZVGg2Q0wyQ1J2akZoWFJ5WENWUHFSYUY5Y3dCSHQydV9OcVNoOG1sTTM0d0ozMlQ4S2JLT1M2MDN1WVRvVDJvRXhjUGNqVGJyUFotQjB3R1NBZw?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-13T01:39:00Z",
-      "first_seen": "2026-11-13T06:49:01.634343Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "0b8313c2139d12a7",
-      "category": "world",
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-13T00:20:24Z",
-      "first_seen": "2026-11-13T06:49:01.634343Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "82b8c4e5b0a79ae9",
-      "category": "world",
-      "title": "雕琢细节接住外国游客“奔县”热情 - 中国经济网",
-      "summary": "雕琢细节接住外国游客“奔县”热情 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsb0ZmZlVTajlPVWNFZEV4aDdkUmM5SkpaZ2tkVjdfbzFXN1R3SzBVSWt0Y2V6UmlOWVNhOUVSYnpMb29sZHJ1T2ZpN3hJMUl5NWhkdzJkMDNocXhjVmVV?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-12T22:27:00Z",
-      "first_seen": "2026-11-12T23:41:34.091622Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "4222657b99009790",
-      "category": "world",
-      "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-      "summary": "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demands Vladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of hardlin",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-12T22:26:37Z",
-      "first_seen": "2026-11-12T20:04:33.750094Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "2eddfd6949efb76d",
-      "category": "world",
-      "title": "农业信贷担保增信助融资 - 中国经济网",
-      "summary": "农业信贷担保增信助融资 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xVUxGV05QZjJtMW0zYnA3TDZoVnY0SHdkTTJWWWhIMERyWEZQRkVZbC1PR3NTTzc4T25Sb2hjRzBTSFFqUWZKZ2JSUFctLTFFcnhvUzBieXIwTFlxenVEREcxaGZxSlU5T0ZWZVoyaw?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-12T22:22:00Z",
-      "first_seen": "2026-11-13T06:49:01.634343Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "3acf2cd4b4552e89",
+      "dabb9c42293eb206",
       "c22c9f451b1ae85d",
-      "0b3759f8bed346b2",
-      "de06bec5ec8071c8"
+      "0b3759f8bed346b2"
     ],
     "tech": [
       "23e489f3132900d7",
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 20,
-    "failed": 0,
+    "ok": 19,
+    "failed": 1,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2428,13 +2428,13 @@
         "name": "新西兰移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 12
+        "items": 13
       },
       {
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 22
+        "items": 21
       },
       {
         "name": "英国移民政策 · Google 索引",
@@ -2482,7 +2482,7 @@
         "name": "AI 行业 · Google 新闻索引",
         "category": "tech",
         "ok": true,
-        "items": 35
+        "items": 34
       },
       {
         "name": "Ars Technica",
@@ -2493,8 +2493,9 @@
       {
         "name": "Hacker News 热门",
         "category": "tech",
-        "ok": true,
-        "items": 19
+        "ok": false,
+        "items": 0,
+        "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage?points=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrs"
       },
       {
         "name": "MIT Technology Review",
@@ -2518,19 +2519,19 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 22
+        "items": 25
       },
       {
         "name": "The Guardian World",
         "category": "world",
         "ok": true,
-        "items": 30
+        "items": 29
       },
       {
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 20
+        "items": 21
       },
       {
         "name": "国际要闻 · Google 新闻索引",
