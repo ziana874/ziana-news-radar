@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:31:42.547720Z",
+  "generated_at": "2026-11-15T06:37:38.477917Z",
   "is_demo": false,
   "items": [
     {
@@ -217,7 +217,7 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc0RCaDFRSml1TkxBN09Ed3pkZDhDNDAzYThkdktlU3lVMy1IblZSb0dyRkw2TjNCTFF0c0dha25JdlZNNzh1OWlrTzI5T2dOUEtGSHdWNDVMTlMyZm5BS3lGQXNtTnN3Wm82OUtMOGVHX2FsOUhBZHRGQlVKQXJrMTZtM2xHTWQ2VmVnRlhhd0RTamJiWEZabWc1TVFZTk1ieDdDQ3ZxTmxJVy1kczNnUWM0UVpEVVFZWmgtM1RhVXpyMGdKN0ZpY3I4SzZIR0RJd2JMdmY5S1Q2VTFYTFVTUG1zcmE?oc=5",
       "source": "AI 行业 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-11-14T11:45:17Z",
+      "published_at": "2026-11-14T19:16:38Z",
       "first_seen": "2026-11-14T13:27:15.541639Z",
       "score": 12,
       "ai_generated": false,
@@ -611,6 +611,40 @@
       "published_at": "2026-10-16T15:02:13Z",
       "first_seen": "2026-10-16T16:45:46.798264Z",
       "score": 11,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
+      "id": "154cea7d91aecb56",
+      "category": "tech",
+      "title": "OpenAI disbands its stand-alone robotics team and moves researchers into core groups - Startup Fortune",
+      "summary": "OpenAI disbands its stand-alone robotics team and moves researchers into core groups Startup Fortune",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXg3SVJ4Y3JqV0gwc2FLQ21obmhCR0I0X3BjUkZTZ2tDd0owWFJpWnlLUUdscFNzTUYtQlFHZ0tTMkVMZFc2RmQySG1hbnk3ZjJZem5mMzYxamJRLXgwYUNXWC11TXB2QmJzTjJtMXJPWmpONjg1bjdoenB3dDdTeWxvVFUzUjNTUjJnZDRoNlhFVHA2X1JBTFhHQXA0M1BHZjkxc2NUaVhXbG53WlFIb0VR?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-15T04:50:35Z",
+      "first_seen": "2026-11-15T06:37:38.477917Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "8ef5a00509a87f31",
+      "category": "immigration",
+      "title": "Child of a New Zealander Visitor Visa - Immigration New Zealand",
+      "summary": "Child of a New Zealander Visitor Visa Immigration New Zealand",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM19oTFR4c01tMW9IOUN6SUpsTlI5SG5zZmU0MGxrQ3RlOWZodlAzaktsTUhaVGRIekRiMTBJallBcHJXVXNINDFTQ1hFakl3SDdaMF9FR09YZGJlY2VXUkktY0FyTTh5ODdoaS1fSFJQYkltRXlZS0xfRHpCRndiYUhfRlB6WElxbTJ1aVNyTlpYVGt1d1RHZXBjWlhSdTEx?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-14T14:20:23Z",
+      "first_seen": "2026-11-15T06:37:38.477917Z",
+      "score": 10,
       "ai_generated": false,
       "policy_status": "待核验"
     },
@@ -1363,23 +1397,6 @@
       "policy_status": null
     },
     {
-      "id": "fa8e6701e6989d75",
-      "category": "tech",
-      "title": "Decision Context: Persistent Behavioral Learning for AI Agents",
-      "summary": "arXiv:2611.08644v1 Announce Type: new Abstract: LLM agents do not learn from corrections across sessions. A user fixes the same mistake at the start of every conversation. Existing agent memory systems primarily handle facts, such as prefer",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2611.08644",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-11-10T05:00:00Z",
-      "first_seen": "2026-11-09T06:37:45.100828Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "ef7ab78b79c51d83",
       "category": "investing",
       "title": "Dow, S&P 500, Nasdaq Futures Mixed As Traders Weigh AI Rebound, Await Inflation Data: HIMS, TTD, NVDA, MARA In Focus - Stocktwits",
@@ -1669,21 +1686,55 @@
       "policy_status": null
     },
     {
-      "id": "e68056039c01ae64",
-      "category": "immigration",
-      "title": "Minister Metlege Diab highlights how Canada is working with provinces and territories to support worker retention",
-      "summary": "As announced in Budget 2026, Canada is introducing a time-limited measure that delivers stability and fairness to select groups of people who are already in Canada while helping provinces and territories address their labour market needs.",
+      "id": "e6ff120e40a3dd9f",
+      "category": "world",
+      "title": "World leaders head to Asia for back-to-back diplomatic summits",
+      "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings The global political centre of gravity will be firmly in Asia this week as world leaders fly in for back-to-back high",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/11/minister-metlege-diab-highlights-how-canada-is-working-with-provinces-and-territories-to-support-worker-retention.html",
-      "source": "加拿大 IRCC 官方新闻",
-      "source_kind": "official",
-      "published_at": "2026-11-12T14:39:00Z",
-      "first_seen": "2026-11-12T15:06:16.498420Z",
-      "score": 9,
+      "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-15T04:00:02Z",
+      "first_seen": "2026-11-15T06:37:38.477917Z",
+      "score": 8,
       "ai_generated": false,
-      "policy_status": "待核验"
+      "policy_status": null
+    },
+    {
+      "id": "1747af3f7cbd6e64",
+      "category": "investing",
+      "title": "DOJ Secures Court Approval Targeting $1.2B in Stolen Binance Crypto - Bitcoin News",
+      "summary": "DOJ Secures Court Approval Targeting $1.2B in Stolen Binance Crypto Bitcoin News",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdk5IWDZDQVBhTFFvZFVCVnZ4eGtXR3Zfa1FJRkQ2Y1BDLS1YS2ZTRDZnZVRQLURFRWRjRVVMb1VzeDRGVXdaRG5GVm4yV1NfTmduTGFScWhYVXVvWG1FU3RhZU5hYWlraUlBOURjTmdpMUZraV9VdmpnZTNfRjM4eGRhY1pCWnVaQ0p2QzRqcVh6WWV0OWpUUUV6YXVwdGlqVWhEYkdTYTRWd3E0VlNNb3I2WQ?oc=5",
+      "source": "Web3 监管 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-14T22:45:00Z",
+      "first_seen": "2026-11-15T06:37:38.477917Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "ba3f7a98089a6f45",
+      "category": "investing",
+      "title": "S&P 500 Recovered $1 Trillion in 90 Minutes Despite Wider Market Crash - BeInCrypto",
+      "summary": "S&P 500 Recovered $1 Trillion in 90 Minutes Despite Wider Market Crash BeInCrypto",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EZVdnd0w4TnR3d3UyQlRRTmhZQVg1NlVIT2tZV1J1TG1XOVByZno3YXJaVXBJNm9vM0h5T0owTTBQNmRiRXFFU2cyeXdmek94VHNhOTJpcUpfSF9pbXlLVnhxbGFGTFU5cUFZMHN0dE9HUWhtamsteEE1MXg?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-14T20:06:56Z",
+      "first_seen": "2026-11-15T06:37:38.477917Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "7640cc164999215c",
@@ -1782,40 +1833,6 @@
       "source": "Cointelegraph",
       "source_kind": "media",
       "published_at": "2026-11-14T06:33:13Z",
-      "first_seen": "2026-11-14T13:27:15.541639Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "b9f31c11b902db54",
-      "category": "investing",
-      "title": "Grayscale Sees New Crypto Opportunities as Bitcoin's Grip Weakens - Bitcoin News",
-      "summary": "Grayscale Sees New Crypto Opportunities as Bitcoin's Grip Weakens Bitcoin News",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkVGandFMGp2TEZrY2dhUnVDY2pPdXIxdjJjNVY4N1dDTzBNN3ZoOWhsNzBzS1NXRHdyWWhOZ3BOc0tEYWFnYXVHQUhTa1FfTjdndHVLMFpIdzUtbkNUUno3SVhpYkRNYXBDTVQ5a1lRY2JFMF9ya1oxUGtzSURPdi13TC1wSFhrazZ4c1NINE9UV1dLZ1ZSd0NQNWM2SEtQaE1r?oc=5",
-      "source": "Web3 监管 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-14T04:10:02Z",
-      "first_seen": "2026-11-13T23:39:10.437756Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "51f7e12df1b607eb",
-      "category": "investing",
-      "title": "FBI's Largest Dark Web Drug Sweep Seizes $234M in Cash and Crypto - Bitcoin News",
-      "summary": "FBI's Largest Dark Web Drug Sweep Seizes $234M in Cash and Crypto Bitcoin News",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYk9aelIzSWJ4cldoOVl4QmpGSDFrMmNhb1oxVkNZazdwdG5HWHVGOF95V25nSVh2ZjJYdVFLMlRKQmlWWDNyaFF4bzg5NHk5WE10SnZTWmgyRTRMZjVrNzhWMUVNTjBnNjltUXBZUC0yXzVXaFJhUkZtM2RBc1N2SG5PU1NINFhocFptaG5jMGMxeEllMElSZTVDS3J2M0JHX0RNaQ?oc=5",
-      "source": "Web3 监管 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-14T01:30:00Z",
       "first_seen": "2026-11-14T13:27:15.541639Z",
       "score": 8,
       "ai_generated": false,
@@ -2043,53 +2060,36 @@
       "policy_status": null
     },
     {
-      "id": "573d8c836a0e016c",
+      "id": "713ee41ce8344946",
       "category": "world",
-      "title": "EU manufacturers could give up on competing with China by 2030, warns commerce chief",
-      "summary": "Jens Eskelund says Europe may need to allow its companies to become part of Chinese firms’ supply chains Europe’s manufacturers could give up on attempting to compete with their Chinese counterparts by the end of the decade if current trend",
+      "title": "荷兰国际集团提出2027年中国经济十大关键问题 提供者 Investing.com - 英为财情 Investing.com",
+      "summary": "荷兰国际集团提出2027年中国经济十大关键问题 提供者 Investing.com 英为财情 Investing.com",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.theguardian.com/business/2026/nov/10/eu-manufacturers-china-jens-eskelund",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-10T06:00:30Z",
-      "first_seen": "2026-11-10T07:22:50.432360Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "3d1b3e94245140f2",
-      "category": "world",
-      "title": "菲律宾外交部罕见声明批“个别官员涉华言论”：勿自行主导外交政策 - 中华军事",
-      "summary": "菲律宾外交部罕见声明批“个别官员涉华言论”：勿自行主导外交政策 中华军事",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4za3B0cE9oUmIzWURuLURXY3hsQ2FIdEFPSkFsZ2d0WGZVUnBnVzJPamNqNnNVaEY5LUdaVEpnUDl3UHNVRm91bFNUTXVfQ1N5T0FfNll6a0x4bFFxWUtaQkRYTElqNF9DaDBFM0xXUVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16U0I5ZUE1Y0liZVRJOXctNy1MZ3BjekxlQXByaTE4YURGMUxDaDBwck5HRFNIWFlvLUx0N1dMSFJNS0UyTG9QQnRhelFfbnpySmRuaDJfeUJlYjNlT0lDNF9WOWN3b0xmQUV2Ml9yOFQ?oc=5",
       "source": "中国与世界 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-11-10T01:10:22Z",
-      "first_seen": "2026-11-10T07:22:50.432360Z",
-      "score": 8,
+      "published_at": "2026-11-15T03:40:00Z",
+      "first_seen": "2026-11-15T06:37:38.477917Z",
+      "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
     {
-      "id": "c32ad64abc81d903",
+      "id": "9d0ddb5768b30385",
       "category": "world",
-      "title": "The superpower battle over energy – and what it means for your bills",
-      "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
+      "title": "保险业不唯增长论英雄 - 中国经济网",
+      "summary": "保险业不唯增长论英雄 中国经济网",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-10T00:08:28Z",
-      "first_seen": "2026-11-10T01:37:13.145893Z",
-      "score": 8,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mR0RPTmdYTXJuRE8tVldaazU1cW1VdlExUnZ5MV9fY2htckRhVzZIVlh2Q3dMX0V0SmVoZHBDbmM0SW9aa3MzU2pCdkk0eFdnTW5keXBLZmZPYUNpeUg5WkJuanpYYXFpYXItR2p2NA?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-14T22:25:00Z",
+      "first_seen": "2026-11-15T06:37:38.477917Z",
+      "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
@@ -2157,6 +2157,23 @@
       "source_kind": "media",
       "published_at": "2026-11-14T15:53:55Z",
       "first_seen": "2026-11-14T06:28:23.209997Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "3b371b9cc8ea9f8d",
+      "category": "world",
+      "title": "向新而行 以质致远 共议中国经济下一程——2026新华网思客年会在山西大同举办 - 新华网山西",
+      "summary": "向新而行 以质致远 共议中国经济下一程——2026新华网思客年会在山西大同举办 新华网山西",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclJDaHUtanYzSG0xa2hSM2Rib2N4RThGd090bjBwZG1iWmZiNlp3RFhCNnFpOGpwTl9ObDRQMmtEUENUMVJrT3FHUXhGY0lrd2dBSXl5M2NZLTNsSWVXcldNTFpSd0V2QzA1Q2hYa1pJWmxEZklic1p2YmUtSDQwZjJR?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-14T15:37:29Z",
+      "first_seen": "2026-11-15T06:37:38.477917Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2364,31 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "b3260dfd44c7099d",
-      "category": "world",
-      "title": "政策支持力度加大 中国10月信贷增长仍不及预期 - 联合早报",
-      "summary": "政策支持力度加大 中国10月信贷增长仍不及预期 联合早报",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tUV8wWEthdlNHanp4c1RsYXlRWDJTTE1meUVzajJENXZISmlCTnVhRVo1R19JZkZ3dUtpNlI0OHpreFYwZDJsclBsb0R5QkJKWVp4RjBEVGNtTDllQnJOSThYUnBrNGRFZXc?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-14T01:57:25Z",
-      "first_seen": "2026-11-14T06:28:23.209997Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "3acf2cd4b4552e89",
+      "e6ff120e40a3dd9f",
       "7640cc164999215c",
-      "c22c9f451b1ae85d",
-      "dabb9c42293eb206"
+      "c22c9f451b1ae85d"
     ],
     "tech": [
       "23e489f3132900d7",
@@ -2428,7 +2428,7 @@
         "name": "新西兰移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 13
+        "items": 14
       },
       {
         "name": "澳洲移民官网 · Google 索引",
@@ -2446,7 +2446,7 @@
         "name": "香港入境事务处 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 7
+        "items": 9
       },
       {
         "name": "CoinDesk",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 16
+        "items": 15
       },
       {
         "name": "MIT Technology Review",
@@ -2525,19 +2525,19 @@
         "name": "The Guardian World",
         "category": "world",
         "ok": true,
-        "items": 29
+        "items": 30
       },
       {
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 23
+        "items": 19
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 1
+        "items": 2
       }
     ]
   }
