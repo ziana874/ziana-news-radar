@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T15:37:53.011595Z",
+  "generated_at": "2026-11-16T22:16:52.572199Z",
   "is_demo": false,
   "items": [
     {
@@ -200,7 +200,7 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "source": "Cointelegraph",
       "source_kind": "media",
-      "published_at": "2026-11-16T13:31:49Z",
+      "published_at": "2026-11-16T22:07:36Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
@@ -547,23 +547,6 @@
       "policy_status": null
     },
     {
-      "id": "6e4cb5ab08bc01e5",
-      "category": "investing",
-      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-      "source": "美国美联储官方公告",
-      "source_kind": "official",
-      "published_at": "2026-11-09T21:00:00Z",
-      "first_seen": "2026-11-09T22:29:10.131475Z",
-      "score": 11,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "9b61e0497e5544a2",
       "category": "immigration",
       "title": "Minister Metlege Diab to make an announcement on attracting and retaining skilled talent in rural and remote communities",
@@ -596,6 +579,40 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "f611c7b9ab233171",
+      "category": "investing",
+      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
+      "summary": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-11-16T20:45:47Z",
+      "first_seen": "2026-11-16T22:16:52.572199Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "72ae4f6206b03681",
+      "category": "tech",
+      "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models - Dark Reading",
+      "summary": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models Dark Reading",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlZ4ZWEwa0xNUFNPUWFIY2JwZWVVTnlmUE5fTnVpbFIzeFMwUUZVbmRMQlZPNVZ1MURaQmZoVU56TEp2ZWNUbm5EX0V5WmhTNE1fZ1hKdmVEWGVhTnpCRmN5RE5JNERIYUQxa0sweHgzNVhoS3E1OTBOTUQ0NzJhT0VGaVh4aDhtVksta2VFNUtLWUVGVndlZzNydUdDZ0tvZmhpX2Vn?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-16T19:11:48Z",
+      "first_seen": "2026-11-16T22:16:52.572199Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "66202a17291861b4",
@@ -1278,23 +1295,6 @@
       "policy_status": null
     },
     {
-      "id": "7d5d4ac44453cbc1",
-      "category": "tech",
-      "title": "Trust, but verify, audit and attribute: a human-in-the-loop framework for checking AI-produced research results",
-      "summary": "arXiv:2611.13042v1 Announce Type: new Abstract: Artificial intelligence (AI) systems now produce research results in bulk: in October 2026 a single laboratory released more than 700 AI-generated mathematics manuscripts, only part of them wi",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2611.13042",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-11-11T05:00:00Z",
-      "first_seen": "2026-11-11T06:28:51.077715Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "d274c7fc1e867436",
       "category": "investing",
       "title": "Dow, S&P 500, Nasdaq Futures Edge Higher After Red-Hot Inflation Data And Nvidia Losses: CRWV, TTWO, NLST, NBIS In Focus - Yahoo Finance",
@@ -1443,23 +1443,6 @@
       "source_kind": "index",
       "published_at": "2026-11-10T04:36:12Z",
       "first_seen": "2026-11-10T07:22:50.432360Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "4393fff3abd0b8f9",
-      "category": "investing",
-      "title": "The S&P 500, Dow and Nasdaq: Real Returns Since 2000 Peak (October 2026) - ETF Database",
-      "summary": "The S&P 500, Dow and Nasdaq: Real Returns Since 2000 Peak (October 2026) ETF Database",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR0RYUmkyZy1zRlNZNG5DQUVQWC1tTXpqLXNVejVvZ2ZlU3BVcG1JMEJTQlF5LTA3RnN1amxVOW5OTkhvQ1MxYVp1TVg2alpJemd6UUQ0N1NZQ3htLUZUUmI3cXdiYnREVWYxckgwbjJKWjZCWUdTUlZnRExiUDJ0WVNrMU9IbGxoeng0MUxlaHhpZDg0cXlHNzUzUmxKQQ?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-09T21:40:18Z",
-      "first_seen": "2026-11-09T22:29:10.131475Z",
       "score": 10,
       "ai_generated": false,
       "policy_status": null
@@ -1614,6 +1597,40 @@
       "published_at": "2026-11-13T21:15:00Z",
       "first_seen": "2026-11-13T23:39:10.437756Z",
       "score": 9,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "2aa2b760ce03bb02",
+      "category": "investing",
+      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+      "summary": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+      "source": "CoinDesk",
+      "source_kind": "media",
+      "published_at": "2026-11-16T20:35:21Z",
+      "first_seen": "2026-11-16T22:16:52.572199Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "a5d843ad810ea56a",
+      "category": "world",
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-16T15:40:16Z",
+      "first_seen": "2026-11-16T22:16:52.572199Z",
+      "score": 8,
       "ai_generated": false,
       "policy_status": null
     },
@@ -2077,19 +2094,53 @@
       "policy_status": null
     },
     {
-      "id": "23565797d1ba8e8e",
+      "id": "a7d276c4a1cacff0",
       "category": "world",
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "source_kind": "media",
-      "published_at": "2026-11-11T17:44:32Z",
-      "first_seen": "2026-11-11T19:41:58.320058Z",
-      "score": 8,
+      "published_at": "2026-11-16T21:40:07Z",
+      "first_seen": "2026-11-16T22:16:52.572199Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "607d35342c8ae09f",
+      "category": "world",
+      "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+      "summary": "The US president oscillates between strike threats on Iran and insisting the war ‘militarily is effectively over’ A third US aircraft carrier has arrived in the Middle East, US Central Command said in a social media post on Monday, making a",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-16T21:13:02Z",
+      "first_seen": "2026-11-16T22:16:52.572199Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "115d73dd03914851",
+      "category": "world",
+      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+      "summary": "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’ Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to st",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-16T16:21:40Z",
+      "first_seen": "2026-11-16T22:16:52.572199Z",
+      "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
@@ -2330,65 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "396caf8bcd373eb1",
-      "category": "world",
-      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
-      "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-16T05:06:59Z",
-      "first_seen": "2026-11-16T06:34:15.885898Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "2433ebd30507795f",
-      "category": "world",
-      "title": "MP Helen Haines’s first words since leaving hospital after alleged attack led to double amputation",
-      "summary": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanks Australians for charity donations Get our daily political email , free app or daily news podcast The independent Australian MP Helen Haines has been discharged ",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-16T05:05:07Z",
-      "first_seen": "2026-11-16T06:34:15.885898Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "4f7b772895d85b05",
-      "category": "world",
-      "title": "国家统计局：中国经济在复杂环境中保持总体稳定的发展势头，这种“稳”是全球“稀缺资源”和最宝贵的资产 - Sohu",
-      "summary": "国家统计局：中国经济在复杂环境中保持总体稳定的发展势头，这种“稳”是全球“稀缺资源”和最宝贵的资产 Sohu",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdmx5a0hzVzFqdjhxTVk2SVZnc0JfQWd5d1FRbkxwS0NVNDNiS0hEdzNxYnBJSXN1aXlJNWgzV19NMFRsTVdjQUFiMlEtQXRjOUpPYmk1QkVxcXUxRW5LTzRDUkktM3I5WVNodm5nQno0aVhrVTdxSWpEcnNoLUNvVURCbjBnQm14SXVJ?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-16T05:02:19Z",
-      "first_seen": "2026-11-16T06:34:15.885898Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "cf321b1f311b1a29",
+      "a5d843ad810ea56a",
       "b62a0ed12df24e9d",
-      "db43089f31ad646a",
-      "fef51fcfcf2bf74c"
+      "db43089f31ad646a"
     ],
     "tech": [
       "23e489f3132900d7",
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 20,
-    "failed": 0,
+    "ok": 15,
+    "failed": 5,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2428,25 +2428,27 @@
         "name": "新西兰移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 16
+        "items": 13
       },
       {
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
-        "ok": true,
-        "items": 26
+        "ok": false,
+        "items": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aimmi.homeaffairs.gov.au%20visa%20OR%20migration%20when%3A14d&hl=en-AU&g"
       },
       {
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 3
+        "items": 4
       },
       {
         "name": "香港入境事务处 · Google 索引",
         "category": "immigration",
-        "ok": true,
-        "items": 9
+        "ok": false,
+        "items": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=site%3Aimmd.gov.hk%20%E7%B0%BD%E8%AD%89%20OR%20%E4%BA%BA%E6%89%8D%20when%3A30d"
       },
       {
         "name": "CoinDesk",
@@ -2463,20 +2465,22 @@
       {
         "name": "Web3 监管 · Google 新闻索引",
         "category": "investing",
-        "ok": true,
-        "items": 32
+        "ok": false,
+        "items": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=stablecoin%20OR%20DeFi%20OR%20bitcoin%20regulation%20when%3A7d&hl=zh-CN&gl=US&"
       },
       {
         "name": "纳指与标普 · Google 新闻索引",
         "category": "investing",
-        "ok": true,
-        "items": 35
+        "ok": false,
+        "items": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Nasdaq%20OR%20S%26P%20500%20OR%20ETF%20when%3A3d&hl=zh-CN&gl=US&ceid=US:zh-Han"
       },
       {
         "name": "美国美联储官方公告",
         "category": "investing",
         "ok": true,
-        "items": 5
+        "items": 4
       },
       {
         "name": "AI 行业 · Google 新闻索引",
@@ -2494,7 +2498,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 18
+        "items": 11
       },
       {
         "name": "MIT Technology Review",
@@ -2518,19 +2522,20 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 23
+        "items": 21
       },
       {
         "name": "The Guardian World",
         "category": "world",
         "ok": true,
-        "items": 30
+        "items": 31
       },
       {
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
-        "ok": true,
-        "items": 21
+        "ok": false,
+        "items": 0,
+        "error": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD%20%E6%94%BF%E7%AD%96%20OR%20%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%"
       },
       {
         "name": "国际要闻 · Google 新闻索引",
