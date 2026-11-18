@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:59:59.625109Z",
+  "generated_at": "2026-11-18T07:33:01.937610Z",
   "is_demo": false,
   "items": [
     {
@@ -183,8 +183,25 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "source": "Cointelegraph",
       "source_kind": "media",
-      "published_at": "2026-11-17T22:37:51Z",
+      "published_at": "2026-11-18T06:00:00Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
+      "score": 12,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "6e090bb95c89cabb",
+      "category": "tech",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "summary": "Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=50538303 Points: 155 # Comments: 198",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
+      "source": "Hacker News 热门",
+      "source_kind": "community",
+      "published_at": "2026-11-17T21:16:12Z",
+      "first_seen": "2026-11-18T07:33:01.937610Z",
       "score": 12,
       "ai_generated": false,
       "policy_status": null
@@ -253,23 +270,6 @@
       "source_kind": "community",
       "published_at": "2026-11-13T17:55:23Z",
       "first_seen": "2026-11-13T23:39:10.437756Z",
-      "score": 12,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "40518b409686b271",
-      "category": "tech",
-      "title": "BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research",
-      "summary": "arXiv:2611.12966v1 Announce Type: new Abstract: Large language models (LLMs) can generate SQL and SQL--Python workflows for investment research, but ensuring point-in-time (PIT) validity remains challenging. Agents must enforce disclosure c",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2611.12966",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-11-11T05:00:00Z",
-      "first_seen": "2026-11-11T06:28:51.077715Z",
       "score": 12,
       "ai_generated": false,
       "policy_status": null
@@ -494,6 +494,125 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "7a9e51a5eadb71ec",
+      "category": "tech",
+      "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
+      "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their rea",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2611.21799",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-11-18T05:00:00Z",
+      "first_seen": "2026-11-18T07:33:01.937610Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "b5c3132bdab36a43",
+      "category": "tech",
+      "title": "Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research",
+      "summary": "arXiv:2611.21832v1 Announce Type: new Abstract: As AI systems are increasingly used to automate AI R&D, misaligned systems could sabotage research intended to improve model safety and alignment. To stress-test defenses against such sabotage",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2611.21832",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-11-18T05:00:00Z",
+      "first_seen": "2026-11-18T07:33:01.937610Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "ddcb9121290549b5",
+      "category": "tech",
+      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+      "summary": "arXiv:2611.21950v1 Announce Type: new Abstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirect ongoing work remains a central design challenge. We present Di",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2611.21950",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-11-18T05:00:00Z",
+      "first_seen": "2026-11-18T07:33:01.937610Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "3818a96d0492299c",
+      "category": "tech",
+      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+      "summary": "arXiv:2611.22033v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) and recommend purchases on be",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2611.22033",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-11-18T05:00:00Z",
+      "first_seen": "2026-11-18T07:33:01.937610Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "4920d00e28ac4511",
+      "category": "tech",
+      "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+      "summary": "arXiv:2611.22115v1 Announce Type: new Abstract: We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report des",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2611.22115",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-11-18T05:00:00Z",
+      "first_seen": "2026-11-18T07:33:01.937610Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "36c0da284c44034b",
+      "category": "tech",
+      "title": "Readie: Low-Latency Code Sandboxes for AI Agents",
+      "summary": "arXiv:2611.22171v1 Announce Type: new Abstract: From quantitative research to personal assistance, AI agents act by iteratively generating and executing code. To decouple the agent harness from code execution, many agents offload execution ",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2611.22171",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-11-18T05:00:00Z",
+      "first_seen": "2026-11-18T07:33:01.937610Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "ad8a29a08de28e99",
+      "category": "tech",
+      "title": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
+      "summary": "arXiv:2611.22177v1 Announce Type: new Abstract: Large language model (LLM) trading agents are tested on news, but news reaches stock prices within minutes, and a benchmark that replays headlines at their publication time finds no alpha in t",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://arxiv.org/abs/2611.22177",
+      "source": "arXiv AI 论文",
+      "source_kind": "research",
+      "published_at": "2026-11-18T05:00:00Z",
+      "first_seen": "2026-11-18T07:33:01.937610Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "39b570cca86c9c0e",
@@ -1057,40 +1176,6 @@
       "policy_status": null
     },
     {
-      "id": "71bb835ad0d2108c",
-      "category": "tech",
-      "title": "EvoX: Rethinking the Agent Harness as a Runtime Policy",
-      "summary": "arXiv:2611.15006v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly interact with tools and environments, yet plausible model decisions do not always translate into successful execution due to tool-call mismatches",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2611.15006",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-11-13T05:00:00Z",
-      "first_seen": "2026-11-13T14:29:52.922042Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "2280e8a081da3901",
-      "category": "tech",
-      "title": "guardscope: Measuring Which Actions Runtime Controls Check in LLM Agent Systems",
-      "summary": "arXiv:2611.15223v1 Announce Type: new Abstract: Large-language model (LLM) agents execute actions on external systems through tool calls, and enterprises deploy runtime controls, such as agent gateways, to check this behavior in real time. ",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2611.15223",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-11-13T05:00:00Z",
-      "first_seen": "2026-11-13T14:29:52.922042Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "857b722fc8f5c4d2",
       "category": "immigration",
       "title": "Changes to Temporary Graduate visa (subclass 485) family member rules - Immigration and citizenship Website",
@@ -1176,91 +1261,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "645f1651bd53c9c8",
-      "category": "tech",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 617 # Comments: 636",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
-      "source": "Hacker News 热门",
-      "source_kind": "community",
-      "published_at": "2026-11-11T21:24:35Z",
-      "first_seen": "2026-11-12T00:49:07.167375Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "228a9ee4819c060f",
-      "category": "tech",
-      "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone - Decrypt",
-      "summary": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone Decrypt",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LRmtfSExpTXhmX05Bbk1tVHlxZTFEVEhzdm85RUkxV3hNb2JJTm4zbFpNWEYyN3Q1eEYxa1Jlc3Z6OUptdVlONXRqcElvaGszTldkREZ4dnZaZGxIemNqbXlpTVVQNlpqek1oRDM3SzZJSHM?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-11T19:36:02Z",
-      "first_seen": "2026-11-11T19:41:58.320058Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "1daf0e48bea73ba2",
-      "category": "tech",
-      "title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model - SiliconANGLE",
-      "summary": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model SiliconANGLE",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWk4aHJ6dlBrb2g2aVVXMXpGSFZ1TUVod3lfS3ExYndhY2NIUDZIbGw4MHhFYzJqSGlSa19xREZEdXM2Y3Jya05lMzFzTEdsbEZ6djV4b3JLNW9oQk10a05rVnZlQ2tsV0s5S2xDdUxyM3I4TGNuZ3FUWTh3LVVDa0JzR0tQNFoxNzBDRVg2RHNCdGNFbXJtWnY3NVlYN1NMaTNFaS1Cak93SHEyNG1iYzRqZkFCUnlhczhXNjVrVUtqRmc3Ql9BS2tfakd4aWs?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-11T16:30:00Z",
-      "first_seen": "2026-11-11T19:41:58.320058Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "ae2663058ad94d85",
-      "category": "tech",
-      "title": "AI Agent Sales Performance Lags, Invoca Research Finds - Pest Control Technology",
-      "summary": "AI Agent Sales Performance Lags, Invoca Research Finds Pest Control Technology",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNREFsYWZ0b3RSLVFKNUI3ZjR2dUMtYWxyN3hkQTlKYTZpdlRBcHhONFh1S2QzcXVyNTl2X0xyYW95OE4yQTdiZUluY0VjN1VNWUI2NWxGeE5IWG5uX1dEMGlvQURFY0VsVFVPcl9lX0lPOEJhU0RRRlZLQzhieGVuUkJYOF9xZVRPY2tZ?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-11T15:00:00Z",
-      "first_seen": "2026-11-11T19:41:58.320058Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "49757fc0cfe71d86",
-      "category": "tech",
-      "title": "Rice researchers among scholars showcasing expertise in surgical robotics, AI and imaging at Houston Methodist summit - Rice University",
-      "summary": "Rice researchers among scholars showcasing expertise in surgical robotics, AI and imaging at Houston Methodist summit Rice University",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT2FzSDhGcTNwNkttcGRkTjFid05IRUdNZTRNZ3pxc1kxUUZLRUhnTzRBd25VLVRERnNTYlVsc3JHMjRoT0JXX1laRThHWjhUWW1adVdRc3lsRHpQeFdXWHRNMzdyOHpYQ2ViUTV3M1RKX2NaYjNJSEYxcUNaTlVOcE1UM0p4NFZDT3A2enVvR0hyOGRlS2lIRWpuN2pQaDl2Z0Z4d3ZERkVWbUF0QmxyOWNINExuMGNw?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-11T14:45:51Z",
-      "first_seen": "2026-11-11T19:41:58.320058Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "da391d1744e5b688",
       "category": "investing",
       "title": "Deutsche Bank launches crypto custody for companies and institutions",
@@ -1293,23 +1293,6 @@
       "score": 10,
       "ai_generated": false,
       "policy_status": "待核验"
-    },
-    {
-      "id": "d274c7fc1e867436",
-      "category": "investing",
-      "title": "Dow, S&P 500, Nasdaq Futures Edge Higher After Red-Hot Inflation Data And Nvidia Losses: CRWV, TTWO, NLST, NBIS In Focus - Yahoo Finance",
-      "summary": "Dow, S&P 500, Nasdaq Futures Edge Higher After Red-Hot Inflation Data And Nvidia Losses: CRWV, TTWO, NLST, NBIS In Focus Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONlFSZXhHRzE0blVJRUpMNzJBTHR3SU1RM0ZJQlZGMzh3bm82Y3pIRFBadTBEN0RKVjBZODhVYl9hNldvYmxRWjZPNW5KSzI1TTZvRGxrMEJzUFU2M2FWVWM2MmdWcUh0dW90OFpCbkstNWhTVnk1RU0xb3ByajM4NThwd1VYSEF3ZHVIWk5YY213b2c?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-11T03:51:00Z",
-      "first_seen": "2026-11-11T06:28:51.077715Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
     },
     {
       "id": "5591ac07c86fdd1b",
@@ -1941,6 +1924,23 @@
       "policy_status": null
     },
     {
+      "id": "c4b947c195ab2aec",
+      "category": "investing",
+      "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+      "summary": "Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps",
+      "source": "Cointelegraph",
+      "source_kind": "media",
+      "published_at": "2026-11-17T09:08:32Z",
+      "first_seen": "2026-11-18T07:33:01.937610Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "552e72f45612a566",
       "category": "world",
       "title": "‘Line their own coffers’: independent MPs lambast Labor’s last-minute changes to election funding laws",
@@ -2230,36 +2230,36 @@
       "policy_status": null
     },
     {
-      "id": "f0ede4ad34ecf30a",
+      "id": "e54ccd81a1434eb7",
       "category": "world",
-      "title": "Victoria election 2026: Labor and Greens trade accusations of ‘dodgy deals’ as preference fight puts key seats at risk",
-      "summary": "Greens say they will not direct preferences to Labor in 15 seats after party’s ‘unforgivable’ decision earlier in week Get our daily political email , free app or daily news podcast The Greens have retaliated against Labor’s decision to run",
+      "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byw",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/13/victoria-state-election-2026-labor-greens-preference-deals-seats",
+      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
       "source": "The Guardian World",
       "source_kind": "media",
-      "published_at": "2026-11-13T06:16:06Z",
-      "first_seen": "2026-11-13T06:49:01.634343Z",
-      "score": 8,
+      "published_at": "2026-11-18T07:19:53Z",
+      "first_seen": "2026-11-18T07:33:01.937610Z",
+      "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
     {
-      "id": "cd3c90bc9ddfad00",
+      "id": "a7c4927d8de6fcfb",
       "category": "world",
-      "title": "悦读·思享丨把握中国经济政策研究的初衷 - Sohu",
-      "summary": "悦读·思享丨把握中国经济政策研究的初衷 Sohu",
+      "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+      "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Get our daily political email , free app or daily news podcast Wages grew at their fastest pace since late 2023 over the thr",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMlJhaFczNXlwUjM1TUNpRm5OU2ZCNVNIZGNqUHplTk5QRlNKY3hicDlpaGhhNm44R0Y4ZC1QYTN0cW0zTG4tQnMzZmFCdHF3ZHY3aHhjeDNDTlJRSE0zMXdacGs2dFNYMEJlZ3NrODBTOU5OQVZjZVF4cGlWU24xSXdVS2gzbkR3?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-13T03:19:50Z",
-      "first_seen": "2026-11-13T06:49:01.634343Z",
-      "score": 8,
+      "url": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-18T04:33:40Z",
+      "first_seen": "2026-11-18T07:33:01.937610Z",
+      "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
@@ -2391,10 +2391,10 @@
       "2cf43664a579f3d0"
     ],
     "tech": [
+      "6e090bb95c89cabb",
       "8134fc1a274fb390",
       "3f8a5bc2be5caea0",
-      "4a36f6adfa9f6485",
-      "40518b409686b271"
+      "4a36f6adfa9f6485"
     ],
     "immigration": [
       "ddb40986889ad12b",
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 20,
-    "failed": 0,
+    "ok": 11,
+    "failed": 9,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2427,26 +2427,30 @@
       {
         "name": "新西兰移民官网 · Google 索引",
         "category": "immigration",
-        "ok": true,
-        "items": 10
+        "ok": false,
+        "items": 0,
+        "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aimmigration.govt.nz%20visa%20OR%20residence%20when%3A14d&hl=en-NZ&gl="
       },
       {
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
-        "ok": true,
-        "items": 26
+        "ok": false,
+        "items": 0,
+        "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aimmi.homeaffairs.gov.au%20visa%20OR%20migration%20when%3A14d&hl=en-AU"
       },
       {
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
-        "ok": true,
-        "items": 4
+        "ok": false,
+        "items": 0,
+        "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Agov.uk%20immigration%20rules%20skilled%20worker%20when%3A14d&hl=en-GB"
       },
       {
         "name": "香港入境事务处 · Google 索引",
         "category": "immigration",
-        "ok": true,
-        "items": 11
+        "ok": false,
+        "items": 0,
+        "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aimmd.gov.hk%20%E7%B0%BD%E8%AD%89%20OR%20%E4%BA%BA%E6%89%8D%20when%3A3"
       },
       {
         "name": "CoinDesk",
@@ -2463,14 +2467,16 @@
       {
         "name": "Web3 监管 · Google 新闻索引",
         "category": "investing",
-        "ok": true,
-        "items": 35
+        "ok": false,
+        "items": 0,
+        "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=stablecoin%20OR%20DeFi%20OR%20bitcoin%20regulation%20when%3A7d&hl=zh-CN&gl=U"
       },
       {
         "name": "纳指与标普 · Google 新闻索引",
         "category": "investing",
-        "ok": true,
-        "items": 35
+        "ok": false,
+        "items": 0,
+        "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Nasdaq%20OR%20S%26P%20500%20OR%20ETF%20when%3A3d&hl=zh-CN&gl=US&ceid=US:zh-H"
       },
       {
         "name": "美国美联储官方公告",
@@ -2481,8 +2487,9 @@
       {
         "name": "AI 行业 · Google 新闻索引",
         "category": "tech",
-        "ok": true,
-        "items": 35
+        "ok": false,
+        "items": 0,
+        "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=AI%20agent%20OR%20semiconductor%20OR%20robotics%20when%3A3d&hl=zh-CN&gl=US&c"
       },
       {
         "name": "Ars Technica",
@@ -2494,7 +2501,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 16
+        "items": 20
       },
       {
         "name": "MIT Technology Review",
@@ -2524,19 +2531,21 @@
         "name": "The Guardian World",
         "category": "world",
         "ok": true,
-        "items": 31
+        "items": 32
       },
       {
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
-        "ok": true,
-        "items": 22
+        "ok": false,
+        "items": 0,
+        "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E4%B8%AD%E5%9B%BD%20%E6%94%BF%E7%AD%96%20OR%20%E4%B8%AD%E5%9B%BD%E7%BB%8F%E"
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
-        "ok": true,
-        "items": 2
+        "ok": false,
+        "items": 0,
+        "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E5%9B%BD%E9%99%85%E6%94%BF%E6%B2%BB%20OR%20%E5%9C%B0%E7%BC%98%E5%86%B2%E7%A"
       }
     ]
   }
