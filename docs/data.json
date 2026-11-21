@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:26:16.733699Z",
+  "generated_at": "2026-11-21T23:26:16.507787Z",
   "is_demo": false,
   "items": [
     {
@@ -1618,18 +1618,69 @@
       "policy_status": "待核验"
     },
     {
-      "id": "139f96b6564efd13",
+      "id": "1dc6b5b5d1b27551",
       "category": "investing",
-      "title": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year - 24/7 Wall St.",
-      "summary": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year 24/7 Wall St.",
+      "title": "CryptoUK Asks FCA to Spare DeFi Developers Default Regulation - CryptoRank",
+      "summary": "CryptoUK Asks FCA to Spare DeFi Developers Default Regulation CryptoRank",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1hJb3JkSTFDbFhjbGM1ZjkzMkY5UVljOEVmZmZkaWkzaXAxYnhtekVwRzdwV0tLd0EtczhScE5FSTBtNHFUWlMxaTNBTmdZMDBXZ0FKS1BudUlRQ2p1d1RWS0lDSlctVmJEY0hsdHhsQXpDVi1SbnF4R0JGVS10SXJVakJBWHRsRE04UlJIM1FGdUQzLW5sM3FxRklXMWZk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR3dVYnFCRnRLZ2plcHlaY1l4ZnhhYVB5ZjhKT1ZkVm9ZM3l4ZGNad1ZNdDAxVFRlSk9WTUNqY1k1Y3FBV1hhdWZ3eC1ldzBEYWhGSVp1S1JCTTMzVUhpSktWOS1kR2ZnY2tzZVFGNGpNNFdrVnZab3JnZkVpM3B3bQ?oc=5",
+      "source": "Web3 监管 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-21T21:22:02Z",
+      "first_seen": "2026-11-21T23:26:16.507787Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "860f7a991f6ab395",
+      "category": "tech",
+      "title": "How to Build a Golden Dataset for AI Agent Evaluation From Your Logs - Startup Fortune",
+      "summary": "How to Build a Golden Dataset for AI Agent Evaluation From Your Logs Startup Fortune",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEg2dnRtcUszcmZiVWc0RXZZb1VlcGtzODNoRVM2VW0yVnV5M0FoclBFWHB0aVVfZHc4YkFEcVBjMnJJQXkyTmVFdWxXaW9teFFtQUdVTWdvX0pjd2czVTI3SXRIZnZSMjEzbjlNeGJSd2hZdU5ESlY0d1hLWkVKRWlTNjhjY2YtbUxzb2RxVWlpSGZvZmJTQ21LMFc?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-21T19:26:58Z",
+      "first_seen": "2026-11-21T23:26:16.507787Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "b305d335255162a9",
+      "category": "investing",
+      "title": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year - Yahoo Finance",
+      "summary": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year Yahoo Finance",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2o5MjhzNnF2Q05WQTZCSjBkU01IZk5hMFRROVhmd2RrSmlsUGtqMW14aDZkZDB4aEEwM2J1V1NvSjcwNTlwYWYyd2E0SkFSZkNZNU51XzdPZkdtOUR2NWkyQ2NnM3gzc0dDOVlFTHF1YjBfMjhjWTlJODNvTS1iSWt0ZlJyeEh2dnZ6SmZNbDk0VnBs?oc=5",
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-11-21T19:22:00Z",
-      "first_seen": "2026-11-21T19:26:16.733699Z",
+      "published_at": "2026-11-21T19:22:53Z",
+      "first_seen": "2026-11-21T23:26:16.507787Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "50a435182dc39976",
+      "category": "investing",
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "summary": "",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "source": "CoinDesk",
+      "source_kind": "media",
+      "published_at": "2026-11-21T17:50:00Z",
+      "first_seen": "2026-11-21T23:26:16.507787Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1646,23 +1697,6 @@
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-11-21T17:43:34Z",
-      "first_seen": "2026-11-21T19:26:16.733699Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "1034771b91805d98",
-      "category": "tech",
-      "title": "Singapore wants to test stablecoin payments by AI agents - CryptoSlate",
-      "summary": "Singapore wants to test stablecoin payments by AI agents CryptoSlate",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSm91N2dCRDVmU245WG9tcWZzQWJLM29YWllnTmxBZk1mOHJGbVlhY3ZmbzJCVExnSmdPZ0lxSnZrZjVLbWRLVFZ5V19kRFNRNmJtN2wxYUUzRXVqWG1Dd2lfM1Z0a2ZXeEhkd3ZzSzhqU1l1TmVsMnJiZnZZbm4tQVNYNFdQd3lo?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-21T17:40:11Z",
       "first_seen": "2026-11-21T19:26:16.733699Z",
       "score": 8,
       "ai_generated": false,
@@ -1782,40 +1816,6 @@
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-11-21T04:45:00Z",
-      "first_seen": "2026-11-21T07:13:17.384183Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "e3d472ecfc3df68c",
-      "category": "investing",
-      "title": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus - Yahoo Finance",
-      "summary": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ1hBdGw1anUtLVZ1cFNyVmJmX0liYVYxcGg3WEpaOURrSlJLWHZDSzlIbjFBM3ZaTlllb29CTERST2ZDaWVfWUxnRUJ5b19ybWs2dXp5NFRjUmU5TVlVUHYtYm5maDRxMUlpVFc0WDhyUEJFN1M2MjJGWGY0dXk1V2RHanl3S1pWU3J0Rm5CRDdjRXVJN2c?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-21T01:30:00Z",
-      "first_seen": "2026-11-21T07:13:17.384183Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "3d63f22758d2bac2",
-      "category": "investing",
-      "title": "Nasdaq has its worst week since 2020; Dow, S&P 500 in correction - Reuters",
-      "summary": "Nasdaq has its worst week since 2020; Dow, S&P 500 in correction Reuters",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01YzRiT09nYlU4eGlRUGtzSE1Jd1MyT1BpbUozZWxhNG95LTBqUnNwcTFlQURCcXY2ZTJ5RDd2YWhTR0J4RDhMcVM3ZHUyRGlOSU50TjRwbmk2eUZMNndFNF9hMDBYcVU?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-21T00:17:00Z",
       "first_seen": "2026-11-21T07:13:17.384183Z",
       "score": 8,
       "ai_generated": false,
@@ -2230,6 +2230,40 @@
       "policy_status": null
     },
     {
+      "id": "124162c6ef46170a",
+      "category": "world",
+      "title": "理响中国·聚焦2026中国经济丨“稳”“旺”“热”！一图解读我国消费市场多元图景 - Sohu",
+      "summary": "理响中国·聚焦2026中国经济丨“稳”“旺”“热”！一图解读我国消费市场多元图景 Sohu",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSFlqVDRNSU1nZEduUmNRdDJWZmhibVd6OUljYmxQVnIxSkNjR1lQTzhrWDJMeDBDNGozQ3hVZWxmSkhBb2lZNzhlWk1sVU1Ga0ZXWmZlZnZZZUU5WEhRRmFqZlhkVHNaRUZxOXd5R2EtZGFTOVdmdUp1blBKU19iNjZ6ZTR1R3ZCQmZZaw?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-21T23:02:04Z",
+      "first_seen": "2026-11-21T23:26:16.507787Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "216019a0646c3667",
+      "category": "world",
+      "title": "“中国服务”迈上新台阶——中国经济三季报亮点解析 - 21财经",
+      "summary": "“中国服务”迈上新台阶——中国经济三季报亮点解析 21财经",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjlkMlBUb1BYcWJMWmFIQm85Zk9fdDByZ3l4eVVjQ3hIZE8wR0I4eUxFa05LY1hjMVZReXk2RzJyeXVKTGtNOUtReVFQeXUzWEg1RWNReEtYMGVzblhBdFBFdFlIUFNjMjExTDIxV1ZjUmFDUTViT2dKREZzUC1DUVcwY1AwMUF2aG9uaFhCTQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-21T22:33:00Z",
+      "first_seen": "2026-11-21T23:26:16.507787Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "cdabda9f591abb40",
       "category": "world",
       "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
@@ -2281,6 +2315,23 @@
       "policy_status": null
     },
     {
+      "id": "177db4376b8c7bc6",
+      "category": "world",
+      "title": "股市颓势下 官媒驳唱空中国经济论调遭遇舆论逆风 - 早晨报",
+      "summary": "股市颓势下 官媒驳唱空中国经济论调遭遇舆论逆风 早晨报",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0MGFGQjFrSHFVcWdLUHpGaEpLaEdQS2k4OXBXdEx2X0xMeV9scUtQd1llZ195endibHlfVzBzekJobV9TdlBnRkZxbGpldzFEMlNLY1pWeWQ3dEVUaUl1dnA3QTgzY3BB?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-21T15:40:00Z",
+      "first_seen": "2026-11-21T23:26:16.507787Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "3e4d9069a3736a4c",
       "category": "world",
       "title": "伊朗外长：俄罗斯和中国都反对伊朗改变核政策 - RFI",
@@ -2292,23 +2343,6 @@
       "source": "中国与世界 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-11-21T15:38:13Z",
-      "first_seen": "2026-11-21T19:26:16.733699Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "e58a3b17abccd2d9",
-      "category": "world",
-      "title": "股市颓势下 官媒驳唱空中国经济论调遭遇舆论逆风 - 联合早报",
-      "summary": "股市颓势下 官媒驳唱空中国经济论调遭遇舆论逆风 联合早报",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3U3lpcC1yZzFsVF9hNHU0XzFYYmlPYnNQblhvX0I5dkN2TmwtTWVKd3Ffbk96ZndROHdieWNaSjFmOEdzWnJDUFZWd2NTd3BUeEpUQjRxb0tLVHhrNHhGUDdkOE9wVzlnWndB?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-21T15:22:37Z",
       "first_seen": "2026-11-21T19:26:16.733699Z",
       "score": 6,
       "ai_generated": false,
@@ -2347,40 +2381,6 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "633d3b37de6e5634",
-      "category": "world",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-21T08:10:25Z",
-      "first_seen": "2026-11-21T07:13:17.384183Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "09f042383a8378d3",
-      "category": "world",
-      "title": "Trafalgar Square Christmas tree felled in Norway",
-      "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-21T08:10:03Z",
-      "first_seen": "2026-11-21T14:35:10.983282Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
@@ -2415,14 +2415,15 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 19,
-    "failed": 1,
+    "ok": 18,
+    "failed": 2,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
         "category": "immigration",
-        "ok": true,
-        "items": 22
+        "ok": false,
+        "items": 0,
+        "error": "HTTPSConnectionPool(host='api.io.canada.ca', port=443): Read timed out. (read timeout=13)"
       },
       {
         "name": "新西兰移民官网 · Google 索引",
@@ -2446,7 +2447,7 @@
         "name": "香港入境事务处 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 6
+        "items": 7
       },
       {
         "name": "CoinDesk",
@@ -2494,7 +2495,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 20
+        "items": 17
       },
       {
         "name": "MIT Technology Review",
@@ -2513,13 +2514,13 @@
         "name": "BBC China",
         "category": "world",
         "ok": true,
-        "items": 6
+        "items": 5
       },
       {
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 26
+        "items": 27
       },
       {
         "name": "The Guardian World",
@@ -2531,7 +2532,7 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 12
+        "items": 15
       },
       {
         "name": "国际要闻 · Google 新闻索引",
