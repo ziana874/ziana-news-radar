@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:29:45.034966Z",
+  "generated_at": "2026-11-22T19:49:22.222982Z",
   "is_demo": false,
   "items": [
     {
@@ -562,6 +562,40 @@
       "score": 11,
       "ai_generated": false,
       "policy_status": "待核验"
+    },
+    {
+      "id": "ac8657753795d06a",
+      "category": "investing",
+      "title": "Nasdaq slides deeper as Nvidia rout drags S&P 500 and Dow into correction - Crypto Briefing",
+      "summary": "Nasdaq slides deeper as Nvidia rout drags S&P 500 and Dow into correction Crypto Briefing",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Va2ZlcDFLOEJOSDQ0UlRrT1FWeEVLaUU2YV9hSThaRnhob1ZHYTRWVHllMEwxeGtWdFdxSTRpX3lnVHlhcXd3eUV6N3FoZlhkZ0E5d3ZyS0JpWGdRMklmelQ4dDZsTzRTNVZZTXRaZ3hSM2hCUzNaUDB3?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-22T17:36:13Z",
+      "first_seen": "2026-11-22T19:49:22.222982Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "a52ae3b67c9a53f3",
+      "category": "tech",
+      "title": "AI agents vs physical AI: How software automation differs from embodied robotics - Interesting Engineering",
+      "summary": "AI agents vs physical AI: How software automation differs from embodied robotics Interesting Engineering",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYnVLUWl2Q2VORFhtS29pOU5IM3lnTW1jV1RfTGJvQmFrbkNLRDMtajgwVnNkQ0VJUk9CVkNNQjJaZGxrQWR1cjBCSy05TnJ1amlqVkY2VEFjc1ZscUZDVTAwS2t4LVhXZE8tczBXWm9FYy05Ui1wQXJTWHJkSW9HYlRpZ19TTHVnVUxRNUlsT2tPeGxzcVdqbHdrVGtOMEJ0emhORV9vZmZaMkk?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-22T15:54:00Z",
+      "first_seen": "2026-11-22T19:49:22.222982Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
     },
     {
       "id": "5781ac62939d3f9c",
@@ -1635,18 +1669,18 @@
       "policy_status": "待核验"
     },
     {
-      "id": "2de4277cbde0e55d",
-      "category": "tech",
-      "title": "Runway releases Praxis-1 open-weight world action model for robotics - Robotics & Automation News",
-      "summary": "Runway releases Praxis-1 open-weight world action model for robotics Robotics & Automation News",
+      "id": "9316b597a744aafd",
+      "category": "investing",
+      "title": "The S&P 500 and Dow Jones Are Dangerously Close to Joining the Nasdaq in a Correction. Here’s the Level That Would Put the Nasdaq in a Bear Market, and What History Says Investors Should Do During a Stock Market Crash. -",
+      "summary": "The S&P 500 and Dow Jones Are Dangerously Close to Joining the Nasdaq in a Correction. Here’s the Level That Would Put the Nasdaq in a Bear Market, and What History Says Investors Should Do During a Stock Market Crash. Yahoo Finance",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeEpZX1pxNkZOQ29DdXdKcnl2dS04Um1lNHQ0QXZncWpWOUxPUkxIbHRBcjF2WE9UTlBVUmZUZy1MZUg0WmN0b2dFY184WHh3ZmxPWGpzZjFRemFiR21NODFaWER3OTJRWGd0VXg2MVdnanlkdXR0TkJ6QzNRRV93N3E4SWFjY19HRlNXcGtGcWwya1JKekkyV0RlNFMwU1hWWDdiOE01RTlyNmpxeW9NbkR4LV9IU2NJUHp4bnRjZ0xJaTA?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTZ4Z2JvclhkYUdVajFCUnQzVXlKc2ZRUUQwbThYbC1PbGtoa0pFX0hsVVVFUUhpOEc5NUZ2eVhqM3JzZzhiWkNQYktJVFZRT3NaM2VmVjItclFQWW9wZkNnMUVFQnJhWm8tdUJoVDJTbXlFZEtGVlFyQkFpZWFBUmhRa1pFWHdaYjN1aXF1eE5Wazhzak1F?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-11-22T14:03:02Z",
-      "first_seen": "2026-11-22T14:29:45.034966Z",
+      "published_at": "2026-11-22T17:50:02Z",
+      "first_seen": "2026-11-22T19:49:22.222982Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1669,18 +1703,35 @@
       "policy_status": null
     },
     {
-      "id": "fa20bfb1c89f53d3",
+      "id": "32cecc1a14ecdbc4",
       "category": "investing",
-      "title": "SOXX and DRAM Are Down Between 35.6% and 51.9% From Their Highs. Here’s an Even Better Growth Stock ETF to Buy During the Nasdaq Correction. - The Motley Fool",
-      "summary": "SOXX and DRAM Are Down Between 35.6% and 51.9% From Their Highs. Here’s an Even Better Growth Stock ETF to Buy During the Nasdaq Correction. The Motley Fool",
+      "title": "SOXX and DRAM Are Down Between 35.6% and 51.9% From Their Highs. Here’s an Even Better Growth Stock ETF to Buy During the Nasdaq Correction. - Yahoo Finance",
+      "summary": "SOXX and DRAM Are Down Between 35.6% and 51.9% From Their Highs. Here’s an Even Better Growth Stock ETF to Buy During the Nasdaq Correction. Yahoo Finance",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNYTRtSjFKLWp0cWNvaVJiaHE1b29vTXBQNXdWYUpfbTFoVjR4TTlNNVowUXprRkV4MURDZXR2ZXFUWGYzV3gyUXlDckhNMDl0a0ZGQ2s4WHJ4Q2VIWEl6Q3VEMnM1NVVzdVhFT2pwQ1RtZDJGTS12UElacDRqdjNVZXlqdFhldkYwSHI5Nm0yUXc5aW9zeDVEdm5PTExuMndwR240bkJ4cF9kaFRDTEgxRWdvUnhFZDBIS1dLRWMycTNJeHludWZTNEtuZHpIUzFpQ2ZIeGllV1E2S3NqYnY3VFdUb3k4YUY1QXdaVWZ3b3RKa2F2SEU0Tk1uT2RMZHhYR0VNVlMzdU5hQUU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDVob0NjZms3YVdySG5WLWVwZ1ByX0I0UjRMckVNMzFCLUJCZUw2Z2VlQU10a3ZPSUlqS2hTWWQ3eFdjaHF2X25vWC1uNEM2V29Ga2lRSE9LWnF5WTRfTFBKakJVQWZaam5NaXZwTl8xLUJoYkloVkkwelMyd0Z1SVRzNzZTZXBUYWd4Z1pPSkd3Y2Zw?oc=5",
       "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-11-22T13:15:02Z",
-      "first_seen": "2026-11-22T14:29:45.034966Z",
+      "published_at": "2026-11-22T13:35:02Z",
+      "first_seen": "2026-11-22T19:49:22.222982Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "39e7b2c42cfce7d8",
+      "category": "investing",
+      "title": "Fred Krueger: Mathematical laws describe AI compute, error rate, and Bitcoin price trends - Traders Union",
+      "summary": "Fred Krueger: Mathematical laws describe AI compute, error rate, and Bitcoin price trends Traders Union",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU0wta21tT3pnbU53RlVCc0pGN2Y1QXR6cktQQkxMNlVCN3YtZ0pFalJUQ2lYc3h3a256b2dlSmxoMk02T2lfb1ZtckFpamNpdmltVV9acXNvbHdabFJia2dSR096blBnNUlXUzZRTi02ZGE4aW9Bb0tXSDFnMDRKZ29GTmtKZw?oc=5",
+      "source": "Web3 监管 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-22T12:40:15Z",
+      "first_seen": "2026-11-22T19:49:22.222982Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1749,57 +1800,6 @@
       "source_kind": "index",
       "published_at": "2026-11-21T19:22:53Z",
       "first_seen": "2026-11-21T23:26:16.507787Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "50a435182dc39976",
-      "category": "investing",
-      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
-      "summary": "",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
-      "source": "CoinDesk",
-      "source_kind": "media",
-      "published_at": "2026-11-21T17:50:00Z",
-      "first_seen": "2026-11-21T23:26:16.507787Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "042a22a28c185f9a",
-      "category": "investing",
-      "title": "Vanguard S&P 500 ETF: How investing in VOO could build a $1 mn portfolio - Beinsure",
-      "summary": "Vanguard S&P 500 ETF: How investing in VOO could build a $1 mn portfolio Beinsure",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sOFRPZGN0UE9wUWtpQUhERzB1aXNlanBhLVRQcTJyLUdTaW14V2YtbWtZLS1jcW1QRm1udHpTaVRwdGExQ3NKRUhLbW1sME9MYVlpUXRmNVBIWkx1X1NBR2VCRVFxUUdWbkVkVGNfTkNNUUpS?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-21T17:43:34Z",
-      "first_seen": "2026-11-21T19:26:16.733699Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "4c452a1c4b8d42ed",
-      "category": "investing",
-      "title": "If the S&P 500 Drops by 20%, I'm Buying These 3 ETFs Without Hesitation - Yahoo Finance",
-      "summary": "If the S&P 500 Drops by 20%, I'm Buying These 3 ETFs Without Hesitation Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb2ZkbjBaV2ctSVZHaS1QSFRxNHYzRWJPNkN6cTV6bkJocktGMmNiYXZGM3RkekZ3M0JfdjNSZ184Xzd1UUwwNVhlMWVDeVR0ZWh3R0NaSjJNdkthQ2Z1ZUZmVmNfSzU4WlhiYTRYSm9FOUc1eW1MbGlfQjUtS3JqRGUwaC1rRm9sWlE?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-21T16:05:02Z",
-      "first_seen": "2026-11-21T19:26:16.733699Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -2060,19 +2060,36 @@
       "policy_status": null
     },
     {
-      "id": "2cf43664a579f3d0",
+      "id": "2b240001538629c1",
       "category": "world",
-      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-      "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "source_kind": "media",
-      "published_at": "2026-11-17T18:58:57Z",
-      "first_seen": "2026-11-17T15:55:34.081874Z",
-      "score": 8,
+      "published_at": "2026-11-22T19:26:54Z",
+      "first_seen": "2026-11-22T19:49:22.222982Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "969b3e367a9a8e12",
+      "category": "world",
+      "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
+      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A suspected Ukrainian drone attack caused an explosion on a Russian warship docked at the naval base in the Libyan port city of Bengh",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-22T18:50:56Z",
+      "first_seen": "2026-11-22T19:49:22.222982Z",
+      "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
@@ -2097,7 +2114,7 @@
       "id": "204648171c6d4881",
       "category": "world",
       "title": "Potty-mouthed MPs ranked as Australian parliament sets new swearing record",
-      "summary": "One serial sweary offender, Jacqui Lambie, says it wouldn’t be an Australian parliament ‘without a few swear words thrown in’ Want to get more charts in your inbox every fortnight? Sign up for The Crunch here When Liberal MP Garth Hamilton ",
+      "summary": "One serial swearing offender, Jacqui Lambie, says it wouldn’t be an Australian parliament ‘without a few swear words thrown in’ Want to get more charts in your inbox every fortnight? Sign up for The Crunch here When Liberal MP Garth Hamilto",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -2123,6 +2140,23 @@
       "source_kind": "media",
       "published_at": "2026-11-22T14:00:29Z",
       "first_seen": "2026-11-22T14:29:45.034966Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "27ac58a71d31c23e",
+      "category": "world",
+      "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 - 中国新闻网",
+      "summary": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间 中国新闻网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MV21nd1lheXlsM0xEalpxT2hQODJIRzdIUWZwTE9uVDg4dnl2ek1lbEVnWXVUNjc0QU9rV2JLeGhCSWFFTThEN1JsNHRqaGVmQlMyTDJ5dVA4ZzVta1hXVVc5UEFtdzRP?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-22T13:52:36Z",
+      "first_seen": "2026-11-22T19:49:22.222982Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2347,40 +2381,6 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "f5b1bcd036a61e81",
-      "category": "world",
-      "title": "AI首次成为美联储政策纪要重要议题 - 中国经营网",
-      "summary": "AI首次成为美联储政策纪要重要议题 中国经营网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4MjJ4c2RvZFVDS0t2Zlh2SkRqd0dBdHRNTDEtbzRPMlc0LTNwMWFhdnEtVUZ1alJPVGJ4RzF4Q3BRSl9TNk5DUVctZU9UNnUxNjJSdFBEYnlobkxXeVIybmJB?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-22T03:57:00Z",
-      "first_seen": "2026-11-22T06:53:38.972939Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "d18f93fbbac9f5b8",
-      "category": "world",
-      "title": "西哈莫尼国王复函习近平主席 重申柬埔寨坚定奉行一个中国政策 - 柬华日报",
-      "summary": "西哈莫尼国王复函习近平主席 重申柬埔寨坚定奉行一个中国政策 柬华日报",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1STM5LXM3eGY1MVdnc1BDWkM5YURFS1BuNlhxa3MyaEtrZElpbVhWeUhQTEtVazBZNUlGeTQxd1BHVXdwX2drcGlNbmNPRG5BU2Y0Zi04aw?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-22T02:43:04Z",
-      "first_seen": "2026-11-22T06:53:38.972939Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
@@ -2422,31 +2422,31 @@
         "name": "加拿大 IRCC 官方新闻",
         "category": "immigration",
         "ok": true,
-        "items": 22
+        "items": 21
       },
       {
         "name": "新西兰移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 7
+        "items": 5
       },
       {
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 18
+        "items": 20
       },
       {
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 8
+        "items": 7
       },
       {
         "name": "香港入境事务处 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 7
+        "items": 8
       },
       {
         "name": "CoinDesk",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 19
+        "items": 13
       },
       {
         "name": "MIT Technology Review",
@@ -2519,7 +2519,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 28
+        "items": 34
       },
       {
         "name": "The Guardian World",
@@ -2531,13 +2531,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 19
+        "items": 20
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 2
+        "items": 1
       }
     ]
   }
