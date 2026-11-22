@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:49:22.222982Z",
+  "generated_at": "2026-11-22T23:39:08.730604Z",
   "is_demo": false,
   "items": [
     {
@@ -560,6 +560,23 @@
       "published_at": "2026-10-16T15:02:13Z",
       "first_seen": "2026-10-16T16:45:46.798264Z",
       "score": 11,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
+      "id": "370c1b625f174bb1",
+      "category": "immigration",
+      "title": "Post-Study and Short-Term Graduate Work Visas now on enhanced Immigration Online - Immigration New Zealand",
+      "summary": "Post-Study and Short-Term Graduate Work Visas now on enhanced Immigration Online Immigration New Zealand",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0VHTEtwdEhPc0hCUjlnWUZfdy1ieEp3cFZEaWZlT3ZIdzcxYXFsUWN2eF9saWNPRGNKXzVJQkU2dVJmOWQyMllqNzRQTHBnblBVOFBoTnRQWW5TRTAwRW83ZG8ybXN3ZFl6SnBrb2J2RjdLZ0FEdjRVRVJDdkxhS0JZRGYyRndFcWdhLXVqR0xXenh4ay1EeXlVZkdrT1lfTnExUVNHTzdGSmpVeDNLdVF2TkRneE1HcHV0UE9taEFQcVltaS1jTFZ2ZDZ2N1U?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-22T21:43:07Z",
+      "first_seen": "2026-11-22T23:39:08.730604Z",
+      "score": 10,
       "ai_generated": false,
       "policy_status": "待核验"
     },
@@ -1329,23 +1346,6 @@
       "policy_status": null
     },
     {
-      "id": "39b570cca86c9c0e",
-      "category": "world",
-      "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
-      "summary": "Knesset’s appointment of Matan Kahana marks step towards reversing policies of outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-17T22:30:17Z",
-      "first_seen": "2026-11-18T00:59:59.625109Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "a5597deb1466b029",
       "category": "investing",
       "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
@@ -1652,21 +1652,21 @@
       "policy_status": "待核验"
     },
     {
-      "id": "2157a5f43820444b",
-      "category": "immigration",
-      "title": "India–New Zealand Free Trade Agreement brings new visa commitments - Immigration New Zealand",
-      "summary": "India–New Zealand Free Trade Agreement brings new visa commitments Immigration New Zealand",
+      "id": "6ea58a40bd68b2d6",
+      "category": "investing",
+      "title": "S&P 500, Nasdaq 100 Drive into Correction Territory - FOREX.com",
+      "summary": "S&P 500, Nasdaq 100 Drive into Correction Territory FOREX.com",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZzcwSjV3Q1ZsV0JxTUtjXzJ0dmFtTU9vaVpQOU5NX2ZNZGxzNEZPaWpleFl4dFo3UnJSTWJfU3FRQjM4R3Y0dXJlc2tUM3hucmdDN0hRVzNBU1BoazZiV1huakkxcXYxb3F4Y2RYVklxc0JtclFwYlJHb29qTkdodXJ5b29pMmdvMF9ucTJLME9Wak01cFhGX0lnem8wY1VKWFpxdzd4bXRFY05QdTZkOFhQR184WlZqQmdVbA?oc=5",
-      "source": "新西兰移民官网 · Google 索引",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHZDWmtVSXI3aWVsT1EtbUNXRXljUmZrYkdqOUZlQTZORkM0M2hyZmM1UlV4czA0X2JMcEIxVjItRW1GSVRleG1LWGhYYXBJcnRHZDJyTmt3M3JwaXBuV3NUNzJrNVozSXQxYjNLSFVmakxxOUU3Y25xMVBjZXNSOUp4emRxQnBwQlVqbExDcDJpZl9WSHgxZVJfNGZ4RjJH?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-10-19T21:46:39Z",
-      "first_seen": "2026-10-20T04:54:34.409877Z",
-      "score": 10,
+      "published_at": "2026-11-22T21:13:19Z",
+      "first_seen": "2026-11-22T14:29:45.034966Z",
+      "score": 8,
       "ai_generated": false,
-      "policy_status": "待核验"
+      "policy_status": null
     },
     {
       "id": "9316b597a744aafd",
@@ -1681,6 +1681,23 @@
       "source_kind": "index",
       "published_at": "2026-11-22T17:50:02Z",
       "first_seen": "2026-11-22T19:49:22.222982Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "671ab20d09f75165",
+      "category": "investing",
+      "title": "Crypto Looks to Tokenization as Bitcoin Regulation Catalyst Fades - kalkine.com",
+      "summary": "Crypto Looks to Tokenization as Bitcoin Regulation Catalyst Fades kalkine.com",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY0p2cXhqQnBoNnVPS0kyR0VDYWw3T0NpUVZ0WnNzQU5IX2JMWHdfU1g5UjZDTV93WHNrb0lvZDE3UF9UWHBBSDFhbFpBVmdMcmtZR1pjbk1iVVduVDJWVzhKUGJsM1BobXZkN3gxWjcyVkxyNEhEdks2MFVXb2ZBZDhpLWhuc1lJRlB4X2JoelF2VDQyRmt4cUFMRDdZWEJpMmxZUFF3?oc=5",
+      "source": "Web3 监管 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-22T17:39:00Z",
+      "first_seen": "2026-11-22T23:39:08.730604Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1737,23 +1754,6 @@
       "policy_status": null
     },
     {
-      "id": "6ea58a40bd68b2d6",
-      "category": "investing",
-      "title": "S&P 500, Nasdaq 100 Drive into Correction Territory - FOREX.com",
-      "summary": "S&P 500, Nasdaq 100 Drive into Correction Territory FOREX.com",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHZDWmtVSXI3aWVsT1EtbUNXRXljUmZrYkdqOUZlQTZORkM0M2hyZmM1UlV4czA0X2JMcEIxVjItRW1GSVRleG1LWGhYYXBJcnRHZDJyTmt3M3JwaXBuV3NUNzJrNVozSXQxYjNLSFVmakxxOUU3Y25xMVBjZXNSOUp4emRxQnBwQlVqbExDcDJpZl9WSHgxZVJfNGZ4RjJH?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-22T11:39:49Z",
-      "first_seen": "2026-11-22T14:29:45.034966Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "6b7ece8f9c066318",
       "category": "investing",
       "title": "Russia Opens Bitcoin Trading as Moscow Exchange Eyes Dec. 1 - CryptoRank",
@@ -1782,23 +1782,6 @@
       "source": "Web3 监管 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-11-21T21:22:02Z",
-      "first_seen": "2026-11-21T23:26:16.507787Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "b305d335255162a9",
-      "category": "investing",
-      "title": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year - Yahoo Finance",
-      "summary": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year Yahoo Finance",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2o5MjhzNnF2Q05WQTZCSjBkU01IZk5hMFRROVhmd2RrSmlsUGtqMW14aDZkZDB4aEEwM2J1V1NvSjcwNTlwYWYyd2E0SkFSZkNZNU51XzdPZkdtOUR2NWkyQ2NnM3gzc0dDOVlFTHF1YjBfMjhjWTlJODNvTS1iSWt0ZlJyeEh2dnZ6SmZNbDk0VnBs?oc=5",
-      "source": "纳指与标普 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-21T19:22:53Z",
       "first_seen": "2026-11-21T23:26:16.507787Z",
       "score": 8,
       "ai_generated": false,
@@ -2060,6 +2043,40 @@
       "policy_status": null
     },
     {
+      "id": "83c8a30ff39af264",
+      "category": "world",
+      "title": "Australian politics live: Tehan says Bowen should resign over Cop; Taylor pays tribute to ‘kind, gentle’ Meldrum",
+      "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a fr",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-22T23:24:34Z",
+      "first_seen": "2026-11-22T23:39:08.730604Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "969b3e367a9a8e12",
+      "category": "world",
+      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea dro",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-22T21:33:44Z",
+      "first_seen": "2026-11-22T19:49:22.222982Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "2b240001538629c1",
       "category": "world",
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
@@ -2070,25 +2087,25 @@
       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "source_kind": "media",
-      "published_at": "2026-11-22T19:26:54Z",
+      "published_at": "2026-11-22T20:28:09Z",
       "first_seen": "2026-11-22T19:49:22.222982Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
     },
     {
-      "id": "969b3e367a9a8e12",
+      "id": "6cf99c30d2d24fc7",
       "category": "world",
-      "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A suspected Ukrainian drone attack caused an explosion on a Russian warship docked at the naval base in the Libyan port city of Bengh",
+      "title": "大幅、较快增长！质效持续提升！“数”看中国经济韧性与活力 - 中国网新闻中心",
+      "summary": "大幅、较快增长！质效持续提升！“数”看中国经济韧性与活力 中国网新闻中心",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-22T18:50:56Z",
-      "first_seen": "2026-11-22T19:49:22.222982Z",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CY0FYWDhuQ0F2QTA2QWJfSzhBRFg3R05FZXdyaEM4WnUyalptRFF0TU9ERDlmVVk5T3FUbTdVcktQSDZnV1VDc1VESFItX3NHRFd3VGZwb0VSOGpSMUg4NmIxakVJYmFaNlhj?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-22T16:20:00Z",
+      "first_seen": "2026-11-22T23:39:08.730604Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2264,23 +2281,6 @@
       "policy_status": null
     },
     {
-      "id": "9efe09f1616f562d",
-      "category": "world",
-      "title": "大幅、较快增长！质效持续提升！“数”看中国经济韧性与活力 - 中国网新闻中心",
-      "summary": "大幅、较快增长！质效持续提升！“数”看中国经济韧性与活力 中国网新闻中心",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DZ04tTGtURXREODVXYi1tTFdwRXZ0aHpJOHk2VkQ0eHZHbHZBcXlXV2dGWXZyT1BmXzJvSlFzYXJwVEJKRXlYUGNBVWt4RHJTUGtDZGJyQlVTOUNhZktOa0lKSEZLQ18xaXRB?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-22T07:28:00Z",
-      "first_seen": "2026-11-22T14:29:45.034966Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "a0149a11303781b2",
       "category": "world",
       "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
@@ -2385,10 +2385,10 @@
   ],
   "digests": {
     "world": [
-      "39b570cca86c9c0e",
       "398adce4c4a50a02",
       "1efc3952f067ddc0",
-      "5eb4b83dd8264f58"
+      "5eb4b83dd8264f58",
+      "ed0546a014b17392"
     ],
     "tech": [
       "a701226fdad99b2c",
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 19,
-    "failed": 1,
+    "ok": 18,
+    "failed": 2,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2428,19 +2428,19 @@
         "name": "新西兰移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 5
+        "items": 10
       },
       {
         "name": "澳洲移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 20
+        "items": 26
       },
       {
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 7
+        "items": 5
       },
       {
         "name": "香港入境事务处 · Google 索引",
@@ -2493,8 +2493,9 @@
       {
         "name": "Hacker News 热门",
         "category": "tech",
-        "ok": true,
-        "items": 13
+        "ok": false,
+        "items": 0,
+        "error": "HTTPSConnectionPool(host='hnrss.org', port=443): Max retries exceeded with url: /frontpage?points=100 (Caused by ConnectTimeoutError(<HTTPSConnection(host='hnrs"
       },
       {
         "name": "MIT Technology Review",
@@ -2519,7 +2520,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 34
+        "items": 35
       },
       {
         "name": "The Guardian World",
