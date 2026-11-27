@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:41:33.156577Z",
+  "generated_at": "2026-11-27T01:47:11.065827Z",
   "is_demo": false,
   "items": [
     {
@@ -67,6 +67,23 @@
       "published_at": "2026-10-16T15:02:27Z",
       "first_seen": "2026-10-16T16:45:46.798264Z",
       "score": 15,
+      "ai_generated": false,
+      "policy_status": "待核验"
+    },
+    {
+      "id": "bf80ecedea996d4d",
+      "category": "immigration",
+      "title": "Two ways of showing your commitment for Permanent Resident Visa to be suspended from 30 May 2027 - Immigration New Zealand",
+      "summary": "Two ways of showing your commitment for Permanent Resident Visa to be suspended from 30 May 2027 Immigration New Zealand",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbFlLMkFRS052YnB6dy1PZ244ZEIxeDdmcmh2NE1OQmlwVkQ5Zkx2TS1McS16VmNLR1FfaFAySFBhYU9ZUFpWaXV0T1o1S1hIZ1prRzhLVjFuREUtQXNVRTZnakJfNWZURWI0ZTRiS3FZVHNwOXFDbGFFd0dWZWtwSHNENk9hSWFYb01LbTZEalA3WnhFMUNtOEgxdXFUSjNCNVEtcmVwUDFFWlllQ2E1QjJkZkNQXzRORWZfMXg5R3JZRzdRSTNBTGRiUzJmMVJ1MkpaZUxwbFc5S05YMFlXdTBwYWU?oc=5",
+      "source": "新西兰移民官网 · Google 索引",
+      "source_kind": "index",
+      "published_at": "2026-11-26T22:00:08Z",
+      "first_seen": "2026-11-27T01:47:11.065827Z",
+      "score": 14,
       "ai_generated": false,
       "policy_status": "待核验"
     },
@@ -234,7 +251,7 @@
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "source": "Cointelegraph",
       "source_kind": "media",
-      "published_at": "2026-11-26T13:45:04Z",
+      "published_at": "2026-11-26T22:12:06Z",
       "first_seen": "2026-10-11T15:33:23.847567Z",
       "score": 12,
       "ai_generated": false,
@@ -615,6 +632,57 @@
       "policy_status": "待核验"
     },
     {
+      "id": "666f43bd74281a99",
+      "category": "world",
+      "title": "Threat from China looms large over Taiwan’s local elections",
+      "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Demo",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-27T01:00:49Z",
+      "first_seen": "2026-11-27T01:47:11.065827Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "d357b64b46976ba9",
+      "category": "tech",
+      "title": "GSMA Innovation Forum 2026 Examines AI-Powered Devices, Connected Robotics & Industrial AI Deployment at Scale - The Fast Mode",
+      "summary": "GSMA Innovation Forum 2026 Examines AI-Powered Devices, Connected Robotics & Industrial AI Deployment at Scale The Fast Mode",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcS10N0NvWnJhLS1taDBiLUFWNlIyYXBXeDlwYlNLcW1OZlJqc00td2c1QXdPRjB1SlFFQUxQemRETGk3bXFSWFZEYXM5RWlkdHhEWkZrSFpYdW1uSGRGeUFXRTZVbDhQX29HajFfdGxEQTcyUzByWG03LU52VVRBQWE1a0xVbGVQZzJRMTR4bXJiTjNXV3VySXlybUc0UFBSNHJCQjQ2YWkzYU5BMFN0RTR4MVRYeFFLcTFpaHBMZXJETllwcUpfcWcxQXNBcWxqcmx5cGNFeDRIWHNMYktrcFN4eWlzbWttcjhwWEc2TlV3eHhz?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-27T00:09:52Z",
+      "first_seen": "2026-11-27T01:47:11.065827Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "f0a7eb25b2f0b744",
+      "category": "tech",
+      "title": "How Ants Can Help Us Understand AI Agents - Walter Bradley Center for Natural and Artificial Intelligence",
+      "summary": "How Ants Can Help Us Understand AI Agents Walter Bradley Center for Natural and Artificial Intelligence",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rVWxLalNLZW53TDA4dTdPazBWWHBhU0F4cWtTeTJxX2hFUnJPT1JTV2RFX2tHSFpiTml3UWFyN0pScGYyeTZ0eGc5a0RQaTdzNGxrYlFZQV80UlhOSEFjbDVuM2tKWHBNRV85YzFqWkw5MGFXZDY0Wk9jbGhWZw?oc=5",
+      "source": "AI 行业 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-26T22:30:00Z",
+      "first_seen": "2026-11-27T01:47:11.065827Z",
+      "score": 10,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "b85d1add0a843679",
       "category": "investing",
       "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
@@ -635,7 +703,7 @@
       "id": "6f6a6b07f17a726f",
       "category": "tech",
       "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 157 # Comments: 164",
+      "summary": "Article URL: https://techstackups.com/articles/google-workspace-ai-agents-mcp/ Comments URL: https://news.ycombinator.com/item?id=50653477 Points: 237 # Comments: 202",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -1210,40 +1278,6 @@
       "policy_status": null
     },
     {
-      "id": "31bdc920ab936493",
-      "category": "tech",
-      "title": "2 Semiconductor Stocks to Buy No Matter Who Wins the AI Chip Race - The Motley Fool",
-      "summary": "2 Semiconductor Stocks to Buy No Matter Who Wins the AI Chip Race The Motley Fool",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWks0dTJsY3pKb1lVU2t5UFc3b0VaUDdDdUYwaVlrNC1fZGFHWUJhOGowSl8tYUxEZURqN0w5Sncxd1BrSTRDd0t1RE40T3ZTMTZwZ1Z0RWNoZXFMVkJIeHBCT1hOaUhVWU9zSThmSkI5TTU5T1V6MkUtcHk4aTF5VFdfaTRyV1RwbGFObG92b1kxUUNvZncydkk2UFp3azgwLTZqNkZMYmQ4VW9B?oc=5",
-      "source": "AI 行业 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-23T06:30:02Z",
-      "first_seen": "2026-11-23T07:43:34.995252Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "7ccc51f7d59b51f0",
-      "category": "tech",
-      "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-      "summary": "arXiv:2611.26722v1 Announce Type: new Abstract: To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models. Supervi",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://arxiv.org/abs/2611.26722",
-      "source": "arXiv AI 论文",
-      "source_kind": "research",
-      "published_at": "2026-11-23T05:00:00Z",
-      "first_seen": "2026-11-23T07:43:34.995252Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "756073f765a59932",
       "category": "world",
       "title": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns",
@@ -1550,23 +1584,6 @@
       "policy_status": "待核验"
     },
     {
-      "id": "f4bfa16dd40925c4",
-      "category": "immigration",
-      "title": "Skilled Work Regional (Provisional) visa (subclass 491) - Immigration and citizenship Website",
-      "summary": "Skilled Work Regional (Provisional) visa (subclass 491) Immigration and citizenship Website",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcjR2ZllhMmNLcER3RTJ0MS1MRUthYzQ1SWVCXzBHQjJsZ2tFaWdpdjNmZzlWdXRFQ3pkekV6Qk1IalVDNHNvRXEzZXk2eXlTblA2NDVHcTAxUGtHMHQ2YzJIdWc5b241S0Jreno1S0VUYXdQOXc5aFdydG94S2JDWHVKa3N5Vlg0YkctRFM1WWtSaGI3TWdxSm9BcXVIR2swT0dZdThPZDVGaVpNTlA2RVVWUTl1dHJLdkJ1a3kzTFB6NGFY?oc=5",
-      "source": "澳洲移民官网 · Google 索引",
-      "source_kind": "index",
-      "published_at": "2026-11-02T08:00:00Z",
-      "first_seen": "2026-11-05T06:51:21.595371Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": "待核验"
-    },
-    {
       "id": "f0784a636c3b35c0",
       "category": "investing",
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
@@ -1597,6 +1614,23 @@
       "published_at": "2026-11-25T20:00:00Z",
       "first_seen": "2026-11-25T21:48:49.281260Z",
       "score": 9,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "995472e5428d80ba",
+      "category": "investing",
+      "title": "Bank of Japan executive director stresses need for stablecoin frameworks - Crypto Briefing",
+      "summary": "Bank of Japan executive director stresses need for stablecoin frameworks Crypto Briefing",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HYzRhdVRtUnNLYWk3aDZuNXNmeWVadG1EbGplMlYySWtGLTJNRURQdkh1ODA0UFJPaHBCanNuTl9xS0F6UkVfdEhCSWlXYk91MHkyVEJiVE9ORlNwdzdSWnR3c2M5LVJZdW9HcFJYVFJDZVBUb1lZam5fTQ?oc=5",
+      "source": "Web3 监管 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-27T00:57:44Z",
+      "first_seen": "2026-11-27T01:47:11.065827Z",
+      "score": 8,
       "ai_generated": false,
       "policy_status": null
     },
@@ -1737,6 +1771,23 @@
       "policy_status": null
     },
     {
+      "id": "90d3bafb65a04339",
+      "category": "investing",
+      "title": "iShares S&P 500 Health Care Sector UCITS ETF EUR Hedged (Dist) (IUHE.AS) Seasonal returns chart - Yahoo Finance UK",
+      "summary": "iShares S&P 500 Health Care Sector UCITS ETF EUR Hedged (Dist) (IUHE.AS) Seasonal returns chart Yahoo Finance UK",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoZzZyNlhpS1hIWURjSFZvV3FIMFNJaGJ0Qkc3cEY3Zy1vNTRnWVB5aUpSOVRCb1laWmg0MkpvWkR6ZWpjbGJYdThEeWlFMjdiMzlNb1p2cDB5TENIYmVRVkdoRmNHdw?oc=5",
+      "source": "纳指与标普 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-26T16:35:25Z",
+      "first_seen": "2026-11-27T01:47:11.065827Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "aad0ea385e0f3040",
       "category": "investing",
       "title": "Fidelity Files For Spot Chainlink ETF On Nasdaq - Yahoo Finance",
@@ -1834,40 +1885,6 @@
       "source_kind": "media",
       "published_at": "2026-11-26T12:00:22Z",
       "first_seen": "2026-11-26T08:24:28.559448Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "376c88ef3127ea67",
-      "category": "investing",
-      "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
-      "summary": "Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the broader outlook for the AI trade.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity",
-      "source": "Cointelegraph",
-      "source_kind": "media",
-      "published_at": "2026-11-26T11:22:59Z",
-      "first_seen": "2026-11-26T16:49:24.044006Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "680bb2da2af7b95e",
-      "category": "investing",
-      "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-      "summary": "",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
-      "source": "CoinDesk",
-      "source_kind": "media",
-      "published_at": "2026-11-26T11:17:22Z",
-      "first_seen": "2026-11-26T16:49:24.044006Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -2145,6 +2162,57 @@
       "policy_status": null
     },
     {
+      "id": "585b336a14235974",
+      "category": "world",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-27T01:45:30Z",
+      "first_seen": "2026-11-27T01:47:11.065827Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "7cc565aafd89bc24",
+      "category": "world",
+      "title": "中国经济到底怎么样？浙江宣传：正视体感，认清边界 - 凤凰网",
+      "summary": "中国经济到底怎么样？浙江宣传：正视体感，认清边界 凤凰网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5EcEpJUHdlSHlISFR4NlEwTURqd0lhLXVLSk5VbDg2MlYweE16dmN0UzZRMFpDRXlqRTQtLUMtWkJGNEpPX3Y0QUZ3UGs?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-27T01:14:04Z",
+      "first_seen": "2026-11-27T01:47:11.065827Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "f29f1e0c4fbd0d2d",
+      "category": "world",
+      "title": "【中国制造新观察】AI进车间重塑制造业 - 中国经济网",
+      "summary": "【中国制造新观察】AI进车间重塑制造业 中国经济网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wc2ZGcEtfOXliRFpYRUNjVzJ1c0phbS1xZ0ZfdGxUekEzSTk5QUphVUM3cDZlWUFSTGpoTXIxVzUwcmxrUndMengzLUtNeTk4bUdwMEtJWGNuSEN6RkRhMm4yU01lMDllTC1EU3YwOA?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-26T22:44:00Z",
+      "first_seen": "2026-11-27T01:47:11.065827Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
       "id": "9e6c4c989ed54b01",
       "category": "world",
       "title": "Coalition team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
@@ -2313,82 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "4691cd3def563d29",
-      "category": "world",
-      "title": "从世界经济版图看中国经济之韧 创新与产业共驱增长 - 中华网",
-      "summary": "从世界经济版图看中国经济之韧 创新与产业共驱增长 中华网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5clN3ZWZPNFZ2VW0ybjFUYjlva0QyMXlXV1Q4TmE0ZWJlcElyeG5mYWlWODdZWm9uT3RIYUNQSGNMNUtaZW82cGFGcXhtbk4tSG9yVExQUlk4RG9mS2FXMEduMGUwN1VUREZZaDFaZks?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-26T10:17:00Z",
-      "first_seen": "2026-11-26T16:49:24.044006Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "061fa5db564434f2",
-      "category": "world",
-      "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
-      "summary": "Public Committee Against Torture in Israel examined 42 complaints against Shin Bet interrogators over past decade Israel has institutionalised the use of torture to extract confessions from Palestinian prisoners, sometimes documenting abuse",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-26T10:00:52Z",
-      "first_seen": "2026-11-26T16:49:24.044006Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "ff431005d981bb33",
-      "category": "world",
-      "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
-      "summary": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate.",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "source_kind": "media",
-      "published_at": "2026-11-26T09:49:42Z",
-      "first_seen": "2026-11-26T16:49:24.044006Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "72472eab156638e7",
-      "category": "world",
-      "title": "【好评中国】读懂经营主体新变化，看见中国经济内在韧性 - 新浪财经_金融信息服务商",
-      "summary": "【好评中国】读懂经营主体新变化，看见中国经济内在韧性 新浪财经_金融信息服务商",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIR2RfUVI3aHhWLS1lQ0w3NlJnRDhxd19rZUEteG54eHlGaDRQN2FEbGhBa0R5djNYR1I5RDlOZzUxZjFSbFdRTXZGNmhrTU8zRGtXam9wZWEwblhWYzFoMjNBeTVkYnpGYU90ZTVxaWIyY21heVdNZQ?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-26T08:37:30Z",
-      "first_seen": "2026-11-26T16:49:24.044006Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
+      "666f43bd74281a99",
       "63b7c41c8dd632de",
       "756073f765a59932",
-      "518a7e800c5da1cb",
-      "66f84d71ac4745f1"
+      "518a7e800c5da1cb"
     ],
     "tech": [
       "a701226fdad99b2c",
@@ -2428,7 +2428,7 @@
         "name": "新西兰移民官网 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 11
+        "items": 13
       },
       {
         "name": "澳洲移民官网 · Google 索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 17
+        "items": 16
       },
       {
         "name": "MIT Technology Review",
@@ -2512,13 +2512,13 @@
         "name": "BBC China",
         "category": "world",
         "ok": true,
-        "items": 7
+        "items": 8
       },
       {
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 27
+        "items": 30
       },
       {
         "name": "The Guardian World",
@@ -2530,7 +2530,7 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 24
+        "items": 15
       },
       {
         "name": "国际要闻 · Google 新闻索引",
