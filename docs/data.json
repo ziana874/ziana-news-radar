@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T01:29:15.715077Z",
+  "generated_at": "2026-11-28T07:53:16.858997Z",
   "is_demo": false,
   "items": [
     {
@@ -1227,23 +1227,6 @@
       "policy_status": null
     },
     {
-      "id": "756073f765a59932",
-      "category": "world",
-      "title": "Unemployment to surpass 5% and ‘things will get a bit harder’, treasurer Jim Chalmers warns",
-      "summary": "Economists flag rising recession risk as government forecasts economy will grow by less than 2% in 2027 and 2028 Follow our Australia politics live blog for latest updates Get our daily political email , free app or daily news podcast Jim C",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-23T04:17:27Z",
-      "first_seen": "2026-11-23T07:43:34.995252Z",
-      "score": 10,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "370c1b625f174bb1",
       "category": "immigration",
       "title": "Post-Study and Short-Term Graduate Work Visas now on enhanced Immigration Online - Immigration New Zealand",
@@ -1516,35 +1499,52 @@
       "policy_status": null
     },
     {
-      "id": "ba0ac2a2ea23cfa7",
+      "id": "57a6d361f82a9da3",
       "category": "tech",
-      "title": "Hired by an AI Agent: 2,000 $5 Payments Explained - explainx.ai",
-      "summary": "Hired by an AI Agent: 2,000 $5 Payments Explained explainx.ai",
+      "title": "Agent Name Service: What ANS Means for AI Agent Identity - Security Boulevard",
+      "summary": "Agent Name Service: What ANS Means for AI Agent Identity Security Boulevard",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFBsWWFEU0tHR05BaXdaXzcwdmw1SXJtT2RwWEJvdEctWW8xVkpBbnc4ekZWNXRBRGpVMXcxdXlTN1RkUkpBOTFGMVBKWGMtN1g1aGpCdVV3YWxCTzBWeHYyVi12NzY0UWM1RDdodGs4OC1PajVhczVSTnc5bEZIWktiNUlmVjNtTUJlZnFmdmFpejBESFRwQm5BQ3VTbVFCcE43Mmg4MXBfV1JE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDdoZmpfTm8wODlZS3N0MEhTc0dXdFZxOVVENmROMzJRLWN6eWl2U2dIaExnY0luR0g1c0pvUEdBdnRXSEowblNMM21yVzVmdmlLaDFnM05laDRSSXNadmVBV0JyZ0xqLWNweU9VeGxHZ2RVY1lJX1Z1c0ZZU0hpNzdZdDVlSVBHRDYyNGdxcGJ3OFNFclRDNGZ3?oc=5",
       "source": "AI 行业 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-11-28T01:20:27Z",
-      "first_seen": "2026-11-28T01:29:15.715077Z",
+      "published_at": "2026-11-28T06:38:47Z",
+      "first_seen": "2026-11-28T07:53:16.858997Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
     },
     {
-      "id": "beea243ffe0cc725",
-      "category": "tech",
-      "title": "AI Shopping Agents: 4 Sites Limit Them, 2 Open the Door - shattered.io",
-      "summary": "AI Shopping Agents: 4 Sites Limit Them, 2 Open the Door shattered.io",
+      "id": "c89b9bc9c16edd55",
+      "category": "investing",
+      "title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more - The Block",
+      "summary": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more The Block",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzVUZEJvN2Vod2hRVnZZbFI1Szc0Yzk4SFl2cWtSZHBuX3ItS0RDT2tMdGIwWk5ObDRqblhrX290VU5xSUgzMkstemdMUzlpWVdwRDZGcjFvU2UzUHRsYmVQSnNraUtYTEhDZjdQUmJWanFWZkI1cHk1WXZJalRnOHNfVE1wYnFwQkIyTFo5NFFoYS0xbExYcng5Q0pCTW43?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd0xIZ1JMaXhibUhjdTllV0duVGN5WUc1MnpxNVVuR0JnZVlCdDFXRktZRzRQaG9uOWVyTlkyU3NsSzVNYk1xb1VnV25zNTR1b09rYUJfU1pQUmg4V2ZqSUdKaTZNcWtuc1J4MHNOamVjMU5WNUNiX1RuT09aQ09BYTFJUEtwa3ZEbkk5MTRwSGtTbjVueU9JT2xHNnFPMXItSnd6VWNPdEk3VkMwc2xja0xTTnhJYU5zMVdPLXZwQVk0eVJZeFE?oc=5",
+      "source": "Web3 监管 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-28T04:11:00Z",
+      "first_seen": "2026-11-28T07:53:16.858997Z",
+      "score": 8,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "13277c1122e493ba",
+      "category": "tech",
+      "title": "DecepEval study finds pressure lifts AI agent deception by 41.64 percentage points - Crypto Briefing",
+      "summary": "DecepEval study finds pressure lifts AI agent deception by 41.64 percentage points Crypto Briefing",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1MVRoR21RQnQtWURVVndGYV9VYnUtSEhzdlJ1R0t6VVVBVnc1TlBRWWRQa1BXalo1TFFyTG5aeWdEN19LT0FwZzVTa0JIOFFCQlh5UzktQ3EyX1JUZU1TdElKY1JZMUZlT0o4WEFGYXF5cDA?oc=5",
       "source": "AI 行业 · Google 新闻索引",
       "source_kind": "index",
-      "published_at": "2026-11-28T00:25:07Z",
-      "first_seen": "2026-11-28T01:29:15.715077Z",
+      "published_at": "2026-11-28T03:56:23Z",
+      "first_seen": "2026-11-28T07:53:16.858997Z",
       "score": 8,
       "ai_generated": false,
       "policy_status": null
@@ -1706,7 +1706,7 @@
       "id": "2e918376b1adb1bb",
       "category": "world",
       "title": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
-      "summary": "Former ALP strategist says Ben Carroll government at risk of losing more than 30 seats in Saturday’s election, to fall behind Pauline Hanson’s party Live: Victorian election 2026 – latest news Victorian election 2026 guide: what you need to",
+      "summary": "Former ALP strategist says Ben Carroll government at risk of losing more than 30 seats in Saturday’s election, to fall behind Pauline Hanson’s party Victoria election live results: votes tracker, map and seat counts Live: Victorian election",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
@@ -1867,23 +1867,6 @@
       "source": "Web3 监管 · Google 新闻索引",
       "source_kind": "index",
       "published_at": "2026-11-27T10:15:48Z",
-      "first_seen": "2026-11-27T16:34:59.234434Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "3784e54368040810",
-      "category": "investing",
-      "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
-      "summary": "",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
-      "source": "CoinDesk",
-      "source_kind": "media",
-      "published_at": "2026-11-27T09:49:55Z",
       "first_seen": "2026-11-27T16:34:59.234434Z",
       "score": 8,
       "ai_generated": false,
@@ -2213,35 +2196,103 @@
       "policy_status": null
     },
     {
-      "id": "cb372748e574f8a4",
-      "category": "world",
-      "title": "Burnham not ‘backtracking’ on creating closer links with EU, officials say",
-      "summary": "Government wants to let trade deal ‘breathe a bit’, insiders say, after speculation No 10 is dialling back ambitions Andy Burnham is not backtracking or delaying his ambitions to create even closer links with the EU in the wake of a landmar",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
-      "source": "The Guardian World",
-      "source_kind": "media",
-      "published_at": "2026-11-23T06:00:50Z",
-      "first_seen": "2026-11-23T07:43:34.995252Z",
-      "score": 8,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
       "id": "0e2625e24350c5b2",
       "category": "world",
-      "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
-      "summary": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the par",
+      "title": "Victorian election 2026 live updates: polls point to Coalition win over Labor in state election results – latest news",
+      "summary": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victoria election live results: votes tracker, map and seat counts Victorian election 2026 guide: ",
       "title_zh": "",
       "summary_zh": "",
       "why_zh": "",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
       "source": "The Guardian World",
       "source_kind": "media",
-      "published_at": "2026-11-28T01:16:55Z",
+      "published_at": "2026-11-28T07:49:14Z",
       "first_seen": "2026-11-28T01:29:15.715077Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "7c76f90164149c08",
+      "category": "world",
+      "title": "Yuri and I used to play football together. Then I spotted his name among Russia’s war dead",
+      "summary": "I had no idea he had gone to fight in Ukraine and without hacked data I would probably never have learned of his death One evening, after weeks spent counting Russia’s war dead, I began looking for names I might recognise. My colleagues and",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-28T05:00:30Z",
+      "first_seen": "2026-11-28T07:53:16.858997Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "6815b669d4187498",
+      "category": "world",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "source_kind": "media",
+      "published_at": "2026-11-28T04:13:45Z",
+      "first_seen": "2026-11-28T07:53:16.858997Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "8bb039eb82f88fe1",
+      "category": "world",
+      "title": "章俊：全球和中国经济展望——在分歧和共识中前行 - 东方财富",
+      "summary": "章俊：全球和中国经济展望——在分歧和共识中前行 东方财富",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wRzA0Ny1tbHdERFV3N0swRnBYOGx4dnJUdEtVRzJnNHdsWjZlQWpTTVhsSGdNMkotUUFON3huTTZZT1hxS0o4c1pQYkpFcXM1VzdvbnhtNFJqOG5IejBMVFJMQjlsQQ?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-28T04:09:45Z",
+      "first_seen": "2026-11-28T07:53:16.858997Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "6e6685963be154ac",
+      "category": "world",
+      "title": "从1至10月物流运行数据透视中国经济发展亮点 微观主体经营总体稳定 - 央视网",
+      "summary": "从1至10月物流运行数据透视中国经济发展亮点 微观主体经营总体稳定 央视网",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IeHpHNGdfSHF4cGFXRm4xZkx3aGZ5a2tIYVBqSDU0UHJ1X1g5SmViaEo2TEhsaUxGeVJOTDA2Znc4d3RvUmtTd0R5S1BIS01DYm9xaUdBNDRyWFYtYlRPcHhrTjBDc3p0djNjVWgxWVJYeUoyVFhRUw?oc=5",
+      "source": "中国与世界 · Google 新闻索引",
+      "source_kind": "index",
+      "published_at": "2026-11-28T03:30:50Z",
+      "first_seen": "2026-11-28T07:53:16.858997Z",
+      "score": 6,
+      "ai_generated": false,
+      "policy_status": null
+    },
+    {
+      "id": "130c2e6e9b57e314",
+      "category": "world",
+      "title": "Australia’s east coast deluged by storms as roads flood and damaging winds forecast for NSW and Victoria",
+      "summary": "Severe weather and flood watch warnings are in place as a storm band moves from central Queensland through NSW to Victoria and Tasmania Get our breaking news email , free app or daily news podcast The final weekend of Australia’s wettest sp",
+      "title_zh": "",
+      "summary_zh": "",
+      "why_zh": "",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria",
+      "source": "The Guardian World",
+      "source_kind": "media",
+      "published_at": "2026-11-28T02:39:28Z",
+      "first_seen": "2026-11-28T07:53:16.858997Z",
       "score": 6,
       "ai_generated": false,
       "policy_status": null
@@ -2330,65 +2381,14 @@
       "score": 6,
       "ai_generated": false,
       "policy_status": null
-    },
-    {
-      "id": "1356f73856d57d41",
-      "category": "world",
-      "title": "为亚太区域合作提供智力支撑 - 中国经济网",
-      "summary": "为亚太区域合作提供智力支撑 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NY2U1SzI2d003VURxVjRBcEM0c1YzOGxNNGV6MnZCTllMTExCeTdiRkJQLWNtYWwtci05VnVMcG1STHNERi1CMXJfVWxQWXVLUjM2bzhVdkdOMll1by1Pb29YX254UUluYTVWdFRpZw?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-27T22:31:00Z",
-      "first_seen": "2026-11-28T01:29:15.715077Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "11d870354df627bb",
-      "category": "world",
-      "title": "“欧洲优先”侵蚀全球汽车业健康 - 中国经济网",
-      "summary": "“欧洲优先”侵蚀全球汽车业健康 中国经济网",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lOW1QZHo0Zlh2Q3c0ZHozZzNjc29fWFA5NUdLNmhBcHFDb01hcHlPQW9ieVpMeEduN21uNHhBZjZxTUpwMXMzX1YteldQZkRwUlZ4UXI5Mk85bnR0S1R3?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-27T22:29:00Z",
-      "first_seen": "2026-11-28T01:29:15.715077Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
-    },
-    {
-      "id": "566677406bd72ef0",
-      "category": "world",
-      "title": "陈婧：在评论区读懂中国经济温差 - 联合早报",
-      "summary": "陈婧：在评论区读懂中国经济温差 联合早报",
-      "title_zh": "",
-      "summary_zh": "",
-      "why_zh": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCY1NiN3h4bUprLVVFVzlWMmtCZlhRYjR4NTRMaWRZQlh3aktfQ3puUnZqWjNkc3JBYmdBemxlTkk5bDJ4VlM4QkRiWHFiVjdyVWhBMHlYak1tSG1RNGRFb1NEMVBiLUlRQlo4?oc=5",
-      "source": "中国与世界 · Google 新闻索引",
-      "source_kind": "index",
-      "published_at": "2026-11-27T21:00:00Z",
-      "first_seen": "2026-11-27T21:26:29.404166Z",
-      "score": 6,
-      "ai_generated": false,
-      "policy_status": null
     }
   ],
   "digests": {
     "world": [
       "666f43bd74281a99",
       "63b7c41c8dd632de",
-      "756073f765a59932",
-      "0310bd7d5f12df77"
+      "0310bd7d5f12df77",
+      "c950a2b9e8d7850e"
     ],
     "tech": [
       "aa03895220cf1592",
@@ -2415,8 +2415,8 @@
     "message": "未配置模型；外文文章保留原文"
   },
   "health": {
-    "ok": 20,
-    "failed": 0,
+    "ok": 19,
+    "failed": 1,
     "sources": [
       {
         "name": "加拿大 IRCC 官方新闻",
@@ -2440,7 +2440,7 @@
         "name": "英国移民政策 · Google 索引",
         "category": "immigration",
         "ok": true,
-        "items": 11
+        "items": 5
       },
       {
         "name": "香港入境事务处 · Google 索引",
@@ -2494,7 +2494,7 @@
         "name": "Hacker News 热门",
         "category": "tech",
         "ok": true,
-        "items": 10
+        "items": 17
       },
       {
         "name": "MIT Technology Review",
@@ -2505,8 +2505,9 @@
       {
         "name": "arXiv AI 论文",
         "category": "tech",
-        "ok": true,
-        "items": 35
+        "ok": false,
+        "items": 0,
+        "error": "Feed returned no entries (invalid, empty or blocked)"
       },
       {
         "name": "BBC China",
@@ -2518,7 +2519,7 @@
         "name": "BBC World",
         "category": "world",
         "ok": true,
-        "items": 22
+        "items": 21
       },
       {
         "name": "The Guardian World",
@@ -2530,13 +2531,13 @@
         "name": "中国与世界 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 22
+        "items": 18
       },
       {
         "name": "国际要闻 · Google 新闻索引",
         "category": "world",
         "ok": true,
-        "items": 6
+        "items": 10
       }
     ]
   }
